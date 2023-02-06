@@ -33,7 +33,7 @@ export default function Index({ page, allPosts, allProjects }: Props) {
             />
           </section>
           {allPosts.length > 0 && (
-            <ContentGrid title="Articles" items={allPosts} collection="posts" />
+            <ContentGrid title="News & Market Intel" items={allPosts} collection="posts" />
           )}
           {allProjects.length > 0 && (
             <ContentGrid

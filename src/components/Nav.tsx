@@ -5,8 +5,10 @@ import { MenuIcon, XIcon } from '@heroicons/react/outline';
 import { Fragment } from 'react';
 import  Link  from 'next/link'
 const navigation = [
+  { name: 'Home', href: '/' },
   { name: 'Articles', href: '/#posts' },
-  { name: 'Support', href: 'https://rfpenergysolutions.com//support' },
+  { name: 'Support', href: 'https://rfpenergysolutions.com/support' },
+  { name: 'RFPES Home', href: 'https://rfpenergysolutions.com' }
 ];
 
 
