@@ -16,7 +16,7 @@ Supply chain disruptions can have a significant impact on the natural gas market
 
 Impact of Supply Disruptions on Natural Gas Prices Supply chain disruptions can have a significant impact on natural gas prices, particularly in states like California where the demand for natural gas is high. Recently, the state has experienced several supply chain issues, including pipeline constraints, reduced imports from other states, and maintenance shutdowns at natural gas facilities. These disruptions have limited the amount of natural gas available in the state, driving prices higher.
 
-**Streamlining Energy Procurement with RFP Energy Solutions **<br>
+\*\*Streamlining Energy Procurement with RFP Energy Solutions \*\*
 
 RFPES provides a platform that simplifies the energy procurement process for both consumers and suppliers. For energy users, the process is simple: create an RFP using the custom RFP generator, sit back and relax as you receive bids from qualified, vetted energy providers, and review and select the best proposal. For energy providers, the platform allows them to easily browse RFPs, quickly generate a proposal, and submit a bid. All contracted suppliers are regularly vetted, ensuring that clients are seeing only top-tier, reliable suppliers.
 
