@@ -1,5 +1,5 @@
 ---
-title: 'Benefits of using RFP Energy Solutions for your energy procurement'
+title: 'Benefits of using RFP Energy Solutions '
 status: 'published'
 author:
   name: 'Aaron Ponce'
