@@ -6,11 +6,11 @@ author:
   picture: ''
 slug: 'the-natural-gas-update'
 description: 'Feb 3rd market intel and energy update'
-coverImage: '/images/rfp-brand-k0Mz.png'
+coverImage: '/images/rfp-brand-g5ND.png'
 publishedAt: '2023-02-06T22:38:52.968Z'
 ---
 
-**ITEMS OF INTEREST **
+### ITEMS OF INTEREST 
 
 [RFPES.com](http://RFPES.com) is the main item of interest! My partners and I believe we have the best possible approach for the end user to procure natgas, for the broker/consultant to submit RFPS, and for suppliers to review/bid on RFPs fit their business model.
 
