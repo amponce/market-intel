@@ -5,7 +5,7 @@ author:
   name: 'Aaron Ponce'
   picture: ''
 slug: 'natural-gas-prices-surge-in-california'
-description: 'The recent 385% increase in natural gas prices in California has left residents wondering what is causing the drastic change. This article delves into the reasons behind the surge, including supply disruptions, increased demand, market speculation, and the state''s transition to renewable energy. The impact of the price increase on consumers is also discussed, along with energy-saving measures to help minimize the burden. Get the complete picture of the natural gas market in California with this in-depth analysis.'
+description: 'The recent 385% increase in natural gas prices in California has left residents wondering what is causing the drastic change. '
 coverImage: '/images/sterling-davis-4ixagikxn3y-unsplash-YwNj.jpg'
 publishedAt: '2023-02-05T18:55:40.000Z'
 ---
