@@ -1,12 +1,12 @@
 ---
-title: 'Benefits of RFP Energy Solutions for energy procurement'
+title: 'Benefits of using RFP Energy Solutions for your energy procurement'
 status: 'published'
 author:
   name: 'Aaron Ponce'
   picture: ''
 slug: 'streamlining-energy-procurement-with-rfp-energy-solutions'
 description: 'Protect your business from supply chain disruptions with RFP Energy Solutions. '
-coverImage: '/images/rfp-brand-UzOT.png'
+coverImage: '/images/rfp-brand-AzMj.png'
 publishedAt: '2023-02-06T06:35:07.000Z'
 ---
 
