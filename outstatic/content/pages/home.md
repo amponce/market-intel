@@ -10,8 +10,7 @@ coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello!
+# Welcome to the news and market intel corner of RFP Energy Solutions. 
 
-# I'm Andre, nice to meet you.
+We're all about keeping you in the loop with the latest natural gas market updates. From in-depth articles to quick analysis, we've got you covered. Thanks for stopping by and happy reading!
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
