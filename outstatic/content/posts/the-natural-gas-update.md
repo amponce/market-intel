@@ -1,5 +1,5 @@
 ---
-title: 'The natural gas update'
+title: 'Market intel and natural gas update (FEB-3)'
 status: 'published'
 author:
   name: 'Sean Dookie'
