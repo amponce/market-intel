@@ -1,5 +1,5 @@
 ---
-title: 'Exploring the Causes of Soaring Natural Gas Prices in California'
+title: 'Exploring the causes of soaring natural gas prices in california'
 status: 'published'
 author:
   name: 'Aaron Ponce'
