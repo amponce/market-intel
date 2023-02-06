@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'natural-gas-prices-surge-in-california'
 description: 'The recent 385% increase in natural gas prices in California has left residents wondering what is causing the drastic change. '
-coverImage: '/images/sterling-davis-4ixagikxn3y-unsplash-YwNj.jpg'
+coverImage: '/images/california-energy-gyOT.png'
 publishedAt: '2023-02-05T18:55:40.000Z'
 ---
 
