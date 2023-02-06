@@ -38,5 +38,5 @@ The recent surge in natural gas prices is having a significant impact on Califor
 
 - Turning off lights and electronics when not in use
 
-Conclusion The recent increase in natural gas prices in California is due to a combination of supply disruptions, increased demand, and market speculation. While the state is working to transition to renewable energy sources, it's important for consumers to be aware of the impact of these changes on their energy bills. By monitoring their energy usage and taking steps to conserve energy, residents can help minimize the impact of rising prices on their budgets.
+The recent increase in natural gas prices in California is due to a combination of supply disruptions, increased demand, and market speculation. While the state is working to transition to renewable energy sources, it's important for consumers to be aware of the impact of these changes on their energy bills. By monitoring their energy usage and taking steps to conserve energy, residents can help minimize the impact of rising prices on their budgets.
 
