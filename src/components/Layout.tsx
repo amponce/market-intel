@@ -1,5 +1,6 @@
 import Footer from './Footer'
 import Meta from './Meta'
+import Nav from './Nav'
 
 type Props = {
   children: React.ReactNode
