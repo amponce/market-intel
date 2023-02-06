@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'protecting-your-budget-from-market-speculation-in-natural-gas-prices'
 description: 'Learn about the impact of market speculation on natural gas prices and protect your energy budget. '
-coverImage: '/images/maxim-hopman-fixlqxahcfk-unsplash-IyOT.jpg'
+coverImage: '/images/market-trends-M2OD.png'
 publishedAt: '2023-02-06T03:34:02.000Z'
 ---
 
