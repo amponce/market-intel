@@ -167,17 +167,7 @@ export default function Example() {
             <div className="float-right mt-4">
               <Image src="https://res.cloudinary.com/rfp-energy-solutions/image/upload/v1673403115/rfp/NMSDC50_no_background_1_fl9anh.png" width="130" height="86" alt="NMSDC-Certified-MBE" />
             </div>
-            <h3 className='text-sm font-semibold uppercase tracking-wider text-gray-400'>
-              Subscribe to our newsletter
-            </h3>
-            <p className='mt-4 text-base text-gray-300'>
-              Get the latest news, articles, and resources, delivered to your inbox every week.
-            </p>
-
-            
-
           </div>
-
         </div>
 
         <div className='mt-8 border-t border-gray-700 pt-8 md:flex md:items-center md:justify-between'>
