@@ -1,6 +1,6 @@
 ---
 title: 'The natural gas update'
-status: 'draft'
+status: 'published'
 author:
   name: 'Sean Dookie'
   picture: ''
@@ -49,12 +49,6 @@ If the below forecast moves north into Canada, we might experience one of the mi
 ![6 to 10 Day Outlook - Temperature Probability](https://lh3.googleusercontent.com/uveJVN_gfqKKRzJkBdZucxU9NMBKCFFqaX4xsTY7Yp8-8Bq5rgOziXhatNMX2TUF_OSVLdJ8WD0tY42fQeimCAIv4lQ-tdMyY9hFH0LSb7nBjtOTLYrwARKl0SLj0yWV7-vVNhRZWU-VCVYtjcRoyw)
 
 <br>
-
-
-
-
-
-
 
 <br>
 
