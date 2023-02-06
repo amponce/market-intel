@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'the-natural-gas-update'
 description: 'Feb 3rd market intel and energy update'
-coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Fmarket-trends-M2OD.png&w=3840&q=75'
+coverImage: '/images/rfp-brand-k0Mz.png'
 publishedAt: '2023-02-06T22:38:52.968Z'
 ---
 
