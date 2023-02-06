@@ -5,7 +5,7 @@ author:
   name: 'Aaron Ponce'
   picture: ''
 slug: 'protecting-your-budget-from-market-speculation-in-natural-gas-prices'
-description: 'Learn about the impact of market speculation on natural gas prices and explore options for protecting your energy budget. '
+description: 'Learn about the impact of market speculation on natural gas prices and protect your energy budget. '
 coverImage: '/images/maxim-hopman-fixlqxahcfk-unsplash-IyOT.jpg'
 publishedAt: '2023-02-06T03:34:02.000Z'
 ---
