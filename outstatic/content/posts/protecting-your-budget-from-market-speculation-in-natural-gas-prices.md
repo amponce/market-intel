@@ -1,5 +1,5 @@
 ---
-title: 'Market speculation and protecting Your energy budget'
+title: 'Market speculation and protecting your energy budget'
 status: 'published'
 author:
   name: 'Aaron Ponce'
