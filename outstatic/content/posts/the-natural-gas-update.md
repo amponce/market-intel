@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'the-natural-gas-update'
 description: 'Feb 3rd market intel and energy update: Supply chain disruptions and winter temperatures '
-coverImage: '/images/news-market-intel-gwOT.png'
+coverImage: '/images/news-market-intel-UzOT.png'
 publishedAt: '2023-02-06T22:38:52.968Z'
 ---
 
