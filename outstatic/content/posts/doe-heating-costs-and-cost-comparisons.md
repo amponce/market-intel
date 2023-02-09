@@ -5,8 +5,8 @@ author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'doe-heating-costs-and-cost-comparisons'
-description: ''
-coverImage: ''
+description: 'Electric heating costs 46% more than gas.'
+coverImage: '/images/marketupdatefeb9-UyNz.png'
 publishedAt: '2023-02-09T15:41:30.685Z'
 ---
 
