@@ -5,8 +5,8 @@ author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'iso-ne-does-well-to-keep-thermostats-on'
-description: ''
-coverImage: ''
+description: 'Record-breaking cold temperatures and extreme wind chill in New England'
+coverImage: '/images/articleiso-g3Nz.png'
 publishedAt: '2023-02-09T18:20:50.275Z'
 ---
 
@@ -14,7 +14,7 @@ publishedAt: '2023-02-09T18:20:50.275Z'
 
 ![ISO-New England hourly electricity supply by source](https://www.eia.gov/todayinenergy/images/2023.02.08/main.svg)
 
-**Data source: **U.S. Energy Information Administration, [*Hourly Electric Grid Monitor*](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
+\*\*Data source: \**U.S. Energy Information Administration, *[Hourly Electric Grid Monitor\*](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
 ---
 
@@ -34,7 +34,7 @@ Extreme weather events like last weekend’s storm and the resulting spikes in e
 
 You can find additional data and more detailed information in our [New England Dashboard](https://www.eia.gov/dashboard/newengland/overview) and our [*Hourly Electric Grid Monitor*](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48).
 
-**Principal contributors: **Mark Morey, Chris Peterson, Elesia Fasching
+\*\*Principal contributors: \*\*Mark Morey, Chris Peterson, Elesia Fasching
 
-**Tags: **[consumption/demand](https://www.eia.gov/todayinenergy/index.cfm?tg=consumption/demand),[ electricity](https://www.eia.gov/todayinenergy/index.cfm?tg=electricity),[ weather](https://www.eia.gov/todayinenergy/index.cfm?tg=weather),[ New England](https://www.eia.gov/todayinenergy/index.cfm?tg=New%20England),[ electric power grid](https://www.eia.gov/todayinenergy/index.cfm?tg=electric%20power%20grid)
+\*\*Tags: \*\*[consumption/demand](https://www.eia.gov/todayinenergy/index.cfm?tg=consumption/demand),[ electricity](https://www.eia.gov/todayinenergy/index.cfm?tg=electricity),[ weather](https://www.eia.gov/todayinenergy/index.cfm?tg=weather),[ New England](https://www.eia.gov/todayinenergy/index.cfm?tg=New%20England),[ electric power grid](https://www.eia.gov/todayinenergy/index.cfm?tg=electric%20power%20grid)
 
