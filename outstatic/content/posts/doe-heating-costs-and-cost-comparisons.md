@@ -1,6 +1,6 @@
 ---
 title: 'DoE Heating Costs and Cost Comparisons'
-status: 'draft'
+status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
