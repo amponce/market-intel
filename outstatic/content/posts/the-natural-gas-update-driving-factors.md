@@ -100,7 +100,7 @@ Sean Dookie[<br>
 
 ](mailto:Dookie￼sdookie@rfpes.com)<br>
 
-[**sdookie@rfpes.com**](mailto:Dookie￼sdookie@rfpes.com)<br>
+**sdookie@rfpes.com**<br>
 
 [rfpes.com](http://rfpes.com)<br>
 
