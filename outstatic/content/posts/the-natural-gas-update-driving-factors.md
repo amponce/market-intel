@@ -10,7 +10,7 @@ coverImage: '/images/rfp-brand-EwNj.png'
 publishedAt: '2023-02-10T17:53:01.530Z'
 ---
 
-### **NYMEX**
+**NYMEX**
 
 NYMEX is about the same as it was this time last week, but compared to this time last year, NYMEX is approximately $1.75 cheaper. We could be taking advantage of this by buying NYMEX now and waiting/hoping/praying for West basis to weaken in a few weeks.
 
@@ -62,17 +62,7 @@ SoCal CG = $8.38
 
 12-month fixed prices are beating the 2022 averages by more than $2.00
 
-**Start Date	Term	PG&E CG	SoCal CG**<br>
-
-**March '23	1 month	$4.71	$4.16**<br>
-
-**March '23	3 months	$4.83	$4.19**<br>
-
-**March '23	6 months	$5.08	$5.19**<br>
-
-**March '23	12 months	$5.90	$6.21**
-
-Note: All fixed prices are down from last week's natural gas update.
+![](/images/screenshot-2023-02-10-at-11.23.17-am-U1Nj.png)
 
 ### **Storage Report**
 
@@ -98,5 +88,5 @@ Sean Dookie[<br>
 
 @RFPEnergySolutions<br>
 
-LinkedIn: Sean Dookie
+LinkedIn: [Sean Dookie](https://www.linkedin.com/in/sean-dookie-608b9a11/)
 
