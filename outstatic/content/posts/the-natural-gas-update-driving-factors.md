@@ -12,7 +12,7 @@ publishedAt: '2023-02-10T17:53:01.530Z'
 
 THE NATURAL GAS UPDATE FOR 2-10-23 THE DRIVING FACTORS
 
-**NYMEX **– NYMEX is about the same as it was this time last week, but compared to this time last year, NYMEX is approximately $1.75 cheaper. We could be taking advantage of this by buying NYMEX now and waiting/hoping/praying for West basis to weaken in a few weeks.
+**NYMEX**– NYMEX is about the same as it was this time last week, but compared to this time last year, NYMEX is approximately $1.75 cheaper. We could be taking advantage of this by buying NYMEX now and waiting/hoping/praying for West basis to weaken in a few weeks.
 
 **BASIS** – West basis is getting better but we still have a way to go to get back into the historical range. Three weeks from now could be the time.
 
@@ -56,7 +56,7 @@ March ’23 12 mo. $5.90 $6.21
 
 All Fixed Prices are down from last week’s natgas update.
 
-**STORAGE REPORT - **The latest natgas storage report shows a withdrawal of 217Bcf. This is above the guesstimate of 197Bcf.
+**STORAGE REPORT- **The latest natgas storage report shows a withdrawal of 217Bcf. This is above the guesstimate of 197Bcf.
 
 We're now 233Bcf higher than this time last year and 117Bcf above the 5-year average of 2,420Bcf.
 
