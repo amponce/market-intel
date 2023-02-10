@@ -72,7 +72,15 @@ SoCal CG = $8.38
 
 **March '23	12 months	$5.90	$6.21**
 
-Note: All fixed prices are down from last week's natural gas update.
+Note: All fixed prices are down from last week's natural gas update.<br>
+
+<br>
+
+Start Date \| Term \| PG&E CG \| SoCal CG --- \| --- \| --- \| --- March '23 \| 1 month \| $4.71 \| $4.16 March '23 \| 3 months \| $4.83 \| $4.19 March '23 \| 6 months \| $5.08 \| $5.19 March '23 \| 12 months \| $5.90 \| $6.21<br>
+
+<br>
+
+<table> <thead> <tr> <th>Start Date</th> <th>Term</th> <th>PG&E CG</th> <th>SoCal CG</th> </tr> </thead> <tbody> <tr> <td>March '23</td> <td>1 month</td> <td>$4.71</td> <td>$4.16</td> </tr> <tr> <td>March '23</td> <td>3 months</td> <td>$4.83</td> <td>$4.19</td> </tr> <tr> <td>March '23</td> <td>6 months</td> <td>$5.08</td> <td>$5.19</td> </tr> <tr> <td>March '23</td> <td>12 months</td> <td>$5.90</td> <td>$6.21</td> </tr> </tbody> </table>
 
 ## **Storage Report**
 
