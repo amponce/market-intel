@@ -34,13 +34,13 @@ THE NATURAL GAS UPDATE FOR 2-10-23 THE DRIVING FACTORS
 
 **THE BOTTOM LINE** – ….and once we’re in the spring shoulder season, temps should be back to normal in the West, HDDs and CDDs should be a non-factor, pipeline capacity coming West should be as close to full capacity as it gets. The next 4-6 weeks could be our best time to execute fixed prices. Be ready.
 
-**NATURAL GAS PRICING**<br>
+**NATURAL GAS PRICING**
 
-First of the Month Pricing Average for 2022
+First of the Month Pricing Average for 2022<br>
 
-PG&E CG = $8.30 SoCal CG = $8.38
+PG&E CG = $8.30 SoCal CG = $8.38<br>
 
-12 MO FIXED PRICES ARE BEATING THE ABOVE 2022 AVERAGES BY MORE THAN $2.00
+12 MO FIXED PRICES ARE BEATING THE ABOVE 2022 AVERAGES BY MORE THAN $2.00<br>
 
 Indicative Fixed Prices as of 2/10/2023
 
@@ -64,7 +64,7 @@ At 2,366Bcf, total working gas is within the 5-year historical range. The storag
 
 \*\*WEATHER- \*\*This forecast could slow the anticipated downturn of West region Basis prices. This could be a good thing for us – gives everyone time to get everything lined up and ready to go so that when the fall comes, you’re ready.
 
-\*\*Sean Dookie - \*[***sdookie@rfpes.com***](mailto:sdookie@rfpes.com)\* – [rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie\*\*
+Sean Dookie -[***sdookie@rfpes.com***](mailto:sdookie@rfpes.com) – [rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie
 
 Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
 
