@@ -1,5 +1,5 @@
 ---
-title: 'The natural gas update'
+title: 'The natural gas update (2-10-23)'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -56,15 +56,15 @@ March ’23 12 mo. $5.90 $6.21
 
 All Fixed Prices are down from last week’s natgas update.
 
-**STORAGE REPORT- **The latest natgas storage report shows a withdrawal of 217Bcf. This is above the guesstimate of 197Bcf.
+\*\*STORAGE REPORT- \*\*The latest natgas storage report shows a withdrawal of 217Bcf. This is above the guesstimate of 197Bcf.
 
 We're now 233Bcf higher than this time last year and 117Bcf above the 5-year average of 2,420Bcf.
 
 At 2,366Bcf, total working gas is within the 5-year historical range. The storage level by the start of injection season (March ’23) is projected down from 1.9Tcf to 1.85Bcf and build up to 4.25Tcf by the end of Injection Season. Strong.
 
-**WEATHER- **This forecast could slow the anticipated downturn of West region Basis prices. This could be a good thing for us – gives everyone time to get everything lined up and ready to go so that when the fall comes, you’re ready.
+\*\*WEATHER- \*\*This forecast could slow the anticipated downturn of West region Basis prices. This could be a good thing for us – gives everyone time to get everything lined up and ready to go so that when the fall comes, you’re ready.
 
-**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie**
+\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie\*\*
 
 Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
 
