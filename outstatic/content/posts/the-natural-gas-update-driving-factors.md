@@ -84,13 +84,15 @@ This forecast could slow the anticipated downturn of West region basis prices, w
 
 ---
 
-Disclaimer: The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
+Disclaimer: The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.<br>
 
----
+<br>
 
-Sean [Dookie<br>
+Sean Dookie[<br>
 
-**sdookie@rfpes.com**](mailto:Dookie￼sdookie@rfpes.com)<br>
+](mailto:Dookie￼sdookie@rfpes.com)<br>
+
+[**sdookie@rfpes.com**](mailto:Dookie￼sdookie@rfpes.com)<br>
 
 [rfpes.com](http://rfpes.com)<br>
 
