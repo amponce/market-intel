@@ -5,8 +5,8 @@ author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'heating-oil-at-home-falls-hard-in-price'
-description: ''
-coverImage: '/images/heating-oil-QwNz.png'
+description: 'U.S. residential heating oil prices decline from record-highs in November'
+coverImage: '/images/heating-oil-k4Mz.png'
 publishedAt: '2023-02-10T15:12:00.945Z'
 ---
 
