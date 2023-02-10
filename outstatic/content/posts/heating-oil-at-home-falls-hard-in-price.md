@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'heating-oil-at-home-falls-hard-in-price'
 description: ''
-coverImage: ''
+coverImage: '/images/heating-oil-QwNz.png'
 publishedAt: '2023-02-10T15:12:00.945Z'
 ---
 
@@ -14,9 +14,9 @@ publishedAt: '2023-02-10T15:12:00.945Z'
 
 ![U.S. average weekly home heating oil price](https://www.eia.gov/todayinenergy/images/2023.02.09/main.svg)
 
-**Data source: **U.S. Energy Information Administration, [State Heating Oil and Propane Program](https://www.eia.gov/petroleum/heatingoilpropane/)<br>
+\*\*Data source: \*\*U.S. Energy Information Administration, [State Heating Oil and Propane Program](https://www.eia.gov/petroleum/heatingoilpropane/)<br>
 
-**Note: **Prices are adjusted for inflation using the Consumer Price Index.
+\*\*Note: \*\*Prices are adjusted for inflation using the Consumer Price Index.
 
 ---
 
