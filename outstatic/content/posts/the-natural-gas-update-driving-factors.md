@@ -62,7 +62,7 @@ SoCal CG = $8.38
 
 12-month fixed prices are beating the 2022 averages by more than $2.00
 
-![](/images/screenshot-2023-02-10-at-11.23.17-am-U1Nj.png)
+![](/images/screenshot-2023-02-10-at-11.23.17-am-ExMz.png)
 
 ### **Storage Report**
 
@@ -78,15 +78,7 @@ Disclaimer: The opinions expressed herein are those of Sean Dookie and do not re
 
 <br>
 
-Sean Dookie[<br>
+Sean Dookie sdookie@rfpes.com rfpes.com @RFPEnergySolutions LinkedIn: Sean Dookie
 
-](mailto:Dookie￼sdookie@rfpes.com)<br>
 
-**sdookie@rfpes.com**<br>
-
-[rfpes.com](http://rfpes.com)<br>
-
-@RFPEnergySolutions<br>
-
-LinkedIn: [Sean Dookie](https://www.linkedin.com/in/sean-dookie-608b9a11/)
 
