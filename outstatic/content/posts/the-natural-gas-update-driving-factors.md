@@ -64,7 +64,7 @@ At 2,366Bcf, total working gas is within the 5-year historical range. The storag
 
 \*\*WEATHER- \*\*This forecast could slow the anticipated downturn of West region Basis prices. This could be a good thing for us – gives everyone time to get everything lined up and ready to go so that when the fall comes, you’re ready.
 
-\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie\*\*
+\*\*Sean Dookie - \*[***sdookie@rfpes.com***](mailto:sdookie@rfpes.com)\* – [rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie\*\*
 
 Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
 
