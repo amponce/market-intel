@@ -10,7 +10,7 @@ coverImage: '/images/rfp-brand-EwNj.png'
 publishedAt: '2023-02-10T17:53:01.530Z'
 ---
 
-**NYMEX**
+### **NYMEX**
 
 NYMEX is about the same as it was this time last week, but compared to this time last year, NYMEX is approximately $1.75 cheaper. We could be taking advantage of this by buying NYMEX now and waiting/hoping/praying for West basis to weaken in a few weeks.
 
@@ -62,7 +62,7 @@ SoCal CG = $8.38
 
 12-month fixed prices are beating the 2022 averages by more than $2.00
 
-![](/images/screenshot-2023-02-10-at-11.23.17-am-ExMz.png)
+![](/images/screenshot-2023-02-10-at-11.23.17-am-AxMD.png)
 
 ### **Storage Report**
 
