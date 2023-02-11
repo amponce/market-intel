@@ -5,8 +5,8 @@ author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'great-article-from-john-kemp'
-description: ''
-coverImage: ''
+description: 'U.S. gas prices remain stuck at some of the lowest levels'
+coverImage: '/images/kemp-gxND.png'
 publishedAt: '2023-02-10T18:50:29.693Z'
 ---
 
@@ -120,7 +120,7 @@ IF YOU know anyone else who might like to receive best in energy and my research
 
 <br>
 
-John](http://eepurl.com/dxTcl1￼￼￼John) Kemp<br>
+John\]\(http://eepurl.com/dxTcl1￼￼￼John) Kemp<br>
 
 Senior Market Analyst<br>
 
