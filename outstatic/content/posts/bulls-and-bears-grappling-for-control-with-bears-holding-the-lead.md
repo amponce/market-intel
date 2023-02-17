@@ -47,26 +47,29 @@ Hydro/Solar/Wind have become more cost competitive but are still nowhere being e
 ### **ITEMS OF INTEREST**
 
 The utility companies here in the West, specifically SoCal Gas Co, are proving that they care very little about their rate prayers payers. A great example of this comes
-
 ## NATURAL GAS PRICING
-
-First of the Month Pricing Average for 2022 PG&E CG = $8.30 SoCal CG = $8.38 12 MO FIXED PRICES ARE BEATING THE ABOVE 2022 AVERGES BY MORE THAN $2.00
+First of the Month Pricing Average for 2022
+PG&E CG = $8.30     SoCal CG = $8.38
+12 MO FIXED PRICES ARE BEATING THE ABOVE 2022 AVERGES BY MORE THAN $2.00
 
 ## Indicative Fixed Prices as of 2/17/2023
-
-Start Date \| Term \| PG&E CG \| SoCal CG ------------- \| ------- \| ------- \| -------- April ’23 \| 1 mo. \| $5.25 \| $4.22 April ’23 \| 3 mo. \| $5.18 \| $4.30 April ’23 \| 6 mo. \| $5.42 \| $5.48 April ’23 \| 12 mo. \| $6.10 \| $6.38
+Start Date    | Term    | PG&E CG | SoCal CG
+------------- | ------- | ------- | --------
+April ’23    | 1 mo.   | $5.25   | $4.22
+April ’23    | 3 mo.   | $5.18   | $4.30
+April ’23    | 6 mo.   | $5.42   | $5.48
+April ’23    | 12 mo.  | $6.10   | $6.38
 
 **All Fixed Prices are up from last week’s natgas update. This upward spike should be short lived with downward pressure by 3-10-23.**
 
 ## STORAGE REPORT
-
-The latest natgas storage report shows a withdrawal of 100Bcf. This is below the guesstimate of 109Bcf. Last year’s withdrawal for this week was 195Bcf. The 5-year average for this week is 166Bcf. That shows us just how mild a winter we have been having this far. We're now 328Bcf higher than this time last year and 183Bcf above the 5-year average of 2,083Bcf. At 2,266Bcf, total working gas is within the 5-year historical range.
+The latest natgas storage report shows a withdrawal of 100Bcf. This is below the guesstimate of 109Bcf. Last year’s withdrawal for this week was 195Bcf. The 5-year average for this week is 166Bcf. That shows us just how mild a winter we have been having this far.
+We're now 328Bcf higher than this time last year and 183Bcf above the 5-year average of 2,083Bcf.
+At 2,266Bcf, total working gas is within the 5-year historical range.
 
 ## WEATHER
-
 The forecast for Feb ’23 calls for below normal temps for the West region while most of the Mid-Con, East, and Southeast regions experience normal to above normal temps. NYMEX doesn’t seem to be too bothered by the cold fronts blowing through the West over the next few weeks as prices remain more bearish than bullish.
 
-Sean Dookie - sdookie@rfpes.com – rfpes.com - @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie
+ Sean Dookie - sdookie@rfpes.com – rfpes.com - @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie
 
 Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
-
