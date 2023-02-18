@@ -5,7 +5,7 @@ author:
   name: 'Sean Dookie'
   picture: ''
 slug: 'bulls-and-bears-grappling-for-control-with-bears-holding-the-lead'
-description: 'Market intel (Feb/17) Bulls and Bears grappling'
+description: 'Market intel (Feb/17) Bulls and Bears grappling for control'
 coverImage: '/images/rfp-brand-UyNz.png'
 publishedAt: '2023-02-17T20:39:03.997Z'
 ---
