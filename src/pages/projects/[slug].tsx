@@ -36,7 +36,7 @@ export default function Project({ project, moreProjects }: Props) {
           <>
             <article className="mb-8">
               <Head>
-                <title>{`${project.title} | Next.js + Outstatic`}</title>
+                <title>{project.title}</title>
                 <meta property="og:image" content={project.coverImage} />
               </Head>
               <div className="grid md:grid-cols-2 gap-8">

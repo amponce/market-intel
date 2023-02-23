@@ -30,7 +30,7 @@ export default function Post({ post }: Props) {
           <>
             <article className="mb-32">
               <Head>
-                <title>{`${post.title} | Next.js + Outstatic`}</title>
+                <title>{post.title}</title>
                 <meta property="og:image" content={post.coverImage} />
               </Head>
               <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
