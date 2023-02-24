@@ -1,56 +1,84 @@
 ---
-title: 'Market intel and natural gas update (FEB-3)'
+title: 'THE Natural Gas Update'
 status: 'published'
 author:
   name: 'Sean Dookie'
-  picture: ''
+  picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-natural-gas-update'
-description: 'Feb 3rd market intel and energy update: Supply chain disruptions and winter temperatures '
-coverImage: '/images/news-market-intel-c0MT.png'
-publishedAt: '2023-02-06T22:38:52.968Z'
+description: ''
+coverImage: ''
+publishedAt: '2023-02-24T18:04:07.489Z'
 ---
 
-### ITEMS OF INTEREST 
+***THE NATURAL GAS UPDATE for 2-24-23***
 
-[RFPES.com](http://RFPES.com) is the main item of interest! My partners and I believe we have the best possible approach for the end user to procure natgas, for the broker/consultant to submit RFPS, and for suppliers to review/bid on RFPs fit their business model.
 
-For now, the delivery points we’re performing RFPs behind are PG&E, SoCal Gas, SWG Nevada, and SWG Arizona.
 
-More delivery points, regions, and energy products are coming in Q2 and Q3 of 2023. We understand the level of excitement you’re experiencing hearing this news and we’re every bit as excited to bring it to you.
+*“THE WAITING IS THE HARDEST PART” T. PETTY *
 
-**THE BOTTOM LINE** – The recent volatility experienced in the West during Dec ’22, Jan ’23, and most likely in Feb ’23 as well, is all the evidence we need to know that this can happen again with little to no warning. To protect ourselves from such violent volatility, fixed prices, layered fixed prices, triggers to fix, appear to be the smartest option for now.
+THE driving FACTORS
 
-> Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES and/or other organizations with the RFP ES brand name. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
+**NYMEX **– NYMEX prices got close to record lows this week. We shouldn’t be foolish enough to think that these record low prices will last forever. The prompt month (March ’23) is down $7 per MMBtu since we saw a $9 prompt month for Aug ’23. We need to lock them up in the next few weeks. If you think you can beat the market, then go for it. But remember – betting on something we can’t control is a bad bet.
 
-### **NATURAL GAS PRICING**
+**BASIS** – We have a few pipelines under scheduled maintenance right now that are supposed to see completion by the first week of March ’23. As of yesterday, there is talk of the scheduled maintenance completion being pushed out to the first week of April. Pair that with the current weather forecast for the West remaining below normal and it looks like we will have to wait a few more weeks before Shoulder Season pricing shows up.
 
-Indicative Fixed Prices as of 1/27/2023
+**RIG COUNT** – This week’s rig count shows oil rigs falling by 7 to a total of 600, while natgas rigs remain unchanged at 151 active rigs.
+
+**PRODUCTION** – There is a production surplus taking place right now as most of the U.S. lounges through balmy winter temps. We can’t be certain that this surplus will last for 2 reasons; weather changes, demand increases, and producers can always shut in production to get prices back to a level where producers aren’t losing money producing more natgas.
+
+**DEMAND** – Demand across the US is down due to milder than normal weather – roughly half compared to the past 10 winters. Once demand increases, we can expect prices to increase. There in the West, however, heating demand days are increasing for the next few weeks and that may delay what many believe will be a good time to execute fixed prices. Summer strips, 12-month strips, and even 24- or 36-month strips may be coming up soon, depending on your targeted price range and budget. Don’t be the fool who holds on for another $0.10 drop in price when prices fall. Take the winnings and move on. Let’s not forget that LNG exports will also be increasing and that could add significant support to higher prices.
+
+**CRUDE** – Crude has been bouncing around the $70’s all week, oil stocks are falling, prices at the pump are down from the recent high of June ’22, but still up 40% from 2 years ago. The “experts” believe that prices are going back up due to a growing demand that is outpacing world production and supply.
+
+**NUCLEAR** – We need more of it while we wait for RE to step up. However, the bigger problem is this – our national and state electric grids are wildly outdated and poorly managed/maintained. We have all the power in the world but if the grid can’t handle the excess supply to meet the growing demand, it’s time once more for candles. What’s your favorite scent?? I guess it really depends on the time of year, doesn’t it?
+
+**RENEWABLES** – This energy source is like that slack jawed contractor we’ve all had at one time or another, “yeah…well….it’s gonna take a little while longer and gonna cost a little more money than what we first figured on…..”. In the meantime, let’s keep the reliable energy sources available, shall we?
+
+
+
+**ITEMS OF INTEREST **– Natgas is now cheaper to use than coal, plus the ramp up and ramp down time for natgas versus coal, is more energy efficient. So, it looks like natgas demand will increase even more.
+
+**THE BOTTOM LINE** – NYMEX natgas is cheap right now. Basis at the West region delivery points need to fall back to an historical range. That fall could happen once the cold front moves east, once the scheduled maintenance is complete, and before cooling demand days kick in. We should have our window of opportunity but it won’t be open for long. Be ready.
+
+# **NATURAL GAS PRICING**
+
+**First of the Month Pricing Average for 2022**
+
+**PG&E CG = $8.30 SoCal CG = $8.38**
+
+***12 MONTH FIXED PRICES ARE BEATING THE ABOVE 2022 FIRST OF THE MONTH INDEX AVERAGES***
+
+**Indicative Fixed Prices as of 2/24/2023**
 
 Start Date Term PG&E CG SoCal CG
 
-March ’23 1 mo. $17.06 $17.09
+April ’23 1 mo. $5.79 $4.59
 
-March ’23 3 mo. $8.61 $9.31
+April ’23 3 mo. $5.67 $4.62
 
-March ’23 6 mo. $4.59 $5.68
+April ’23 6 mo. $5.89 $5.86
 
-March ’23 12 mo. $5.14 $6.34
+April ’23 12 mo. $6.46 $6.67
+
+April ’23 24 mo. $6.05 $6.48
+
+All Fixed Prices are up from last week’s natgas update.
 
 #### **STORAGE REPORT**
 
-The latest storage report shows a pull of 91Bcf while guesstimates late yesterday were 7Bcf below the actual pull. NYMEX reacts by falling even further, falling below $3.00. We are now 107Bcf HIGHER than this time last year and 128Bcf ABOVE the 5-year average. At 2,279Bcf, we are well within the 5-year historical range.
+The forecast for the latest storage withdrawal was 72Bcf. The actual number comes in at Bcf. We're now 395Bcf higher than this time last year and 289Bcf above the 5-year average of 1,906Bcf.<br>
 
-**WEATHER**
+At 2,195Bcf, total working gas is within the 5-year historical range.
 
-If the below forecast moves north into Canada, we might experience one of the mildest winters on record. And with that said, will hydro be all but depleted, setting us up for a summer that could be even more dependent on natgas than usual? Maybe…maybe not…want to roll the dice and find out?
 
-<br>
 
-![6 to 10 Day Outlook - Temperature Probability](https://lh3.googleusercontent.com/uveJVN_gfqKKRzJkBdZucxU9NMBKCFFqaX4xsTY7Yp8-8Bq5rgOziXhatNMX2TUF_OSVLdJ8WD0tY42fQeimCAIv4lQ-tdMyY9hFH0LSb7nBjtOTLYrwARKl0SLj0yWV7-vVNhRZWU-VCVYtjcRoyw)
 
-<br>
 
-<br>
 
-<br>
+
+**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie**
+
+**Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
+
+
 
