@@ -7,28 +7,22 @@ author:
 slug: 'indicative-fixed-prices'
 description: ''
 coverImage: ''
-publishedAt: '2023-02-24T18:05:28.047Z'
+publishedAt: '2023-02-27T16:05:34.206Z'
 ---
 
-# **NATURAL GAS PRICING**
+Indicative Fixed Prices - 2-27-23
 
-**First of the Month Pricing Average for 2022**
+START MONTH – APRIL ‘23
 
-**PG&E CG = $8.30 SoCal CG = $8.38**
+PG&E CG SOCAL CG
 
-***12 MONTH FIXED PRICES ARE BEATING THE ABOVE 2022 FIRST OF THE MONTH INDEX AVERAGES***
+1 MONTH $6.38 $5.23
 
-**Indicative Fixed Prices as of 2/24/2023**
+3 MONTHS $3.35 $5.18
 
-Start Date Term PG&E CG SoCal CG
+6 MONTHS $6.60 $6.55
 
-April ’23 1 mo. $5.79 $4.59
+12 MONTHS $7.11 $7.32
 
-April ’23 3 mo. $5.67 $4.62
-
-April ’23 6 mo. $5.89 $5.86
-
-April ’23 12 mo. $6.46 $6.67
-
-April ’23 24 mo. $6.05 $6.48
+24 MONTHS $6.58 $6.93
 
