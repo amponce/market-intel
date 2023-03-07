@@ -7,32 +7,28 @@ author:
 slug: 'todays-indicative-pricing-and-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-06T18:31:43.808Z'
+publishedAt: '2023-03-07T19:01:18.929Z'
 ---
 
-Indicative Fixed Prices are down considerably from Friday’s rally. It seems the fear of cold weather pushed a lot of desks to overbuy and now those positions are coming off hard. Line 235 behind SoCal is said to be coming back online 3-9-23. That news helps push prices, and fear, down.
+NYMEX seems to be set on closing today out higher than where it started. We should see the West region basis continue to weaken over the next 10 days and then a strong bear run could show up early April ’23.
 
-We could very well see further downturn in pricing here on the western front once capacity increases, weather returns to normal, and hydro relieves some of the forecasted natgas Spring/Summer demand.
-
-
-
-Here are some indicatives for 3-6-23
+Here are some indicatives for 3-7-23
 
 START MONTH – APRIL ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.87 $5.42
+1 MONTH $6.71 $5.10
 
-3 MONTHS $6.65 $5.32
+3 MONTHS $6.39 $5.18
 
-6 MONTHS $7.08 $6.67
+6 MONTHS $6.88 $6.13
 
-12 MONTHS $7.50 $7.55
+12 MONTHS $7.42 $7.12
 
-24 MONTHS $6.78 $7.09
+24 MONTHS $6.94 $7.08
 
 2023/2024 Winter Strips
 
-$8.13 $9.07
+$8.24 $8.88
 
