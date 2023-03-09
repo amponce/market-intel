@@ -7,30 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-and-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-08T20:40:08.632Z'
+publishedAt: '2023-03-09T17:59:47.415Z'
 ---
 
-Tomorrow’s storage withdrawal is estimated to be around 150Bcf – well above both last year and the 5–year average. NYMEX forward prices started off running up before pulling back before the close of today’s market. The main reason appears to be a drop in LNG demand.
+EIA reports an 84Bcf withdrawal after some wide-ranging spread forecasting on the current withdrawal. We are now 493Bcf above last year at this time and 359Bcf above the 5-year average. At 2,030Bcf, total working gas is within the 5-year historical range.
+
+Line 3000 is set to come back next Tuesday. SoCalGas immediately cut 600.000MMBtu/D. Hoping all this early maintenance (that is keeping prices up at all related delivery points) will provide a late spring and summer free of any “scheduled” maintenance.
+
+Most strips in the West are up after the report.
 
 START MONTH – APRIL ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.70 $5.07
+1 MONTH $6.76 $5.14
 
-3 MONTHS $6.34 $5.13
+3 MONTHS $6.35 $5.11
 
-6 MONTHS $6.86 $6.11
+6 MONTHS $7.05 $6.18
 
-12 MONTHS $7.40 $7.11
+12 MONTHS $7.57 $7.24
 
-24 MONTHS $6.93 $7.07
+24 MONTHS $7.02 $7.12
 
 2023 Summer Strip (June – Oct)
 
-$7.18 $6.54
+$7.30 $6.55
 
 2023/2024 Winter Strips
 
-$8.23 $8.86
+$8.33 $8.94
 
