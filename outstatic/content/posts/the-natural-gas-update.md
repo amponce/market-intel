@@ -5,8 +5,8 @@ author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-natural-gas-update'
-description: ''
-coverImage: '/images/futures-U1Mz.png'
+description: 'NYMEX prices got close to record lows this week. We shouldn’t be foolish enough to think that these record low prices will last forever. '
+coverImage: '/images/futures-QyOD.png'
 publishedAt: '2023-02-24T18:04:07.489Z'
 ---
 
