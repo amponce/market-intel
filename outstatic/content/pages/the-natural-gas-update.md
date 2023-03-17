@@ -12,13 +12,11 @@ publishedAt: '2023-03-17T17:06:49.347Z'
 
 ***THE NATURAL GAS UPDATE for 3-17-23***
 
-
-
 *HAPPY ST. PATRICK’S DAY!*
 
-THE driving FACTORS
+THE Driving FACTORS
 
-**NYMEX **– Down approximately $0.17 from a week ago and down $2.50 from a year ago. We’re moving in the right direction, but it won’t last forever. Some “experts” believe the sub-$2.00 region could be tested in the near term, once better weather shows up. On the bullish side, $3.00 seems to be as high as any bull run wants to go, for the time being. The upward resistance points are $3.14 and $3.18. On the downside, we’re looking at $1.96 followed by $1.75. Not all months are priced equally so we shouldn’t expect to pick up Dec ’23 – March ’24 for anywhere near these prices. In my humble opinion, NYMEX, just like Basis, will continue to experience greater range and swing than what we have been used to over the past years. Today’s NYMEX is down as much as $0.15.
+\*\*NYMEX \*\*– Down approximately $0.17 from a week ago and down $2.50 from a year ago. We’re moving in the right direction, but it won’t last forever. Some “experts” believe the sub-$2.00 region could be tested in the near term, once better weather shows up. On the bullish side, $3.00 seems to be as high as any bull run wants to go, for the time being. The upward resistance points are $3.14 and $3.18. On the downside, we’re looking at $1.96 followed by $1.75. Not all months are priced equally so we shouldn’t expect to pick up Dec ’23 – March ’24 for anywhere near these prices. In my humble opinion, NYMEX, just like Basis, will continue to experience greater range and swing than what we have been used to over the past years. Today’s NYMEX is down as much as $0.15.
 
 **BASIS** – Basis prices remain elevated here in California due to a few things - below normal temperatures is one of them and it seems temps could return to normal within a few weeks. That may shorten our shoulder season where we hope to buy fixed prices on the cheap(er). The bigger factor right now is that of the scheduled maintenance on pipelines. This maintenance is limiting much needed capacity for all delivery points within California. Maintenance is scheduled to be completed by the time the weather gets back to normal so maybe, just maybe, we see a strong downward correction by mid-April for Basis prices. MAYBE….
 
@@ -28,17 +26,15 @@ THE driving FACTORS
 
 **DEMAND** – LNG demand continues to increase 5 straight months. Demand for power generation continues to grow as well. The US has over 3 million miles of underground oil and gas pipelines and we’re going to need more of it – look at the graph below. It is a safe and reliable means of providing energy throughout the US and is usually far more affordable than any other energy source.
 
-
-
 **CRUDE** – Crude prices aren’t sure which direction to take. On one hand, talks between Saudi and Russia, could with a weaker US dollar, give support to higher prices. Then on the flipside, you have a lot of people paying attention to the current mess in the banking world where an impending recession from their moronic tomfoolery is said to be imminent.
 
 **NUCLEAR** – The Nuclear Regulatory Commission has allowed PG&E to continue normal operations at Diablo Canyon Nuclear through 2025 (I believe it will be extended even further out). Don’t pat yourselves on the back, NRC. The choice was easy - either keep Diablo running or light candles when the sun sets every evening in CA. PG&E just needs to submit proper paperwork and agree to operate the facility in a responsible manner.
 
 **RENEWABLES** – Hydro levels in California, as of 3-14-23, stand at 144% and climbing. Reservoir levels are at 101% of average levels. Snowpack levels are at 208% of average peak levels.
 
-**ITEMS OF INTEREST **– It’s St. Patrick’s Day and Day 2 of March Madness. Happy St. Patrick’s Day to the chosen few and good luck with your NCAA Brackets.
+\*\*ITEMS OF INTEREST \*\*– It’s St. Patrick’s Day and Day 2 of March Madness. Happy St. Patrick’s Day to the chosen few and good luck with your NCAA Brackets.
 
-**THE BOTTOM LINE** – I’m taking a quote from an email I received this week, regarding the current state of energy in the US and why it’s become so volatile, *“Analysts, traders and big gas buyers expect this kind of instability to become the norm. Coal-fired power plants have been retired en masse without wind and solar farms ready to replace their output, pressuring utilities to pay up for gas. Infrastructure to export more gas is being built, but pipeline projects to *[*move more gas within the country*](https://www.wsj.com/livecoverage/stock-market-today-03-02-2023/card/pipeline-projects-to-move-gas-between-states-slowed-to-a-trickle-last-year-0zzQNWbItqgo4lEf5hwZ?mod=article_inline)* have been slowing.” *Spot on, in my opinion. Thank you, S.B.
+**THE BOTTOM LINE** – I’m taking a quote from an email I received this week, regarding the current state of energy in the US and why it’s become so volatile, *“Analysts, traders and big gas buyers expect this kind of instability to become the norm. Coal-fired power plants have been retired en masse without wind and solar farms ready to replace their output, pressuring utilities to pay up for gas. Infrastructure to export more gas is being built, but pipeline projects to *[*move more gas within the country*](https://www.wsj.com/livecoverage/stock-market-today-03-02-2023/card/pipeline-projects-to-move-gas-between-states-slowed-to-a-trickle-last-year-0zzQNWbItqgo4lEf5hwZ?mod=article_inline)\* have been slowing.” \*Spot on, in my opinion. Thank you, S.B.
 
 # **NATURAL GAS PRICING**
 
@@ -78,13 +74,7 @@ SoCalGas and PG&E will have to make large scale storage injections, starting ASA
 
 We continue to see below normal temperatures in the 8– 14 days forecast for the West and Rockies, with the remainder being mostly normal. The extended forecast from April through September could be troublesome if it turns out to be accurate. We shouldn’t expect an extended shoulder season and will want to look at locking up strips, at the very least summer strips, over the next month.
 
-
-
-
-
-**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie**
+\*\*Sean Dookie - \*[***sdookie@rfpes.com***](mailto:sdookie@rfpes.com)\* – [rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie\*\*
 
 **Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
-
-
 
