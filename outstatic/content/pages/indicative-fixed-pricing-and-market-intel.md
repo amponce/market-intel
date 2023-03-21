@@ -1,5 +1,5 @@
 ---
-title: 'Indicative Fixed Pricing and Market Intel'
+title: 'Indicative Fixed Pricing and Market Intel '
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,32 +7,32 @@ author:
 slug: 'indicative-fixed-pricing-and-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-20T16:17:13.464Z'
+publishedAt: '2023-03-21T16:18:15.272Z'
 ---
 
-For 3-20-23
+For 3-21-23
 
-NYMEX falling further so far this morning. 1-week and 2-week forecasts call for the West to endure below normal temps, keeping California Basis prices elevated for April ’23. As for the rest of the months, we’re seeing $2 increases for July – Sep, and $5 increases for Dec – Feb. The summer and winter basis strips are showing these wide spreads out through 2027. Buy up all the cheap months and cover the pricey months to be safe? Maybe…
+Little to no change in today’s NYMEX from yesterday. CA Basis SHOULD weaken in the coming weeks as scheduled maintenance wraps up, increasing intra state capacity. While we wait for CA Basis to weaken, we can always pick up NYMEX strips (financial) now and buy the matching Basis (physical) strips later when/if they weaken. Think about it…
 
 START MONTH – APRIL ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.85 $5.52
+1 MONTH $6.83 $5.49
 
-3 MONTHS $6.25 $4.95
+3 MONTHS $6.23 $4.93
 
-6 MONTHS $6.93 $6.19
+6 MONTHS $6.92 $6.18
 
 12 MONTHS $7.42 $7.31
 
-24 MONTHS $6.91 $7.16
+24 MONTHS $6.92 $7.17
 
 2023 Summer Strip (June – Oct)
 
-$7.13 $6.51
+$7.15 $6.53
 
 2023/2024 Winter Strips
 
-$8.17 $9.10
+$8.20 $9.14
 
