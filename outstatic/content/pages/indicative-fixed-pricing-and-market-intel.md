@@ -1,5 +1,5 @@
 ---
-title: 'Indicative Fixed Pricing and Market Intel '
+title: 'Indicative Fixed Pricing and Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,32 +7,32 @@ author:
 slug: 'indicative-fixed-pricing-and-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-21T16:18:15.272Z'
+publishedAt: '2023-03-22T14:54:53.980Z'
 ---
 
-For 3-21-23
+For 3-22-23
 
-Little to no change in today’s NYMEX from yesterday. CA Basis SHOULD weaken in the coming weeks as scheduled maintenance wraps up, increasing intra state capacity. While we wait for CA Basis to weaken, we can always pick up NYMEX strips (financial) now and buy the matching Basis (physical) strips later when/if they weaken. Think about it…
+Yesterday’s bull run was one of the smallest and short-lived runs in some time. Strong cold fronts (regardless of how late in arriving they’ve been) just can’t seem to lift NYMEX prices.
 
 START MONTH – APRIL ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.83 $5.49
+1 MONTH $6.73 $5.39
 
-3 MONTHS $6.23 $4.93
+3 MONTHS $6.13 $4.83
 
-6 MONTHS $6.92 $6.18
+6 MONTHS $6.82 $6.08
 
-12 MONTHS $7.42 $7.31
+12 MONTHS $7.32 $7.21
 
-24 MONTHS $6.92 $7.17
+24 MONTHS $6.85 $7.11
 
-2023 Summer Strip (June – Oct)
+Summer Strip (June ’23 – Oct ‘23)
 
-$7.15 $6.53
+$7.05 $6.43
 
-2023/2024 Winter Strips
+Winter Strips (Nov ’23 – March ‘24)
 
-$8.20 $9.14
+$8.16 $9.11
 
