@@ -6,19 +6,17 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'this-weeks-natural-gas-update'
 description: ''
-coverImage: ''
+coverImage: '/images/articleiso-A4ND.png'
 publishedAt: '2023-03-03T19:11:53.506Z'
 ---
 
 ***THE NATURAL GAS UPDATE for 3-3-23***
 
-
-
 *Fixed Prices in the West Jump Up as Much as $1.00 From Last Week*
 
 THE driving FACTORS
 
-**NYMEX **– Prices are down roughly $1.75 from a year ago but up $0.65 from one week ago. Have we scraped the bottom of the NYMEX market? Absolutely not. Right now, we’re dealing with colder than normal weather forecasts, scheduled pipeline maintenance, Freeport LNG coming back online, and a slight pullback in production. All these driving factors are giving support to the current rally.
+\*\*NYMEX \*\*– Prices are down roughly $1.75 from a year ago but up $0.65 from one week ago. Have we scraped the bottom of the NYMEX market? Absolutely not. Right now, we’re dealing with colder than normal weather forecasts, scheduled pipeline maintenance, Freeport LNG coming back online, and a slight pullback in production. All these driving factors are giving support to the current rally.
 
 **BASIS** – We’re still seeing elevated basis prices here in the West and will continue to see higher than normal basis prices for the next week or so, or until pipeline capacity comes back to full capacity and that is “scheduled” to be back up by end of next week. The extended colder than normal forecast is also helping to keep basis prices higher but to a lesser degree. Lack of storage (you’ll read about that below) is a major concern and a majorly bullish factor for Basis pricing here in the Golden State.
 
@@ -34,9 +32,7 @@ THE driving FACTORS
 
 **RENEWABLES** – Hydro levels in the West could be strong this spring and summer. Hydro may put forth a worthwhile contribution towards power generation this year. We just received record setting snow levels for this time of year here in California with elevated precipitation forecasts still looming. Let’s see if the powers that be can do something with it…
 
-
-
-**ITEMS OF INTEREST **– I’ll say it – one major item of interest is that of PG&E, SoCal Edison, SoCalGas, DWP, SDG&E, and all the little municipalities in between. These utility companies seem incapable of smart energy management. Their lack of intelligent planning, a proactive approach, and an ability to stick to scheduled maintenance is largely responsible for the highest energy prices in the US on average. And from what I can see, it’s the people at the top making the poor decisions. If they truly do care, they’re very good at hiding their feelings.
+\*\*ITEMS OF INTEREST \*\*– I’ll say it – one major item of interest is that of PG&E, SoCal Edison, SoCalGas, DWP, SDG&E, and all the little municipalities in between. These utility companies seem incapable of smart energy management. Their lack of intelligent planning, a proactive approach, and an ability to stick to scheduled maintenance is largely responsible for the highest energy prices in the US on average. And from what I can see, it’s the people at the top making the poor decisions. If they truly do care, they’re very good at hiding their feelings.
 
 **THE BOTTOM LINE** – We’re in a bad situation here in the West, especially California. Until things change drastically in the West (more pipeline optionality, more production, more storage, more power generation options), we will continue to feel the pain of heightened natural gas market volatility. Will there be market downturns for us to have strong hedging opportunities? Absolutely. And when those opportunities appear, be ready to jump all over them because they won’t last long, and they won’t advise us of when the next opportunity will be. The proof of this is still fresh to those who stayed on Index over the past few months.
 
@@ -78,25 +74,9 @@ At 2,114Bcf, total working gas is within the 5-year historical range. NYMEX pric
 
 Below normal temps for most of the US for the short term coupled with elevated precipitation gives support to bulls. This could the Spring Shoulder Season bear market that we are anticipating in the next few weeks. The Seasonal Temperature Outlooks (March ‘23 – May ’23 and June ’23 – Aug ’23) also support bulls over bears……
 
-
-
-
-
-
-
-
-
-
-
 <br>
 
-
-
-
-
-**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie**
+\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie\*\*
 
 **Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
-
-
 
