@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'west-cgs-running-up-for-now'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-M2ND.png'
 publishedAt: '2023-02-27T16:58:54.241Z'
 ---
 
