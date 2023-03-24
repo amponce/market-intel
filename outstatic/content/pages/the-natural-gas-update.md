@@ -1,5 +1,5 @@
 ---
-title: 'The Natural Gas Update'
+title: 'THE Natural GAs Update'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,34 +7,40 @@ author:
 slug: 'the-natural-gas-update'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-17T17:06:49.347Z'
+publishedAt: '2023-03-24T16:28:23.883Z'
 ---
 
-***THE NATURAL GAS UPDATE for 3-17-23***
+***THE NATURAL GAS UPDATE for 3-24-23***
 
-*HAPPY ST. PATRICK’S DAY!*
 
-THE Driving FACTORS
 
-\*\*NYMEX \*\*– Down approximately $0.17 from a week ago and down $2.50 from a year ago. We’re moving in the right direction, but it won’t last forever. Some “experts” believe the sub-$2.00 region could be tested in the near term, once better weather shows up. On the bullish side, $3.00 seems to be as high as any bull run wants to go, for the time being. The upward resistance points are $3.14 and $3.18. On the downside, we’re looking at $1.96 followed by $1.75. Not all months are priced equally so we shouldn’t expect to pick up Dec ’23 – March ’24 for anywhere near these prices. In my humble opinion, NYMEX, just like Basis, will continue to experience greater range and swing than what we have been used to over the past years. Today’s NYMEX is down as much as $0.15.
+*SoCal Gas Co pipeline maintenance still has approximately 1.5Bcf/D offline*
 
-**BASIS** – Basis prices remain elevated here in California due to a few things - below normal temperatures is one of them and it seems temps could return to normal within a few weeks. That may shorten our shoulder season where we hope to buy fixed prices on the cheap(er). The bigger factor right now is that of the scheduled maintenance on pipelines. This maintenance is limiting much needed capacity for all delivery points within California. Maintenance is scheduled to be completed by the time the weather gets back to normal so maybe, just maybe, we see a strong downward correction by mid-April for Basis prices. MAYBE….
+THE driving FACTORS
 
-**RIG COUNT** – As of last week’s rig count (today’s will be released after THE Natural Gas Update is released), we have a rig count that is up 83 rigs compared to 1 year ago but down 33 rigs year to date. Is there enough incentive for rigs to increase activity when there are falling prices and a government offering no incentive to the fossil fuel sector even though the need for fossil fuel becomes more apparent every day as this nation, and world, burn more and more energy by the day?
+**NYMEX **– The financial piece of natural gas remains bearish as supply outweighs demand. NYMEX is ticking up today so far, however. Bears have been outweighing the bull for the past 6 weeks but let’s not be foolish enough to think this will last through any type of warmer than normal summer.
 
-**PRODUCTION** – Feb ‘23 ended up averaging just under 100Bcf/D while March ’23 is averaging 100Bcf/D so far. We’ll need to keep production at or above current levels to limit any summer bulls. Many producers expect to maintain the current level of production but not increase for the balance of 2023. This month’s increase is due to Freeport LNG opening back up. As of just last week, the EIA increased its estimate of dry gas from 100.4Bcf/D to 100.7Bcf/D for 2023. 2024 projections remain unchanged at 101.7Bcf/D.
+**BASIS** – Basis remains well above historical averages and should remain in this range while we wait for 1. this winter weather to move out and 2. substantial capacity to come back online.
 
-**DEMAND** – LNG demand continues to increase 5 straight months. Demand for power generation continues to grow as well. The US has over 3 million miles of underground oil and gas pipelines and we’re going to need more of it – look at the graph below. It is a safe and reliable means of providing energy throughout the US and is usually far more affordable than any other energy source.
+**RIG COUNT** – Last week marked the largest number of rigs to be added in one week in over 4 years, leading to a rise in the combined oil and gas rig count in 5 weeks. 8 rigs were added in total, 9 for gas rigs (162), with oil dropping by 1 rig (589), for a grand total of 754, up 13.7% from 1 year ago.
 
-**CRUDE** – Crude prices aren’t sure which direction to take. On one hand, talks between Saudi and Russia, could with a weaker US dollar, give support to higher prices. Then on the flipside, you have a lot of people paying attention to the current mess in the banking world where an impending recession from their moronic tomfoolery is said to be imminent.
+**PRODUCTION** – U.S. gas production dropped to 100.1Bcf/D last week while the current week is expected to drop by 0.1Bcf for a flat 100Bcf/D. We’re still well above production levels from previous years but we’ll need to continue setting daily records to keep up with increasing demand.
 
-**NUCLEAR** – The Nuclear Regulatory Commission has allowed PG&E to continue normal operations at Diablo Canyon Nuclear through 2025 (I believe it will be extended even further out). Don’t pat yourselves on the back, NRC. The choice was easy - either keep Diablo running or light candles when the sun sets every evening in CA. PG&E just needs to submit proper paperwork and agree to operate the facility in a responsible manner.
+**DEMAND** – US demand increased by 0.8Bcf last week in the residential and industrial sectors with an expected drop of 1.9Bcf this week.
 
-**RENEWABLES** – Hydro levels in California, as of 3-14-23, stand at 144% and climbing. Reservoir levels are at 101% of average levels. Snowpack levels are at 208% of average peak levels.
+**CRUDE** – Crude prices hit a 15 month low earlier this week due to a weakening US dollar as well as fear from traders weighing out the current global banking crisis and what effects that may have on the oil and gas sector. After a brief rally midweek that saw WTI move above the $70 mark, it appears WTI will close out this week back around $68.
 
-\*\*ITEMS OF INTEREST \*\*– It’s St. Patrick’s Day and Day 2 of March Madness. Happy St. Patrick’s Day to the chosen few and good luck with your NCAA Brackets.
+**NUCLEAR** – Rolls-Royce has received funding from the UK Space Agency to develop a nuclear reactor, on the moon, that could serve as a long-term energy source for lunar bases. The UK Space Agency has given Rolls-Royce 2.9 million British Sterling to construct the reactor, following a 249,000 British Sterling study last year that it also funded. This doesn’t have anything to do with US domestic nuclear, but I feel compelled to mention this story as it baffles me. Do we really need a nuclear reactor on the moon??? The English do some things very well – building cars is not one of them, IMHO, so Rolls Royce putting together a nuclear reactor on the moon doesn’t make me feel warm and fuzzy…
 
-**THE BOTTOM LINE** – I’m taking a quote from an email I received this week, regarding the current state of energy in the US and why it’s become so volatile, *“Analysts, traders and big gas buyers expect this kind of instability to become the norm. Coal-fired power plants have been retired en masse without wind and solar farms ready to replace their output, pressuring utilities to pay up for gas. Infrastructure to export more gas is being built, but pipeline projects to *[*move more gas within the country*](https://www.wsj.com/livecoverage/stock-market-today-03-02-2023/card/pipeline-projects-to-move-gas-between-states-slowed-to-a-trickle-last-year-0zzQNWbItqgo4lEf5hwZ?mod=article_inline)\* have been slowing.” \*Spot on, in my opinion. Thank you, S.B.
+**RENEWABLES** – EDF Renewables and SoCal Public Power Authority sealed a 20 year deal this week that will generate 375,800MWh of clean energy, annually, to 58,000 homes in Anaheim, Pasadena, and Vernon, starting 2026. The project will be built on privately owned land in Riverside County. With over 15,000,000 homes in California, this will cover 0.3% of the homes in California. The reduction of carbon emissions is equivalent to 57,000 passenger vehicles being removed from the road over the course of one year. Baby steps indeed….
+
+**ITEMS OF INTEREST **– I find this very interesting. While California wages war on natural gas, we see just how reliant our Golden State has been on the energy source, leading all US regions in every category except for space heating (Midwest beats the West, 70% to 60%). This is from 2020 but do we really believe these percentages have shifted much in 2 and 1/4 years? My quick answer to that is…nope!
+
+
+
+
+
+**THE BOTTOM LINE** – NYMEX is at a 25–year low. An extremely mild winter, a cutback in LNG exporting, record setting daily production, and a drop in demand are the main driving factors for these very cheap prices. These prices won’t stay low forever and we shouldn’t expect any strips to plummet another $0.50. Above normal heat indexes this summer leading to an above normal cooling demand, along with increased LNG exports, and production flattening out are all very bullish factors that we should consider when gauging market direction. Basis here in the West, on the other hand, is the highest, on average. Planned and unplanned maintenance, below normal temperatures staying around far longer than originally anticipated, and lack of storage and production are all to blame. We should see a 1.5Bcf/D of capacity return over the next few months, just in time to meet the summer cooling demand. Storage injections should also start in a few weeks, and a mild spring forecast should help push CA basis down. Let’s buy NYMEX and Basis separately for now. Buy the cheap NYMEX now, as far out as we see fit before it runs back up. Then we wait for Basis to fall and pick up Basis cheaper than the ridiculous prices being offered in the current market.
 
 # **NATURAL GAS PRICING**
 
@@ -44,37 +50,41 @@ THE Driving FACTORS
 
 ***12 MONTH FIXED PRICES ARE BEATING THE ABOVE 2022 FIRST OF THE MONTH INDEX AVERAGES***
 
-**Indicative Fixed Prices as of 3/10/2023**
+**Indicative Fixed Prices as of 3/24/2023**
 
 Start Date Term PG&E CG SoCal CG
 
-April ’23 1 mo. $6.67 $5.39
+April ’23 1 mo. $6.48 $5.95
 
-April ’23 3 mo. $6.24 $4.98
+April ’23 3 mo. $6.04 $5.17
 
-April ’23 6 mo. $6.94 $6.24
+April ’23 6 mo. $6.65 $6.40
 
-April ’23 12 mo. $7.46 $7.34
+April ’23 12 mo. $7.29 $7.42
 
-April ’23 24 mo. $6.96 $7.13
+April ’23 24 mo. $6.86 $7.28
 
-Summer Strip $7.17 $6.59
+Summer Strip $6.88 $6.67
 
-23/24 Winter Strip $8.22 $9.09
+23/24 Winter Strip $8.19 $9.13
 
 #### **STORAGE REPORT**
 
-The forecast for the latest storage withdrawal, that I saw, was 58Bcf. The actual number comes in at 58Bcf. We're now 521Bcf higher than this time last year and 378Bcf above the 5-year average of 1,594Bcf.<br>
-
-At 1,972Bcf, total working gas is within the 5-year historical range. HOWEVER, here in the Golden State, intra storage fell further by 9Bcf, putting us 53% BELOW last year and 30% BELOW the 5-year average. And this is one of the main reasons why the CA volatility will continue until a time where we have ample production, ample storage, and ample delivery optionality here in the Peoples Republic of Kalifornia.
-
-SoCalGas and PG&E will have to make large scale storage injections, starting ASAP (April ’23 if not before) for as long as possible (through Oct ’23) for CA to have any shot of getting back to normal storage levels, and avoid what took place Dec ’22 and Jan ’23.
+The forecast for the latest storage withdrawal, that I saw, was 76Bcf. The actual number comes in at 72Bcf. We're now 504Bcf higher than this time last year and 351Bcf (22%) above the 5-year average of Bcf. At 1,900Bcf, total working gas is within the 5-year historical range. Here in California, however, we’re about 70% below where we should be for this time of year regarding storage levels. Bullish for CA Basis. Injection season is expected to begin early April.
 
 **WEATHER**
 
-We continue to see below normal temperatures in the 8– 14 days forecast for the West and Rockies, with the remainder being mostly normal. The extended forecast from April through September could be troublesome if it turns out to be accurate. We shouldn’t expect an extended shoulder season and will want to look at locking up strips, at the very least summer strips, over the next month.
+EIA reports that January and February may be close to the warmest on record for those months. This warm period is expected to deliver a drop in heating demand by 11% compared to the same period of 2022. That lack of demand is a major factor in NYMEX being as bearish as it has been. A hotter than normal summer will have the opposite effect on NYMEX prices, as well as Basis prices.
 
-\*\*Sean Dookie - \*[***sdookie@rfpes.com***](mailto:sdookie@rfpes.com)\* – [rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie\*\*
+
+
+
+
+
+
+**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie**
 
 **Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
+
+
 
