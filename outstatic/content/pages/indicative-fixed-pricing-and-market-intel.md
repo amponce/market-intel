@@ -1,5 +1,5 @@
 ---
-title: 'Indicative Fixed Pricing and Market Intel'
+title: 'Today''s Indicative Fixed Prices and Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
