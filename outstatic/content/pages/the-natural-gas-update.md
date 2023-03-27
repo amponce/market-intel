@@ -1,5 +1,5 @@
 ---
-title: 'THE Natural GAs Update'
+title: 'THE Natural Gas Update'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -12,13 +12,11 @@ publishedAt: '2023-03-24T16:28:23.883Z'
 
 ***THE NATURAL GAS UPDATE for 3-24-23***
 
-
-
 *SoCal Gas Co pipeline maintenance still has approximately 1.5Bcf/D offline*
 
 THE driving FACTORS
 
-**NYMEX **– The financial piece of natural gas remains bearish as supply outweighs demand. NYMEX is ticking up today so far, however. Bears have been outweighing the bull for the past 6 weeks but let’s not be foolish enough to think this will last through any type of warmer than normal summer.
+\*\*NYMEX \*\*– The financial piece of natural gas remains bearish as supply outweighs demand. NYMEX is ticking up today so far, however. Bears have been outweighing the bull for the past 6 weeks but let’s not be foolish enough to think this will last through any type of warmer than normal summer.
 
 **BASIS** – Basis remains well above historical averages and should remain in this range while we wait for 1. this winter weather to move out and 2. substantial capacity to come back online.
 
@@ -34,11 +32,7 @@ THE driving FACTORS
 
 **RENEWABLES** – EDF Renewables and SoCal Public Power Authority sealed a 20 year deal this week that will generate 375,800MWh of clean energy, annually, to 58,000 homes in Anaheim, Pasadena, and Vernon, starting 2026. The project will be built on privately owned land in Riverside County. With over 15,000,000 homes in California, this will cover 0.3% of the homes in California. The reduction of carbon emissions is equivalent to 57,000 passenger vehicles being removed from the road over the course of one year. Baby steps indeed….
 
-**ITEMS OF INTEREST **– I find this very interesting. While California wages war on natural gas, we see just how reliant our Golden State has been on the energy source, leading all US regions in every category except for space heating (Midwest beats the West, 70% to 60%). This is from 2020 but do we really believe these percentages have shifted much in 2 and 1/4 years? My quick answer to that is…nope!
-
-
-
-
+\*\*ITEMS OF INTEREST \*\*– I find this very interesting. While California wages war on natural gas, we see just how reliant our Golden State has been on the energy source, leading all US regions in every category except for space heating (Midwest beats the West, 70% to 60%). This is from 2020 but do we really believe these percentages have shifted much in 2 and 1/4 years? My quick answer to that is…nope!
 
 **THE BOTTOM LINE** – NYMEX is at a 25–year low. An extremely mild winter, a cutback in LNG exporting, record setting daily production, and a drop in demand are the main driving factors for these very cheap prices. These prices won’t stay low forever and we shouldn’t expect any strips to plummet another $0.50. Above normal heat indexes this summer leading to an above normal cooling demand, along with increased LNG exports, and production flattening out are all very bullish factors that we should consider when gauging market direction. Basis here in the West, on the other hand, is the highest, on average. Planned and unplanned maintenance, below normal temperatures staying around far longer than originally anticipated, and lack of storage and production are all to blame. We should see a 1.5Bcf/D of capacity return over the next few months, just in time to meet the summer cooling demand. Storage injections should also start in a few weeks, and a mild spring forecast should help push CA basis down. Let’s buy NYMEX and Basis separately for now. Buy the cheap NYMEX now, as far out as we see fit before it runs back up. Then we wait for Basis to fall and pick up Basis cheaper than the ridiculous prices being offered in the current market.
 
@@ -76,15 +70,7 @@ The forecast for the latest storage withdrawal, that I saw, was 76Bcf. The actua
 
 EIA reports that January and February may be close to the warmest on record for those months. This warm period is expected to deliver a drop in heating demand by 11% compared to the same period of 2022. That lack of demand is a major factor in NYMEX being as bearish as it has been. A hotter than normal summer will have the opposite effect on NYMEX prices, as well as Basis prices.
 
-
-
-
-
-
-
-**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie**
+\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie\*\*
 
 **Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
-
-
 
