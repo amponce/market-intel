@@ -16,7 +16,7 @@ May is now the front month and continues to be weak. The West Region basis pric
 
 Today’s storage report comes in with a withdrawal of 47Bcf. We’re now 442Bcf above last year at this time and 341Bcf above the 5-year average. And believe it or not, California had an injection of storage. We remain over 50% below where we need to be but maybe that’s the first of many injections as we roll towards Injection Season.
 
-The feel god story of the day – It’s Opening Day in baseball. Play Ball!!
+The feel good story of the day – It’s Opening Day in baseball. Play Ball!!
 
 START MONTH – MAY ‘23
 
