@@ -1,5 +1,5 @@
 ---
-title: 'Today''s Indicative Fixed Prices & Market Intel'
+title: 'Today''s Indicative Fixed Prices and Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,34 +7,36 @@ author:
 slug: 'todays-indicative-fixed-prices-and-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-03-15T15:25:09.611Z'
+publishedAt: '2023-03-30T14:55:59.167Z'
 ---
 
-NYMEX is down as much as $0.17 on the front month. Prices are down as far out as March ’25. NYMEX futures are down $0.25 from last week and $2.25 from this time last year.
+For 3-30-23
 
-Lower-48 state dry gas production on Tuesday was 98Bcf (+5.7% y/y). The record still stands at 103.6Bcf posted on 10-3-22.
+May is now the front month and continues to be weak. The West Region basis prices remain extremely bullish while we wait for the rain/snow/below normal temps to go away. We’re also waiting for SoCal Gas Co to finish up maintenance on numerous intra pipes. Hurry up, SoCalGas. NYMX is a bear and CA Basis is a ticked off bull. This won’t last forever so wait for Basis corrections and jump on the NYMEX with us.
 
-Lower-48 state gas demand Tuesday was 92.5Bcf, up +23% y/y. Demand is up significantly with bullish weather for at least the next week, and NYMEX remains bearish….
+Today’s storage report comes in with a withdrawal of 47Bcf. We’re now 442Bcf above last year at this time and 341Bcf above the 5-year average. And believe it or not, California had an injection of storage. We remain over 50% below where we need to be but maybe that’s the first of many injections as we roll towards Injection Season.
 
-START MONTH – APRIL ‘23
+The feel god story of the day – It’s Opening Day in baseball. Play Ball!!
+
+START MONTH – MAY ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.42 $4.98
+1 MONTH $5.99 $5.25
 
-3 MONTHS $6.01 $4.95
+3 MONTHS $6.80 $6.74
 
-6 MONTHS $6.69 $5.89
+6 MONTHS $7.21 $7.26
 
-12 MONTHS $7.35 $7.04
+12 MONTHS $7.53 $7.93
 
-24 MONTHS $6.84 $6.98
+24 MONTHS $6.97 $7.57
 
-2023 Summer Strip (June – Oct)
+Summer Strip (June ’23 – Oct ‘23)
 
-$7.01 $6.29
+$7.45 $7.66
 
-2023/2024 Winter Strips
+Winter Strips (Nov ’23 – March ‘24)
 
-$8.23 $8.85
+$8.29 $9.37
 
