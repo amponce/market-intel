@@ -1,5 +1,5 @@
 ---
-title: 'Today''s Indicative Fixed prices & Market Intel'
+title: 'Today''s Indicative Fixed Prices & Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,28 +7,26 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-03T19:41:18.121Z'
+publishedAt: '2023-04-04T15:57:01.721Z'
 ---
 
-4-3-23
+4-4-23
 
-NYMEX prices tumbled further today as warmer weather is forecast for almost all the US. Lots of NYMEX hedging taking place today and this week and with good reason. Cheapest NYMEX in over 20+ years should be taken advantage of, don’t you think? We think so.
-
-CA Basis, on the other hand, continues its bull run due to limited capacity on many of the delivery point pipelines. Maintenance is supposed to finish up over the next 4 weeks at which time we SHOULD see Basis prices for the California delivery points fall further and closer to the historical range. Lack of storage has also helped keep Basis prices up, but we are now in Injection Season so now begins the time when we need to get back to historical averages in our in-state storage levels.
+NYMEX prices continue to be bearish. Daily production is expected to average above 100Bcf/D for the remainder of 2023 and some are confused as to why production will remain high while prices tank. One of the main reasons we’re seeing production remain strong, when it should be pulling back to lift prices up, is because approximately 1/3 of our domestic production comes up through oil wells and oil production isn’t tapering off ANYTIME soon. So far today, NYMEX and West region basis prices are flat to yesterday’s close.
 
 START MONTH – MAY ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.06 $5.18
+1 MONTH $6.05 $5.17
 
-3 MONTHS $6.80 $6.83
+3 MONTHS $6.79 $6.82
 
-6 MONTHS $7.48 $7.46
+6 MONTHS $7.47 $7.46
 
-12 MONTHS $7.48 $8.06
+12 MONTHS $7.49 $8.07
 
-24 MONTHS $6.92 $7.69
+24 MONTHS $6.91 $7.68
 
 Summer Strip (June ’23 – Oct ‘23)
 
