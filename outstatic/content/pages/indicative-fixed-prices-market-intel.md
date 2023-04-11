@@ -7,34 +7,34 @@ author:
 slug: 'indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-05T14:37:58.558Z'
+publishedAt: '2023-04-11T18:34:01.002Z'
 ---
 
-For 4-5-23
+4-11-23
 
-Yesterday’s NYMEX trading was the tightest day of trading in over 6 months. Today’s NYMEX, so far, is up a few cents on the front months then seeing red as early as Dec ’23 through Dec ’24. If traders are looking for a direction perhaps tomorrow’s Storage Report will give them the direction that they so desperately need to make decisions – sheep love being told which direction to go. Tomorrow’s Storage Report is forecasted to show the final withdrawal for the season with a mid-20s pull.
+NYMEX prices rallied as much as $0.20 yesterday based off of cooler weather forecasts. Today started flat before dropping a few cents to end the trading day. Prices are getting bearish support from warmer forecasts, below normal demand for this time of year, and strong daily production.
 
-Your good news for today – All your questions will be answered one day earlier this week as THE Natural Gas Update will be released tomorrow since our offices will be closed Friday.
+CA Basis is still expensive but is starting to come off some. The below fixed prices are considerably lower from just one week ago.
 
 START MONTH – MAY ‘23
 
 PG&E CG SOCAL CG
 
-1 MONTH $6.07 $5.19
+1 MONTH $5.86 $4.69
 
-3 MONTHS $6.80 $6.84
+3 MONTHS $6.12 $6.13
 
-6 MONTHS $7.48 $7.47
+6 MONTHS $6.64 $6.82
 
-12 MONTHS $7.48 $8.06
+12 MONTHS $7.07 $7.60
 
-24 MONTHS $6.91 $7.68
+24 MONTHS $6.73 $7.39
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$7.49 $7.92
+$5.89 $6.19
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$8.18 $9.41
+$7.45 $8.95
 
