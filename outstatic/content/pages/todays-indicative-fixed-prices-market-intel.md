@@ -1,5 +1,5 @@
 ---
-title: 'Today''s Indicative Fixed prices & Market Intel'
+title: 'Today''s Indicative Fixed Prices & Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,36 +7,38 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-12T17:08:57.827Z'
+publishedAt: '2023-04-13T16:40:48.655Z'
 ---
 
-4-12-23
+4-13-23
 
-NYMEX rallied to a 2-week high yesterday but is falling hard so far today. Could this bearish movement continue tomorrow with a strong storage injection? Who knows? What we do know is that prices for NYMEX are cheap right now. Cheaper than they have been in years.
+We are now separating the NYMEX from the PG&E CG Basis and SoCal CG Basis prices so you can track Basis more easily. If you want to track them separately, please go to our website, [RFPEnergySlutions.com](http://RFPEnergySlutions.com), click on Market Intel, then click on the Posts, and there you will find it. It can’t be any simpler.
 
-We have some bullish factors such as increased LNG exports (up 5.8% to 14.7Bcf/D), above normal temperatures expected across most of the US next week, and a drop in daily dry natgas production (98.9Bcf yesterday compared with the record high of 103.6Bcf on 10-3-22).
+So, for today - EIA is reporting the first injection of the season with an injection of 25Bcf. We are now 33% over last year and 19% over the 5-year avg. The Pacific region, however, injected 1 measly little Bcf. We remain 56% below last year at ths time and 57% below the 5-year avg.
 
-We are still 2.2% above this time last year and demand is down right now by 6%. Don’t expect these bearish factors to stay forever.
+Not enough to even budge Basis prices. Thankfully, the weather is now helping to push Basis prices down.
 
-START MONTH – MAY ‘23
+Indicative Fixed Prices for today:
+
+START MONTH – MAY ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.65 $5.01
+1 MONTH $5.55 $5.00
 
-3 MONTHS $6.09 $6.19
+3 MONTHS $6.04 $6.20
 
-6 MONTHS $6.55 $6.80
+6 MONTHS $6.53 $6.79
 
-12 MONTHS $7.02 $7.58
+12 MONTHS $6.98 $7.57
 
-24 MONTHS $6.70 $7.36
+24 MONTHS $6.67 $7.35
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.83 $6.14
+$5.77 $6.13
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.40 $8.89
+$7.38 $8.88
 
