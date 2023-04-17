@@ -7,38 +7,36 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-13T16:40:48.655Z'
+publishedAt: '2023-04-17T16:14:34.942Z'
 ---
 
-4-13-23
+4-17-23
 
-We are now separating the NYMEX from the PG&E CG Basis and SoCal CG Basis prices so you can track Basis more easily. If you want to track them separately, please go to our website, [RFPEnergySlutions.com](http://RFPEnergySlutions.com), click on Market Intel, then click on the Posts, and there you will find it. It can’t be any simpler.
+And just like that, NYMEX prices get bullish. So far today, the prompt month is up as much as $0.20. We’re seeing green numbers as far out as Dec 2035. That’s right - I said 2035, not 2025. They’re blaming the bull run on summer like weather. Should be short lived as cold fronts are forecasted from the Great Lakes to the Gulf of Mexico.
 
-So, for today - EIA is reporting the first injection of the season with an injection of 25Bcf. We are now 33% over last year and 19% over the 5-year avg. The Pacific region, however, injected 1 measly little Bcf. We remain 56% below last year at ths time and 57% below the 5-year avg.
+Today’s PG&E CG delivered price (NYMEX + Basis) is in the $5.50 range. SoCal CG delivered really jumped up with today’s price around the $9.50 range.
 
-Not enough to even budge Basis prices. Thankfully, the weather is now helping to push Basis prices down.
-
-Indicative Fixed Prices for today:
+Today is a great example of how quickly things can change when it comes to pricing.
 
 START MONTH – MAY ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.55 $5.00
+1 MONTH $5.75 $5.19
 
-3 MONTHS $6.04 $6.20
+3 MONTHS $6.19 $6.34
 
-6 MONTHS $6.53 $6.79
+6 MONTHS $6.44 $7.37
 
-12 MONTHS $6.98 $7.57
+12 MONTHS $6.83 $7.88
 
-24 MONTHS $6.67 $7.35
+24 MONTHS $6.72 $7.50
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.77 $6.13
+$5.87 $6.23
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.38 $8.88
+$7.40 $8.90
 
