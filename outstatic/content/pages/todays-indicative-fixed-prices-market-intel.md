@@ -7,36 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-17T16:14:34.942Z'
+publishedAt: '2023-04-18T15:41:27.609Z'
 ---
 
-4-17-23
+4-18-23
 
-And just like that, NYMEX prices get bullish. So far today, the prompt month is up as much as $0.20. We’re seeing green numbers as far out as Dec 2035. That’s right - I said 2035, not 2025. They’re blaming the bull run on summer like weather. Should be short lived as cold fronts are forecasted from the Great Lakes to the Gulf of Mexico.
+NYMEX continues its 3-day bull run with the prompt month up as much as $0.06 so far today, with prices up from yesterday through Jan ’24, down through Nov ’24, then mostly up again through 2035.
 
-Today’s PG&E CG delivered price (NYMEX + Basis) is in the $5.50 range. SoCal CG delivered really jumped up with today’s price around the $9.50 range.
-
-Today is a great example of how quickly things can change when it comes to pricing.
+Basis wise, SoCal CG is down while PG&E CG moves up.
 
 START MONTH – MAY ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.75 $5.19
+1 MONTH $5.68 $5.89
 
-3 MONTHS $6.19 $6.34
+3 MONTHS $5.99 $6.83
 
-6 MONTHS $6.44 $7.37
+6 MONTHS $6.41 $7.39
 
-12 MONTHS $6.83 $7.88
+12 MONTHS $6.93 $7.94
 
-24 MONTHS $6.72 $7.50
+24 MONTHS $6.67 $7.60
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.87 $6.23
+$5.84 $6.27
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.40 $8.90
+$7.47 $9.02
 
