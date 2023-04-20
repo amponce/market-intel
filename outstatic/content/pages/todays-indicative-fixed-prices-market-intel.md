@@ -7,14 +7,16 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-19T14:33:12.360Z'
+publishedAt: '2023-04-20T14:56:42.870Z'
 ---
 
-4-19-23
+4-20-23
 
-The 3-day bull run is over! So far this morning, NYMEX is down as much as $0.14 on the prompt month and seeing red all the way through July ’24. As for CA Basis, PG&E CG, PG&E Malin, SoCal CG, SoCal Bdr are all down so far today. Tomorrow’s storage report forecasts an injection of around 65Bcf. Compare this to 47Bcf injected last year and the 5-year average for this week of 41Bcf injected. With the weather forecasts warming up to temps with falling HDDs or CDDs, NYMEX could be a favorable hedge tomorrow…
+Today’s Storage Report comes in with a 75Bcf injection, smashing the 47Bcf forecast. We’re now 488Bcf above last year at this time and 329 above the 5-year average for this week. NYMEX prices are reacting with downward pressure, as much as $0.08 on the prompt month and red all the way through Dec ’25.
 
-April production is averaging just around 100Bcf/D.
+PG&E CG Basis continues to fall on the daily spot pricing and forward month pricing. SoCal CG Basis jumps up on the daily spot price while shedding one penny at a time on forward months.
+
+Way more market intel detail in tomorrow’s Natural Gas Update.
 
 START MONTH – MAY ’23
 
