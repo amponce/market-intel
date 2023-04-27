@@ -7,36 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-20T14:56:42.870Z'
+publishedAt: '2023-04-27T17:09:13.799Z'
 ---
 
-4-20-23
+4-27-23
 
-Today’s Storage Report comes in with a 75Bcf injection, smashing the 47Bcf forecast. We’re now 488Bcf above last year at this time and 329 above the 5-year average for this week. NYMEX prices are reacting with downward pressure, as much as $0.08 on the prompt month and red all the way through Dec ’25.
+NYMEX has been bouncing around today, as low as $2.26 and as high as $2.37. The higher end prices showed up after the storage injection report came in with an injection of 79Bcf, 4Bcf above the forecast. It seems like this has become standard on Thursday mornings of late; above forecast = a bump up in price and vice versa for below estimates.
 
-PG&E CG Basis continues to fall on the daily spot pricing and forward month pricing. SoCal CG Basis jumps up on the daily spot price while shedding one penny at a time on forward months.
-
-Way more market intel detail in tomorrow’s Natural Gas Update.
+Basis for both PG&E CG and SoCal CG continue to fall, as shown in today’s indicative prices below.
 
 START MONTH – MAY ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.58 $5.79
+1 MONTH $5.60 $5.53
 
-3 MONTHS $5.89 $6.73
+3 MONTHS $5.57 $6.26
 
-6 MONTHS $6.31 $7.29
+6 MONTHS $5.76 $6.79
 
-12 MONTHS $6.86 $7.87
+12 MONTHS $6.06 $7.05
 
-24 MONTHS $6.62 $7.55
+24 MONTHS $6.03 $6.91
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.74 $6.19
+$5.79 $7.04
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.43 $8.96
+$6.63 $7.83
 
