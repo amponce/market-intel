@@ -7,34 +7,32 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-04-27T17:09:13.799Z'
+publishedAt: '2023-05-01T20:02:55.133Z'
 ---
 
-4-27-23
+5-1-23
 
-NYMEX has been bouncing around today, as low as $2.26 and as high as $2.37. The higher end prices showed up after the storage injection report came in with an injection of 79Bcf, 4Bcf above the forecast. It seems like this has become standard on Thursday mornings of late; above forecast = a bump up in price and vice versa for below estimates.
+NYMEX prices are down again today due to milder weather forecasts, pushing power output down which lowers the natural gas demand to the power plants. CA Basis prices fell again for the prompt month but are up for the summer strip, 3-month strip, and 6-month strip.
 
-Basis for both PG&E CG and SoCal CG continue to fall, as shown in today’s indicative prices below.
-
-START MONTH – MAY ’23
+START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.60 $5.53
+1 MONTH $5.02 $5.04
 
-3 MONTHS $5.57 $6.26
+3 MONTHS $5.65 $7.20
 
-6 MONTHS $5.76 $6.79
+6 MONTHS $5.85 $6.63
 
-12 MONTHS $6.06 $7.05
+12 MONTHS $6.01 $7.05
 
-24 MONTHS $6.03 $6.91
+24 MONTHS $6.01 $6.98
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.79 $7.04
+$5.75 $7.03
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.63 $7.83
+$6.80 $8.04
 
