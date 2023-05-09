@@ -7,38 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-05-08T15:06:33.028Z'
+publishedAt: '2023-05-09T14:50:47.896Z'
 ---
 
-5-8-23
+5-9-23
 
-June NYMEX natural gas prices bounced back from a 3-week low last Friday. That upward tick continues this morning with June NYMEX opening at $2.14, currently up $0.10 to $2.24. A strong jobs report is to blame. NYMEX natgas has been dropping like a brick for most of 2023 so holding out for sub $2.00 NYMEX natgas could end up getting some in trouble. Cheapest prices in 3 ½ years – take your winnings and get out.
+NYMEX nat gas shows little to no change from yesterday. Yesterday closed 4.73% ($0.10) up for the prompt month. The main reason for the upward movement – 102 wildfires burning across Alberta, Canada, shutting down numerous oil and gas wells throughout western Canada. A great example of how market management is so far beyond our domestic control.
 
-CA Basis prices continue to fall hard with a 2024 PG&E FP Strip costing less than $6.00. Let’s not get too confident about CA Basis prices collapsing back to historical ranges any time soon.
-
-US Storage is nearly 20% above the seasonal average as of 4-28-23. As for California storage levels, we’re still well below where we need to be and that could turn very bullish at any given time.
-
-The next couple of weeks could be the best time to hedge your bets for both NYMEX and West region Basis, IMO.
+CA Basis continues to weaken but is not falling in chunks the way that it has been for the past few weeks. Weather forecasts could be limiting downside movement as heat is expected to roll in by the end of next week.
 
 START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.43 $4.42
+1 MONTH $4.42 $4.41
 
-3 MONTHS $5.28 $6.51
+3 MONTHS $5.27 $6.50
 
-6 MONTHS $5.57 $6.42
+6 MONTHS $5.56 $6.41
 
-12 MONTHS $5.81 $6.74
+12 MONTHS $5.80 $6.73
 
-24 MONTHS $5.84 $6.79
+24 MONTHS $5.83 $6.78
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.45 $6.44
+$5.44 $6.43
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.70 $7.93
+$6.69 $7.92
 
