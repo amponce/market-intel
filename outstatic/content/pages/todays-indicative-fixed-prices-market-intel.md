@@ -7,34 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-05-09T14:50:47.896Z'
+publishedAt: '2023-05-10T16:25:58.847Z'
 ---
 
-5-9-23
+5-10-23
 
-NYMEX nat gas shows little to no change from yesterday. Yesterday closed 4.73% ($0.10) up for the prompt month. The main reason for the upward movement – 102 wildfires burning across Alberta, Canada, shutting down numerous oil and gas wells throughout western Canada. A great example of how market management is so far beyond our domestic control.
+NYMEX prices are falling today after a 3-day rally. NYMEX prices are in the $2 range for most of 2023. Compare that to just 10 months ago when prompt months and short-term strips were all over the $10 mark – for NYMEX only. CA Basis delivery pints continue to weaken.
 
-CA Basis continues to weaken but is not falling in chunks the way that it has been for the past few weeks. Weather forecasts could be limiting downside movement as heat is expected to roll in by the end of next week.
+How long will this bearish market last? Basis could and should fall further once capacity and in-state storage increases. NYMEX could take off once demand returns to normal.
 
 START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.42 $4.41
+1 MONTH $4.54 $4.64
 
-3 MONTHS $5.27 $6.50
+3 MONTHS $5.41 $6.63
 
-6 MONTHS $5.56 $6.41
+6 MONTHS $5.69 $6.55
 
-12 MONTHS $5.80 $6.73
+12 MONTHS $6.03 $6.88
 
-24 MONTHS $5.83 $6.78
+24 MONTHS $5.99 $6.88
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.44 $6.43
+$5.59 $6.56
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.69 $7.92
+$6.80 $8.04
 
