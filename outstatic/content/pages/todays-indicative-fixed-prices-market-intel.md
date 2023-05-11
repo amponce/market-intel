@@ -7,34 +7,34 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-05-10T16:25:58.847Z'
+publishedAt: '2023-05-11T18:02:47.801Z'
 ---
 
-5-10-23
+5-11-23
 
-NYMEX prices are falling today after a 3-day rally. NYMEX prices are in the $2 range for most of 2023. Compare that to just 10 months ago when prompt months and short-term strips were all over the $10 mark – for NYMEX only. CA Basis delivery pints continue to weaken.
+The most recent forecast for storage was an injection of 73Bcf. The actual number comes in at 78Bcf. We're now 509Bcf higher than this time last year and 332Bcf above the 5-year average of 1,809Bcf. At 2,141Bcf, total working gas is within the 5-year historical range. Last year this time saw an injection of 76Bcf while the 5-year average for this time of year is 87Bcf.
 
-How long will this bearish market last? Basis could and should fall further once capacity and in-state storage increases. NYMEX could take off once demand returns to normal.
+NYMEX responded with a brief $0.05 rally before falling back flat for the day. CA Basis continues to move downward.
 
 START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.54 $4.64
+1 MONTH $4.33 $4.45
 
-3 MONTHS $5.41 $6.63
+3 MONTHS $5.21 $6.45
 
-6 MONTHS $5.69 $6.55
+6 MONTHS $5.52 $6.41
 
-12 MONTHS $6.03 $6.88
+12 MONTHS $5.92 $6.85
 
-24 MONTHS $5.99 $6.88
+24 MONTHS $5.82 $6.80
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.59 $6.56
+$5.40 $6.42
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.80 $8.04
+$6.76 $7.98
 
