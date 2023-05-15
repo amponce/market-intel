@@ -7,34 +7,36 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-05-11T18:02:47.801Z'
+publishedAt: '2023-05-15T16:57:59.811Z'
 ---
 
-5-11-23
+5-15-23
 
-The most recent forecast for storage was an injection of 73Bcf. The actual number comes in at 78Bcf. We're now 509Bcf higher than this time last year and 332Bcf above the 5-year average of 1,809Bcf. At 2,141Bcf, total working gas is within the 5-year historical range. Last year this time saw an injection of 76Bcf while the 5-year average for this time of year is 87Bcf.
+We saw a slight summer heat concern push prices up last Friday. That uptick continues today and could continue to run. We’re currently passed the resistance point of $2.24 and will see a strong bull run IF we edge closer to the next resistance level of $2.54. Downward support sits below the $2.24 mark and will pick up downward steam if we hit the $2.18 mark. Currently sitting around $2.34.
 
-NYMEX responded with a brief $0.05 rally before falling back flat for the day. CA Basis continues to move downward.
+All indictive prices today are up from last week, more for PG&E CG than SoCal CG.
+
+Let’s start locking in.
 
 START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.33 $4.45
+1 MONTH $4.39 $4.48
 
-3 MONTHS $5.21 $6.45
+3 MONTHS $5.28 $6.46
 
-6 MONTHS $5.52 $6.41
+6 MONTHS $5.60 $6.45
 
-12 MONTHS $5.92 $6.85
+12 MONTHS $5.87 $6.80
 
-24 MONTHS $5.82 $6.80
+24 MONTHS $5.82 $6.82
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.40 $6.42
+$5.48 $6.44
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.76 $7.98
+$6.81 $8.06
 
