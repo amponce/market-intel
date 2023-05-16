@@ -7,36 +7,32 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-05-15T16:57:59.811Z'
+publishedAt: '2023-05-16T14:41:55.641Z'
 ---
 
-5-15-23
+5-16-23
 
-We saw a slight summer heat concern push prices up last Friday. That uptick continues today and could continue to run. We’re currently passed the resistance point of $2.24 and will see a strong bull run IF we edge closer to the next resistance level of $2.54. Downward support sits below the $2.24 mark and will pick up downward steam if we hit the $2.18 mark. Currently sitting around $2.34.
-
-All indictive prices today are up from last week, more for PG&E CG than SoCal CG.
-
-Let’s start locking in.
+A drop in the daily production average - hovering just under 100Bcf/D, wildfires in Canada limiting our daily import from the north, and elevated temps forecasted for the next 2 weeks are pushing both the physical (basis) and the financial (NYMEX) up today. A big drop in active natgas rigs also gives support to the bulls.
 
 START MONTH – JUNE ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.39 $4.48
+1 MONTH $4.53 $4.65
 
-3 MONTHS $5.28 $6.46
+3 MONTHS $5.47 $6.65
 
-6 MONTHS $5.60 $6.45
+6 MONTHS $5.75 $6.61
 
-12 MONTHS $5.87 $6.80
+12 MONTHS $6.01 $6.94
 
-24 MONTHS $5.82 $6.82
+24 MONTHS $5.91 $6.91
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.48 $6.44
+$5.64 $6.61
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.81 $8.06
+$6.95 $8.19
 
