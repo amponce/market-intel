@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: '/images/rfp-brand-AyOT.png'
+coverImage: ''
 publishedAt: '2023-05-22T18:38:04.567Z'
 ---
 
