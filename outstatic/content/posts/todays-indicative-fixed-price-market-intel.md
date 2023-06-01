@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-price-market-intel'
 description: ''
-coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-UxOD.png&w=384&q=75'
+coverImage: '/images/rfp-brand-AyMz.png'
 publishedAt: '2023-05-26T15:44:01.039Z'
 ---
 
