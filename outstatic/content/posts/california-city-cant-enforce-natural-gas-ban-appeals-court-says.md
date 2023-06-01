@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'california-city-cant-enforce-natural-gas-ban-appeals-court-says'
 description: ''
-coverImage: ''
+coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-UxOD.png&w=384&q=75'
 publishedAt: '2023-04-19T14:58:55.441Z'
 ---
 
