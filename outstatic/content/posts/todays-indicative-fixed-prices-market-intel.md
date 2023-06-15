@@ -1,40 +1,46 @@
 ---
-title: 'Today''s Indicative Fixed Prices & Market Intel'
+title: 'Today''s Indicative Fixed prices & Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-QzMz.png'
-publishedAt: '2023-06-09T16:00:02.189Z'
+coverImage: ''
+publishedAt: '2023-06-15T20:20:59.651Z'
 ---
 
-6-9-23
+6-15-23 - a little late today but worth the weight.
 
-NYMEX is down almost $0.10 on the prompt month. Indicative Fixed prices are all up for the second straight day PG&E CG and SoCal CG Basis pricing both seem to be leveling off after their 4-week downward movement. PG&E CG Basis is flattening out while SoCal CG Basis is up in the immediate months, down in other months.
+NYMEX is up nearly $0.20 from yesterday. Above normal temps in the Plains and Midwest are pushing prices up but what’s really pushing it up today is a storage injection of only 85Bcf. Estimates from the “experts” called for a 95Bcf injection. Compare this to 94Bcf last year and a 5-year average of 84Bcf.
 
-To reiterate, the most recent forecast for storage was an injection of 114Bcf. The actual number comes in at 104Bcf. We're now 562Bcf higher than this time last year and 353Bcf above the 5-year average of 2,197Bcf. At 2,550Bcf, total working gas is within the 5-year historical range.
+could be to blame for upward price movement. This is a perfect example of just how quickly prices can run up on us. E.g., one NYMEX daily contract (10,000MMBtu) costs $2,000 more today than it did yesterday. Now extend that $2,000 increase for the entire month….
+
+Basis here in the West is starting to level off after an extended downward correction. We’re still well above the historical range for all West delivery/price points and we probably won’t return to the historical range any time soon.
+
+Waiting for it to return to historical ranges could prove to be costly. Driving factors have been bearish for the past 4 – 6 weeks. This bearish climate probably won’t last all summer. The first summer heatwave, or even a hint of it, usually brings in the bulls.
+
+Before we start planning our Independence Day parties next month, we may want to seriously look at hedging up open Basis positions. And for those with open NYMEX positions, same.
 
 START MONTH – JULY ’23
 
-PG&E CG SOCAL CG
+PG&E CG SOCAL CG
 
-1 MONTH $5.01 $6.56
+1 MONTH $4.61 $6.15
 
-3 MONTHS $5.10 $7.11
+3 MONTHS $4.86 $6.94
 
-6 MONTHS $5.51 $7.12
+6 MONTHS $5.38 $7.08
 
-12 MONTHS $5.49 $6.80
+12 MONTHS $5.44 $6.78
 
-24 MONTHS $5.54 $6.68
+24 MONTHS $5.55 $6.72
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.11 $6.68
+$4.87 $6.58
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.51 $8.18
+$6.57 $8.23
 
