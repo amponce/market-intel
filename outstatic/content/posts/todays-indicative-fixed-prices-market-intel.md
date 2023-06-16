@@ -1,5 +1,5 @@
 ---
-title: 'Today''s Indicative Fixed prices & Market Intel'
+title: 'Today''s Indicative Fixed Prices & Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,40 +7,40 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-06-15T20:20:59.651Z'
+publishedAt: '2023-06-16T17:22:21.158Z'
 ---
 
-6-15-23 - a little late today but worth the weight.
+6-16-23
 
-NYMEX is up nearly $0.20 from yesterday. Above normal temps in the Plains and Midwest are pushing prices up but what’s really pushing it up today is a storage injection of only 85Bcf. Estimates from the “experts” called for a 95Bcf injection. Compare this to 94Bcf last year and a 5-year average of 84Bcf.
+Please note that RFP ES will be closed Monday in observance of Juneteenth.
 
-could be to blame for upward price movement. This is a perfect example of just how quickly prices can run up on us. E.g., one NYMEX daily contract (10,000MMBtu) costs $2,000 more today than it did yesterday. Now extend that $2,000 increase for the entire month….
+NYMEX is up approximately $0.10 so far today. That’s a $0.30 jump in just 2 days, a 10% – 15% increase depending on the month.
 
-Basis here in the West is starting to level off after an extended downward correction. We’re still well above the historical range for all West delivery/price points and we probably won’t return to the historical range any time soon.
+Heat in the Plains/Midwest/Texas is driving up power generation demand right now. Texas power plants have been sending out emergency notices all week. We may have seen the last of the bearish NYMEX, at least until cooling demand and power generation demand falls. As the Happenings sang, “See you in September”.
 
-Waiting for it to return to historical ranges could prove to be costly. Driving factors have been bearish for the past 4 – 6 weeks. This bearish climate probably won’t last all summer. The first summer heatwave, or even a hint of it, usually brings in the bulls.
+California Basis prices are tightening up as well, at all delivery points. Like NYMEX prices, we may be seeing the last of the 2023 buying opportunities over the next few weeks.
 
-Before we start planning our Independence Day parties next month, we may want to seriously look at hedging up open Basis positions. And for those with open NYMEX positions, same.
+Fixed prices are up across the board today.
 
 START MONTH – JULY ’23
 
-PG&E CG SOCAL CG
+PG&E CG SOCAL CG
 
-1 MONTH $4.61 $6.15
+1 MONTH $4.80 $6.34
 
-3 MONTHS $4.86 $6.94
+3 MONTHS $5.07 $7.13
 
-6 MONTHS $5.38 $7.08
+6 MONTHS $5.56 $7.25
 
-12 MONTHS $5.44 $6.78
+12 MONTHS $5.57 $6.92
 
-24 MONTHS $5.55 $6.72
+24 MONTHS $5.63 $6.81
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$4.87 $6.58
+$5.07 $6.78
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.57 $8.23
+$6.67 $8.35
 
