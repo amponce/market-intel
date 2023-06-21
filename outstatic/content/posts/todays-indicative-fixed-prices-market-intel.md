@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-ExND.png'
 publishedAt: '2023-06-16T17:22:21.158Z'
 ---
 
