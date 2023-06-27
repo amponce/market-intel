@@ -6,41 +6,41 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-ExND.png'
-publishedAt: '2023-06-16T17:22:21.158Z'
+coverImage: ''
+publishedAt: '2023-06-27T16:51:25.532Z'
 ---
 
-6-16-23
+6-27-23
 
-Please note that RFP ES will be closed Monday in observance of Juneteenth.
+June is coming to an end and with it, the below normal weather conditions being enjoyed by most of the U.S. Texas is a furnace and will remain a furnace for the next week. ERCOT is being tested.
 
-NYMEX is up approximately $0.10 so far today. That’s a $0.30 jump in just 2 days, a 10% – 15% increase depending on the month.
+Most of the Midwest will see normal to above normal temps. The West receives the first heatwave of the summer by week’s end.
 
-Heat in the Plains/Midwest/Texas is driving up power generation demand right now. Texas power plants have been sending out emergency notices all week. We may have seen the last of the bearish NYMEX, at least until cooling demand and power generation demand falls. As the Happenings sang, “See you in September”.
+NYMEX is roughly 5% higher than a week ago.
 
-California Basis prices are tightening up as well, at all delivery points. Like NYMEX prices, we may be seeing the last of the 2023 buying opportunities over the next few weeks.
+Yesterday, PG&E CG and SoCal CG Basis prices surged. PG&E CG has backed off some while SoCal CG Basis really fell off, as much as $0.70 for the prompt month.
 
-Fixed prices are up across the board today.
+These are prime examples of how quickly the market can shift. Conditions are relatively favorable right now. What happens when conditions turn unfavorable?
 
 START MONTH – JULY ’23
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.80 $6.34
+1 MONTH $4.83 $6.31
 
-3 MONTHS $5.07 $7.13
+3 MONTHS $5.07 $7.32
 
-6 MONTHS $5.56 $7.25
+6 MONTHS $5.64 $7.45
 
-12 MONTHS $5.57 $6.92
+12 MONTHS $5.59 $7.05
 
-24 MONTHS $5.63 $6.81
+24 MONTHS $5.62 $6.89
 
 Summer Strip (June ’23 – Oct ‘23)
 
-$5.07 $6.78
+$5.15 $6.98
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.67 $8.35
+$6.75 $8.43
 
