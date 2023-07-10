@@ -1,6 +1,6 @@
 ---
 title: 'THE Energy Update'
-status: 'draft'
+status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
@@ -16,15 +16,15 @@ publishedAt: '2023-07-10T17:23:31.829Z'
 
 Good morning/afternoon, everyone! Before we jump into THE Energy Update for 7-10-23, I need to address a question that was asked last week.
 
-The question was, “Why don’t you send out market reports more than just once a week?”. The answer to that is – we send out market reports, market related articles, indicative pricing daily. We don’t email them, however. We simply post them throughout the day on the following media outlets; on our [rfpes.com](http://rfpes.com) website under the Market Intel tab, on Twitter @RFPEnergySolutions, and on our/my LinkedIn page that can be found under my name @Sean Dookie.
+The question was, “Why don’t you send out market reports more than just once a week?”. The answer to that is – we post our market reports, market related articles, and indicative pricing daily. We simply post them throughout the day on the following media outlets; on our [rfpes.com](http://rfpes.com) website under the Market Intel tab, on Twitter @RFPEnergySolutions, and on our/my LinkedIn page that can be found under my name @Sean Dookie.
 
 Also, more and more of you have been submitting requests for proposals using our [RFPES.com](http://RFPES.com) platform. We’ve heard back from several of you on what you like and what you want to see improved. Thank you for the feedback. We would love to hear from more of you. Thank you for using the platform and free service. And to those who prefer to continue to work directly with one of us (we submit the requests for proposals and monitor the incoming bids for you), let’s keep doing it because we love it.
 
 Lastly, THANK YOU for being such a big part of RFP ES’ success. We’ve come a long way in a very short time and continue to grow, adding more RFP ES partners, adding more energy products for our clients, growing the number of traders/suppliers bidding for your business, bringing you more options, and continuing our goal of bring you the best deals possible for your energy procurement.
 
-Now....on to THE DRIVING FACTORS
+Now….on to THE DRIVING FACTORS
 
-**NYMEX **– NYMEX hit 3 ½ month highs 2 weeks ago before mounting a slight downturn. The month of June alone saw a 23% price increase in NYMEX pricing. Even with last month’s rally, NYMEX prices are down roughly 37% so far in 2023. Not bad, huh?
+\*\*NYMEX \*\*– NYMEX hit 3 ½ month highs 2 weeks ago before mounting a slight downturn. The month of June alone saw a 23% price increase in NYMEX pricing. Even with last month’s rally, NYMEX prices are down roughly 37% so far in 2023. Not bad, huh?
 
 People go crazy when they receive a “20% off pizza” coupon from a bad pizzeria but then drag their feet when they could buy natgas for nearly 40% less than last year. Keep that mindset and you’ll need all the “20% off pizza” coupons you can get your grease-stained hands on. We’re down just over $0.10 from one week ago and down roughly $3.60 from one year ago. As of last Friday, NYMEX future strips were running, approximately, at the following prices:
 
@@ -42,7 +42,7 @@ For those who are curious, the active oil rig count fell by 5 rigs to a 15 month
 
 **RETAIL POWER (CALIFORNIA)** – Power prices are driven by their current majority energy source, natural gas. If natgas moves up, so do power prices, and vice versa.
 
-**CARBON OFFSETS – **We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
+\*\*CARBON OFFSETS – \*\*We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
 
 **CRUDE** – Saudi said they’re going to continue their 1MM barrel/day cut into July and August. The anticipated increase in demand isn’t taking shape the way OPEC anticipated. So far today, it’s proving to be a bullish move with Crude WTI briefly going over the $74.00 per barrel mark. One week ago, that barrel was being sold for less than $70.00.
 
@@ -50,7 +50,7 @@ For those who are curious, the active oil rig count fell by 5 rigs to a 15 month
 
 **RENEWABLES** – Engineers at UMass Amherst accidentally, yet successfully, generated Hygroelectricity – not to be mistaken for hydroelectricity. Hygroelectricity is based off Nikola Tesla’s theory from the 1930’s. In layman’s terms, creating electricity from humid air. Texas already generates more power and renewable than other states (last time I checked). Imagine how much Hygroelectricity could be generated in Houston in just one summer day? Getting this to full scale is well down the road but unlike solar and wind, it can be used day or night, in almost any weather condition, indoors or outdoors, and pretty much anywhere. Is my disdain for wind and solar (because there are far better options out there) coming across clearly?
 
-**ITEMS OF INTEREST **– All of the above should be items of interest when it comes to strategizing how to manage the forward market. Luckily for you, we do it better than most. And it’s all we do.
+\*\*ITEMS OF INTEREST \*\*– All of the above should be items of interest when it comes to strategizing how to manage the forward market. Luckily for you, we do it better than most. And it’s all we do.
 
 **THE BOTTOM LINE** – Europe and Asia are relying on LNG imports from the U.S. more and more. This coming winter should see LNG exports to both regions increase. As more LNG terminals are built around the U.S., more of our domestic natgas will be exported. Natgas generated power here in the U.S. has more than doubled since 2005 and that number will continue to grow to meet an ever increasing peak and base load. Rigs are being temporarily shut in while other rigs are being shut down permanently. Daily production average continues to increase but can and will be outpaced by the growing demand for natgas. The driving factors should give great support to higher prices. IMHO, both the NYMEX and Basis markets will see further and greater volatility for the foreseeable future.
 
@@ -82,5 +82,5 @@ Apr ’24 – Aug ‘25 $4.75 $5.55
 
 We’re roughly 25 % above last year and 15% above the 5-year average for this time of year. The most recent forecast for storage was an injection of 65Bcf. The actual number comes in at 72Bcf. We're now 575Bcf higher than this time last year and 366Bcf above the 5-year average of 2,511Bcf. At 2,877Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
 
-**WEATHER – **The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas, and southern Gulf regions. California should experience our first true cooling demand over the next few weeks, pushing Basis prices up again.
+\*\*WEATHER – \*\*The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas, and southern Gulf regions. California should experience our first true cooling demand over the next few weeks, pushing Basis prices up again.
 
