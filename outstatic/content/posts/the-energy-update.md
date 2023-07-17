@@ -7,52 +7,46 @@ author:
 slug: 'the-energy-update'
 description: ''
 coverImage: ''
-publishedAt: '2023-07-10T17:23:31.829Z'
+publishedAt: '2023-07-17T19:31:06.197Z'
 ---
 
-***THE ENERGY UPDATE for 7-10-23***
+***THE ENERGY UPDATE for 7-17-23***
 
-*Nothing Lasts Forever….and that goes double for bear markets.…*
+*“The downside is limited. The upside…not so much.” R. Washington 7-11-23*
 
-Good morning/afternoon, everyone! Before we jump into THE Energy Update for 7-10-23, I need to address a question that was asked last week.
+THE DRIVING FACTORS
 
-The question was, “Why don’t you send out market reports more than just once a week?”. The answer to that is – we post our market reports, market related articles, and indicative pricing daily. We simply post them throughout the day on the following media outlets; on our [rfpes.com](http://rfpes.com) website under the Market Intel tab, on Twitter @RFPEnergySolutions, and on our/my LinkedIn page that can be found under my name @Sean Dookie.
+**NYMEX **– NYMEX is feeling some bearish pressure despite climbing cooling demand days in the West, SW, and Texas. Currently sitting just over $2.50, a move over $2.75 - $3.10 range will bring bulls. The bears are sitting at the downside range of $2.35 - $2.10.
 
-Also, more and more of you have been submitting requests for proposals using our [RFPES.com](http://RFPES.com) platform. We’ve heard back from several of you on what you like and what you want to see improved. Thank you for the feedback. We would love to hear from more of you. Thank you for using the platform and free service. And to those who prefer to continue to work directly with one of us (we submit the requests for proposals and monitor the incoming bids for you), let’s keep doing it because we love it.
+**BASIS** – Both PG&E CG Basis and SoCal CG Basis prices have all fallen significantly over the past 3 weeks, SoCal CG especially. Currently, both delivery points continue to fall all the way through Oct ’24 before moving up in price compared to last week. Some months see PG&E CG Basis prices getting close to their historical range. Why not buy those cheap months now?
 
-Lastly, THANK YOU for being such a big part of RFP ES’ success. We’ve come a long way in a very short time and continue to grow, adding more RFP ES partners, adding more energy products for our clients, growing the number of traders/suppliers bidding for your business, bringing you more options, and continuing our goal of bring you the best deals possible for your energy procurement.
+**RIG COUNT** – Last week’s rig count fell by 2 rigs for a total of 133 active natgas rigs. We’ve seen a drop in rig counts 10 of the last 11 weeks.
 
-Now….on to THE DRIVING FACTORS
+**PRODUCTION** – The weekend saw us push back over 100Bcf/D from 98.5Bcf/D. If we can remain at or above 100Bcf/D, we have a good chance of keeping bulls at bay.
 
-\*\*NYMEX \*\*– NYMEX hit 3 ½ month highs 2 weeks ago before mounting a slight downturn. The month of June alone saw a 23% price increase in NYMEX pricing. Even with last month’s rally, NYMEX prices are down roughly 37% so far in 2023. Not bad, huh?
+**DEMAND** – Exports could be easing up in Europe with Norway opening more capacity. U.S. domestic demand for natgas stays steady at the power plants as weather eases demand in the MW and NE as temperatures range in the 70’s and 80’s. Once power generation demand increases, natgas will be one of the sources called upon to meet that increasing demand.
 
-People go crazy when they receive a “20% off pizza” coupon from a bad pizzeria but then drag their feet when they could buy natgas for nearly 40% less than last year. Keep that mindset and you’ll need all the “20% off pizza” coupons you can get your grease-stained hands on. We’re down just over $0.10 from one week ago and down roughly $3.60 from one year ago. As of last Friday, NYMEX future strips were running, approximately, at the following prices:
+**RETAIL POWER (CALIFORNIA)** – Power prices are falling in CA as they are tied directly to natgas prices. Good time to extend hedges.
 
-2024 = $2.90, 2025 = $3.65, 2026 = $4.00, 2027 = $3.90.
+**CARBON OFFSETS – **We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
 
-**BASIS** – PG&E CG Basis continues to fall penny by penny but remains above the historical average. We’re looking at double the price for the shoulder months and quadruple those prices for the extreme summer and winter months. SoCal CG Basis has given a great example over the past few weeks of how quickly it can run up and down for little to no reason. SoCal CG Basis is going for 12X what it should cost for winter months. Even with a 12X run up, there are some decent options out there for us right now, but they won’t last long. We’ll tell you what the best options are when we speak one on one.
+**CRUDE** – Saudi’s extended cut of 1MM barrels/day through Aug ’23 has limited any potential downside pricing. Russia backed up Saudi’s cut with a 0.5MM barrels/day through Aug ’23 as well. By last Friday’s closing bell, we saw crude run just over $77/barrel. This week opened at $74.88, running up to $76 before closing the day’s trading at $74.01.
 
-**RIG COUNT** – Last week’s rig count ends a 9-week decline. We were at the lowest rig count since Feb ’22. The number of active rigs jumped by 11 rigs according to Baker Hughes’ report weekly report (released every Friday). We’re now at 135 active natgas rigs. Natgas rigs fell by 21% over the first half of 2023 due to low prices, due to a very mild winter, below normal heating demand, and a delayed cooling demand (except for you, Texas). “Experts” remain concerned this pullback in drilling could have an impact on both supply and prices in the short term when the cooling demand increases, and later this year when the heating demand kicks in.
+It’s a shame that the U.S. can’t be the largest producer of oil in the world, increasing domestic reliability while exporting oil to other countries, releasing them of from a certain stranglehold. Hold on a second…we are the largest producer of oil in the world! California alone has more oil in the ground than all of Saudi. All we must do is pull our heads out of the sand and do what needs to be done. In the meantime, play the up & down movement on crude prices all summer long.
 
-For those who are curious, the active oil rig count fell by 5 rigs to a 15 month, currently sitting at 540 rigs.
+**NUCLEAR** – Tennessee is pushing to become the top state for nuclear companies to invest in and build in. We can expect more states (at least the states looking to maximize their tax dollars collected) to follow. Building the smaller reactors should be safer, easier to manage, more affordable, taking up less space and not nearly as daunting an image as the massive reactors built in the past. France seems to be leading the way with nuclear, building more and more reactors to cover their domestic demand as well as setting themselves up to be the premier seller of nuclear to other European countries that fail to see the big picture beyond the unicorn dream.
 
-**PRODUCTION** – Western Canadian gas production was scheduled to increase by as much as 1.4Bcf/D in 2023. Due to the wildfires and pipeline maintenance (scheduled and unscheduled), the anticipated growth now for 2023 has been reduced to 0.4Bcf/D. That should have a direct impact on Canadian exports to the U.S., giving support for higher both NYMEX and Basis pricing, especially when demand increases.
+**RENEWABLES** – This came from [Earth.org](http://Earth.org) over the weekend, “According to [World Energy Outlook 2022](https://www.iea.org/reports/world-energy-outlook-2022/the-global-energy-crisis), a flagship publication on analysis and projections by the International Energy Agency (IEA), we are in the middle of the first global energy crisis. 90% of the increased global pressure on electricity prices is due to high gas, oil, and coal prices. The global energy shock makes us realize that this weak energy system, which relies heavily on non-renewable resources, is unsustainable. According to the IEA, this energy crisis has stimulated the installation and usage of solar photovoltaic cells and wind energy in 2022, which will continue to grow in the coming few years. These renewables are crucial to cutting down on pollution, generating clean energy, and addressing energy security issues. Moreover, the energy created will be cheaper and more affordable. Tapping the huge potential of solar, wind, and hydropower can accelerate the energy economy.”
 
-**DEMAND** – Exports from the U.S. to Mexico are increasing. Due to the Ukraine/Russia conflict, Europe’s LNG imports are surpassing pipeline gas imports. That LNG is coming from the U.S. lessening supply going to the C&I sector. Heatwaves in various parts of the country are pushing cooling demand up. However, U.S. manufacturing experienced a decline in June, which led to a drop in demand from the C&I sector. The composite manufacturing index is at the lowest level since the first Covid related recession and the 2008 recession. Will that last forever? I don’t think so. So, the short term says bear while the longer term says bull. That’s a “buy now” opportunity.
+WRONG. The increased global pressure on electricity prices due to high gas, oil, and coal prices is directly due to renewable being unable to make any consistent contribution to power demand. Demand for oil, gas, and coal for power generation have all increased during our plight for a renewable energy planet (the Unicorn Plan). Simple wishing and hoping just won’t get us where we need to get.
 
-**RETAIL POWER (CALIFORNIA)** – Power prices are driven by their current majority energy source, natural gas. If natgas moves up, so do power prices, and vice versa.
+**ITEMS OF INTEREST **– We posted an article over the weekend from Maria Bonaventura, Senior Managing Editor, Inside Wall Street with Nomi Prins. This makes for a god item of interest. “No matter how you feel about renewable energy, one thing remains true. There just isn’t enough of it to meet our rising energy demands.<br>
 
-\*\*CARBON OFFSETS – \*\*We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
+Right now, the United States is facing its most severe energy crisis in almost five decades. Prices are skyrocketing, and the availability of energy is becoming increasingly limited. The good news is the U.S. is rich in energy resources like oil and natural gas. Texas is a major power producer – not just for the United States but for the rest of the world, too. And it’s on track to be a major player in securing energy independence for the U.S. and its allies. It’s all part of a plan that will cement the U.S. as the king of energy for decades.”
 
-**CRUDE** – Saudi said they’re going to continue their 1MM barrel/day cut into July and August. The anticipated increase in demand isn’t taking shape the way OPEC anticipated. So far today, it’s proving to be a bullish move with Crude WTI briefly going over the $74.00 per barrel mark. One week ago, that barrel was being sold for less than $70.00.
+This all goes back to the opening headline from one of our esteemed RFP ES partners, Ricco Washington. When asked last week on a call how he sees the short/middle/long term energy markets, natgas especially, his response was dead on point - Do we see natgas falling below $2.00 per MMBtu or is there a better chance of it going over $3.00 and $4.00? The forward NYMEX prices show prices well into the $3 and 4 range but no months falling below the $2.00 mark or coming close to it at the time of this update.
 
-**NUCLEAR** – This energy source is quickly being accepted by almost everyone, and for good reason. It’s reliable, the infrastructure is already there, and it’s cost effective especially to the other green energy sources. France has upped their nuclear output by 23% in June alone. The IMO (International Maritime Organization) is looking to nuclear to get them to zero emissions by 2025 – it’s the only green energy source that can get a large freight/ship from port A to port B (see what I did there?). Turkey is looking to add 20GW by 2050. And even here in our backyard, The OC Register is pushing for nuclear (and making a good argument o it, reporter John Seiler) as it becomes clearer and clearer to anyone paying attention that getting to carbon neutrality by 2045 here in the Golden State (yet tarnished beyond recognition) is a pipe dream. BTW, we’re going to need as many pipelines as we can get in this state to keep the lights on.
-
-**RENEWABLES** – Engineers at UMass Amherst accidentally, yet successfully, generated Hygroelectricity – not to be mistaken for hydroelectricity. Hygroelectricity is based off Nikola Tesla’s theory from the 1930’s. In layman’s terms, creating electricity from humid air. Texas already generates more power and renewable than other states (last time I checked). Imagine how much Hygroelectricity could be generated in Houston in just one summer day? Getting this to full scale is well down the road but unlike solar and wind, it can be used day or night, in almost any weather condition, indoors or outdoors, and pretty much anywhere. Is my disdain for wind and solar (because there are far better options out there) coming across clearly?
-
-\*\*ITEMS OF INTEREST \*\*– All of the above should be items of interest when it comes to strategizing how to manage the forward market. Luckily for you, we do it better than most. And it’s all we do.
-
-**THE BOTTOM LINE** – Europe and Asia are relying on LNG imports from the U.S. more and more. This coming winter should see LNG exports to both regions increase. As more LNG terminals are built around the U.S., more of our domestic natgas will be exported. Natgas generated power here in the U.S. has more than doubled since 2005 and that number will continue to grow to meet an ever increasing peak and base load. Rigs are being temporarily shut in while other rigs are being shut down permanently. Daily production average continues to increase but can and will be outpaced by the growing demand for natgas. The driving factors should give great support to higher prices. IMHO, both the NYMEX and Basis markets will see further and greater volatility for the foreseeable future.
+**THE BOTTOM LINE** – Europe is starting to fill up storage with the help of Norway’s scheduled maintenance being completed this week, opening more capacity to be used now as well as to be stored for winter in various countries. That could lessen the LNG demand coming from the U.S., possibly allowing more domestic supply to find its way to the C&I sector. That’s what analysts and traders are looking at right now – this coming winter, 6 months, and 12 months out. And let’s face it – we are already halfway through 2023 and increasing winter concerns will only give support to bull runs for both NYMEX and Basis. Do you want to hold open positions going into winter? DO YOU?
 
 ***First of the Month Index Pricing Average for 2022***
 
@@ -60,27 +54,29 @@ For those who are curious, the active oil rig count fell by 5 rigs to a 15 month
 
 ***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
 
-**Indicative Fixed Prices as of 7/10/2023**
+**Indicative Fixed Prices as of 7/17/2023**
 
-Start Date Term PG&E CG SoCal CG
+Start Date Term PG&E CG SoCal CG
 
-July ’23 1 mo. $4.62 $6.48
+Aug ’23 1 mo. $4.88 $5.95
 
-July ’23 3 mo. $4.55 $5.95
+Aug ’23 3 mo. $4.75 $5.55
 
-July ‘23 6 mo. $5.60 $7.25
+Aug ‘23 6 mo. $5.71 $7.15
 
-July ’23 12 mo. $5.35 $6.59
+Aug ’23 12 mo. $5.40 $6.55
 
-July ’23 24 mo. $5.45 $6.60
+Aug ’23 24 mo. $5.50 $6.60
 
-Nov ’23 – Mar ‘24 $6.45 $8.10
+Nov ’23 – Mar ‘24 $6.50 $8.30
 
-Apr ’24 – Aug ‘25 $4.75 $5.55
+Apr ’24 – Aug ‘25 $4.76 $5.50
 
-#### **STORAGE REPORT**
 
-We’re roughly 25 % above last year and 15% above the 5-year average for this time of year. The most recent forecast for storage was an injection of 65Bcf. The actual number comes in at 72Bcf. We're now 575Bcf higher than this time last year and 366Bcf above the 5-year average of 2,511Bcf. At 2,877Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
 
-\*\*WEATHER – \*\*The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas, and southern Gulf regions. California should experience our first true cooling demand over the next few weeks, pushing Basis prices up again.
+#### **STORAGE REPORT – **The most recent forecast for storage was an injection of 65Bcf. The actual number comes in at 49Bcf. We're now 569Bcf higher than this time last year and 364Bcf above the 5-year average of 2,566Bcf. At 2,930Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
+
+
+
+**WEATHER – **The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas while the rest of the U.S. enjoys cooler than normal temperatures. Also looking ahead to the winter months, an above normal forecast could be helping to keep NYMEX and Basis from gaining strength. Basis prices for the California prices are high enough for those winter months already. Any downward pressure for those winter strips would be welcomed and acted on.
 
