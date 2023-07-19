@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-M5ND.png'
 publishedAt: '2023-07-13T23:25:36.248Z'
 ---
 
@@ -20,15 +20,9 @@ Regarding production/supply and demand, Barchart summed it up well this morning,
 
 NYMEX reacted to the Storage Report with prices going red from Aug ’23 through April ’25. Pair that with the $0.10 drop yesterday and we’re doing far better than we should be with heatwaves still hitting parts of the US. A cooler shift in the weather forecast (for Central and Eastern regions) is applying downward pressure to NYMEX prices right now.
 
-
-
 PG&E CG Basis and SoCal CG Basis are pretty much flat form yesterday.
 
-
-
 Next week is going to be hot here in the West so let’s lock up any open positions for July BALMO and Aug ’23 this week.
-
-
 
 START MONTH – AUG ’23
 
