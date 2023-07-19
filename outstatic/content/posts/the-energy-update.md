@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-MyMj.png'
 publishedAt: '2023-07-17T19:31:06.197Z'
 ---
 
@@ -16,7 +16,7 @@ publishedAt: '2023-07-17T19:31:06.197Z'
 
 THE DRIVING FACTORS
 
-**NYMEX **– NYMEX is feeling some bearish pressure despite climbing cooling demand days in the West, SW, and Texas. Currently sitting just over $2.50, a move over $2.75 - $3.10 range will bring bulls. The bears are sitting at the downside range of $2.35 - $2.10.
+\*\*NYMEX \*\*– NYMEX is feeling some bearish pressure despite climbing cooling demand days in the West, SW, and Texas. Currently sitting just over $2.50, a move over $2.75 - $3.10 range will bring bulls. The bears are sitting at the downside range of $2.35 - $2.10.
 
 **BASIS** – Both PG&E CG Basis and SoCal CG Basis prices have all fallen significantly over the past 3 weeks, SoCal CG especially. Currently, both delivery points continue to fall all the way through Oct ’24 before moving up in price compared to last week. Some months see PG&E CG Basis prices getting close to their historical range. Why not buy those cheap months now?
 
@@ -28,7 +28,7 @@ THE DRIVING FACTORS
 
 **RETAIL POWER (CALIFORNIA)** – Power prices are falling in CA as they are tied directly to natgas prices. Good time to extend hedges.
 
-**CARBON OFFSETS – **We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
+\*\*CARBON OFFSETS – \*\*We have carbon offset menus that can help lower current and future carbon footprints. Projects and price per unit vary greatly, making it easy to find a carbon offset to fit your budget and goals.
 
 **CRUDE** – Saudi’s extended cut of 1MM barrels/day through Aug ’23 has limited any potential downside pricing. Russia backed up Saudi’s cut with a 0.5MM barrels/day through Aug ’23 as well. By last Friday’s closing bell, we saw crude run just over $77/barrel. This week opened at $74.88, running up to $76 before closing the day’s trading at $74.01.
 
@@ -40,7 +40,7 @@ It’s a shame that the U.S. can’t be the largest producer of oil in the world
 
 WRONG. The increased global pressure on electricity prices due to high gas, oil, and coal prices is directly due to renewable being unable to make any consistent contribution to power demand. Demand for oil, gas, and coal for power generation have all increased during our plight for a renewable energy planet (the Unicorn Plan). Simple wishing and hoping just won’t get us where we need to get.
 
-**ITEMS OF INTEREST **– We posted an article over the weekend from Maria Bonaventura, Senior Managing Editor, Inside Wall Street with Nomi Prins. This makes for a god item of interest. “No matter how you feel about renewable energy, one thing remains true. There just isn’t enough of it to meet our rising energy demands.<br>
+\*\*ITEMS OF INTEREST \*\*– We posted an article over the weekend from Maria Bonaventura, Senior Managing Editor, Inside Wall Street with Nomi Prins. This makes for a god item of interest. “No matter how you feel about renewable energy, one thing remains true. There just isn’t enough of it to meet our rising energy demands.<br>
 
 Right now, the United States is facing its most severe energy crisis in almost five decades. Prices are skyrocketing, and the availability of energy is becoming increasingly limited. The good news is the U.S. is rich in energy resources like oil and natural gas. Texas is a major power producer – not just for the United States but for the rest of the world, too. And it’s on track to be a major player in securing energy independence for the U.S. and its allies. It’s all part of a plan that will cement the U.S. as the king of energy for decades.”
 
@@ -72,11 +72,7 @@ Nov ’23 – Mar ‘24 $6.50 $8.30
 
 Apr ’24 – Aug ‘25 $4.76 $5.50
 
+#### \*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 65Bcf. The actual number comes in at 49Bcf. We're now 569Bcf higher than this time last year and 364Bcf above the 5-year average of 2,566Bcf. At 2,930Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
 
-
-#### **STORAGE REPORT – **The most recent forecast for storage was an injection of 65Bcf. The actual number comes in at 49Bcf. We're now 569Bcf higher than this time last year and 364Bcf above the 5-year average of 2,566Bcf. At 2,930Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
-
-
-
-**WEATHER – **The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas while the rest of the U.S. enjoys cooler than normal temperatures. Also looking ahead to the winter months, an above normal forecast could be helping to keep NYMEX and Basis from gaining strength. Basis prices for the California prices are high enough for those winter months already. Any downward pressure for those winter strips would be welcomed and acted on.
+\*\*WEATHER – \*\*The 3-month forecast shows above normal for most of the U.S. The 6–10-day forecast shows temps well above normal for the West, SW, Texas while the rest of the U.S. enjoys cooler than normal temperatures. Also looking ahead to the winter months, an above normal forecast could be helping to keep NYMEX and Basis from gaining strength. Basis prices for the California prices are high enough for those winter months already. Any downward pressure for those winter strips would be welcomed and acted on.
 
