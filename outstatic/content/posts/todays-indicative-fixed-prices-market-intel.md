@@ -7,38 +7,30 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-07-19T16:35:20.836Z'
+publishedAt: '2023-07-20T15:47:02.004Z'
 ---
 
-7-19-23
+7-20-23
 
-*FACT - If Texas were a country, it would be the world’s third-largest natural gas producer. Now onto today’s market and indictive pricing…*
-
-*NYMEX is moving as low as $2.58 and as high as $2.65 so far today. So, flat for the day. Maybe tomorrow’s Storage Report will give NYMEX more direction.*
-
-*Both PG&E CG and SoCal CG Basis are gaining strength today.*
-
-*Current and forecasted weather and demand continue to be the driving factors for both NYMEX and Basis prices.*
-
-START MONTH – AUG ’23
+NYMEX certainly chose a direction this morning after the EIA released the latest Storage Report. The estimate was a measly 45Bcf. The actual injection came in at an even measlier 41Bcf. Pair that with an extended heatwave for most o the U.S. over the next 2 weeks. Now sitting just above $2.75 for the prompt month, bulls are running. Bears won’t be seen until a downward correction below $2.55 takes place. We can expect both NYMEX and West region Basis to continue this bull run as long as the driving factors remain the same.
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.00 $6.19
+1 MONTH $5.20 $6.39
 
-3 MONTHS $4.87 $5.70
+3 MONTHS $5.07 $5.90
 
-6 MONTHS $5.85 $7.27
+6 MONTHS $5.99 $7.39
 
-12 MONTHS $5.55 $6.65
+12 MONTHS $5.65 $6.75
 
-24 MONTHS $5.57 $6.65
+24 MONTHS $5.67 $6.75
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.65 $8.40
+$6.75 $8.50
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.79 $5.47
+$4.89 $5.57
 
