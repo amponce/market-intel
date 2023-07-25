@@ -1,5 +1,5 @@
 ---
-title: 'Today''s Indicative Fixed Prices + Market Intel'
+title: 'Today''s Indicative Fixed prices & Market Intel'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,34 +7,48 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-07-21T17:04:11.402Z'
+publishedAt: '2023-07-25T16:24:32.564Z'
 ---
 
-7-21-23
+7-25-23
 
-NYMEX summer months dialed it back a few cents today after yesterday’s $0.20+ 1 day rally. From Dec ’23 out, NYMEX monthly prices are up. Midrange resistance comes in right where NYMEX Aug ’23 is sitting, at $2.70. Downward support will take off once we get below $2.50 but don’t expect that to hit any time soon.
+SOCALGAS END USERS – please pay attention to what you are about to read -
 
-Not to be out done on this current bull run, PG&E CG Basis is up approximately $0.60+ from just 2 days ago. SoCal CG Basis is up over $1.00 from just 2 days ago.
+The BTS Rights Lottery is coming around again next month. As we’ve been meeting with more and more of you here in SoCal to discuss entering the BTS Rights lottery, one glaring issue stands out with many of you and your current traders/suppliers – if you currently have BTS Rights, whether it’s being managed by your company or by your trader/supplier, you should be receiving SoCal Border pricing NOT SoCal Citygate pricing. The main point of having BTS Rights is to have access to a much cheaper delivery point and that is SoCal Border.
 
-The current weather forecast gives strength to bulls sticking around for the remainder of July ’23. Weather driven demand is the main driving factor right now.
+In 2022, SoCal Border averaged $0.55 less than SoCal CG.
+
+In 2021, SoCal Border averaged $1.51 less than SoCal CG.
+
+In 2020, SoCal Border averaged $1.06 less than SoCal CG.
+
+And here in 2023, SoCal Border is averaging $3.41 less than SoCal CG.
+
+Basically, ever since Firm Access Rights (FAR) was initiated by SoCalGas (and then became Backbone Transportation Services (BTS) Rights) and SoCal Citygate was established as a delivery/price point, SoCal Border has been cheaper than SoCal CG.
+
+So…….if you are a C&I end user behind SoCalGas and currently have BTS Rights, ask your current trader/supplier if you are priced at SoCal Border or SoCal Citygate. If you’re priced at SoCal CG then your current trader/supplier made a lot of money thanks to your BTS Rights. Did they even send you a gift basket?
+
+Now, onto today’s Indicative Fixed Prices & Market Intel - NYMEX prompt month is bouncing between $2.65 - $2.75, holding closer to the lower end. We’re up $0.20 from 1 week ago but down $5.50 from 1 year ago. Even with current heat and above normal temperatures expected in 2 weeks for most of the U.S., NYMEX prices aren’t running the way one would expect them to run with such bullish factors hanging around.
+
+We’re now into Bid Week and with PG&E CG and SoCal CG delivered daily spot prices both rallying over the $6.00 mark (with SoCal CG closer to $7.00), Aug ’23 First of the Month Index prices could come in strong.
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.75 $6.99
+1 MONTH $5.79 $7.04
 
 3 MONTHS $5.50 $6.30
 
-6 MONTHS $6.25 $7.65
+6 MONTHS $6.33 $7.71
 
-12 MONTHS $5.77 $6.90
+12 MONTHS $5.81 $6.92
 
-24 MONTHS $5.67 $6.75
+24 MONTHS $5.71 $6.79
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.79 $8.60
+$6.84 $8.67
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.82 $5.48
+$4.85 $5.52
 
