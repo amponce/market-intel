@@ -7,26 +7,28 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-07-27T17:59:58.505Z'
+publishedAt: '2023-07-28T16:28:17.266Z'
 ---
 
-7-27-23
+7-28-23
 
-The latest Storage Report shows an injection of 16Bcf compared to the forecast of 13Bcf. Compare that to an 18Bcf injection last year and the 5-year average injection of 31Bcf.
+NYMEX is down approximately $0.15 from 1 week ago and down nearly $6.20 from 1 year ago. Aug ’23 is out as prompt month and Sep ’23 steps into the prompt month role, bouncing between $2.56 and $2.68. Resistance at $2.71 - $2.76. Support at $2.54 - $2.66. We’re smack in the middle of that support line right now. With cooler temperatures pushing through from the West in a few days, we could see further bearish pricing to start next week as Bid week winds down.
 
-NYMEX is reacting with a hard downturn, falling as much as $0.16 on the front month, pushing Aug ’23 below the $2.50 mark. We’re seeing red all the way out through Feb ’26. Nice NYMEX downward correction that could stick around with short term weather forecasts being normal to below normal for most of the U.S. except for Texas, the rest of the Gulf region, and remaining Southeast.
+PG&E CG Basis falls a few cents as cooler temperatures are just a few days away in the West. SoCal CG is down for a second straight day after Wednesday’s massive run up. Aug ’23 delivered is going for just over $10.25. SoCalGas confirmed the unscheduled maintenance on the Wheeler pipeline (dropping daily capacity by 650,000MMBtu) should be completed by 8-11-23.
 
-PG&E CG Basis remains flat for this week. SoCal CG Basis fell from yesterday’s high of $12+ to under the $8.00mark today. SoCalGas has said the unscheduled maintenance on the Wheeler pipeline (dropping daily capacity by 650,000MMBtu) should be completed by 8-11-23. This is yet another example of the volatility that we can continue to expect here in the Golden State. Energy optionality, at best, is limited in this fine state of ours. Open positions are not a good idea as we go into the late summer heat and then into the winter months.
+Have an awesome weekend!
 
 PG&E CG SOCAL CG
 
-1 MONTH $5.60 $10.45
+Start Month: Sep ‘23
 
-3 MONTHS $5.40 $7.86
+1 MONTH $5.41 $10.29
 
-6 MONTHS $6.35 $8.61
+3 MONTHS $5.34 $7.77
 
-12 MONTHS $5.84 $7.39
+6 MONTHS $6.31 $8.58
+
+12 MONTHS $5.82 $7.39
 
 24 MONTHS $5.73 $7.01
 
