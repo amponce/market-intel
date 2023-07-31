@@ -7,40 +7,48 @@ author:
 slug: 'the-energy-update'
 description: ''
 coverImage: ''
-publishedAt: '2023-07-24T18:33:13.477Z'
+publishedAt: '2023-07-31T21:24:30.509Z'
 ---
 
-***THE ENERGY UPDATE for 7-24-23***
+***THE ENERGY UPDATE for 7-31-23***
 
-*California fighting to become the dumbest state in the U.S. when it comes to energy management and reliability….*
 
-THE DRIVING FACTORS
 
-**NYMEX **– NYMEX is up around $0.15 from 1 week ago but is down a staggering $5.00+ from 1 year ago. The first half of 2023 saw NYMEX fall over 34% from Jan ’23 to June ’23. Mild weather, higher than average inventory, and record production pushed prices down in the first 6 months of 2023. Now here is the question - what’s going to push prices down, or up, for the balance of 2023? Could it be below normal temps for the balance of summer coupled with mild winter forecasts coming true? Could it be continued record production even with prices being below what producers consider break even? Could it be a lack of LNG being exported over the next 12 months? The current support range is $2.48 - $2.54 with resistance at $2.78 - $2.83.
+****
 
-The EIA predicts NYMEX will increase from the current price (roughly $2.70) to a $2.83 average between now and Dec ’23, with an estimated peak of $3.45 in Dec ’23, up from the June ’23 low of $2.18. Dec ’23 is currently priced over the forecasted Dec ’23 price so we could enjoy a downward correction once current market conditions/factors move from bullish to bearish.
+*NYMEX is trying to move up but having trouble doing so.*
 
-**BASIS** – Both PG&E CG Basis and SoCal CG Basis prices jumped anywhere from $0.50 to $1.10 from just 1 week ago. Let me say this again – this shows us just how volatile the West Basis market is and when we see Basis prices fall hard as they did 10 days ago, we need to execute, unless of course, we’re in the business of losing money.
+THE driving FACTORS
 
-**RIG COUNT** – Last week’s rig count for natgas fell by 2 rigs, for a total of 131 active rigs for natgas. Active oil rigs fell by 7 for a total of 530 rigs currently seeking oil.
 
-**PRODUCTION** – U.S. Natgas production has increased by 68% since 2010. Imagine how energy independent we could be if there weren’t such a war on natgas here in the U.S.? And then imagine how much your overall energy costs could drop with all that excess energy. Then imagine all the benefits we could enjoy by being the #1 energy producer and supplier in the world. Natgas production is up in July, averaging 101.5Bcr/D compared to 101Bcf/D in June.
 
-**DEMAND** – EIA expects demand to increase to 107Bcf/D for Dec ’23, down 2.1Bcf from Dec ’22. Bearish prediction for early winter demand. Currently, the forecast is for demand to rise from 105.7Bcf/D to 107Bcf/D in the coming weeks due to above normal temps in CA and TX.
+**NYMEX **– NYMEX prices for the prompt month (Sep ’23) are down around a nickel from 1 week ago. NYMEX is down roughly $5.50 from 1 year ago. NYMEX is trying to push its way back up but is having trouble doing so right now as weather patterns shift, demand steadies, and production stays at/above the 100Bcf/D mark.
 
-**RETAIL POWER (CALIFORNIA)** – Power moving right along with natgas prices. More generation optionality is needed for retail power prices to break from natgas price volatility.
+
+
+**BASIS** – Both PG&E CG Basis and SoCal CG Basis prices are up from 1 week ago – a dime for PG&E CG, varied for SoCal CG. The good news is that spot SoCal CG Basis continues to fall from last week’s high (due to the Wheeler pipeline shutting in 650,000MMBtu/D for unplanned maintenance) and is now approximately $0.50 above where it was from 1 week ago, before Wheeler took off 650,000MMBtu/D.
+
+**RIG COUNT** – Last week’s rig count for natgas fell by 3 rigs, for a total of 128 active rigs for natgas. Active oil rigs fell by 1 for a total of 529 rigs currently seeking oil.
+
+
+
+**PRODUCTION** – U.S. Natgas production continues to stay around the 100/101Bcf range. We shouldn’t expect an increase in daily production until natgas prices see some true gains in the market.
+
+**DEMAND** – U.S. LNG exports set a record in the first half of 2023. If record setting LNG exports from our shores continue through the winter months, and they should continue unless Russia releases a great deal more of their natural gas than currently promised, we could see similar price volatility like last winter. If Russia does release more natgas to the rest of Europe this winter, US LNG exports to Europe could be curbed, bringing on a domestic natgas glut, pushing domestic NYMEX (and some Basis) prices down. Another mild U.S winter would lessen demand, most likely pushing daily spot prices down before pushing short term strips down. It could happen. Feeling lucky or smart?
+
+**RETAIL POWER (CALIFORNIA)** – Power supply here in California was right around 5% above the current power demand in California for the last few weeks. More energy options to generate power in California are desperately needed. CAISO is averaging $61 per MWH.
 
 **CARBON OFFSETS – **We’ve got them if you want them – anything from planting more trees in the Western U.S. region to building remote generation in third world countries (this does not include Michigan due to it being a state).
 
-**CRUDE** – Bullish sentiment is building for this commodity. U.S. production for 2023 is on the decline. Saudi sticks with 1MM barrels/D less for Aug ’23. At over $77/B today, we’re approximately $2.50 above this time last week. Don’t feel too bad though because crude is nearly $20.00 cheaper than it was this time last year.
+**CRUDE** – Crude WTI ran up over the $81.50 mark earlier today. Hoping you followed our lead from a few weeks ago when we said that this commodity was about to enjoy a good bull run - $10+ per barrel so far. Nice. A weak US dollar and increased demand should keep this bull running. Tightening supplies are also helping to push prices up. We’re down 0.6MM barrels from 1 week ago but up 34MM barrels from 1 year ago. And Saudi threatens further and extended cuts.
 
-**NUCLEAR** – Smaller modular reactors (SMRs) are gaining more and more interest and for good reasons. Governments around the world are accepting the fact that SMRs are far more reliable, cost effective, and better for the environment than some of those other “green” energies.
+**NUCLEAR** – The U.S. provides nearly 50% of the uranium used for our domestic nuclear reactors. Most of the balance of uranium comes from Russia. The current administration wants to ban 1.1MM acres of domestic uranium mining, making the U.S even more dependent on energy sources outside of the U.S, namely Russia. Not a smart move by our public servants, in my humble opinion.
 
-**RENEWABLES** – Not playing that broken record today.
+**RENEWABLES** – Last Friday our Department of Energy announced plans to re-purpose some of the land it owns, "portions of which were previously used in the nation's nuclear weapons program" for clean energy purposes. The DOE will lease out the land for "utility-scale clean energy projects" in an initiative called "Cleanup to Clean Energy." Question for the ever-forward-thinking DOE - How long will this project take, how much will it cost, how much energy will be generated, and just how much do you stand to make on these leases? Keep an on this DOE grift.
 
-**ITEMS OF INTEREST **– You can’t make this up – As California temperatures increase (increasing cooling demand which increases power generation), California state officials have asked EV drivers in the state to “refrain from charging their cars in hopes of avoiding power outages”. This comes just one week after unveiling plans to ban the sale of new gas-powered vehicles in the state by 2035. Not a problem – we’ll just use our safe and reliable public transit system that covers all areas of our major cities to the most lying areas of the state….wait a second…never mind….…….well, we can just rely on our state officials and CPUC to get our poorly managed, poorly maintained, already over-taxed California electric grid up to standards by then….nope…that doesn’t work either…..
+**ITEMS OF INTEREST **– Humidity in the Golen State – this past weekend humidity surpassed 85% in parts of California. The number of days with humidity over 70% here in California continues to rise every summer with no signs of this trend reversing. Air conditioning units are being used more and are being added to more homes and buildings, whether they be old or new homes and buildings, than ever before. This will require more natural gas to meet the growing power demand to meet the increased usage, most likely driving up the price of power in the state while we find ways to generate more and put an even greater burden on our outdated electric grid. Throw all this in with the ever-increasing push for EVs, no natgas in new homes or buildings in a growing number of towns/cities/counties here in California and we are staring straight into….darkness.
 
-**THE BOTTOM LINE** – Traders are keeping a close eye on LNG exports and weather over the next few weeks. A rise in either or both could push short-term prices up. Then we need to look at where prices COULD run this winter if anything out of the ordinary takes place. Look back at the last 4 years where something or another blew prices out, at least once in each of those years between November and March. NYMEX and or Basis doesn’t have to run all the way to $50 - $145 per MMBtu for 1 day to blow out your year’s energy budget. It could be 1 first of the month index that’s priced at $8 or $14 per MMBtu – a slower, softer price run up is just as painful. What do you want to do?
+**THE BOTTOM LINE** – The world continues to consume more energy by the day. This will continue to increase. Don’t think for a second that it will not. Energy will become more expensive and less reliable while the people put in charge of this growing problem bury their heads in the sand. We’ll need to be more proactive and ready to execute when prices fall if we are to protect ourselves from the growing number of violent price spikes.
 
 ***First of the Month Index Pricing Average for 2022***
 
@@ -48,25 +56,25 @@ The EIA predicts NYMEX will increase from the current price (roughly $2.70) to a
 
 ***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
 
-**Indicative Fixed Prices as of 7/24/2023**
+**Indicative Fixed Prices as of 7/31/2023**
 
-Start Date Term PG&E CG SoCal CG
+Start Date Term PG&E CG SoCal CG
 
-Aug ’23 1 mo. $5.76 $7.01
+Sep ’23 1 mo. $5.64 $7.47
 
-Aug ’23 3 mo. $5.46 $6.25
+Sep ’23 3 mo. $5.88 $7.22
 
-Aug ‘23 6 mo. $6.30 $7.68
+Sep ‘23 6 mo. $7.10 $8.85
 
-Aug ’23 12 mo. $5.75 $6.88
+Sep ’23 12 mo. $6.10 $7.35
 
-Aug ’23 24 mo. $5.50 $6.60
+Sep ’23 24 mo. $5.93 $7.05
 
-Nov ’23 – Mar ‘24 $6.82 $8.65
+Nov ’23 – Mar ‘24 $7.40 $9.20
 
-Apr ’24 – Aug ‘25 $4.84 $5.52
+Apr ’24 – Aug ‘25 $4.94 $5.71
 
-#### **STORAGE REPORT – **The most recent forecast for storage was an injection of 45Bcf. The actual number comes in at 41Bcf. We're now 575Bcf higher than this time last year and 360Bcf above the 5-year average of 2,611Bcf. At 2,971Bcf, total working gas is within the 5-year historical range. End of Injection Season levels are expected to be at a record setting 4.1Tcf.
+**STORAGE REPORT – **The most recent forecast for storage was an injection of 13Bcf. The actual number comes in at 16Bcf. We're now 573Bcf higher than this time last year and 345Bcf above the 5-year average of 2,642Bcf. At 2,987Bcf, total working gas is within the 5-year historical range. End of Injection Season levels have dropped .1Tcf to 4.0Tcf.
 
-**WEATHER – **The 3-month forecast is above normal for the South, increasing an already high cooling demand. The 6–10-day forecast shows temps above normal for SoCal, well above normal for Texas, South, Southeast, and up to the Mid-Atlantic. Also looking ahead to the Oct – Dec ’23 outlook, above normal conditions for the West and Northeast, with slightly above normal for most of the U.S. except for the Plains and West Great Lakes regions (where “equal chances” are forecasted) paints a bearish forecast.
+**WEATHER – **The 3-month forecast is above normal for the South, increasing an already high cooling demand. The Oct – Dec ’23 outlook shows above normal conditions for the West and Northeast, with slightly above normal for most of the U.S. except for the Plains and West Great Lakes regions (where “equal chances” are forecasted) paints a bearish forecast. The 6–10-day forecast shows temps above normal for SoCal, well above normal for Texas, South, Southeast, and up to the Mid-Atlantic. The 5-day to 15-day forecast favors lower prices as cooling demand looks to fall below normal for a large part of the U.S.
 
