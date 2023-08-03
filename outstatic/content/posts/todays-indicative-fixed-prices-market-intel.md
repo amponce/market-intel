@@ -7,40 +7,36 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-02T17:23:32.927Z'
+publishedAt: '2023-08-03T16:18:38.563Z'
 ---
 
-8-2-23
+8-3-23
 
-NYMEX is down approximately $0.25 from 1 week ago and down nearly $6.00 from 1 year ago. Sep ’23 is down again today, opening today at $2.56 and falling to $2.46 at the time of this report. Every month past Sep ’23 and through Dec ’35 is seeing red today. Resistance ranges from $2.67 to $2.75. Support is $2.49 to $2.39. And we’ve hit the top end of that support today already.
+The Storage Report posted a 14Bcf injection. The forecast was 18Bcf. Last year’s injection was 37Bcf. The 5-year average for this week is also 37Bcf. As you can imagine, NYMEX prices jumped up after the announcement earlier this morning. NYMEX is up as much as $0.10 so far today, sitting at $2.58. $
 
-Short- and longer-term PG&E CG Basis prices are up compared to 1 week ago. SoCal CG Basis prices are falling as cooler, less humid weather returns to the <s>tarnished</s>
+Resistance ranges from $2.54 to $2.65. Support is $2.35 to $2.45. NYMEX still looks good as we are well below last year’s prices and the first month showing at above the $4.00 mark is Dec ’24. Still good buys out there for NYMEX.
 
- Golden State as well as unscheduled maintenance on the Wheeler pipeline is set to be completed by 8-11-23, on schedule.
-
-It is my belief that we could see prices fall further as we move into the shoulder months; moving out of summer, away from summer heat, causing demand to fall, while production stays steady (around 100Bcf/D) or increases, and before winter heating demand days kick in.
-
-The latest Storage Report is forecasted to show an 18Bcf injection. Compare this to last year and the 5-year average, 37Bcf for both. Extreme heat in July is responsible for this well below normal injection. If it comes in above the forecasted 18Bcf, we could see NYMEX continue the current downward trend….
+Both PG&E CG Basis and SoCal CG Basis prices are up this morning, ranging from $0.03 to $0.10. Today is not the day for Basis. Tomorrow probably won’t be the day either for Basis as we wait out the bullish factors. Sit back, take a breath. Our chance will be here soon enough. Call us to discuss the best options available because there are some very nice options right now.
 
 PG&E CG SOCAL CG
 
 Start Month: Sep ‘23
 
-1 MONTH $5.55 $7.50
+1 MONTH $5.60 $7.52
 
-3 MONTHS $5.85 $7.40
+3 MONTHS $5.75 $7.35
 
-6 MONTHS $7.00 $8.65
+6 MONTHS $6.85 $8.50
 
-12 MONTHS $6.00 $7.20
+12 MONTHS $5.85 $7.05
 
-24 MONTHS $5.85 $6.95
+24 MONTHS $5.75 $6.85
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.20 $8.75
+$7.00 $8.50
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.95 $5.65
+$4.85 $5.55
 
