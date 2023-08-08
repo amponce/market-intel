@@ -6,37 +6,39 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-U1Nj.png'
-publishedAt: '2023-08-03T16:18:38.563Z'
+coverImage: ''
+publishedAt: '2023-08-08T18:10:58.847Z'
 ---
 
-8-3-23
+8-8-23
 
-The Storage Report posted a 14Bcf injection. The forecast was 18Bcf. Last year’s injection was 37Bcf. The 5-year average for this week is also 37Bcf. As you can imagine, NYMEX prices jumped up after the announcement earlier this morning. NYMEX is up as much as $0.10 so far today, sitting at $2.58. $
+Enjoying the current bull run??
 
-Resistance ranges from $2.54 to $2.65. Support is $2.35 to $2.45. NYMEX still looks good as we are well below last year’s prices and the first month showing at above the $4.00 mark is Dec ’24. Still good buys out there for NYMEX.
+NYMEX is up $0.15 from a week ago but down $5.20 from 1 year ago. Prompt month sits at $2.77 currently, hitting $2.79 briefly. The resistance sits at $2.80 - $2.88. Support levels are now at $2.70 - $2.64.
 
-Both PG&E CG Basis and SoCal CG Basis prices are up this morning, ranging from $0.03 to $0.10. Today is not the day for Basis. Tomorrow probably won’t be the day either for Basis as we wait out the bullish factors. Sit back, take a breath. Our chance will be here soon enough. Call us to discuss the best options available because there are some very nice options right now.
+Basis here in the Golden State is roughly $1.00 from a week ago for both PG&E CG and SoCal CG.
+
+Weather and a drop in end of injection season overall storage are ushing prices up. Weather will weaken but a falling storage level going into winter could bring out more bulls.
 
 PG&E CG SOCAL CG
 
 Start Month: Sep ‘23
 
-1 MONTH $5.60 $7.52
+1 MONTH $6.25 $8.10
 
-3 MONTHS $5.75 $7.35
+3 MONTHS $6.50 $7.85
 
-6 MONTHS $6.85 $8.50
+6 MONTHS $7.40 $9.00
 
-12 MONTHS $5.85 $7.05
+12 MONTHS $6.25 $7.35
 
-24 MONTHS $5.75 $6.85
+24 MONTHS $6.00 $6.95
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.00 $8.50
+$7.45 $8.85
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.85 $5.55
+$4.95 $5.60
 
