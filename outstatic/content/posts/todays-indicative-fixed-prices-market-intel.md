@@ -7,38 +7,42 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-08T18:10:58.847Z'
+publishedAt: '2023-08-09T17:16:48.798Z'
 ---
 
-8-8-23
+8-9-23
 
-Enjoying the current bull run??
+If you enjoyed yesterday’s bull run, then you are LOVING today’s follow up. Remember to breathe.
 
-NYMEX is up $0.15 from a week ago but down $5.20 from 1 year ago. Prompt month sits at $2.77 currently, hitting $2.79 briefly. The resistance sits at $2.80 - $2.88. Support levels are now at $2.70 - $2.64.
+This bull run was overdue and inevitable. And so is a downward correction once the driving factors change direction.
 
-Basis here in the Golden State is roughly $1.00 from a week ago for both PG&E CG and SoCal CG.
+NYMEX is up as much as $0.23 on the prompt month, seeing green all the way through May ‘25.
 
-Weather and a drop in end of injection season overall storage are ushing prices up. Weather will weaken but a falling storage level going into winter could bring out more bulls.
+PG&E CG Basis is up and down a few pennies. SoCal CG Basis is starting to fall for most months, over the next 18 months. This is probably due to the Wheeler pipeline finishing up maintenance before the weekend. Once normal weather returns, we should see both Basis points fall.
+
+Your opportunities are coming over the next 6 weeks. You might want to be ready to transact quickly. Are you set up to transact quickly?
+
+For now, one particular song from (the legendary) Rage Against the Machine comes to mind - Bulls on Parade.
 
 PG&E CG SOCAL CG
 
 Start Month: Sep ‘23
 
-1 MONTH $6.25 $8.10
+1 MONTH $6.55 $8.30
 
-3 MONTHS $6.50 $7.85
+3 MONTHS $6.75 $8.05
 
-6 MONTHS $7.40 $9.00
+6 MONTHS $7.70 $9.20
 
-12 MONTHS $6.25 $7.35
+12 MONTHS $6.45 $7.45
 
-24 MONTHS $6.00 $6.95
+24 MONTHS $6.10 $7.10
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.45 $8.85
+$7.80 $9.20
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.95 $5.60
+$5.15 $5.75
 
