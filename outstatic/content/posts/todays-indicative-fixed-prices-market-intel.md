@@ -7,40 +7,44 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-10T16:01:26.284Z'
+publishedAt: '2023-08-11T16:36:37.942Z'
 ---
 
-8-10-23
+8-11-23<br>
 
-The latest storage report shows an injection of 29Bcf. The estimate was 25Bcf. We’re now 55Bcf above last year and 305Bcf above the 5-year average. Storage here in CA is closing the gap on last year and the 5-year average but still show a deficit when injections are replaced with withdrawals.
+NYMEX prices are trading a few cents either way so far today. We’re up roughly $0.20 from 1 week ago but are down around $5.45 from 1 year ago. <br>
 
-This injection is pushing NYMEX prices down, taking back a large chunk of the gains seen over the previous 2 days. The prompt is down as much as $0.18 so far today with months posting in the red through Dec ’24.
+Resistance starts at $2.85 - $2.92. <br>
 
-PG&E CG Basis remains flat, with movement no more than a few cents.
+Support for bears starts at $2.74 - $2.68. <br>
 
-SoCal CG, if you didn’t see our posting late afternoon yesterday, is falling hard. Wheeler Pipeline is back up and running, adding back 650,000MMBtu/D to the overall SoCal supply.
+Prompt month is trading between $2.70 - $2.83, currently sitting at $2.74.<br>
 
-Once the current heatwave subsides, we should see Basis and NYMEX prices fall from where they currently sit.
+PG&E CG Basis mirroring NYMEX in movement today. <br>
 
-PG&E CG SOCAL CG
+SoCal CG Basis fell a few more cents today. <br>
 
-Start Month: Sep ‘23
+Prices could fall as cooling demand falls with cooler temps anticipated in the 10 - 15-day forecast.<br>
 
-1 MONTH $6.35 $8.10
+PG&E CG SOCAL CG<br>
 
-3 MONTHS $6.55 $7.85
+Start Month: Sep ‘23<br>
 
-6 MONTHS $7.50 $9.00
+1 MONTH $6.30 $8.05<br>
 
-12 MONTHS $6.25 $7.24
+3 MONTHS $6.50 $7.80<br>
 
-24 MONTHS $5.98 $6.95
+6 MONTHS $7.45 $8.95<br>
 
-Winter Strips (Nov ’23 – March ‘24)
+12 MONTHS $6.20 $7.20<br>
 
-$7.75 $9.15
+24 MONTHS $5.95 $6.92<br>
 
-Summer Strip (May ’24 – Aug ‘24)
+Winter Strips (Nov ’23 – March ‘24) <br>
 
-$4.99 $5.61
+$7.70 $9.10<br>
+
+Summer Strip (May ’24 – Aug ‘24)<br>
+
+$4.95 $5.60
 
