@@ -6,41 +6,39 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-Y0Mz.png&w=1920&q=75'
-publishedAt: '2023-08-07T17:01:28.512Z'
+coverImage: ''
+publishedAt: '2023-08-14T16:24:04.239Z'
 ---
 
-***THE ENERGY UPDATE for 8-7-23***
+***THE ENERGY UPDATE for 8-14-23***
 
----
-
-*Does NYMEX even pay attention to weather, demand, and supply these days? It certainly is today!*
+*Warning - Hot Lashings of Ultra Truth Found in Today’s Update *
 
 THE DRIVING FACTORS
 
-**NYMEX** – NYMEX prices are up $0.10 from 1 week ago but down approximately $5.40 from 1 year ago. The prompt month is up as much as $0.17 at $2.75. With resistance levels between $2.65 - $2.75 and support levels being all the way down around the $2.40 to $2.50 range, it’s safe to say we could be staring into a decent bull run. NYMEX is paying attention to the driving factors and so should you!
+**NYMEX **– NYMEX is flat from last week’s close. We’re up $0.20 from 1 week ago but down $5.45 from 1 year ago. We’ve just gone through one of the hottest Julys on record, August is shaping up to be the same, and yet NYMEX prices remain under the $4.00 for 11 of the next 12 months. The Bulls are hanging out between $2.85 - $2.90 while the Bears are expected to show up until NYMEX crosses $2.68 or below. The prompt month is sitting at $2.77 at the time of this report.
 
-**BASIS** – Basis in the West region remains higher than normal and may continue to remain higher than normal for the foreseeable future due to above normal temperatures & humidity, a growing demand at power plants, a lack of pipeline options (intrastate or interstate coming west), and a lack of in-state production and storage.
+**BASIS** – Basis behind PG&E CG is up substantially from a week ago. Increased heat is pushing up the cooling demand and that demand from the power plant is calling on natgas first and foremost. SoCal CG Basis fell a few more cents but this is simply due to Wheeler pipe coming back online mid last week. We can expect more price volatility in the coming months as intrastate storage and production remain limited, forcing us to rely more on out of state production/supply/transportation, hence increasing our chances of things going wrong.
 
-**RIG COUNT** – Last week’s rig count for natgas is unchanged from the previous week with 128 active rigs for natgas. Active oil rigs fell by 4 for a total of 525 rigs currently seeking oil.
+**RIG COUNT** – Last week’s rig count dropped another 5 rigs for a total of 123 active rigs for natgas – the lowest level since Feb ’22, and 37 fewer rigs than 1 year ago this time. Active oil rigs held steady from the previous week for a total of 525 rigs currently seeking oil – down 14% from 1 year ago this time.
 
-**PRODUCTION** – U.S. Natgas production continues to stay around the 100/101Bcf range.
+**PRODUCTION** – U.S. Natgas production remains in the 100Bcf/D area. The U.S. needs 105Bcf/D production for us to achieve supply stability (as natgas is called upon more for power generation), and to achieve some sense of price stability. Don’t expect production to increase however, as state and federal sanctions crush more and more producers.
 
-**DEMAND** – U.S. domestic demand is on the rise due to increased and extended cooling demand days. Overseas demand (LNG) shows no signs of lessening for the time being.
+**DEMAND** – U.S. domestic natural gas demand continues to be above normal, driven by an above normal cooling demand, overall increase in natural gas demand, and growing LNG exports.
 
-**RETAIL POWER (CALIFORNIA)** – Power prices here in California fell as much as $10, from $70 per MWH two weeks ago to just over $60 per MWH last week. Power prices continue to be driven by natural gas prices here in the West.
+**RETAIL POWER (CALIFORNIA)** – Power prices here in California remain under $70 per MWH. The extended heatwave, along with tropical storms throughout the Pacific, will test those current power prices.
 
-\*\*CARBON OFFSETS and RSG (responsibly sourced gas) – \*\*We’ve got both carbon offsets and now RSG if you want them. The menu length is too long to post on the weekly energy update. Call us and we can send them out to you and discuss further.
+**CARBON OFFSETS and RSG (responsibly sourced gas) – **We’ve got both carbon offsets and now RSG if you want them. The menu length is too long to post on the weekly energy update. Call us and we can send them out to you and discuss further.
 
-**CRUDE** – **U.S. commercial crude** inventories fell by a record -17 million barrels from July 21 – July 28, 2023. As part of their effort to boost oil prices, Saudi and its “allies” in OPEC have been especially keen to drain U.S. inventories because they are the most visible part of the oil market. Following the drawdown, U.S. commercial crude inventories were just +9 million barrels above the prior ten-year seasonal average. We the People (at the pump) pay the price for us failing to be more independent when it comes to energy. And our DOE has the gall to say warmer than normal weather is to blame for higher prices at the pump….
+**CRUDE** – WTI Crude prices are over $82 a barrel at the time of this update. Crude is up over $1.25 from 1 week ago but down over $9 from 1 year ago. This latest rally shouldn’t surprise anyone at all given what we have been insightfully reports all summer.
 
-**NUCLEAR** – Alberta, Canada is suspending green energy projects (solar & wind) and looking closer into SMRs. Seeing as Alberta has an average of 55% of sunshine, and the combined S&W energy contributed a meager 17% of all energy last year, it makes sense to look at nuclear and SMRs. It seems that people are pulling their heads out of the sand and making the smarter choice to choose nuclear over S&W. China (of all places) is leading the charge. South Korea, India, and Japan are all looking to nuclear in their fight towards climate change. Makes sense. Now get hydrogen going and we’ll make a section for that energy source on here as well.
+**NUCLEAR** – Many parts of the world are rewriting their energy policies to include nuclear energy going forward. More countries realize the only way they will meet their energy goals (usually put forth by people who enjoy great nepotism and haven’t a clue about successful energy management) is to include more reliable, safer for the environment, and cost-effective energy sources to the plan. Here in the US, due to so many government officials being paid large sums of money to push the S&W initiative, bringing nuclear back will remain an uphill battle. But who doesn’t like a good fight, right?
 
-**RENEWABLES** – Mongolia and the U.S have agreed that Mongolia will “deepen their cooperation of mining rare earths” for the U.S. to meet our growing push of EVs here in the U.S. Nothing to see here! Look away, please. Just some standard, hypocritical NIMBY being practiced.
+**RENEWABLES** – The two renewable darlings, S&W, are proving to be unreliable, far more expensive to build and maintain than we were originally promised, not nearly as long lasting as promoted to be, are a growing eyesore on the landscape, and are doing far worse than good for our ecosystem. Looking for something better? Look at responsibly sourced natural gas (RSG), renewable natural gas (RNG) while we wait for better power generation options to be implemented.
 
-\*\*ITEMS OF INTEREST \*\*– Bullish factors across the board right now. Is it better to be long or better to be short when the driving factors look more bullish than bearish? The answer, in my opinion, is to be long. Especially here in the West. We have seen delivered daily spot prices during summer months spike over $20 per MMBtu and over $150 per MMBtu during winter months. We have not seen any delivered daily spot prices fall from the $5 - $6 range down to the $2 - $1 range. And that is why a longer position beats a short position. It’s that simple, people!
+**ITEMS OF INTEREST **– Growing humidity percentages here in California. Over the past 5 years, the humidity percentage has increased steadily and for longer periods. Today in West L.A we’re looking at over 85% humidity. Areas of California that rarely needed air conditioning/cooling now need it on a growing basis. We’re increasing our power demand every year in the West. One thing we’re not doing, however, is figuring out how to meet this growing demand. There aren’t even any genuine discussions on how to meet the growing power demand here in California at the state level, let alone any projects being proposed at the state or federal levels for one of the world’s largest economies, that is California.
 
-**THE BOTTOM LINE** – Let the other traders and suppliers over complicate and confuse you with their nonsensical industry blathering. That’s how they keep you scared and afraid to leave them. RFP ES is ripping away the fear and confusion in the market. You have far better options than you know. Just ask any of our clients if they’re happier with us than their former supplier/trader. They will say “yes”. Ask them if they have a clearer picture of the current and forward markets now than they did in the past with their former supplier/trader. They will say “yes”. Ask them if they’re afraid of being blindsided by market price spikes because they went into extreme months/seasons with no plan in place. They will say “no”.
+**THE BOTTOM LINE** – Get ready to spend more on energy, at every level, here in the West region. It’s a growing expense because the people put in charge couldn’t care less about you, how much over budget your companies run, or what you think. We need to be as proactive as possible and playing the open positions index game is as dangerous as…..playing the open position index game. No better example exists.
 
 ***First of the Month Index Pricing Average for 2022***
 
@@ -48,25 +46,27 @@ THE DRIVING FACTORS
 
 ***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
 
-**Indicative Fixed Prices as of 8/7/2023**
+**Indicative Fixed Prices as of 8/14/2023**
 
-Start Date Term PG&E CG SoCal CG
+Start Date Term PG&E CG SoCal CG
 
-Sep ’23 1 mo. $6.65 $8.68
+Sep ’23 1 mo. $6.55 $7.65
 
-Sep ’23 3 mo. $6.75 $8.25
+Sep ’23 3 mo. $6.90 $7.95
 
-Sep ‘23 6 mo. $7.50 $9.20
+Sep ‘23 6 mo. $8.10 $9.40
 
-Sep ’23 12 mo. $6.25 $7.40
+Sep ’23 12 mo. $6.75 $7.65
 
-Sep ’23 24 mo. $6.00 $7.00
+Sep ’23 24 mo. $6.35 $7.15
 
-Nov ’23 – Mar ‘24 $7.45 $8.90
+Nov ’23 – Mar ‘24 $8.35 $9.55
 
-Apr ’24 – Aug ‘25 $4.95 $5.65
+Apr ’24 – Aug ‘25 $5.20 $5.75
 
-\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 18Bcf. The actual number comes in at 14Bcf. We're now 550Bcf higher than this time last year and 322Bcf above the 5-year average of 2,679Bcf. At 3,001Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 4.0Tcf.
+**STORAGE REPORT – **The most recent forecast for storage was an injection of 30Bcf. The actual number comes in at 29Bcf. We're now 535Bcf higher than this time last year and 305Bcf above the 5-year average of 2,725Bcf. At 3,030Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.05Tcf, down from the earlier forecast of 4.1Tcf.
 
-\*\*WEATHER – \*\*The 3-month forecast is above normal for the South, increasing an already high cooling demand. The Oct – Dec ’23 outlook shows above normal conditions for the West and Northeast, with slightly above normal for most of the U.S. except for the Plains and West Great Lakes regions (where “equal chances” are forecasted) paints a bearish forecast. The 6–10-day forecast shows temps above normal for SoCal, well above normal for Texas, South, Southeast, and up to the Mid-Atlantic. The 5-day to 15-day forecast favors higher prices as more heat drives up cooling demand.
+**WEATHER – Time to change the weather charts from summer to winter!! **The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
+
+The 5-day to 15-day forecast favors higher prices as the Mid-Con, TX, Gulf, Mid-Atlantic regions experience sweltering heat.
 
