@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-Q2OT.png&w=750&q=75'
+coverImage: '/images/rfp-brand-kzMD.png'
 publishedAt: '2023-08-14T16:24:04.239Z'
 ---
 
