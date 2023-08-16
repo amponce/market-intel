@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: ''
+coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-Q2OT.png&w=750&q=75'
 publishedAt: '2023-08-14T16:24:04.239Z'
 ---
 
@@ -16,7 +16,7 @@ publishedAt: '2023-08-14T16:24:04.239Z'
 
 THE DRIVING FACTORS
 
-**NYMEX **– NYMEX is flat from last week’s close. We’re up $0.20 from 1 week ago but down $5.45 from 1 year ago. We’ve just gone through one of the hottest Julys on record, August is shaping up to be the same, and yet NYMEX prices remain under the $4.00 for 11 of the next 12 months. The Bulls are hanging out between $2.85 - $2.90 while the Bears are expected to show up until NYMEX crosses $2.68 or below. The prompt month is sitting at $2.77 at the time of this report.
+\*\*NYMEX \*\*– NYMEX is flat from last week’s close. We’re up $0.20 from 1 week ago but down $5.45 from 1 year ago. We’ve just gone through one of the hottest Julys on record, August is shaping up to be the same, and yet NYMEX prices remain under the $4.00 for 11 of the next 12 months. The Bulls are hanging out between $2.85 - $2.90 while the Bears are expected to show up until NYMEX crosses $2.68 or below. The prompt month is sitting at $2.77 at the time of this report.
 
 **BASIS** – Basis behind PG&E CG is up substantially from a week ago. Increased heat is pushing up the cooling demand and that demand from the power plant is calling on natgas first and foremost. SoCal CG Basis fell a few more cents but this is simply due to Wheeler pipe coming back online mid last week. We can expect more price volatility in the coming months as intrastate storage and production remain limited, forcing us to rely more on out of state production/supply/transportation, hence increasing our chances of things going wrong.
 
@@ -28,7 +28,7 @@ THE DRIVING FACTORS
 
 **RETAIL POWER (CALIFORNIA)** – Power prices here in California remain under $70 per MWH. The extended heatwave, along with tropical storms throughout the Pacific, will test those current power prices.
 
-**CARBON OFFSETS and RSG (responsibly sourced gas) – **We’ve got both carbon offsets and now RSG if you want them. The menu length is too long to post on the weekly energy update. Call us and we can send them out to you and discuss further.
+\*\*CARBON OFFSETS and RSG (responsibly sourced gas) – \*\*We’ve got both carbon offsets and now RSG if you want them. The menu length is too long to post on the weekly energy update. Call us and we can send them out to you and discuss further.
 
 **CRUDE** – WTI Crude prices are over $82 a barrel at the time of this update. Crude is up over $1.25 from 1 week ago but down over $9 from 1 year ago. This latest rally shouldn’t surprise anyone at all given what we have been insightfully reports all summer.
 
@@ -36,7 +36,7 @@ THE DRIVING FACTORS
 
 **RENEWABLES** – The two renewable darlings, S&W, are proving to be unreliable, far more expensive to build and maintain than we were originally promised, not nearly as long lasting as promoted to be, are a growing eyesore on the landscape, and are doing far worse than good for our ecosystem. Looking for something better? Look at responsibly sourced natural gas (RSG), renewable natural gas (RNG) while we wait for better power generation options to be implemented.
 
-**ITEMS OF INTEREST **– Growing humidity percentages here in California. Over the past 5 years, the humidity percentage has increased steadily and for longer periods. Today in West L.A we’re looking at over 85% humidity. Areas of California that rarely needed air conditioning/cooling now need it on a growing basis. We’re increasing our power demand every year in the West. One thing we’re not doing, however, is figuring out how to meet this growing demand. There aren’t even any genuine discussions on how to meet the growing power demand here in California at the state level, let alone any projects being proposed at the state or federal levels for one of the world’s largest economies, that is California.
+\*\*ITEMS OF INTEREST \*\*– Growing humidity percentages here in California. Over the past 5 years, the humidity percentage has increased steadily and for longer periods. Today in West L.A we’re looking at over 85% humidity. Areas of California that rarely needed air conditioning/cooling now need it on a growing basis. We’re increasing our power demand every year in the West. One thing we’re not doing, however, is figuring out how to meet this growing demand. There aren’t even any genuine discussions on how to meet the growing power demand here in California at the state level, let alone any projects being proposed at the state or federal levels for one of the world’s largest economies, that is California.
 
 **THE BOTTOM LINE** – Get ready to spend more on energy, at every level, here in the West region. It’s a growing expense because the people put in charge couldn’t care less about you, how much over budget your companies run, or what you think. We need to be as proactive as possible and playing the open positions index game is as dangerous as…..playing the open position index game. No better example exists.
 
@@ -64,9 +64,9 @@ Nov ’23 – Mar ‘24 $8.35 $9.55
 
 Apr ’24 – Aug ‘25 $5.20 $5.75
 
-**STORAGE REPORT – **The most recent forecast for storage was an injection of 30Bcf. The actual number comes in at 29Bcf. We're now 535Bcf higher than this time last year and 305Bcf above the 5-year average of 2,725Bcf. At 3,030Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.05Tcf, down from the earlier forecast of 4.1Tcf.
+\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 30Bcf. The actual number comes in at 29Bcf. We're now 535Bcf higher than this time last year and 305Bcf above the 5-year average of 2,725Bcf. At 3,030Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.05Tcf, down from the earlier forecast of 4.1Tcf.
 
-**WEATHER – Time to change the weather charts from summer to winter!! **The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
+\*\*WEATHER – Time to change the weather charts from summer to winter!! \*\*The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
 
 The 5-day to 15-day forecast favors higher prices as the Mid-Con, TX, Gulf, Mid-Atlantic regions experience sweltering heat.
 
