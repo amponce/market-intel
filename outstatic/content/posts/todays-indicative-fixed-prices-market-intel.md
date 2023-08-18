@@ -7,40 +7,38 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-17T17:03:39.616Z'
+publishedAt: '2023-08-18T17:48:20.522Z'
 ---
 
-8-17-23
+8-18-23
 
-NYMEX prices are up a few cents so far today on the prompt month, moving as low as $2.57 and as high as $2.67. We’re down $0.32 from 1 week ago and down $6.70 from 1 year ago.
+NYMEX prices are down today, as much as $0.09 on the prompt month, moving as low as $2.52 and as high as $2.63. We’re down $0.23 from 1 week ago and down $6.70 from 1 year ago. If the prompt month continues to hold this curr3nt price, it will be the biggest decline in price over 1 week since early May ’23. A sure sign we could be very close to shoulder season discounts. For both NYMEX and Basis, patience is the play right now.
 
-Bulls – Weather - TX and Central Plains prepping for extreme heat. Demand – see weather. Resistance at $2.74 - $2.84.
+Bulls – Short term demand on a shrinking heatwave. Resistance at $2.69 - $2.80.
 
-Bears - 103Bcf/D production and lower than expected LNG exports. Support at $2.54 - $2.52.
+Bears – Remains the same - 103Bcf/D production and lower than expected LNG exports. Support at $2.524 - $2.47.
 
-Both PG&E CG and SoCal basis price points are down today. As we mentioned earlier this week, CPUC is pushing to increase Aliso Canyon storage from 41Bcf up to 68Bcf. If the vote goes in favor of increasing storage for this winter, we could see Basis prices for both SoCal and PG&E fall. We’re not saying it’s going to tank, but we could see strong downward pressure.
-
-Hillary became a hurricane earlier today (feel free to enter joke here) over Mexico’s Pacific coastline and could bring heavy rain to SoCal. If it does hit land in Mexico, we could see power outages south of the border, which in turn could lessen natgas demand heading south, causing a slight glut in the West region market, pushing basis prices down. Oh, the possibilities we see during hurricane seasons!
+We could see a drop in natural gas demand for power generation this weekend as Baja California and SoCal ready for Hurricane Hillary.
 
 PG&E CG SOCAL CG
 
 Start Month: Sep ‘23
 
-1 MONTH $5.80 $6.60
+1 MONTH $5.69 $6.50
 
-3 MONTHS $6.25 $7.15
+3 MONTHS $6.17 $7.07
 
-6 MONTHS $7.70 $8.85
+6 MONTHS $7.64 $8.78
 
-12 MONTHS $6.55 $7.30
+12 MONTHS $6.50 $7.25
 
-24 MONTHS $6.25 $7.00
+24 MONTHS $6.21 $6.95
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$8.10 $9.25
+$8.00 $9.15
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$5.23 $5.65
+$5.18 $5.60
 
