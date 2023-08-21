@@ -6,39 +6,39 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: '/images/rfp-brand-kzMD.png'
-publishedAt: '2023-08-14T16:24:04.239Z'
+coverImage: ''
+publishedAt: '2023-08-21T18:17:36.444Z'
 ---
 
-***THE ENERGY UPDATE for 8-14-23***
+***THE ENERGY UPDATE for 8-21-23***
 
-*Warning - Hot Lashings of Ultra Truth Found in Today’s Update *
+*Summer Heat Moving East Allows for Basis Bears in The West*
 
 THE DRIVING FACTORS
 
-\*\*NYMEX \*\*– NYMEX is flat from last week’s close. We’re up $0.20 from 1 week ago but down $5.45 from 1 year ago. We’ve just gone through one of the hottest Julys on record, August is shaping up to be the same, and yet NYMEX prices remain under the $4.00 for 11 of the next 12 months. The Bulls are hanging out between $2.85 - $2.90 while the Bears are expected to show up until NYMEX crosses $2.68 or below. The prompt month is sitting at $2.77 at the time of this report.
+**NYMEX **– NYMEX is up so far today, bouncing between $2.55 - $2.66. NYMEX is down roughly $0.15 from 1 week ago and down roughly $6.50 from 1 year ago. Resistance is set at $2.65 - $2.75. Support is set at $2.55 - $2.50. We’re currently at $2.63 for the prompt month.
 
-**BASIS** – Basis behind PG&E CG is up substantially from a week ago. Increased heat is pushing up the cooling demand and that demand from the power plant is calling on natgas first and foremost. SoCal CG Basis fell a few more cents but this is simply due to Wheeler pipe coming back online mid last week. We can expect more price volatility in the coming months as intrastate storage and production remain limited, forcing us to rely more on out of state production/supply/transportation, hence increasing our chances of things going wrong.
+**BASIS** – Basis prices at all CA delivery points, as well as other SW region basis delivery points, are falling hard from last week. These same delivery point basis prices could fall further this week and in the coming week(s) as the heatwaves fall apart, and if the increase to Aliso Canyon storage takes place.
 
-**RIG COUNT** – Last week’s rig count dropped another 5 rigs for a total of 123 active rigs for natgas – the lowest level since Feb ’22, and 37 fewer rigs than 1 year ago this time. Active oil rigs held steady from the previous week for a total of 525 rigs currently seeking oil – down 14% from 1 year ago this time.
+**RIG COUNT** – Last week’s rig count dropped another 6 rigs for a total of 117 active rigs for natgas. Active oil rigs held steady from the previous week for a total of 525 rigs currently seeking oil – down 14% from 1 year ago this time.
 
-**PRODUCTION** – U.S. Natgas production remains in the 100Bcf/D area. The U.S. needs 105Bcf/D production for us to achieve supply stability (as natgas is called upon more for power generation), and to achieve some sense of price stability. Don’t expect production to increase however, as state and federal sanctions crush more and more producers.
+**PRODUCTION** – U.S. Natgas production hit 103Bcf/D last week. We shouldn’t expect this level of production to continue due to NYMEX prices being so low right now, eliminating any profit at the production level. What may help keep production levels up is natgas being produced alongside oil as oil prices remain elevated.
 
-**DEMAND** – U.S. domestic natural gas demand continues to be above normal, driven by an above normal cooling demand, overall increase in natural gas demand, and growing LNG exports.
+**DEMAND** – U.S. domestic natural gas demand is down from last week. This trend could continue throughout this week as temperatures fall further in many parts of the U.S. Mexico’s demand could be down this week as the country recovers from Hilary. We still must keep an eye on the growing demand factor that is LNG.
 
-**RETAIL POWER (CALIFORNIA)** – Power prices here in California remain under $70 per MWH. The extended heatwave, along with tropical storms throughout the Pacific, will test those current power prices.
+**RETAIL POWER (CALIFORNIA)** – CAISO reported that power demand hit 44GW on 8-16-23, the highest to date. Retail power prices here in California ran above $230 per MWH last week. CAISO is reporting power prices at only $52 per MWH so far today.
 
-\*\*CARBON OFFSETS and RSG (responsibly sourced gas) – \*\*We’ve got both carbon offsets and now RSG if you want them. The menu length is too long to post on the weekly energy update. Call us and we can send them out to you and discuss further.
+**CARBON OFFSETS and RSG (responsibly sourced gas) –For all you companies doing business in the EU, signing the corporate letters, committing to a 20% carbon reduction by 2025 at the Paris Agreement, you better get on it. We can help. We expect to be posting the carbon menus on our website by the end of 2023. Until then, call us.**
 
-**CRUDE** – WTI Crude prices are over $82 a barrel at the time of this update. Crude is up over $1.25 from 1 week ago but down over $9 from 1 year ago. This latest rally shouldn’t surprise anyone at all given what we have been insightfully reports all summer.
+**CRUDE** – **WTI Crude prices are starting off this week just over $80 a barrel at the time of this update. Crude is down over $2.00 from 1 week ago and down over $10 from 1 year ago. **
 
-**NUCLEAR** – Many parts of the world are rewriting their energy policies to include nuclear energy going forward. More countries realize the only way they will meet their energy goals (usually put forth by people who enjoy great nepotism and haven’t a clue about successful energy management) is to include more reliable, safer for the environment, and cost-effective energy sources to the plan. Here in the US, due to so many government officials being paid large sums of money to push the S&W initiative, bringing nuclear back will remain an uphill battle. But who doesn’t like a good fight, right?
+**NUCLEAR** – As coal plants are retired, some plants will be upgraded to zero-emission nuclear reactor plants. Duke Energy has proposed just that at the Belews Creek Steam Station located northeast of Winston-Salem, NC. And our neighbors to the north are taking off their energy blinders and have earmarked $74MM for SMRs to be built in Saskatchewan. Come on, U.S., what are we waiting for? How many billions must be wasted on S&W before accepting the fact there are far better options available to us??
 
-**RENEWABLES** – The two renewable darlings, S&W, are proving to be unreliable, far more expensive to build and maintain than we were originally promised, not nearly as long lasting as promoted to be, are a growing eyesore on the landscape, and are doing far worse than good for our ecosystem. Looking for something better? Look at responsibly sourced natural gas (RSG), renewable natural gas (RNG) while we wait for better power generation options to be implemented.
+**RENEWABLES** – Some deniers may want to skip this section entirely…..pause for dramatic music …..Most used windmill blades end up being buried in the ground with an estimated 47MM tons of “blade waste” by 2050. 90% of solar panels end up in landfills. Source – Cambridge University. And for the small percentage of panels and blades that are recycled, take a guess what energy source is used in the recycling process. Why drill for oil & gas when you can mine for nickel, lithium, and cobalt instead??? Anyone who still believes these two energy sources are practical, affordable, reliable, and good for the environment, is an…..better not finish that sentence….how about….isn’t paying attention? Let’s go with that.
 
-\*\*ITEMS OF INTEREST \*\*– Growing humidity percentages here in California. Over the past 5 years, the humidity percentage has increased steadily and for longer periods. Today in West L.A we’re looking at over 85% humidity. Areas of California that rarely needed air conditioning/cooling now need it on a growing basis. We’re increasing our power demand every year in the West. One thing we’re not doing, however, is figuring out how to meet this growing demand. There aren’t even any genuine discussions on how to meet the growing power demand here in California at the state level, let alone any projects being proposed at the state or federal levels for one of the world’s largest economies, that is California.
+**ITEMS OF INTEREST **– Hurricane/TS Hilary and a 5.1 Earthquake in one Sunday afternoon. Heading out to help some neighbors with newfound leaks in their homes. We can get back to energy tomorrow.
 
-**THE BOTTOM LINE** – Get ready to spend more on energy, at every level, here in the West region. It’s a growing expense because the people put in charge couldn’t care less about you, how much over budget your companies run, or what you think. We need to be as proactive as possible and playing the open positions index game is as dangerous as…..playing the open position index game. No better example exists.
+**THE BOTTOM LINE** – Patience is the key! We have better weather on the way, a drop in cooling demand expected, and storage stability possibly increasing. All good things to have to push prices down here in the West.
 
 ***First of the Month Index Pricing Average for 2022***
 
@@ -46,27 +46,27 @@ THE DRIVING FACTORS
 
 ***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
 
-**Indicative Fixed Prices as of 8/14/2023**
+**Indicative Fixed Prices as of 8/21/2023**
 
 Start Date Term PG&E CG SoCal CG
 
-Sep ’23 1 mo. $6.55 $7.65
+Sep ’23 1 mo. $5.49 $6.25
 
-Sep ’23 3 mo. $6.90 $7.95
+Sep ’23 3 mo. $5.90 $6.85
 
-Sep ‘23 6 mo. $8.10 $9.40
+Sep ‘23 6 mo. $7.30 $8.50
 
-Sep ’23 12 mo. $6.75 $7.65
+Sep ’23 12 mo. $6.25 $7.05
 
-Sep ’23 24 mo. $6.35 $7.15
+Sep ’23 24 mo. $6.10 $6.85
 
-Nov ’23 – Mar ‘24 $8.35 $9.55
+Nov ’23 – Mar ‘24 $7.70 $8.85
 
-Apr ’24 – Aug ‘25 $5.20 $5.75
+Apr ’24 – Aug ‘25 $5.10 $5.55
 
-\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 30Bcf. The actual number comes in at 29Bcf. We're now 535Bcf higher than this time last year and 305Bcf above the 5-year average of 2,725Bcf. At 3,030Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.05Tcf, down from the earlier forecast of 4.1Tcf.
+**STORAGE REPORT – **The most recent forecast for storage was an injection of 35Bcf. The actual number comes in at 35Bcf. We're now 549Bcf higher than this time last year and 299Bcf above the 5-year average of 2,766Bcf. At 3,065Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls AGAIN to 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
 
-\*\*WEATHER – Time to change the weather charts from summer to winter!! \*\*The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
+**WEATHER – Time to change the weather charts from summer to winter!! **The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
 
-The 5-day to 15-day forecast favors higher prices as the Mid-Con, TX, Gulf, Mid-Atlantic regions experience sweltering heat.
+The 5-day to 10-day forecast looks bearish with above normal temperatures sitting in areas already expected to be hot. The 10-day to 15-day forecast also favors bearish prices as most of the U.S. is forecasted to enjoy normal to below normal temperatures.
 
