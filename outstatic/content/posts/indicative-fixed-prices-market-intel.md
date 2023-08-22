@@ -6,37 +6,39 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'indicative-fixed-prices-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-Y0Mz.png'
-publishedAt: '2023-07-18T16:06:33.155Z'
+coverImage: ''
+publishedAt: '2023-08-22T14:56:35.051Z'
 ---
 
-7-18-23
+8-22-23
 
-NYMEX is up as much as $0.12 on the prompt month, and up all the way through July ’25. Let’s take a closer look at 2023 NYMEX pricing – so far, the 2023 NYMEX price average is approximately $2.75. It’s beating the 2022 average (by approximately $4.00), the 2021 average (by $1.00+), and is expected to beat 2024 (forecasted to be $3.45).
+NYMEX prices are down today, as much as $0.08 on the prompt month, moving as low as $2.55 and as high as $2.63. We’re down $0.20 from 1 week ago and down $6.75 from 1 year ago. PG&E Basis and SoCal Basis are also down today, ranging from $0.05 to $0.15, depending on the month.
 
-PG&E CG Basis and SoCal CG Basis continue this week on the bullish side. Could it be all that hot weather we’ve been talking about is finally having an impact on cooling demand, as it always does?
+Bulls – very little to be bullish about right now. Resistance at $2.72 - $2.82.
 
-The balance of July ’23, weather wise, is calling for strong heat across the West, SW, Plains, and Texas. If this fails to take place, we could see bearish moves on both NYMEX and Basis, and just the opposite if the forecast turns out to be accurate.
+Bears – weather and falling cooling demand. Support at $2.53 - $2.50.
 
-START MONTH – AUG ’23
+The driving factors look to be setting up some good hedging opportunities over the next few weeks. May want to think about buying NYMEX and Basis separately to capture an even greater collapse in the two pricing pieces.
 
 PG&E CG SOCAL CG
 
-1 MONTH $4.99 $6.10
+Start Month: Sep ‘23
 
-3 MONTHS $4.85 $5.69
+1 MONTH $5.40 $6.15
 
-6 MONTHS $5.81 $7.23
+3 MONTHS $5.80 $6.75
 
-12 MONTHS $5.46 $6.61
+6 MONTHS $7.20 $8.40
 
-24 MONTHS $5.51 $6.64
+12 MONTHS $6.20 $7.00
+
+24 MONTHS $6.05 $6.80
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$6.51 $8.30
+$7.65 $8.80
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$4.76 $5.51
+$5.05 $5.50
 
