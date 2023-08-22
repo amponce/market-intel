@@ -12,7 +12,9 @@ publishedAt: '2023-08-22T14:56:35.051Z'
 
 8-22-23
 
-NYMEX prices are down today, as much as $0.08 on the prompt month, moving as low as $2.55 and as high as $2.63. We’re down $0.20 from 1 week ago and down $6.75 from 1 year ago. PG&E Basis and SoCal Basis are also down today, ranging from $0.05 to $0.15, depending on the month.
+NYMEX prices are down today, as much as $0.08 on the prompt month, moving as low as $2.55 and as high as $2.63. We’re down $0.20 from 1 week ago and down $6.75 from 1 year ago.
+
+PG&E Basis and SoCal Basis are also down today, ranging from $0.05 to $0.15, depending on the month.
 
 Bulls – very little to be bullish about right now. Resistance at $2.72 - $2.82.
 
