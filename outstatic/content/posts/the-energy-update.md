@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-I5Nz.png'
 publishedAt: '2023-08-21T18:17:36.444Z'
 ---
 
@@ -16,7 +16,7 @@ publishedAt: '2023-08-21T18:17:36.444Z'
 
 THE DRIVING FACTORS
 
-**NYMEX **– NYMEX is up so far today, bouncing between $2.55 - $2.66. NYMEX is down roughly $0.15 from 1 week ago and down roughly $6.50 from 1 year ago. Resistance is set at $2.65 - $2.75. Support is set at $2.55 - $2.50. We’re currently at $2.63 for the prompt month.
+\*\*NYMEX \*\*– NYMEX is up so far today, bouncing between $2.55 - $2.66. NYMEX is down roughly $0.15 from 1 week ago and down roughly $6.50 from 1 year ago. Resistance is set at $2.65 - $2.75. Support is set at $2.55 - $2.50. We’re currently at $2.63 for the prompt month.
 
 **BASIS** – Basis prices at all CA delivery points, as well as other SW region basis delivery points, are falling hard from last week. These same delivery point basis prices could fall further this week and in the coming week(s) as the heatwaves fall apart, and if the increase to Aliso Canyon storage takes place.
 
@@ -36,7 +36,7 @@ THE DRIVING FACTORS
 
 **RENEWABLES** – Some deniers may want to skip this section entirely…..pause for dramatic music …..Most used windmill blades end up being buried in the ground with an estimated 47MM tons of “blade waste” by 2050. 90% of solar panels end up in landfills. Source – Cambridge University. And for the small percentage of panels and blades that are recycled, take a guess what energy source is used in the recycling process. Why drill for oil & gas when you can mine for nickel, lithium, and cobalt instead??? Anyone who still believes these two energy sources are practical, affordable, reliable, and good for the environment, is an…..better not finish that sentence….how about….isn’t paying attention? Let’s go with that.
 
-**ITEMS OF INTEREST **– Hurricane/TS Hilary and a 5.1 Earthquake in one Sunday afternoon. Heading out to help some neighbors with newfound leaks in their homes. We can get back to energy tomorrow.
+\*\*ITEMS OF INTEREST \*\*– Hurricane/TS Hilary and a 5.1 Earthquake in one Sunday afternoon. Heading out to help some neighbors with newfound leaks in their homes. We can get back to energy tomorrow.
 
 **THE BOTTOM LINE** – Patience is the key! We have better weather on the way, a drop in cooling demand expected, and storage stability possibly increasing. All good things to have to push prices down here in the West.
 
@@ -64,9 +64,9 @@ Nov ’23 – Mar ‘24 $7.70 $8.85
 
 Apr ’24 – Aug ‘25 $5.10 $5.55
 
-**STORAGE REPORT – **The most recent forecast for storage was an injection of 35Bcf. The actual number comes in at 35Bcf. We're now 549Bcf higher than this time last year and 299Bcf above the 5-year average of 2,766Bcf. At 3,065Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls AGAIN to 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
+\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 35Bcf. The actual number comes in at 35Bcf. We're now 549Bcf higher than this time last year and 299Bcf above the 5-year average of 2,766Bcf. At 3,065Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls AGAIN to 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
 
-**WEATHER – Time to change the weather charts from summer to winter!! **The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
+\*\*WEATHER – Time to change the weather charts from summer to winter!! \*\*The 3-month forecast (Sep/Oct/Nov) shows some Indian Summer possibility. In the past, warmer temps in the South and Gulf regions, later in the season, have been coupled with a higher hurricane count. When hurricanes come to shore, they often knock out power, dropping natural gas demand and creating a glut of natural gas supply. That glut can push NYMEX and (regional) Basis prices down. Then we look at the Nov/Dec/Jan forecast and it’s looking very mild, especially in the regions that pile on HDDs (heating demand days, people – you should know these acronyms by now). If that forecast comes to fruition, a second possible natural gas glut could take place.
 
 The 5-day to 10-day forecast looks bearish with above normal temperatures sitting in areas already expected to be hot. The 10-day to 15-day forecast also favors bearish prices as most of the U.S. is forecasted to enjoy normal to below normal temperatures.
 
