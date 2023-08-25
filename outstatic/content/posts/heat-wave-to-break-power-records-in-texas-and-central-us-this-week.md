@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'heat-wave-to-break-power-records-in-texas-and-central-us-this-week'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-QzOT.png'
 publishedAt: '2023-08-22T20:09:41.565Z'
 ---
 
