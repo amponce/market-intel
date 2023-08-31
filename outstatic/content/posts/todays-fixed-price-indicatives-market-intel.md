@@ -7,42 +7,44 @@ author:
 slug: 'todays-fixed-price-indicatives-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-30T17:56:45.696Z'
+publishedAt: '2023-08-31T15:08:30.747Z'
 ---
 
-8-30-23
+*8-31-23*
 
-Oct ’23 is now prompt month and it’s up as much as $0.17 in the past 2 days. Weather is the driving factor right now. We’re up $0.10 from 1 week ago and down $6.70 from 1 year ago. Oct ’23 currently sits at $2.75, smack dab in the middle of bullish resistance.
+*Before we jump into today’s market, we want to wish all of you hard working people a very peaceful, very restful, and a very Happy Labor Day Weekend. We’ll be around for a few hours tomorrow, up until NYMEX closes. We will be closed on Monday in observance of Labor Day, and we’ll pick it up again on Tuesday with a fresh edition of THE Energy Update. Now…. on to today’s update.*
 
-Resistance at $2.72 - $2.78.
+*The most recent forecast for storage was an injection of 30Bcf. The actual injection is 32Bcf. NYMEX is reacting with a slight uptick. The prompt month opened at $2.80, fell to $2.70, and sits at $2.83 at the time of this update. NYMEX is up for the third straight day.*
 
-Support at $2.56 - $2.48.
+*Oct ’23 is now prompt month and it’s up as much as $0.17 in the past 2 days. Weather is the driving factor right now. We’re up $0.25 from 1 week ago and down $6.20 from 1 year ago. *
 
-More bulls than bears today. But we know all too well that in this market, that could flip at any time, and flip again, and then flip back, then flip again, and…. I think I’ve made my point.
+*Resistance at $2.78 - $2.84.*
 
-PG&E Basis and SoCal Basis continue to weaken penny by penny as we eagerly await voting results tomorrow on CPUC’s request to increase storage at Aliso Canyon, for this winter, from 41Bcf to 68Bcf. In my opinion, it should pass and here’s why I believe it will - it’s political. There’s a certain guy that will be running for president in a few months, and he already has enough explaining to do on how he screwed up California.
+*Support at $2.64 - $2.56. *
 
-The most recent forecast for storage is an injection of 30Bcf. Compare that to 61Bcf 1 year ago and 51Bcf for the 5-year average.
+*The 6–10 day weather forecast is pushing NYMEX up and pushing CA Basis down. More bulls than bears today. We should see NYMEX weaken after this current heatwave rolls through the U.S., about 2 weeks out.*
+
+*We’re supposed to find out today if Aliso Canyon will be allowed to increase the winter storage from 41Bcf to 68Bcf. We’ll keep you posted.*
 
 PG&E CG SOCAL CG
 
 Start Month: Oct ‘23
 
-1 MONTH $5.61 $6.18
+1 MONTH $5.63 $6.19
 
-3 MONTHS $5.99 $6.31
+3 MONTHS $7.15 $8.64
 
-6 MONTHS $7.41 $8.50
+6 MONTHS $7.45 $8.39
 
-12 MONTHS $6.40 $7.11
+12 MONTHS $6.32 $7.04
 
-24 MONTHS $6.15 $6.87
+24 MONTHS $6.13 $6.80x
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.82 $8.79
+$7.80 $8.76
 
 Summer Strip (May ’24 – Aug ‘24)
 
-$5.19 $5.63
+$5.16 $5.60
 
