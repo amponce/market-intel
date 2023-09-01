@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'aliso-canyon-storage-update'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-g5ND.webp'
 publishedAt: '2023-09-01T02:51:13.380Z'
 ---
 
