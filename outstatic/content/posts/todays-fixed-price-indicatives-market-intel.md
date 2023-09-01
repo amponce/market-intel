@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-fixed-price-indicatives-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-gyMj.webp'
 publishedAt: '2023-09-01T16:13:59.622Z'
 ---
 
@@ -24,7 +24,9 @@ publishedAt: '2023-09-01T16:13:59.622Z'
 
 *Happy Labor Day Weekend to all those people who make the choice to get up every day and put in the effort.*
 
-* PG&E CG SOCAL CG*
+- PG&E CG SOCAL CG\*
+
+<!-- -->
 
 *Start Month: Oct ‘23*
 
