@@ -7,44 +7,42 @@ author:
 slug: 'todays-fixed-price-indicatives-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-08-31T15:08:30.747Z'
+publishedAt: '2023-09-01T16:13:59.622Z'
 ---
 
-*8-31-23*
+*9-1-23*
 
-*Before we jump into today’s market, we want to wish all of you hard working people a very peaceful, very restful, and a very Happy Labor Day Weekend. We’ll be around for a few hours tomorrow, up until NYMEX closes. We will be closed on Monday in observance of Labor Day, and we’ll pick it up again on Tuesday with a fresh edition of THE Energy Update. Now…. on to today’s update.*
+*In case you haven’t heard, the CPUC voted 5-0 in favor of increasing the storage from 41Bcf to 68Bc, at Aliso Canyon, for this coming winter, in hopes of lessening the growing volatility in the Basis market here in the Southland. So far, basis prices have had no reaction downward to this wonderful news. We’ll see what happens after this Labor Day Weekend. *
 
-*The most recent forecast for storage was an injection of 30Bcf. The actual injection is 32Bcf. NYMEX is reacting with a slight uptick. The prompt month opened at $2.80, fell to $2.70, and sits at $2.83 at the time of this update. NYMEX is up for the third straight day.*
+*The prompt month opened at $2.76, fell to $2.73, ran as high as $2.86, and sits at $2.82 at the time of this update. NYMEX is up for the fourth straight day.*
 
 *Oct ’23 is now prompt month and it’s up as much as $0.17 in the past 2 days. Weather is the driving factor right now. We’re up $0.25 from 1 week ago and down $6.20 from 1 year ago. *
 
 *Resistance at $2.78 - $2.84.*
 
-*Support at $2.64 - $2.56. *
+*Support at $2.69 - $2.61. *
 
-*The 6–10 day weather forecast is pushing NYMEX up and pushing CA Basis down. More bulls than bears today. We should see NYMEX weaken after this current heatwave rolls through the U.S., about 2 weeks out.*
+*Happy Labor Day Weekend to all those people who make the choice to get up every day and put in the effort.*
 
-*We’re supposed to find out today if Aliso Canyon will be allowed to increase the winter storage from 41Bcf to 68Bcf. We’ll keep you posted.*
+* PG&E CG SOCAL CG*
 
-PG&E CG SOCAL CG
+*Start Month: Oct ‘23*
 
-Start Month: Oct ‘23
+*1 MONTH $5.57 $6.22*
 
-1 MONTH $5.63 $6.19
+*3 MONTHS $7.22 $8.20*
 
-3 MONTHS $7.15 $8.64
+*6 MONTHS $7.47 $8.42*
 
-6 MONTHS $7.45 $8.39
+*12 MONTHS $6.35 $7.10*
 
-12 MONTHS $6.32 $7.04
+*24 MONTHS $6.15 $6.84*
 
-24 MONTHS $6.13 $6.80x
+*Winter Strips (Nov ’23 – March ‘24) *
 
-Winter Strips (Nov ’23 – March ‘24)
+*$7.85 $8.87*
 
-$7.80 $8.76
+*Summer Strip (May ’24 – Aug ‘24)*
 
-Summer Strip (May ’24 – Aug ‘24)
-
-$5.16 $5.60
+*$5.18 $5.62*
 
