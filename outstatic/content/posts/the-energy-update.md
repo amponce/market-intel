@@ -6,21 +6,19 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-Y4Mz.webp'
 publishedAt: '2023-08-28T18:10:16.071Z'
 ---
 
 ***THE ENERGY UPDATE for 8-28-23***
 
-
-
-****
+---
 
 *NYMEX, you’re fine. CA Basis, what is your problem??! *
 
 THE DRIVING FACTORS
 
-**NYMEX **– NYMEX spent last week focused far more on supply than the stifling heat here in CA and TX, as well as most of the U.S. NYMEX opened this week at $2.69 for the prompt month, went as high as $2.73, and is currently sitting at today’s low of $2.54. Resistance today starts at $2.75 - $2.82. Support starts at $2.56 - $2.50. We hit that Support level today. We’re in a pretty good pretty spot right now and if the driving factors stay as is, we could see the start of Shoulder Season later this week or by Labor Day Weekend once that bright red ball of heat makes its way across the U.S.
+\*\*NYMEX \*\*– NYMEX spent last week focused far more on supply than the stifling heat here in CA and TX, as well as most of the U.S. NYMEX opened this week at $2.69 for the prompt month, went as high as $2.73, and is currently sitting at today’s low of $2.54. Resistance today starts at $2.75 - $2.82. Support starts at $2.56 - $2.50. We hit that Support level today. We’re in a pretty good pretty spot right now and if the driving factors stay as is, we could see the start of Shoulder Season later this week or by Labor Day Weekend once that bright red ball of heat makes its way across the U.S.
 
 **BASIS** – We know what the problem is with CA Basis – lack of pipeline options, lack of intrastate production, lack of intrastate storage, and a growing demand for natgas even as our state government fights to do away with natgas. Both PG&E CG and SoCal CG Basis prices are up strong from last week. Well above normal temperatures in the first half of this week throughout California and the Southwest are pushing basis prices up. Hoping for the CPUC’s storage increased request to be voted in this Thursday. If approved, we should see Basis prices fall. If denied, we should expect greater volatility than what we experienced last winter. Even money until Thursday’s decision. And for those saying Newsom should do the right thing and shut it down, along with Diablo Nuclear, is it safe to assume that you’re willing to pay the difference for everyone when power prices skyrocket here in the Gold-Plated State that is California?
 
@@ -42,7 +40,7 @@ THE DRIVING FACTORS
 
 And is that plan at all cost-effective to the average rate payer? Answer the question, please!
 
-**ITEMS OF INTEREST **– California and the Power Generation Contributors – natural gas leads all contributions with 36%. Up next is solar with 17%. Wind, Hydro, and Nuclear all contribute approximately 10% each. The balance is made up of Biomass (2%), Coal (2%), Geothermal (4%), and my favorite, Unspecified (7%). The demand for natural gas in the power mix has been reduced by nearly 20% over the past 10 years. But over the past 6 years, the demand for natgas in California stabilized between 33% - 38% demand for power generation.
+\*\*ITEMS OF INTEREST \*\*– California and the Power Generation Contributors – natural gas leads all contributions with 36%. Up next is solar with 17%. Wind, Hydro, and Nuclear all contribute approximately 10% each. The balance is made up of Biomass (2%), Coal (2%), Geothermal (4%), and my favorite, Unspecified (7%). The demand for natural gas in the power mix has been reduced by nearly 20% over the past 10 years. But over the past 6 years, the demand for natgas in California stabilized between 33% - 38% demand for power generation.
 
 **THE BOTTOM LINE** – As power demand in the state continues to rise, so will the demand for natural gas. Don’t be fooled by an unchanging percent, it’s the overall increase/demand that matters. And as more companies in California opt for onsite generation (powered by natgas), the C&I sector demand for natgas will also increase. Increase in demand with no increase in supply to match = higher cost of natural gas delivered into the great state of California. And then let’s add in the new international factors we must deal with; LNG exporting, the ongoing war between Russia and Ukraine, the stupidity that Europe likes to call progressive energy management. U.S. natgas is very much taking on international driving factors once again. And the more factors we have, especially foreign factors that are driven by issues well out of our domestic little hands, bank on increased volatility and higher delivered natgas prices here in the U.S.
 
@@ -70,13 +68,11 @@ Nov ’23 – Mar ‘24 $7.75 $8.82
 
 Apr ’24 – Aug ‘25 $5.15 $5.61
 
-**STORAGE REPORT – **The most recent forecast for storage was an injection of 29Bcf. The actual number comes in at 18Bcf. We're now 513Bcf higher than this time last year and 268Bcf above the 5-year average of 2,815Bcf. At 3,083Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
+\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 29Bcf. The actual number comes in at 18Bcf. We're now 513Bcf higher than this time last year and 268Bcf above the 5-year average of 2,815Bcf. At 3,083Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
 
-**WEATHER – **Aug ’23 has been one of the hottest Augusts on record. Even with a record setting month, and looking to finish out the month as such, NYMEX has failed to rally. Or has the weather been that strong that it’s prevented a massive downward bear run??? The 3-month forecast (Sep/Oct/Nov) looks to be even money. The Nov/Dec/Jan forecast looks to favor bears. The 6-day to 10-day forecast is very bullish.
+\*\*WEATHER – \*\*Aug ’23 has been one of the hottest Augusts on record. Even with a record setting month, and looking to finish out the month as such, NYMEX has failed to rally. Or has the weather been that strong that it’s prevented a massive downward bear run??? The 3-month forecast (Sep/Oct/Nov) looks to be even money. The Nov/Dec/Jan forecast looks to favor bears. The 6-day to 10-day forecast is very bullish.
 
-
-
-**Sean Dookie - **[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)** – **[**rfpes.com**](http://rfpes.com)** \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie**
+\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie\*\*
 
 **Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
 
