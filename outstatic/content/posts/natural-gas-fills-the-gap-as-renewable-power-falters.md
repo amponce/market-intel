@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'natural-gas-fills-the-gap-as-renewable-power-falters'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-E2NT.webp'
 publishedAt: '2023-08-28T15:34:41.663Z'
 ---
 
