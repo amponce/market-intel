@@ -1,6 +1,6 @@
 ---
 title: 'Today''s Indicative Fixed Prices & Market Intel'
-status: 'draft'
+status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
@@ -30,7 +30,9 @@ publishedAt: '2023-09-05T17:09:23.298Z'
 
 *SoCal CG = $6.15, averaging $12.60 so far in 2023.*
 
-* PG&E CG SOCAL CG*
+- PG&E CG SOCAL CG\*
+
+<!-- -->
 
 *Start Month: Oct ‘23*
 
