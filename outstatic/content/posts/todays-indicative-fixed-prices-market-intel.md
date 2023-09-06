@@ -7,50 +7,44 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-09-05T17:09:23.298Z'
+publishedAt: '2023-09-06T15:34:02.712Z'
 ---
 
-*9-5-23*
+*9-6-23*
 
-*NYMEX is falling hard so far today. Oct ’23 closed last week at $2.76. Oct ’23 is currently down to $2.58, falling as low as $2.56. We’re seeing red all the way out to Aug ’25. A downward shift in forecasted temperatures is helping push prices down today.*
+*NYMEX is down again this morning, opening at $2.58, going as high as $2.61, as low as $2.50, currently sitting at $2.54. We’re seeing red all the way out through Dec ’35. Currently NYMEX prompt month is trending below the 9 day, 20 day, and 50 day average of $2.65. If we are able to hold below that average, we could see further downward pressure on NYMEX prices.*
 
-*We’re down approximately $0.30 from 1 week ago and down approximately $7.00 from 1 year ago. *
+*NYMEX prices are down approximately $0.06 from 1 week ago and down approximately $6.25 from 1 year ago. *
 
-*Resistance at $2.87 - $2.93.*
+*Current temperatures stay well above normal. Cooler temps forecasted in the 6 – 10-day forecast may be responsible for the downward pressure on NYMEX pricing right now. *
 
-*Support at $2.66 - $2.61. *
+*Resistance at $2.61 - $2.76.*
 
-*Looking at Basis, both PG&E and SoCal delivery points are showing downward pressure so far today, most likely based of the increase in Aliso Canyon storage for this coming winter.*
+*Support at $2.53 - $2.47.*
 
-*For those interested in Sep ‘23 First of the Month Index prices, they are approximately:*
+*NatGas averages for last week: Production averaging 102.8 BCF/D. Total Demand averaging 99.9 BCF/D.*
 
-*PG&E CG = $5.06, averaging $11.18 so far in 2023.*
+*PG&E and SoCal delivery points continue to weaken but not at the downward pace many of us anticipated after the Aliso Canyon got the green light to go from 41Bcf to 68Bcf for this winter. *
 
-*SoCal Border = $4.30, averaging $9.42 so far in 2023.*
-
-*SoCal CG = $6.15, averaging $12.60 so far in 2023.*
-
-- PG&E CG SOCAL CG\*
-
-<!-- -->
+* PG&E CG SOCAL CG*
 
 *Start Month: Oct ‘23*
 
-*1 MONTH $5.37 $6.06*
+*1 MONTH $5.32 $6.01*
 
-*3 MONTHS $7.04 $8.06*
+*3 MONTHS $7.00 $8.02*
 
-*6 MONTHS $7.29 $8.27*
+*6 MONTHS $7.25 $8.23*
 
-*12 MONTHS $6.17 $6.95*
+*12 MONTHS $6.14 $6.25*
 
-*24 MONTHS $6.02 $6.72*
+*24 MONTHS $5.99 $6.69*
 
 *Winter Strips (Nov ’23 – March ‘24) *
 
-*$7.75 $8.77*
+*$7.71 $8.73*
 
 *Summer Strip (May ’24 – Aug ‘24)*
 
-*$5.10 $5.48*
+*$5.08 $5.45*
 
