@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'saudi-arabia-russia-extend-voluntary-oil-cuts-to-year-end-markets-jump'
 description: ''
-coverImage: ''
+coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-qwmt-gyMj.webp&w=1200&q=75'
 publishedAt: '2023-09-06T17:52:34.234Z'
 ---
 
