@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: ''
+coverImage: 'https://news.rfpenergysolutions.com/_next/image?url=%2Fimages%2Frfp-brand-qwmt-gyMj.webp&w=1200&q=75'
 publishedAt: '2023-09-06T15:34:02.712Z'
 ---
 
@@ -26,7 +26,9 @@ publishedAt: '2023-09-06T15:34:02.712Z'
 
 *PG&E and SoCal delivery points continue to weaken but not at the downward pace many of us anticipated after the Aliso Canyon got the green light to go from 41Bcf to 68Bcf for this winter. *
 
-* PG&E CG SOCAL CG*
+- PG&E CG SOCAL CG\*
+
+<!-- -->
 
 *Start Month: Oct ‘23*
 
