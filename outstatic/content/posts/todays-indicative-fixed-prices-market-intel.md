@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-UzND.webp'
 publishedAt: '2023-09-07T15:12:50.626Z'
 ---
 
@@ -36,7 +36,9 @@ publishedAt: '2023-09-07T15:12:50.626Z'
 
 *Are your deal tickets lined up and ready to execute over the next few weeks? Summer is over and school is in session. Pay attention!!*
 
-* PG&E CG SOCAL CG*
+- PG&E CG SOCAL CG\*
+
+<!-- -->
 
 *Start Month: Oct ‘23*
 
