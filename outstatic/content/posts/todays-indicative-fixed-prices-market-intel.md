@@ -6,45 +6,37 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-qwmt-UzND.webp'
-publishedAt: '2023-09-07T15:12:50.626Z'
+coverImage: ''
+publishedAt: '2023-09-08T15:11:07.672Z'
 ---
 
-*9-7-23*
+*9-8-23*
 
-*The most recent forecast for storage was an injection of 34Bcf. The actual number comes in at 33Bcf. We're now 462Bcf higher than this time last year and 222Bcf above the 5-year average of 2,926Bcf. At 3,148Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf. *
+*NYMEX is up again today, as much as $0.07 from yesterday’s close. The open = $2.57, high = $2.65, low = $2.57, now sitting at $2.61. We’re seeing green through Oct ’24. NYMEX prompt month remains close to the 9 day, 20 day, and 50 day average of $2.65. *
 
-*NYMEX is up so far today, as much as $0.10 from yesterday’s close. The open = $2.51, high = $2.61, low = $2.50, now sitting at $2.61. We’re seeing green through Feb ’26. NYMEX prompt month is nearing the 9 day, 20 day, and 50 day average of $2.65. *
+*NYMEX strips for 12 – 60 months all remain under $4.00.*
 
-*NYMEX prices are down approximately $0.20 from 1 week ago and down approximately $5.55 from 1 year ago. *
+*NYMEX prices are down $0.10 from 1 week ago and down $5.20 from 1 year ago. *
 
-*NYMEX is also trading well below the estimated 2023 average of $3.17.*
+*NYMEX is trading well below the estimated 2023 average of $3.17.*
 
-*Scorching triple digit temps for the SW, TX, and Plains. Mid/high 90’s for the SE, Mid-Atlantic, and NE. Cooler temperatures forecasted in the 6 – 10-day forecast.*
+*Scorching triple digit temps are on tap this weekend for the SW, TX, and Plains, creeping into the Gulf region. Hurricane Lee heading towards the coasts of FL/GA/SC. Mid/high 90’s for the SE, Mid-Atlantic, and NE. Cooler temperatures forecasted in the 6 – 10-day forecast.*
 
-*Resistance at $2.69.*
+*Resistance at $2.68.*
 
-*Support at $2.62.*
+*Support at $2.48.*
 
-*NatGas averages for last week:*
+*It’s feeling bullish, for now.*
 
-*Production averaging 102.8 BCF/D, compared to 100.8Bcf/D last year.*
+*PG&E and SoCal Basis prices are both down again today by approximately a nickel. With NYMEX up a nickel and Basis down a nickel, strips are pretty much unchanged from yesterday. *
 
-*Total Demand averaging 99.9 BCF/D compared to 90.7Bcf/D last year.*
-
-*PG&E and SoCal Basis prices are both falling hard so far today, down as much as $0.40 on some months. *
-
-*Are your deal tickets lined up and ready to execute over the next few weeks? Summer is over and school is in session. Pay attention!!*
-
-- PG&E CG SOCAL CG\*
-
-<!-- -->
+* PG&E CG SOCAL CG*
 
 *Start Month: Oct ‘23*
 
-*1 MONTH $4.76 $5.22*
+*1 MONTH $4.78 $5.12*
 
-*3 MONTHS $6.40 $7.32*
+*3 MONTHS $6.39 $7.31*
 
 *6 MONTHS $6.82 $7.59*
 
@@ -54,9 +46,9 @@ publishedAt: '2023-09-07T15:12:50.626Z'
 
 *Winter Strips (Nov ’23 – March ‘24) *
 
-*$7.25 $8.05*
+*$7.19 $7.99*
 
-*Summer Strip (May ’24 – Aug ‘24)*
+*Summer Strip (April ’24 – Aug ‘24)*
 
-*$5.05 $5.35*
+*$5.09 $5.39*
 
