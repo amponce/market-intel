@@ -1,48 +1,52 @@
 ---
-title: 'THE Energy Update '
+title: 'THE Energy Update'
 status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: '/images/rfp-brand-qwmt-Y4Mz.webp'
-publishedAt: '2023-08-28T18:10:16.071Z'
+coverImage: ''
+publishedAt: '2023-09-11T17:17:12.055Z'
 ---
 
-***THE ENERGY UPDATE for 8-28-23***
+***THE ENERGY UPDATE for 9-11-23***
 
----
-
-*NYMEX, you’re fine. CA Basis, what is your problem??! *
+**NEVER FORGET **
 
 THE DRIVING FACTORS
 
-\*\*NYMEX \*\*– NYMEX spent last week focused far more on supply than the stifling heat here in CA and TX, as well as most of the U.S. NYMEX opened this week at $2.69 for the prompt month, went as high as $2.73, and is currently sitting at today’s low of $2.54. Resistance today starts at $2.75 - $2.82. Support starts at $2.56 - $2.50. We hit that Support level today. We’re in a pretty good pretty spot right now and if the driving factors stay as is, we could see the start of Shoulder Season later this week or by Labor Day Weekend once that bright red ball of heat makes its way across the U.S.
+**NYMEX **– NYMEX prompt month fell hard after Labor Day Weekend, as low as $2.56. We’re starting this week with an opening price of $$2.60, a high of $2.60, and a low of $2.58. Flat start to this week.
 
-**BASIS** – We know what the problem is with CA Basis – lack of pipeline options, lack of intrastate production, lack of intrastate storage, and a growing demand for natgas even as our state government fights to do away with natgas. Both PG&E CG and SoCal CG Basis prices are up strong from last week. Well above normal temperatures in the first half of this week throughout California and the Southwest are pushing basis prices up. Hoping for the CPUC’s storage increased request to be voted in this Thursday. If approved, we should see Basis prices fall. If denied, we should expect greater volatility than what we experienced last winter. Even money until Thursday’s decision. And for those saying Newsom should do the right thing and shut it down, along with Diablo Nuclear, is it safe to assume that you’re willing to pay the difference for everyone when power prices skyrocket here in the Gold-Plated State that is California?
+Resistance today starts at $2.69. Support starts at $2.49.
 
-**RIG COUNT** – Last week’s natgas rig count dropped another 2 rigs for a total of 115 active rigs for natgas (down 40 rigs from this time 1 year ago). Active oil rigs fell by 8 for a total of 512 (93 fewer than this time last year). Bullish.
+NYMEX is now forecasted to average $3.00 for 2023, $3.42 for 2024, $3.94 for 2025, and just and $3.96 for 2026.
 
-**PRODUCTION** – U.S. Natgas production is back in the 100/101Bcf/D range after topping out at 103Bcf 2 weeks ago. Even with a drop in rigs over the past few months, due to prices collapsing to current levels, we shouldn’t expect production to fall any further.
+**BASIS** – Both PG&E CG and SoCal CG Basis continue to fall. We are now 6 days straight on falling basis. We may not see Basis collapse to historical ranges for quite some time, if ever. We are limited in the West for supply and higher than historical Basis prices now seem to be part of the “norm” here in the western world. As high as they may be right now, we know there is plenty of potential for Basis prices to run up. We need to lock in Basis prices for this winter to minimize risk. Want more support for this, skip The Bottom Line below.
 
-**DEMAND** – Natgas demand for power generation between Jan ’23 – Aug ’23 jumped 10%. The share of natural gas toward electricity generation in 2023 has increased from 36% to 40% across the U.S. Then factor in LNG exporting, expected to increase by a few Bcfs/D over the next few years.
+**RIG COUNT** – Last week’s natgas rig count dropped 1 rig for a total of 113 active rigs for natgas. Active oil rigs increased by 1 for a total of 513 (92 fewer than this time last year).
 
-**RETAIL POWER (CALIFORNIA)** – Retail power prices here in California are back down into the $50-$60 per MWH range after running up over $250 for a short spell last week.
+**PRODUCTION** – Current Dry Natgas production = 102.2Bcf/D, down 0.4Bcf from the previous week. Canadian imports = 5.6Bcf/D. Production is up 1.4Bcf/D from 1 year ago and up 6.87Bcf from 3 years ago.
 
-**CARBON OFFSETS and RSG (responsibly sourced gas) –For all you companies doing business in the EU, signing the corporate letters, committing to a 20% carbon reduction by 2025 at the Paris Agreement, you better get on it. We can help. We expect to be posting the carbon menus on our website by the end of 2023. Until then, call us.**
+**DEMAND** – Total natgas demand in the U.S = 98.7Bcf/D, down 2.2Bcf/D from the previous week. Demand is up 9Bcf/D from 1 year ago, and up 8Bccf from 3 years ago.
 
-**CRUDE** – **WTI Crude prices opened this week just over $80 a barrel before falling below the $80 mark later this morning. Crude is down over $1.50 from 1 week ago and down over $12 from 1 year ago. The “experts” are calling for bearish support with prices falling as far as $75 a barrel.**
+Exports to Mexico = 6.2Bcrf/D. LNG Exports = 12.1Bcf/D. And 7.1Bcf/D went to pipe fuel loss.
 
-**NUCLEAR** – Inside Wall Street had this to say about nuclear power last week, “Nuclear power’s reliability and long-lasting plant life make it an attractive option for energy security. At 92%, nuclear power has the highest capacity factor compared to other energy sources. That means nuclear power plants are operating at maximum capacity 92% of the time. Plus, the operational life of a nuclear plant is double that of a gas or coal-fired one. It also allows countries to diversify their energy supply away from fossil fuels while producing energy domestically. And nuclear is an attractive option for the clean energy transition. For example, even though only two additional nuclear reactors have started delivering power to the U.S. grid in the past seven years, nuclear still makes up nearly half of the nation’s carbon-free electricity.” That makes nuclear the nation’s largest source of clean energy in 2022 according to the Department of Energy.
+**RETAIL POWER (CALIFORNIA)** – Retail power prices here in California fell below the $60 mark two weeks ago, and then fell under the $45-mark last week. Compare that to $250 just 3 weeks ago.
 
-**RENEWABLES** – Solar provides up to 17% of power gen in CA when the sun shines. Hydro provides up to 10% when we’re not at drought levels in CA – take that 10% down to 6% then. Wind offers up 10% in CA when the wind blows, but not if it blows too strongly. Nuclear provides 10% as well and could provide far more than 10% if we hadn’t closed San Onofre in SoCal all those years ago now. So, renewables, please provide the plan you’ve come up with to power California with 100% renewable energy by 2045 as you have proposed. I mean, you must have a super-duper plan in place to have such definitive deadlines, right? Right??
+**CO (carbon offsets) and RSG (responsibly sourced gas) – **companies like Shell, Leon, Gucci, and Nestle are all questioning the current carbon offset market and the validity of some of the CO offerings currently out there. This is a great thing, in my opinion, because the last thing we need are more bogus climate/earth saving schemes.
 
-And is that plan at all cost-effective to the average rate payer? Answer the question, please!
+**CRUDE** – **WTI Crude prices are over $87 at the time of this report. Crude is now expected to average $86 for 2023, $81 for 2024, and $73 for 2025. Saudi will extend their current 1MM barrels/day cut through end of 2023. Russia extends their current 300,000 barrels/day cut through the end of 2023 as well. That should keep prices up through the winter.**
 
-\*\*ITEMS OF INTEREST \*\*– California and the Power Generation Contributors – natural gas leads all contributions with 36%. Up next is solar with 17%. Wind, Hydro, and Nuclear all contribute approximately 10% each. The balance is made up of Biomass (2%), Coal (2%), Geothermal (4%), and my favorite, Unspecified (7%). The demand for natural gas in the power mix has been reduced by nearly 20% over the past 10 years. But over the past 6 years, the demand for natgas in California stabilized between 33% - 38% demand for power generation.
+**NUCLEAR** – This energy source contributed 9.2% of the world’s power generation in 2022, down 4% from the previous year. The 4% drop came from France having to perform maintenance on some of their reactors. We can expect that percentage to grow dramatically going forward. In case you were wondering, coal leads with 35.4%, then natgas with 22.7%, hydro with 14.9%, wind with 7.2%, solar with 4.5%, and then “other” with 2.7%.
 
-**THE BOTTOM LINE** – As power demand in the state continues to rise, so will the demand for natural gas. Don’t be fooled by an unchanging percent, it’s the overall increase/demand that matters. And as more companies in California opt for onsite generation (powered by natgas), the C&I sector demand for natgas will also increase. Increase in demand with no increase in supply to match = higher cost of natural gas delivered into the great state of California. And then let’s add in the new international factors we must deal with; LNG exporting, the ongoing war between Russia and Ukraine, the stupidity that Europe likes to call progressive energy management. U.S. natgas is very much taking on international driving factors once again. And the more factors we have, especially foreign factors that are driven by issues well out of our domestic little hands, bank on increased volatility and higher delivered natgas prices here in the U.S.
+**RENEWABLES** – Reuters reported this last Friday, “Offshore wind developers stayed away from Britain's latest renewable energy auction on Friday, arguing the price offered by the government did not reflect rising industry costs, something which is hampering wind projects globally.” One big reason for the lack of interest is the price capping per MWh (44 English pounds). Wind turbines are very expensive to manufacture, manage, and dispose of. With the lack of taxpayer funded green energy credits being thrown around, the price of that MWh was sure to fall to a more competitive rate. And to truly work, the solution/ product should always be better than the product it’s replacing, not simply competitive, and most certainly not inferior.
+
+Case in point……Pattern Energy just celebrated the groundbreaking of their project, SunZia. “Just north of Corona (New Mexico) last Friday. The company’s SunZia transmission and wind project, kicking off a three-year construction process to bring the system online by (the end of) 2026. Once built, SunZia will transport up to 3 GW of wind energy — enough power to meet the needs of 3 million people — from Central New Mexico to South Central Arizona for use in western markets via a new 550-mile high-voltage transmission line. The project, which took 15 years to get all government approvals in place, is billed as the largest single clean-energy development effort in U.S. history, and possibly the largest ever in the Western Hemisphere.” The estimated US population by 2026 is over 345MM. This project has the potential (when working at full capacity) to serve up to…..LESS THAN 1% of the US population. What a waste of time and (quite literally) energy.
+
+**ITEMS OF INTEREST **– The state government of California claimed two Fridays ago that California is now 100% drought free. All that tells me is that our state government gets the green light to kick this can further down the road, wasting taxpayer money on more foolish, bloated government programs that help no one but special interest groups, while the taxpayers are told to embrace scorched lawns, build rock gardens for children to play in (or not), all while increasing the growth of the true California state flower – kindling. California has always been a drought state and leaving it up to nature to change that just won’t happen. We need real solutions to overcome this problem. Labor Day is over. Get back to work, CA state government.
+
+THE BOTTOM LINE – Winter is coming and with it, the possibility of natgas demand surpassing supply. Dec ’21 demand averaged 10Bcf/D more than supply. In Dec ’22 demand averaged 20Bcf more than supply. If you’re on Monthly/Daily Index/Spot pricing when demand surpasses supply, be prepared for higher prices. Just in case you forgot…Dec ’21/Jan’22 NGI Index for PG&E CG = $6.35/$7.72. SoCal CG = $7.37/$9.84, NYMEX alone = $5.16/$4.04. Dec ’22 NGI Index for PG&E CG = $14.08/$49.52, SoCal CG = $15.11/$54.30, and NYMEX alone = $6.83/$5.21. Do we have your attention now? I thought we might. Get it on the expected downward trend over the next few weeks and enjoy the upcoming holiday season.
 
 ***First of the Month Index Pricing Average for 2022***
 
@@ -50,29 +54,25 @@ And is that plan at all cost-effective to the average rate payer? Answer the que
 
 ***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
 
-**Indicative Fixed Prices as of 8/28/2023**
+**Indicative Fixed Prices as of 9/11/2023**
 
 Start Date Term PG&E CG SoCal CG
 
-Sep ’23 1 mo. $5.38 $6.55
+Oct ’23 1 mo. $4.73 $5.20
 
-Sep ’23 3 mo. $5.89 $7.00
+Oct ’23 3 mo. $6.32 $7.25
 
-Sep ‘23 6 mo. $7.35 $8.55
+Oct ‘23 6 mo. $6.79 $7.49
 
-Sep ’23 12 mo. $6.35 $7.10
+Oct ’23 12 mo. $5.96 $6.49
 
-Sep ’23 24 mo. $6.15 $6.86
+Oct ’23 24 mo. $5.91 $6.49
 
-Nov ’23 – Mar ‘24 $7.75 $8.82
+Nov ’23 – Mar ‘24 $7.20 $7.95
 
-Apr ’24 – Aug ‘25 $5.15 $5.61
+Apr ’24 – Aug ‘25 $5.07 $5.33
 
-\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 29Bcf. The actual number comes in at 18Bcf. We're now 513Bcf higher than this time last year and 268Bcf above the 5-year average of 2,815Bcf. At 3,083Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf, down from the earlier forecast of 4.1Tcf. CPUC is trying to increase Aliso Canyon storage for this winter from 41Bcf to 68Bcf. The vote will be announced 8-31-23.
+**STORAGE REPORT – **The most recent forecast for storage was an injection of 41Bcf. The actual number comes in at 33Bcf. We're now 462Bcf higher than this time last year and 222Bcf above the 5-year average of 2,926Bcf. At 3,148Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf.
 
-\*\*WEATHER – \*\*Aug ’23 has been one of the hottest Augusts on record. Even with a record setting month, and looking to finish out the month as such, NYMEX has failed to rally. Or has the weather been that strong that it’s prevented a massive downward bear run??? The 3-month forecast (Sep/Oct/Nov) looks to be even money. The Nov/Dec/Jan forecast looks to favor bears. The 6-day to 10-day forecast is very bullish.
-
-\*\*Sean Dookie - \**[**sdookie@rfpes.com**](mailto:sdookie@rfpes.com)*\* – ****[rfpes.com](http://rfpes.com) \- @RFPEnergySolutions, - follow on LinkedIn @Sean Dookie\*\*
-
-**Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.**
+**WEATHER – **The 6 – 10 day forecast shows solid cooling from central TX, up the Plains, into the Great Lakes, across to New England, and all the way down through the Mid-Atlantic to the Southeast. This period, 9-17-23 through 9-25-23, may be our time to hedge winter months. And if this winter fails to show up, we could downward pressure on prices for the early months of 2024.
 
