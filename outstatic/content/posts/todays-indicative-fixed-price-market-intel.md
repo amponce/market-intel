@@ -6,41 +6,51 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-price-market-intel'
 description: ''
-coverImage: '/images/rfp-brand-AyMz.png'
-publishedAt: '2023-05-26T15:44:01.039Z'
+coverImage: ''
+publishedAt: '2023-09-19T17:19:56.275Z'
 ---
 
-5-26-23
+*9-19-23*
 
-First and foremost, we want to wish everyone a peaceful and reflective Memorial Day Weekend.
+*NYMEX is down a few cents from yesterday. The open @ $2.87, high@ $2.87, low @ $2.71, now sitting @ $2.85. Ever so slightly green through June ’25. *
 
-Thank you to all who made the ultimate sacrifice for our freedom.
+*NYMEX prices are up $0.25 from 1 week ago and down $4.90 from 1 year ago. *
 
-NYMEX is down around $0.35 from a week ago and is down approximately $6.75 from one year ago. This downward movement is due to cooler than normal temperatures across most of the republic for the next few weeks.
+*Latest NYMEX 2023 NYMEX average estimated @ $3.04. $3.41 for 2024. $3.97 for 2025.*
 
-PG&E CG Basis is down AGAIN today.
+*The national weather chart shows cooler temps moving across the regions for the next few days. *
 
-SoCal CG Basis is a mess. We have forward SoCal CG delivered prices going for over $9 for some months while the daily spot price is under $2.00. The one thing keeping the spread so wide is simple – SoCalGas Company’s inability to instill any confidence that capacity/storage/optionality will return to historical levels any time soon. It’s the kickoff to summer and SoCalGas already has its head buried in the sand.
+*Warmer temperatures forecasted in the 6 – 10-day forecast.*
 
-START MONTH – JUNE ’23
+*Resistance at $2.80. Blew right past that.*
 
-PG&E CG SOCAL CG
+*Support at $2.60. Long way off.*
 
-1 MONTH $4.02 $4.50
+*NatGas averages for last week: Production average = 101.9BCF/D, down 0.3Bcf/D from the previous week.*
 
-3 MONTHS $4.77 $6.44
+*Total Demand average = 97.8BCF/D. Down 1.0Bcf from the previous week.*
 
-6 MONTHS $5.09 $6.37
+*PG&E and SoCal Basis prices are both down strong today. *
 
-12 MONTHS $5.57 $6.73
+* PG&E CG SOCAL CG*
 
-24 MONTHS $5.65 $6.78
+*Start Month: Oct ‘23*
 
-Summer Strip (June ’23 – Oct ‘23)
+*1 MONTH $4.97 $5.16*
 
-$4.96 $6.37
+*3 MONTHS $6.71 $7.32*
 
-Winter Strips (Nov ’23 – March ‘24)
+*6 MONTHS $7.00 $7.54*
 
-$6.61 $7.93
+*12 MONTHS $6.08 $6.51*
+
+*24 MONTHS $5.99 $6.50*
+
+*Winter Strips (Nov ’23 – March ‘24) *
+
+*$7.39 $8.00*
+
+*Summer Strip (April ’24 – Aug ‘24)*
+
+*$5.09 $5.35*
 
