@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-price-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-gymj-g0NT.webp'
 publishedAt: '2023-09-19T17:19:56.275Z'
 ---
 
@@ -32,7 +32,9 @@ publishedAt: '2023-09-19T17:19:56.275Z'
 
 *PG&E and SoCal Basis prices are both down strong today. *
 
-* PG&E CG SOCAL CG*
+- PG&E CG SOCAL CG\*
+
+<!-- -->
 
 *Start Month: Oct ‘23*
 
