@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'what-were-we-saying-about-reliability'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-gymj-I3Nz.webp'
 publishedAt: '2023-09-08T17:38:26.597Z'
 ---
 
