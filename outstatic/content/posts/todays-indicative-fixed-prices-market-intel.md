@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-gymj-cwND.webp'
 publishedAt: '2023-09-21T17:07:49.357Z'
 ---
 
@@ -34,9 +34,9 @@ publishedAt: '2023-09-21T17:07:49.357Z'
 
 *The most recent forecast for storage was an injection of 64Bcf. The actual number comes in at 64Bcf. We're now 410Bcf higher than this time last year and 183Bcf above the 5-year average of 3,086Bcf. At 3,269Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.80Tcf. Bullish, in my opinion.*
 
+- PG&E CG SOCAL CG\*
 
-
-* PG&E CG SOCAL CG*
+<!-- -->
 
 *Start Month: Oct ‘23*
 
