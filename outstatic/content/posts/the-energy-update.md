@@ -6,73 +6,67 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-energy-update'
 description: ''
-coverImage: '/images/rfp-brand-qwmt-gymj-IyOD.webp'
-publishedAt: '2023-09-11T17:17:12.055Z'
+coverImage: ''
+publishedAt: '2023-09-25T18:01:40.799Z'
 ---
 
-***THE ENERGY UPDATE for 9-11-23***
+***THE ENERGY UPDATE for 9-25-23***
 
-**NEVER FORGET **
+
+
+*Active Week Forecasted*
 
 THE DRIVING FACTORS
 
-\*\*NYMEX \*\*– NYMEX prompt month fell hard after Labor Day Weekend, as low as $2.56. We’re starting this week with an opening price of $$2.60, a high of $2.60, and a low of $2.58. Flat start to this week.
+**NYMEX **– NYMEX kicks off this week opening at $2.64, a high of $2.67, and a low of $2.60. Resistance today starts at $2.71 with a top end of $2.87. Support starts at $2.61 with a downside of $2.34. NYMEX is now forecasted to average $2.93 for 2023, $3.36 for 2024, $3.96 for 2025, and just and $4.04 for 2026. For the balance of 2023, NYMEX is forecasted to average $2.88 for Nov ’23 and $3.30 for Dec ’23.
 
-Resistance today starts at $2.69. Support starts at $2.49.
+**BASIS** – PG&E CG is inching up a few pennies so far today while SoCal CG continues its downward spiral. Get it while you can because we know it never lasts. Just like NYMEX, now through mid-Oct ’23 may be the best times to lock in strips, especially winter strips.
 
-NYMEX is now forecasted to average $3.00 for 2023, $3.42 for 2024, $3.94 for 2025, and just and $3.96 for 2026.
+**RIG COUNT** – Two weeks ago we saw a 15-rig increase, ending a 19-month low for natgas rigs. This past week we gave back 3 rigs for a total of 118 active natgas rigs. Active oil rigs also fell by 8 rigs for a total of 507 active rigs. We are 18% down from this time last year in overall active rigs.
 
-**BASIS** – Both PG&E CG and SoCal CG Basis continue to fall. We are now 6 days straight on falling basis. We may not see Basis collapse to historical ranges for quite some time, if ever. We are limited in the West for supply and higher than historical Basis prices now seem to be part of the “norm” here in the western world. As high as they may be right now, we know there is plenty of potential for Basis prices to run up. We need to lock in Basis prices for this winter to minimize risk. Want more support for this, skip The Bottom Line below.
+**PRODUCTION** – Last week dry natgas production =averaged 101.1Bcf/D, down 1.1Bcf from the previous week. Production is up 1.2Bcf/D from 1 year ago and up 5.5Bcf from 3 years ago.
 
-**RIG COUNT** – Last week’s natgas rig count dropped 1 rig for a total of 113 active rigs for natgas. Active oil rigs increased by 1 for a total of 513 (92 fewer than this time last year).
+**DEMAND** – Total natgas demand in the U.S = 93.7Bcf/D, down 5Bcf/D from the previous week. Demand is up 1.3Bcf/D from 1 year ago, and up 4.1Bccf from 3 years ago.
 
-**PRODUCTION** – Current Dry Natgas production = 102.2Bcf/D, down 0.4Bcf from the previous week. Canadian imports = 5.6Bcf/D. Production is up 1.4Bcf/D from 1 year ago and up 6.87Bcf from 3 years ago.
+**RETAIL POWER (CALIFORNIA)** – Retail power prices here in California fell from the $45MWH range to the $42MWH range.
 
-**DEMAND** – Total natgas demand in the U.S = 98.7Bcf/D, down 2.2Bcf/D from the previous week. Demand is up 9Bcf/D from 1 year ago, and up 8Bccf from 3 years ago.
+**CO (carbon offsets) and RSG (responsibly sourced gas) – **companies like Shell, Leon, Gucci, and Nestle are all questioning the current carbon offset market and the validity of some of the CO offerings currently out there. This is a great thing, in my opinion, because the last thing we need are more bogus climate/earth saving schemes.
 
-Exports to Mexico = 6.2Bcrf/D. LNG Exports = 12.1Bcf/D. And 7.1Bcf/D went to pipe fuel loss.
+**CRUDE** – **WTI Crude prices jumped over $90 last week before falling to the current price of $88. Crude is now averaging $89 for 2023, $81 for 2024, and $75 for 2025. Saudi and Russia continue their cutback of daily production by 1.3MM barrels/D. **
 
-**RETAIL POWER (CALIFORNIA)** – Retail power prices here in California fell below the $60 mark two weeks ago, and then fell under the $45-mark last week. Compare that to $250 just 3 weeks ago.
+**NUCLEAR** – More countries are rethinking just how they want to increase their power supply and nuclear is currently the clear favorite. Italy has changed their tune and is now looking to being back nuclear. Even Saudi is shifting towards nuclear as plans for their first nuclear plants are in full swing.
 
-\*\*CO (carbon offsets) and RSG (responsibly sourced gas) – \*\*companies like Shell, Leon, Gucci, and Nestle are all questioning the current carbon offset market and the validity of some of the CO offerings currently out there. This is a great thing, in my opinion, because the last thing we need are more bogus climate/earth saving schemes.
+**RENEWABLES** – California is pushing a bill through right now that will “encourage the installation of solar power infrastructure along California’s highways. If signed into law, Senate Bill 49 would direct state agencies to evaluate the potential for solar energy, battery storage, and transmission infrastructure alongside highways to help California meet its clean energy targets — generating 90% of the state’s power by 2035 and 100% by 2045.” Better spend just as much time building up the outdated and poorly managed electric grid here in the Golden State before slapping charging stations up and down the 5 freeway – that’s right. Here in the Golden State, we refer to our freeways as “The 5. The 10. The 405’. That’s just how we roll here in California, usually at 30MPH on the 5, the 10, and especially the 405….
 
-**CRUDE** – **WTI Crude prices are over $87 at the time of this report. Crude is now expected to average $86 for 2023, $81 for 2024, and $73 for 2025. Saudi will extend their current 1MM barrels/day cut through end of 2023. Russia extends their current 300,000 barrels/day cut through the end of 2023 as well. That should keep prices up through the winter.**
+**ITEMS OF INTEREST **– Supply and weather. Some “experts” think we will see a drop in daily production while other “experts” believe we will stay at the current daily production numbers through the winter. The forecasts show a warmer than normal winter for most of the US. If those forecast holds, we have less, but not nothing, to worry about. As we see every day, forecasts are often wrong because weather patterns change, even more than my wife changes her mind on which purse to take to lunch with the girls….
 
-**NUCLEAR** – This energy source contributed 9.2% of the world’s power generation in 2022, down 4% from the previous year. The 4% drop came from France having to perform maintenance on some of their reactors. We can expect that percentage to grow dramatically going forward. In case you were wondering, coal leads with 35.4%, then natgas with 22.7%, hydro with 14.9%, wind with 7.2%, solar with 4.5%, and then “other” with 2.7%.
+THE BOTTOM LINE – Winter is coming for all of us and that means more bullish volatility, leading to higher, more violent price spikes.
 
-**RENEWABLES** – Reuters reported this last Friday, “Offshore wind developers stayed away from Britain's latest renewable energy auction on Friday, arguing the price offered by the government did not reflect rising industry costs, something which is hampering wind projects globally.” One big reason for the lack of interest is the price capping per MWh (44 English pounds). Wind turbines are very expensive to manufacture, manage, and dispose of. With the lack of taxpayer funded green energy credits being thrown around, the price of that MWh was sure to fall to a more competitive rate. And to truly work, the solution/ product should always be better than the product it’s replacing, not simply competitive, and most certainly not inferior.
+*AS A REMINDER - Just in case you forgot…Dec ’21/Jan’22 NGI Index for PG&E CG = $6.35/$7.72. SoCal CG = $7.37/$9.84, NYMEX alone = $5.16/$4.04. Dec ’22 NGI Index for PG&E CG = $14.08/$49.52, SoCal CG = $15.11/$54.30, and NYMEX alone = $6.83/$5.21. Do we have your attention now? I thought we might. Get it on the expected downward trend over the next few weeks and enjoy the upcoming holiday season.*
 
-Case in point……Pattern Energy just celebrated the groundbreaking of their project, SunZia. “Just north of Corona (New Mexico) last Friday. The company’s SunZia transmission and wind project, kicking off a three-year construction process to bring the system online by (the end of) 2026. Once built, SunZia will transport up to 3 GW of wind energy — enough power to meet the needs of 3 million people — from Central New Mexico to South Central Arizona for use in western markets via a new 550-mile high-voltage transmission line. The project, which took 15 years to get all government approvals in place, is billed as the largest single clean-energy development effort in U.S. history, and possibly the largest ever in the Western Hemisphere.” The estimated US population by 2026 is over 345MM. This project has the potential (when working at full capacity) to serve up to…..LESS THAN 1% of the US population. What a waste of time and (quite literally) energy.
+***First of the Month Index Pricing Average for 2022 - PG&E CG = $8.298 SoCal CG = $8.380***
 
-\*\*ITEMS OF INTEREST \*\*– The state government of California claimed two Fridays ago that California is now 100% drought free. All that tells me is that our state government gets the green light to kick this can further down the road, wasting taxpayer money on more foolish, bloated government programs that help no one but special interest groups, while the taxpayers are told to embrace scorched lawns, build rock gardens for children to play in (or not), all while increasing the growth of the true California state flower – kindling. California has always been a drought state and leaving it up to nature to change that just won’t happen. We need real solutions to overcome this problem. Labor Day is over. Get back to work, CA state government.
+***12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES. ***
 
-THE BOTTOM LINE – Winter is coming and with it, the possibility of natgas demand surpassing supply. Dec ’21 demand averaged 10Bcf/D more than supply. In Dec ’22 demand averaged 20Bcf more than supply. If you’re on Monthly/Daily Index/Spot pricing when demand surpasses supply, be prepared for higher prices. Just in case you forgot…Dec ’21/Jan’22 NGI Index for PG&E CG = $6.35/$7.72. SoCal CG = $7.37/$9.84, NYMEX alone = $5.16/$4.04. Dec ’22 NGI Index for PG&E CG = $14.08/$49.52, SoCal CG = $15.11/$54.30, and NYMEX alone = $6.83/$5.21. Do we have your attention now? I thought we might. Get it on the expected downward trend over the next few weeks and enjoy the upcoming holiday season.
-
-***First of the Month Index Pricing Average for 2022***
-
-***PG&E CG = $8.298 SoCal CG = $8.380***
-
-***!!!!!12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES!!!!!***
-
-**Indicative Fixed Prices as of 9/11/2023**
+**Indicative Fixed Prices as of 9/25/2023**
 
 Start Date Term PG&E CG SoCal CG
 
-Oct ’23 1 mo. $4.73 $5.20
+Oct ’23 1 mo. $4.75 $4.82
 
-Oct ’23 3 mo. $6.32 $7.25
+Oct ’23 3 mo. $6.43 $7.03
 
-Oct ‘23 6 mo. $6.79 $7.49
+Oct ‘23 6 mo. $6.80 $7.35
 
-Oct ’23 12 mo. $5.96 $6.49
+Oct ’23 12 mo. $5.96 $6.41
 
-Oct ’23 24 mo. $5.91 $6.49
+Oct ’23 24 mo. $5.92 $6.46
 
-Nov ’23 – Mar ‘24 $7.20 $7.95
+Nov ’23 – Mar ‘24 $7.23 $7.85
 
-Apr ’24 – Aug ‘25 $5.07 $5.33
+Apr ’24 – Aug ‘25 $5.04 $5.32
 
-\*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 41Bcf. The actual number comes in at 33Bcf. We're now 462Bcf higher than this time last year and 222Bcf above the 5-year average of 2,926Bcf. At 3,148Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast remains at 3.90Tcf.
+**STORAGE REPORT – **The most recent forecast for storage was an injection of 64Bcf. The actual number came in at 64Bcf. We're now 410Bcf higher than this time last year and 183Bcf above the 5-year average of 3,086Bcf. At 3,269Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.80Tcf. We’re going to need weekly injections for the remainder of the injection season to be over 80Bcf just to get close to 3.80Tcf. Some people believe it will be closer to 3.70Tcf when it’s all said and done.
 
-\*\*WEATHER – \*\*The 6 – 10 day forecast shows solid cooling from central TX, up the Plains, into the Great Lakes, across to New England, and all the way down through the Mid-Atlantic to the Southeast. This period, 9-17-23 through 9-25-23, may be our time to hedge winter months. And if this winter fails to show up, we could downward pressure on prices for the early months of 2024.
+**WEATHER – **The 6-to-10-day forecast shows a major cooldown for the West region. Most of the US will enjoy normal temperatures while Texas, Great Lakes, and New England areas are forecasted to be above normal. This could be our best opportunity to lock in winter strips. The 3-month forecasts for both Oct/Nov/Dec and Dec/Jan/Feb are looking bearish.
 
