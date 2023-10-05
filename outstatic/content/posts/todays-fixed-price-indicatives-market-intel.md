@@ -7,60 +7,46 @@ author:
 slug: 'todays-fixed-price-indicatives-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-10-02T16:47:26.907Z'
+publishedAt: '2023-10-05T15:58:50.412Z'
 ---
 
-*10/2/23*
+*10/5/23*
 
-*Estimated First of the Month Index Prices:*
+***NYMEX**** – Closed 10-4-23 at $3.10, highest close since 3-3-23. Today’s open = $2.98, high = $3.16, low = $2.96, currently sitting @ $3.14. Nov ’23 is up as much as $0.20 so far today. Green through Nov 25. NYMEX prices are up almost $0.40 from 1 week ago. Still down $3.30 from 1 year ago. *
 
-*SoCal Bdr = $2.71*
+***NYMEX Calendar Estimates**** \- $3.21 for 2023, $3.45 for 2024, $4.01 for 2025. *
 
-*SoCal CG = $4.15*
+***Resistance**** \- Starting @ $3.12. ****Support**** \-Starting @ $2.98. *
 
-*PG&E CG = $4.21*
+***Production & Demand**** = No change from the previous week. Production = 101.2BCF/D. Up 1.4Bcf from 1 year ago. Demand = 93.6BCF/D. Down 0.2Bcf from the previous week. Down 0.9Bcf from 1 year ago. Continued Texas heat has prolonged the cooling demand.*
 
-*For those of you who are fine with buying SoCal CG over SoCal Border, because you think the $0.55 BTS doesn’t move, you’re 100% wrong. For Oct ’23, you’re paying an additional $0.89 ($1.44 for BTS instead of $0.55) for Oct ’23. E.g., 1,000MMBtu/D at CG is costing you an additional $45,000 for Oct ’23 alone. For 2023, not including Oct ’23, you are averaging an additional $3.11 per MMBtu by buying SoCal CG. Let that sink in……*
+***Basis**** – Both PG&E CG and SoCal Basis remain strong. Nov ’23 is up over $1.00 from 2 days ago. *
 
-*NYMEX prompt month (Nov ’23) is down as much as $0.08 so far today. Today’s open = $2.95, high = $2.95, low = $2.84, currently sitting @ $2.87. Red through Nov ‘26. *
+***LNG**** – US sets a record high of exports in first half of 2023. Future exports are not expected to slow down as of now. Increased LNG exports support higher NYMEX prices.*
 
-*NYMEX prices are up $0.25 from 1 week ago and down $3.90 from 1 year ago. *
+***Weather**** – Hot in the SW and Inland Empire for the next few days before the heat moves east towards Texas and the Gulf. Cool temps for the Northern Plains, warmer than normal in the Great Lakes, NE, and Mid-Atlantic regions. *
 
-*Latest NYMEX 2023 NYMEX average estimated @ $3.12 (+$0.14 from last week). $3.38 for 2024 (+$0.02 from last week). $3.94 for 2025 (no change from last week).*
+***Storage**** –The latest estimate was 92Bcf. The actual comes in at 86Bcf. We are now 357Bcf higher than this time last year and 172Bcf above the 5-year average of 3,273Bcf. At 3,445 Bcf, total working gas is within the 5-year historical range.*
 
-*Today’s weather is cooler than normal in the West. Hottest temps are in the Mid-Con. *
+Indicative Fixed Prices out of Nov ‘23
 
-*Resistance starts at $3.02. *
+PG&E CG SOCAL CG SoCal Bdr
 
-*Support starts at $2.88. *
+1 MONTH $6.80 $8.21 $6.90
 
-*Natgas averages for last week: Production average = 101.2BCF/D. No change from the previous week. Up 1.4Bcf from 1 year ago.*
+3 MONTHS $8.34 $9.55 $8.28
 
-*Total Demand average = 93.6BCF/D. Down 0.2Bcf from the previous week. Down 0.9Bcf from 1 year ago.*
+6 MONTHS $7.26 $7.92 $6.96
 
-*PG&E CG is up a nickel so far this week. SoCal Basis prices continue to be bearish. *
+12 MONTHS $6.20 $6.75 $5.31
 
-*Early estimates for this coming Thursday’s Storage Report are a triple digit injection. *
+24 MONTHS $6.10 $6.73 $5.75
 
-* PG&E CG SOCAL CG*
+Winter Strips (Nov ’23 – March ‘24)
 
-*Start Month: Nov ‘23*
+$7.85 $8.65 $7.21
 
-*1 MONTH $6.15 $6.96*
+Summer Strip (April ’24 – Aug ‘24)
 
-*3 MONTHS $7.81 $8.67*
-
-*6 MONTHS $6.76 $7.35*
-
-*12 MONTHS $5.98 $6.40*
-
-*24 MONTHS $5.90 $6.45*
-
-*Winter Strips (Nov ’23 – March ‘24) *
-
-*$7.30 $7.93*
-
-*Summer Strip (April ’24 – Aug ‘24)*
-
-*$4.98 $5.27*
+$5.15 $5.51 $4.02
 
