@@ -7,50 +7,48 @@ author:
 slug: 'todays-indicative-fixed-prices-market-intel'
 description: ''
 coverImage: ''
-publishedAt: '2023-10-04T14:54:20.249Z'
+publishedAt: '2023-10-06T15:03:27.939Z'
 ---
 
-*10/4/23*
+*10/6/23*
 
-***NYMEX**** \- Nov ’23 is up as much as $0.12 so far today. Today’s open = $2.94, high = $3.05, low = $2.94, currently sitting @ $3.01. Green through Dec ’35….not Dec ’25…..Dec 2035….. *
+***\#NYMEX #NYMEXrunningup #NaturalGas #Energy #StorageReport #Bullish***
 
-*NYMEX prices are up almost $0.40 from 1 week ago. Still down $3.40 from 1 year ago. *
+***NYMEX**** – Closed 10-4-23 at $3.16. Today’s open = $3.18, high = $3.29, low = $3.16, currently sitting @ $3.28. Nov ’23 is up as much as $0.40 so far today. Green through Oct 25. NYMEX prices are up almost $0.40 from 1 week ago. Still down $3.50 from 1 year ago. *
 
-***NYMEX Calendar Estimates**** \- 2023 NYMEX @ $3.18. $3.41 @ 2024. $3.98 @ 2025. *
+***NYMEX Calendar Estimates**** \- $3.33 for 2023, $3.50 for 2024, $4.01 for 2025. *
 
-***Resistance**** \- starting at $3.02. *
+***Resistance**** \- Starting @ $3.28. ****Support**** \-Starting @ $3.10. We hit the critical resistance point of $3.25 earlier this morning. Best to start the weekend early and let this play out.*
 
-***Support**** \- starting at $2.90. *
+***Production & Demand**** \- Production = 100.9BCF/D, down 0.3Bcf from 1 year ago. Demand = 94.4BCF/D, up 0.8Bcf from 1 week ago.*
 
-***Natgas Averages for last wee****k: Production average = 101.2BCF/D. No change from the previous week. Up 1.4Bcf from 1 year ago.*
+***Basis**** – Both PG&E CG and SoCal Basis remain strong. Nov ’23 is up over $0.50 from yesterday. *
 
-***Total Demand Average**** = 93.6BCF/D. Down 0.2Bcf from the previous week. Down 0.9Bcf from 1 year ago.*
+***LNG**** – Exports = 11.8Bcf/D.*
 
-***Basis**** \- PG&E CG Nov ’23 is up approximately $0.50 from 2 days ago. SoCal Basis Nov ’23 is up over $1.00 from 2 days ago. *
+***Weather**** – Continued heat through SoCal and the SW through the weekend. Sunny and hot for TX and Gulf states. Cooler to the north with a mix of sun and rain. Warmer in the NE and Mid Atlantic with scattered showers.*
 
-***Weather**** – warming up in the Golden State and most of the US, except for the northern states where it remains in the 60’s. The 6–10-day forecast is near normal in the West, above normal from the Rockies to Chicago, below normal east of Chicago. *
+***Storage**** – 10-5-23 – Latest injection is 86Bcf. 357Bcf higher than this time last year and 172Bcf above the 5-year average of 3,273Bcf. At 3,445 Bcf, total working gas is within the 5-year historical range.*
 
-***Storage**** – latest estimates for tomorrow’s report now projected at only 92Bcf, compared to 126Bcf last year and a 5-year average of103Bcf. *
+Indicative Fixed Prices out of Nov ‘23
 
-* PG&E CG SOCAL CG*
+PG&E CG SOCAL CG SoCal Border
 
-*Start Month: Nov ‘23*
+1 MONTH $6.85 $8.55 $6.94
 
-*1 MONTH $6.60 $8.01*
+3 MONTHS $8.70 $10.15 $8.78
 
-*3 MONTHS $8.14 $9.35*
+6 MONTHS $7.60 $8.43 $7.38
 
-*6 MONTHS $7.11 $7.77*
+12 MONTHS $6.50 $7.16 $5.71
 
-*12 MONTHS $6.10 $6.65*
+24 MONTHS $6.30 $7.00 $6.01
 
-*24 MONTHS $6.00 $6.63*
+Winter Strips (Nov ’23 – March ‘24)
 
-*Winter Strips (Nov ’23 – March ‘24) *
+$8.15 $9.15 $7.51
 
-*$7.65 $8.45*
+Summer Strip (April ’24 – Aug ‘24)
 
-*Summer Strip (April ’24 – Aug ‘24)*
-
-*$5.00 $5.36*
+$5.30 $5.66 $4.15
 
