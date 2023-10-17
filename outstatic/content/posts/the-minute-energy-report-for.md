@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-minute-energy-report-for'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-MyNj.webp'
 publishedAt: '2023-10-12T15:39:22.133Z'
 ---
 
