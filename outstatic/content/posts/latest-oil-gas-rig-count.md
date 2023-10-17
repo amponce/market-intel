@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'latest-oil-gas-rig-count'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-QxNj.webp'
 publishedAt: '2023-10-13T17:04:16.238Z'
 ---
 
