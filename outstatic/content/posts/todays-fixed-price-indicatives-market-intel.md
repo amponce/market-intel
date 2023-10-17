@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'todays-fixed-price-indicatives-market-intel'
 description: ''
-coverImage: ''
+coverImage: '/images/rfp-brand-qwmt-cxMD.webp'
 publishedAt: '2023-10-13T15:18:55.584Z'
 ---
 
