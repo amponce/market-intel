@@ -6,51 +6,57 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-one-minute-energy-update-for'
 description: ''
-coverImage: '/images/rfp-brand-qwmt-k0ND.webp'
-publishedAt: '2023-10-16T15:18:52.685Z'
+coverImage: ''
+publishedAt: '2023-10-18T16:30:49.316Z'
 ---
 
-***10/16/23***
+***10/18/23***
 
-***\#NYMEX #NYMEXfallingfurther #NaturalGas #Energy #PG&ECGBasisUp #SoCalCGBasisUpStrong #Weather #LNG***
+***\#CaliforniaHasTheHighestEnergyPricesInTheUSAgain #NYMEX #NYMEXFlatteningOut #NaturalGasProductionUp***
 
-***NYMEX***\* – Today’s open = $3.18, high = $3.18, low = $3.05, currently sitting @ $3.07. Nov ’23 is down as much as $0.18 so far today. NYMEX prices are down approximately $0.30 from 1 week ago – first time in a few weeks that we are cheaper than the previous week. Down approximately $3.60 from 1 year ago. \*
+***\#PG&ECGBasisUp #SoCalCGBasisUp #CAISOPricesUp ***
 
-***NYMEX CALENDAR ESTIMATES***\* - $3.41 for balance of 2023, $3.61 for 2024, $4.08 for 2025. \*
+***\#DemandFalling #WeatherBearish***
 
-***RESISTANCE***\* - Starting @ $3.36. ****SUPPORT**** \- Starting @ $3.19. We broke through the first and second ($3.12) support levels. The driving factors continue to be bearish. \*
+***NYMEX**** – Today’s open = $3.06, high = $3.15, low = $3.04, currently sitting @ $3.08. Nov ’23 is close to flat so far today. NYMEX prices are down approximately $0.30 from 1 week ago and down approximately $2.90 from 1 year ago. *
 
-***PRODUCTION & DEMAND***\* - Production = 102.3BCF/D, up 1.4Bcf from last week, up 1.3Bcf from the previous year. Demand = 94.8BCF/D, down 0.4Bcf from last week, down 7.3Bcf from the previous year. \*
+***NYMEX CALENDAR ESTIMATES**** \- $3.27 for balance of 2023, $3.51 for 2024, $4.04 for 2025. *
 
-\*\*RIG COUNT – \*\**Last week’s rig count = + 4 for oil with a total of 501 active oil rigs. Compare that to 610 oil rigs 1 year ago. Last week’s natural gas rig count = - 1 for a total of 117 active natural gas rigs. Compare that to 157 natural gas rigs 1 year ago. *
+***RESISTANCE**** \- Starting @ $318. ****SUPPORT**** \- Starting @ $3.01, followed by $2.94. *
 
-***BASIS***\* – PG&E CG is up as much as $0.15 today on the prompt month. SoCal Basis is up over $1.00 today for the prompt month. \*
+***PRODUCTION & DEMAND**** – Production - Last week = 103.8Bcf/D. This week = 104.5BCF/D. Next week’s estimate = 104.4Bcf/D. Last year = 99.5Bcf/D. 5 yr. avg. = 93.1Bcf/D*
 
-***LNG***\* – Exports = 12.7Bcf/D.\*
+* Demand - Last week = 94.6Bcf/D. This week = 97.2Bcf/D. Next week’s estimate = 97.3BCF/D. Last year = 99.8Bcf/D. 5 yr. avg. = 88.8Bcf/D.*
 
-***WEATHER***\* – Warmer temperatures return to the SW. Pleasant temperatures from the Rockies to Lake Michigan. Chillier in the NE with overcast skies and some showers.\*
+***RIG COUNT –* ***Next Rig Count = 10-20-23.**Last week’s rig count = + 4 for oil with a total of 501 active oil rigs. Last week’s natural gas rig count = - 1 for a total of 117 active natural gas rigs. *
 
-***STORAGE***\* – From 10-12-23 = 84Bcf. We’re now 316Bcf above last year at this time and only 163Bcf above the 5-year average of 3,366Bcf.\*
+***BASIS**** – PG&E CG is up again today but not nearly as much as SoCal Basis is today. Not a good day to lock in Basis. *
+
+***WEATHER**** – Hot in Phoenix (as it always is…). The rest of the U.S. looks great with sunshine until you hit Montana, North Dakota, Mackinac Island, and Boston.*
+
+***STORAGE**** – End of season storage estimates = 3.8Tcf. The latest estimate for tomorrow’s storage report is +83Bcf. That number matches the 56-year average but falls well short of last year’s injection of 113Bcf.*
+
+***RETAIL POWER**** = averaging over $81 per MWH.*
 
 **Indicative Fixed Prices out of Nov ‘23 **
 
 PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-1 MONTH $6.29 $8.38 $6.87
+1 MONTH $7.45 $10.95 $8.99
 
-3 MONTHS $8.50 $10.05 $8.64
+3 MONTHS $9.75 $12.15 $10.74
 
-6 MONTHS $7.40 $8.22 $7.16
+6 MONTHS $8.30 $9.75 $8.46
 
-12 MONTHS $6.40 $7.10 $5.59
+12 MONTHS $6.85 $8.15 $7.79
 
-24 MONTHS $6.26 $7.08 $5.99
+24 MONTHS $6.36 $7.64 $56.03
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$8.15 $9.62 $7.69
+$8.95 $10.70 $9.29
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$5.19 $5.85 $4.14
+$5.32 $6.20 $4.44
 
