@@ -7,36 +7,36 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-10-20T16:49:43.453Z'
+publishedAt: '2023-10-23T16:42:34.440Z'
 ---
 
-***10/20/23***
+***THE 1 Minute Energy Report for 10/23/23***
 
-***\#NYMEX #NYMEXFallingFurther #OilAndGasRigCount***
+***\#NYMEX #NYMEXFlatteningOut #OilAndGasRigCount***
 
-***\#PG&EBasisFalls #SoCalBasisMixed #AlisoCanyonStartsInjectingThisWeekend #SoCalGasCapacityDown650000MMBtu***
+***\#PG&EBasisUp #SoCalBasisMixed ***
 
 ***\#ProductionDown #DemandDown ***
 
-***NYMEX**** – Today’s open = $2.95, high = $2.97, low = $2.88, currently sitting @ $2.90. Nov ’23 is down as much as $0.08 today. NYMEX prices are down approximately $0.45 from 1 week ago and down approximately $2.55 from 1 year ago. *
+***NYMEX**** – Today’s open = $2.90, high = $2.95, low = $2.86, currently sitting @ $2.94. Nov ’23 is up as much as $0.05 today. NYMEX prices are down approximately $0.30 from 1 week ago and down approximately $2.40 from 1 year ago. *
 
-***NYMEX CALENDAR ESTIMATES**** = $3.14 for balance of 2023, 2024 = $3.43, 2025 = $4.01. *
+***NYMEX CALENDAR ESTIMATES**** = $3.07 for balance of 2023, 2024 = $3.40, 2025 = $4.02. *
 
-***RESISTANCE**** \- Starting @ $3.11. ****SUPPORT**** \- Starting @ $2.903.01, followed by $2.82. *
+***RESISTANCE**** \- Starting @ $3.20. ****SUPPORT**** \- Starting @ $2.88, followed by $2.80. *
 
-***PRODUCTION & DEMAND**** – Production – This week = 101.3Bcf/D. Last week = 104.5Bcf/D. Next week’s estimate = 102.4Bcf/D. Last year = 102.5Bcf/D. 3 yr. avg. = 97.1Bcf/D.*
+***PRODUCTION & DEMAND**** – Production – This week = 102.6Bcf/D. Last week = 101.3Bcf/D. Next week’s estimate = 102.4Bcf/D. Last year = 102.2Bcf/D. 3 yr. avg. = 97.2Bcf/D.*
 
-* Demand - Last week = 97.2Bcf/D. This week = 95.8Bcf/D. Next week’s estimate = 96.1BCF/D. Last year = 102Bcf/D. 3yr. avg. = 94.8Bcf/D.*
+* Demand - Last week = 98.6Bcf/D. This week = 97.2Bcf/D. Next week’s estimate = 96.1BCF/D. Last year = 99.7Bcf/D. 3yr. avg. = 98.6Bcf/D.*
 
-***RIG COUNT –* ***Next Rig Count = later today.**Last week’s rig count = + 4 for oil with a total of 501 active oil rigs. Last week’s natural gas rig count = - 1 for a total of 117 active natural gas rigs. *
+***RIG COUNT ****– As of 10-20-23*** \- ***Last week’s rig count = + 1 for oil with a total of 502 active oil rigs. Last week’s natural gas rig count = + 1 for a total of 118 active natural gas rigs. That’s two consecutive weeks with an overall increased rig count.*
 
-***BASIS**** – PG&E Basis is falling. SoCal Basis remains elevated and should remain elevated for the time being. We need injections into Aliso Canyon to begin tomorrow. We also need the 650,000MMBtu SoCal Border gas to come back online. We get those two items and SoCal Basis should fall. *
+***BASIS**** – PG&E Basis is up on the front months, falling on the back months. SoCal Basis remains elevated. Still waiting for a downward correction. *
 
-***LNG**** – Exports hit 14.6Bcf/D on 10-17-23, the highest export volume since April ’23.*
+***LNG**** – Exports hit 14.3Bcf/D. Some “experts” believe the growing LNG export business will be just the thing to increase the number of pipeline projects. The increase on natural gas for power generation should also increase pipeline projects but the W&S kids remain in denial. *
 
-***WEATHER**** – Increasing heat in the SW, TX, and Gulf regions. Sunny until you hit Detroit. Increasing clouds and rain from Detroit to Burlington, and all the way south to Washington DC. *
+***WEATHER**** – Cooling temps throughout the U.S. 6-10-day forecast shows near normal for the West/SW, below normal for the Rockies/Plains/West Mid-Con, above normal for East Mid-Con/TX/Gulf/Mid-Atlantic/Northeast. *
 
-***STORAGE**** – End of season storage estimates = 3.8Tcf. The latest injection is 97Bcf. We’re now 300Bcf above last year at this time and only 175Bcf above the 5-year average of 3,451Bcf. At 3,626Bcf, total working gas remains within the 5-year historical range. *
+***STORAGE**** – End of season storage estimates = 3.8Tcf. The latest injection from 10-19-23 is 97Bcf. We’re now 300Bcf above last year at this time and only 175Bcf above the 5-year average of 3,451Bcf. At 3,626Bcf, total working gas remains within the 5-year historical range. *
 
 
 
@@ -44,21 +44,21 @@ publishedAt: '2023-10-20T16:49:43.453Z'
 
 PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-1 MONTH $7.25 $10.90 $8.94
+1 MONTH $8.35 $10.98 $8.96
 
-3 MONTHS $9.59 $12.11 $10.59
+3 MONTHS $9.64 $12.16 $10.63
 
-6 MONTHS $8.12 $9.75 $8.45
+6 MONTHS $8.16 $9.79 $8.49
 
-12 MONTHS $6.71 $8.12 $7.70
+12 MONTHS $6.76 $8.16 $7.70
 
 24 MONTHS $6.44 $7.64 $5.93
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$8.74 $10.69 $9.27
+$8.78 $10.74 $9.29
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$5.24 $6.11 $4.33
+$5.27 $6.15 $4.37
 
