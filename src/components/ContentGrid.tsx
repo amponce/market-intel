@@ -3,6 +3,9 @@ import Link from 'next/link'
 import DateFormatter from './DateFormatter'
 import Image from 'next/image'
 
+const defaultImagePath = '/images/rfp-brand-AyOT.png'; // Corrected the path, make sure it's a string
+
+
 type Props = {
   collection: 'posts' | 'projects'
   title?: string
@@ -25,7 +28,7 @@ const ContentGrid = ({ title = 'More', items, collection }: Props) => {
             <div className="cursor-pointer border project-card rounded-md md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow overflow-hidden">
               <div className="sm:mx-0">
                 <Image
-                  src={item.coverImage}
+                  src={post.coverImage ? post.coverImage : defaultImagePath}
                   alt={`Cover Image for ${item.title}`}
                   className="object-cover object-center w-full"
                   width={347}
