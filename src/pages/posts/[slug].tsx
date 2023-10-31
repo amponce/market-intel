@@ -9,6 +9,9 @@ import { getDocumentPaths, getDocumentBySlug } from 'outstatic/server'
 import DateFormatter from '../../components/DateFormatter'
 import Image from 'next/image'
 
+const defaultImagePath = '/images/rfp-brand-AyOT.png'; // Corrected the path, make sure it's a string
+
+
 type Props = {
   post: Document
 }
@@ -36,7 +39,7 @@ export default function Post({ post }: Props) {
               <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
                 <Image
                   alt={post.title}
-                  src={post.coverImage}
+                  src={post.coverImage ? post.coverImage : defaultImagePath}
                   fill
                   className="object-cover object-center"
                   priority
