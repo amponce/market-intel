@@ -7,32 +7,34 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-10-31T15:58:32.276Z'
+publishedAt: '2023-11-01T15:37:00.576Z'
 ---
 
-***THE 1 Minute Energy Report for 10/31/23***
+***THE 1 Minute Energy Update for 11/1/23***
 
-***\#NYMEX #NYMEXUpStrong #PG&EBasisUpThenDown #SoCalBasisDown #BearishShortTermOutlook***
+***\#NYMEX #NYMEXRetreats #PG&EBasisDown #SoCalBasisFallingFurther #BearishShortTermOutlook***
 
-***\#ColdFrontMovingEast ***
+***\#ColdFrontMovingToCanada ***
 
-***NYMEX**** –NYMEX opened strong today. Cold fronts blowing through the Mid-Con are to blame. Today’s opening price for Dec ‘23 = $3.33, high = $3.56, low = $3.31, currently sitting @ $3.56. Dec ’23 is up as much as $0.21 so far today. NYMEX prices are up $0.60 from 1 week ago and down approximately $2.10 from 1 year ago. *
+***NYMEX**** – NYMEX jumped nearly 7% yesterday to a 9-month high. Colder than normal weather across the Mid-Con was all that was needed for an overbought market. Those who over bought were able to salvage some overpriced positions yesterday. Today’s opening price for Dec ‘23 = $3.60 ($0.27 higher than yesterday’s opening price), high = $3.60, low = $3.42, currently sitting @ $3.50. Dec ’23 is down as much as $0.18 so far today. NYMEX prices are up $0.50 from 1 week ago and down approximately $2.70 from 1 year ago. *
 
-***NYMEX CALENDAR ESTIMATES**** – Provided by the fine people at *[*EnergyRogue.com*](http://EnergyRogue.com)* (a great source for energy related information) - 2023 Balance = $3.35, 2024 = $3.43, 2025 = $4.03. *
+***NYMEX CALENDAR ESTIMATES**** – 2023 Balance = $3.57, 2024 = $3.60, 2025 = $4.09. *
 
-***RESISTANCE**** –Starting @ $3.39/$3.44. ****SUPPORT**** \- Starting @ $3.31/$3.27. *
+***RESISTANCE**** –Starting @ $3.69/$3.82. ****SUPPORT**** \- Starting @ $3.38/$3.19. *
 
-***PRODUCTION & DEMAND**** – Production – Oct ’23 is averaging 103.9Bcf/D, up from 102.6Bcf/D average for Sep ’23. *
+***PRODUCTION & DEMAND**** – Production hit 104.1Bcf to end Oct ’23, setting a new daily high record. *
 
-* Demand – last week averaged around 97Bcf/D. So far this week, we are averaging 103.95Bcf/D. Big jump but should be a short-lived jump.*
+* Demand is expected to fall to 104.2Bcf/D next week. *
 
-***RIG COUNT ****– The oil & gas rig count increased for the third straight week. Friday’s rig count = + 2 for oil with a total of 504 active oil rigs. Last week’s natural gas rig count = - 1 for a total of 117 active natural gas rigs. *
+***RIG COUNT ****– Next rig count is 11-3-23. *
 
-***BASIS**** – PG&E Basis is up for the short term then falling once we get to Spring ’24. SoCal Basis is falling from Dec ’23 onwards. *
+***BASIS**** – PG&E Basis is starting to fall. SoCal Basis continues to fall. *
 
-***WEATHER**** – Cold in the Mid-Con, Great Lakes, and New England. Rest of the U.S. enjoys reginal autumn weather. The 6 – 10 day shows above normal temperatures for most of the U.S, with near normal temperatures for upper Mid-Con and New England. The 10-15-day forecast shows well above normal temperatures from Seattle to New Orleans. Near normal for the Southeast, Mid-Atlantic, and Northeast. New England forecasted for below normal. *
+***LNG**** – Exports reached 13.7Bc/D in Oct ’23, nearing a record high. 2023, down 0.6Bcf from last week’s average. The “experts” expect LNG exports to increase by 12.9Bcf/D over the next 5 years. *
 
-***STORAGE**** – Implied daily injections = 10.5Bcf. End of season storage estimates = 3.8Tcf. *
+***WEATHER**** – Warming up across the northern half of the U.S. while the southern half gets a little cooler but not enough to initiate any real heating demand. The 6 – 10 day show above normal temperatures for the West, SW, Texas, and Gulf regions, with near normal for everywhere else but New England and the Lakes regions where it’s scheduled to be slightly below normal. The 10-15-day forecast continues to show well above normal temperatures from Seattle to New Orleans. Near normal for the Mid-Con. Below normal for the Mid-Atlantic, Northeast, and New England. *
+
+***STORAGE**** – Implied daily injections = 10.5Bcf. End of season storage estimates = 3.8Tcf. The latest estimate for tomorrow’s storage report is an injection of 83Bcf. Compare this to 99Bcf injected last year for this week and the 5-year average of 57Bcf.*
 
 ***CA RETAIL POWER**** – averaging around $71MWH. *
 
@@ -40,7 +42,7 @@ publishedAt: '2023-10-31T15:58:32.276Z'
 
 PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-1 MONTH $9.65 $10.88 $8.58
+1 MONTH $9.55 $10.78 $8.58
 
 3 MONTHS $9.30 $10.50 $9.31
 
