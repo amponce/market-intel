@@ -7,56 +7,56 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-11-20T15:40:06.616Z'
+publishedAt: '2023-11-21T17:21:04.953Z'
 ---
 
-***THE 1 Minute Energy Update for 11/20/23***
+***THE 1 Minute Energy Update for 11/21/23***
 
-***\#NYMEXDown #PG&EBasisDown #SoCalGasBasisUp #StorageReport #RigCount #Energy #Weather #LNG #NaturalGasProcurement ***
+***As a reminder, there will be no One Minute Energy Update Thanksgiving Day. And with that said, RFP Energy wants to wish everyone a very Happy and Peaceful Thanksgiving.***
 
-***NYMEX**** – NYMEX is down nearly 34% so far this year. Weather, Production, and Demand, as we have seen, can move this commodity quickly. Don’t be the WouldaShouldaCoulda clown. *
+***\#NYMEXDownAgain #PG&EBasisDown #SoCalGasBasisDown #Energy #Weather #LNG #NaturalGasProcurement ***
 
-*Today’s opening price for Dec ‘23 = $2.95, high = $2.95, low = $2.86, currently sitting @ $2.91. NYMEX prices are flat from 1 week ago and down approximately $3.40 from 1 year ago. *
+***NYMEX**** – Today’s opening price for Dec ‘23 = $2.88, high = $2.92, low = $2.85, currently sitting @ $2.87. NYMEX prices are down $0.30 from 1 week ago and down approximately $3.45 from 1 year ago. *
 
 *2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.*
 
-***NYMEX CALENDAR ESTIMATES**** – 2023 Balance = $2.96, 2024 = $3.18, 2025 = $4.02. *
+***NYMEX CALENDAR ESTIMATES**** – 2023 Balance = $2.88, 2024 = $3.12, 2025 = $3.97. *
 
-***RESISTANCE**** – Starting @ $3.08/$3.20. ****SUPPORT**** \- Starting @ $2.86/$2.76. *
+***RESISTANCE**** – Starting @ $3.00/$2.94.*
 
-***PRODUCTION/SUPPLY & DEMAND**** – Production – varying reports = 103.8Bcf to 105.3Bcf. Compare this to 100.4bcf/D this time last year. Supply sitting at 111.1Bcf/D. *
+***SUPPORT**** \- Starting @ $2.84/$2.81. *
 
-*Demand averaging 111Bcf/D. ****Fun Fact – highest daily demand for natgas was 12-24-22 at a whopping 157.3Bcf.***
+***PRODUCTION/SUPPLY & DEMAND**** – Production = 103Bcf. Supply = 108.2Bcf/D. Demand averaging 105Bcf/D. *
 
-***RIG COUNT ****– The oil & gas rig count increased for the first time in 3 weeks. Oil rigs increase3d by 6 for oil for a total of 500 active oil rigs. Natural gas rigs fell by 4 for a total of 114 active natural gas rigs – lowest for natural gas rig count since early Sep ’23. *
+***RIG COUNT ****– The oil & gas rig count (11-18-23) increased for the first time in 3 weeks. Oil rigs increased by 6 for oil for a total of 500 active oil rigs. Natural gas rigs fell by 4 for a total of 114 active natural gas rigs.*
 
-***BASIS**** – PG&E Basis down approximately $0.05 so far today. SoCal Basis is up approximately $0.50. As we have seen, California Basis moves up and down constantly. The best strategy remains – pick a price and pull the trigger when it hits, and don’t second guess yourself. *
+***BASIS**** – PG&E Basis down approximately $0.15 so far today. SoCal Basis retreats after yesterday’s rally. So far today, SoCal Basis is down roughly $0.35. *
 
-***LNG EXPORTS**** – Averaged 11.6Bcf/D for the first half of 2023. Looks like it will average over 13Bcf/D for the second half of 2023. The U.S. has been the leading LNG exporting country since 2016. Latest reports show 14.2Bcf/D. *
+***LNG EXPORTS**** – Latest reports show 14.2Bcf/D. Rumor has it that the next report will show LNG exports at or above 15Bcf/D.*
 
-***WEATHER**** – Most of the U.S. will enjoy some chilly temps in the 40’s/50’s. California in the 60’s/70’s, as are the Gulf states. The 6 – 10-day forecast shows near normal for the coasts and below normal for the rest of the U.S. The 10-15-day forecast shows near normal for the West coast, near normal for the Rockies and to the north, and below normal for the rest of the U.S. The latest 3 month forecast for Dec-Feb is showing above normal for the northern half, near normal for the southern half. And since we’re looking out past the next 4 weeks, next spring/summer is forecasted to be normal to above normal. That forecast will give strength to those NYMEX months. Same for Basis here in the West. *
+***WEATHER**** – A slight warm up from yesterday for most of the U.S. The 6 – 10-day forecast shows near normal for the West, Pac NW, Dakotas, and below normal for the rest of the U.S. The 10-15-day forecast shows above normal for the West, Pac NW, Dakotas., near normal for the Plains, and below normal for most of the rest of the U.S.*
 
-***STORAGE**** – The next storage report comes out this Wednesday. We are now 198Bcf higher than this time last year, and 203Bcf above the 5-year average of 3,630Bcf. At 3,833Bcf, total working gas remains within the 5-year historical range. We’re 5% above both last year and the 5-year average.*
+***STORAGE**** – The next storage report comes out this Wednesday 11-22-23. We are now 198Bcf higher than this time last year, and 203Bcf above the 5-year average of 3,630Bcf. At 3,833Bcf, total working gas remains within the 5-year historical range. We’re 5% above both last year and the 5-year average.*
 
 **Indicative Fixed Prices out of Dec ‘23 **
 
 PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-1 MONTH $8.542 $9.52 $7.38
+1 MONTH $8.44 $9.37 $7.78
 
-3 MONTHS $7.91 $9.12 $7.69
+3 MONTHS $7.81 $9.01 $7.89
 
-6 MONTHS $6.33 $6.97 $5.71
+6 MONTHS $6.23 $6.87 $5.71
 
-12 MONTHS $5.85 $6.78 $4.80
+12 MONTHS $5.75 $6.68 $5.82
 
-24 MONTHS $5.98 $6.95 $4.85
+24 MONTHS $5.88 $6.85 $5.66
 
 Winter Strips (Nov ’23 – March ‘24)
 
-$7.28 $8.12 $6.87
+$7.23 $8.08 $7.08
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$5.02 $6.13 $4.07
+$5.03 $6.14 $4.37
 
