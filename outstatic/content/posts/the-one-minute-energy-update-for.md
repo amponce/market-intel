@@ -7,52 +7,52 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-11-29T17:11:41.541Z'
+publishedAt: '2023-11-30T17:17:22.294Z'
 ---
 
-***THE 1 Minute Energy Update for 11/29/23***
+***THE 1 Minute Energy Update for 11/30/23***
 
-*I’m changing directions. We’ve been worried about prices replicating last year’s winter prices. But there are a few driving factors that are pushing the market in the opposite direction and could push prices well below where they are now. And here’s my take on it. There is considerably a greater amount of natural gas being injected into and stored at Aliso Canyon – the most in 7 years. The warm weather forecast (at least through Dec '23) is very bearish. There is record setting production. Two years ago, when production was averaging around 96Bcf/D, I felt that we needed production to be at or over at 100Bcf/D if we wanted to see NYMEX at $2.50/$2.75 range. We’re averaging over 100Bcf/D now and it’s expected to increase. LNG exports will eat up some of that daily production growth but as we are seeing, LNG exports can’t be charted nearly as well as the domestic market, and for good reason – you should know the reasons why and if you don’t, I don’t have the time to list them all today. A lot of traders expected to see NYMEX in the $3.50/$4.00 range by now, and those traders took long positions and now they must sell those positions or eat those positions. For these reasons, I feel like we could see NYMEX fall further, and I feel Basis in California/Southwest COULD fall considerably if these driving factors play out. Everyone should already be covered for Dec ’23. We’ll pick up Jan/Feb soon, and then see if the forward months fall apart. *
+***\#NYMEXFlatteningForNow #PG&EBasisDown #SoCalGasBasisFallsFurther #CABasisCouldTank #Energy #WeatherMainFactor #LNGSteady #NaturalGasProcurement #CalforniaPowerRateHikes***
 
-***\#NYMEXHits2MonthLow #PG&EBasisDownAgain #SoCalGasBasisDownAgain #CABasisCouldTank #Energy #WeatherTurningWarmAgain #LNGSteady #NaturalGasProcurement ***
-
-***NYMEX**** – Today’s opening price for Jan ‘24 = $2.79, high = $2.87, low = $2.72, currently sitting @ $2.79. NYMEX prices are down $0.15 from 1 week ago and down approximately $2.95 from 1 year ago. *
+***NYMEX**** – Today’s opening price for Jan ‘24 = $2.79, high = $2.85, low = $2.76, currently sitting @ $2.77. NYMEX prices are down $0.12 from 1 week ago and down approximately $4.45 from 1 year ago. *
 
 *2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.*
 
-***NYMEX CALENDAR ESTIMATES**** – 2023 Balance = $2.89, 2024 = $3.10, 2025 = $3.90. *
+***NYMEX CALENDAR ESTIMATES**** – 2023 Balance = $2.86, 2024 = $3.08, 2025 = $3.90. *
 
-***RESISTANCE**** – Starting @ $2.94/$3.01.*
+***RESISTANCE**** – Starting @ $2.88/$2.98.*
 
-***SUPPORT**** \- Starting @ $2.79/$2.66. *
+***SUPPORT**** \- Starting @ $2.73/$2.66. *
 
-**PRODUCTION/SUPPLY & DEMAND** – *Production = 105.3Bcf. Supply averaging 110Bcf/D for the past 7 days. Demand is expected to hit 131.6Bcf today. Demand averaged 127Bcf/D over the past 7 days, topping out at 140.3Bcf yesterday. *
+**PRODUCTION/SUPPLY & DEMAND** *– Production = 104.2Bcf. Supply averaging 110.4Bcf/D for the past 7 days. Daily production for Winter 2023/2024 is expected to average 101.7Bcf/D. Demand is expected to fall to 118Bcf today. Demand averaged 127Bcf/D over the past 7 days, topping out at 140.3Bcf yesterday.*
 
 ***RIG COUNT ****– The oil & gas rig count (11-22-23) increased for the second straight week. Oil rigs saw no change from the previous week, for a total of 500 active oil rigs. Natural gas rigs increased by 3 for a total of 117 active natural gas rigs.*
 
-***BASIS**** – PG&E Basis down another $0.25 from yesterday. SoCal Basis down another $0.20 as well. *
+***BASIS**** – PG&E Basis trickles down further. SoCal Basis continues to fall in chunks. *
 
-***LNG EXPORTS**** – Latest reports show 14.2Bcf/D. *
+***LNG EXPORTS**** – terminals are looking into building carbon capturing facilities to be saved and used in other products and projects. Pretty smart. Now if they can find a way to burn less fuel transporting around the world, we got a real winner. *
 
-***WEATHER**** – Continued warming across the U.S. The 6 – 10-day forecast shows way above for the Pac NW, West, SW, and Plains. Above normal for most of Texas, the Panhandle. Near normal for the rest of the U.S. The 10-15-day forecast shows above normal for the West, Pac NW, SW, above normal for the Mid-Con, and near normal for the Eastern seaboard. *
+***WEATHER**** – Most of the U.S. is colder today with a lot of rain from Seattle all the way across the U.S. Sunny in Boston – must be Shane MacGowan smiling down on the city with such Irish pride. The 6 – 10-day forecast shows way above from the Pac NW through the Mid-Con, near normal east of Toledo. The 10-15-day forecast shows above normal for the entire U.S. except for New England, Florida, and Seattle. *
 
-***STORAGE**** – The Storage Report comes out tomorrow. The latest estimates are for a 10Bcf withdrawal. Compare that to 80Bcf last year and the 5-year average of 44Bcf. If this estimate is accurate, we can expect even more bearish action for both NYMEX and Basis. *
+***STORAGE**** – Today’s storage report estimated a withdrawal of 10Bcf. The actual report shows a 10Bcf injection. The “experts” making the predictions every week must be some of the most dilettante people around or deliberately doing so to manipulate the market. We are now 341Bcf higher than this time last year, and 303Bcf above the 5-year average of 3,533Bcf. At 3,836Bcf, total working gas remains within the 5-year historical range.*
+
+***CA RETAIL POWER**** – Right around the same time as you get your holiday season credit card bill in 2024, the great people of PG&E, SoCalEdison, SDG&E, and every other electricity LDC in CA will be jacking up your residential electric rates by around 22%. Someone must endure the cost of solar panels taking those homes off the LDC grid (revenue stream), and that someone is you, the LDC rate payer! NEVER underestimate the LDCs ability to screw you to the wall. And don’t forget to do your part by sitting in the dark between 4PM and 9PM!*
 
 **Indicative Fixed Prices out of Jan ‘24 **
 
 PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-1 MONTH $6.40 $6.98 $7.52
+1 MONTH $6.31 $6.91 $7.44
 
-3 MONTHS $5.63 $6.09 $5.81
+3 MONTHS $5.55 $6.00 $5.76
 
-6 MONTHS $4.96 $5.29 $4.38
+6 MONTHS $4.92 $5.23 $4.32
 
-12 MONTHS $5.28 $6.05 $5.05
+12 MONTHS $5.24 $5.97 $4.95
 
-24 MONTHS $5.57 $6.45 $4.65
+24 MONTHS $5.50 $6.40 $4.60
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$4.68 $5.39 $4.01
+$4.61 $5.39 $4.01
 
