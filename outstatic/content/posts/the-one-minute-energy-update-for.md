@@ -7,54 +7,56 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-12-07T18:17:23.285Z'
+publishedAt: '2023-12-08T16:22:16.799Z'
 ---
 
-***THE 1 Minute Energy Update for 12/7/23***
+THE 1 Minute Energy Update for 12/8/23
 
-***\#NYMEXRemainsBearish #PG&EBasisFlat #SoCalGasBasisDown #Energy #WeatherBearish #StorageWithdrawalBig #NaturalGasDemandUp #LNGExportsSlowing?***
+\#NYMEXRemainsBearish #PG&EBasisDownSlightly #SoCalGasBasisFallingFurther #Energy #WeatherBearish #NaturalGasDemandDown #LNGExportsDown
 
-*NYMEX – We remain well below the 50-day ($3.05), 20-day ($2.86), and 9-day ($2.71) averages. *
+NYMEX – We remain well below the 50-day ($3.04), 20-day ($2.85), and 9-day ($2.69) averages.
 
-*Today’s opening price for Jan ‘24 = $2.56, high = $2.62, low = $2.48, currently sitting @ $2.56. NYMEX prices are down approximately $0.45 from 1 week ago and down approximately $3.10 from 1 year ago. *
+Today’s opening price for Jan ‘24 = $2.55, high = $2.61, low = $2.53, currently sitting @ $2.57. NYMEX prices are down approximately $0.22 from 1 week ago and down approximately $3.15 from 1 year ago.
 
-*2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.*
+2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.
 
-***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.74, 2025 = $3.58, 2026 = $3.78. *
+NYMEX CALENDAR YEAR ESTIMATES – 2024 = $2.75, 2025 = $3.55, 2026 = $3.76.
 
-***RESISTANCE**** – Starting @ $2.70/$2.83.*
+RESISTANCE – Starting @ $2.64/$2.69.
 
-***SUPPORT**** - Starting @ $2.62/$2.48. *
+SUPPORT - Starting @ $2.56/$2.50.
 
-***PRODUCTION/SUPPLY & DEMAND**** – Supply (as of 12-6-23) averaged 109.6Bcf/D over the past 7 days. Daily production for Winter 2023/2024 is expected to average 101.7Bcf/D. Demand averaged 119.3Bcf/D over the past 7 days. *
+PRODUCTION/SUPPLY & DEMAND – Today’s Supply = 110.7Bcf/D. Supply 7 Day Avg = 109.3Bcf. Production = 105Bcf/D. Daily production for Winter 2023/2024 is expected to average 101.7Bcf/D.
 
-***RIG COUNT - ****The next rig count will be released 12-8-23. We are currently 20% below where we were this time last year. *
+Demand 7 Day avg. = 118.9Bcf.
 
-***BASIS**** – PG&E Basis is flat early this morning. SoCal Basis falls further. We currently have strong storage, favorable weather patterns, and limited capacity constraints. All bearish driving factors.*
+RIG COUNT - The next rig count will be released later today. We are currently 20% below where we were this time last year.
 
-***LNG EXPORTS**** – Latest average = 14.3Bcf/D. Nov ’23 averaged 14.3Bcf/D, up 0.06Bcf/D from Oct ‘23’s average of 13.7Bcf/D. *
+BASIS – PG&E Basis falling further. SoCal Basis falling further. Basis is falling at a very tricky time of year. Any disruption to the current conditions and we could endure a prolonged bull run on Basis.
 
-***WEATHER**** – Returning to seasonal temps in the Pac NW, West. Warming in the SW, Texas, Plains, and Gulf States. Above normal for the rest of the U.S. The 6 – 10-day forecast shows above normal for the West, Rockies, Plains. Near normal for the rest of the U.S. The 10-15-day forecast shows near normal for the southern and Mid-Atlantic regions, normal to above normal for the rest of the U.S. *
+LNG EXPORTS – Latest average = 14.1Bcf/D. Nov ’23 averaged 14.3Bcf/D, up 0.06Bcf/D from Oct ‘23’s average of 13.7Bcf/D.
 
-***STORAGE**** – Today’s storage report was estimated to have a withdrawal of 105Bcf. The actual report shows a withdrawal of 117Bcf. We are now 254Bcf higher than this time last year, and 234Bcf above the 5-year average of 3,485Bcf. At 3,719Bcf, total working gas remains within the 5-year historical range.*
+WEATHER – Chillier than yesterday for most of the U.S. The 6 – 10-day forecast shows above normal for the West, Rockies, Plains. Near normal for the rest of the U.S. The 10-15-day forecast shows above normal for all of the U.S., except for south Texas and Florida which are forecasted to be near normal.
 
-**Indicative Fixed Prices out of Jan ‘24 **
+STORAGE – We are 254Bcf higher than this time last year, and 234Bcf above the 5-year average of 3,485Bcf. At 3,719Bcf, total working gas remains within the 5-year historical range.
 
-PG&E CG SOCAL CG SoCal Border (+ $0.51 BTS)
+Indicative Fixed Prices out of Jan ‘24
 
-1 MONTH $5.51 $6.01 $5.83
+PG&E CG SOCAL CG SoCal Border (+ $0.53 BTS)
 
-3 MONTHS $4.96 $5.68 $5.06
+1 MONTH $5.30 $5.876 $5.60
 
-6 MONTHS $4.46 $4.73 $4.46
+3 MONTHS $4.85 $5.19 $4.81
 
-12 MONTHS $4.87 $5.68 $5.26
+6 MONTHS $4.41 $4.67 $4.41
 
-24 MONTHS $5.25 $6.09 $5.73
+12 MONTHS $4.85 $5.56 $5.15
+
+24 MONTHS $5.19 $5.99 $5.65
 
 Summer Strip (April ’24 – Aug ‘24)
 
+$4.40 $5.02 $4.66
 
 
-$4.34 $5.09 $4.73
 
