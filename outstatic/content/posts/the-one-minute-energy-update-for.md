@@ -1,6 +1,6 @@
 ---
 title: 'THE One Minute Energy Update for...'
-status: 'draft'
+status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
