@@ -7,38 +7,38 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-12-18T17:05:00.689Z'
+publishedAt: '2023-12-19T15:19:03.632Z'
 ---
 
-***THE 1 Minute Energy Update for 12/18/23***
+***THE 1 Minute Energy Update for 12/19/23***
 
-***\#NYMEXUp #PG&ECGBasisUp #SoCalGasBasisUp #Energy #HereComesTheRainAgain #NaturalGasDemandDown #LNGExports #SolarStillSucks #CarbonOffsets***
+***\#NYMEXDown #PG&ECGBasisFlat #SoCalGasBasiDownSlightly #WeatherBearish #NaturalGasDemand #LNGExports #CarbonOffsets***
 
-*NYMEX – Up this morning, as much as a dime. Demand could fall as power outages are reported along the east coast due to storms with hurricane level winds. It’s the middle of December so we can expect bullish movement. Demand is soft for this time of year. Weather forecasts support bears. Production remains strong. And Solar is expected to increase by 40% in 2024, bringing that lagging joke of an energy source up to almost 4% contribution to the overall power generation. *
+*NYMEX – After a 3-day bull run (less than $0.20 on the front month…) and traders running around like it was July in Pamplona, NYMEX turned bearish once again, and for good reason even with demand being stronger than expected. Weather forecasts continue to support bears. Production remains strong. *
 
-*We remain below the 50-day ($2.96) and 20-day ($2.65) averages, and above the 9-day ($2.50) average. *
+*We remain below the 50-day ($2.94), the 20-day ($2.63), and the 9-day ($2.51) averages. *
 
-*Today’s opening price for Jan ‘24 = $2.50, high = $2.59, low = $2.48, currently sitting @ $2.58. NYMEX prices are up approximately $0.01 from 1 week ago and down approximately $4.37 from 1 year ago. *
+*Today’s opening price for Jan ‘24 = $2.51, high = $2.53, low = $2.41, currently sitting @ $2.42. NYMEX prices are down approximately $0.05 from 1 week ago and down approximately $4.20 from 1 year ago. *
 
 *2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.*
 
-***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.68, 2025 = $3.51, 2026 = $3.81. *
+***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.67, 2025 = $3.49, 2026 = $3.82. *
 
-***RESISTANCE**** – Starting @ $2.56/$2.63. We hit the first level earlier this morning and remain above so far today.*
+***RESISTANCE**** – Starting @ $2.57/$2.63. *
 
-***SUPPORT**** - Starting @ $2.39/$2.30. *
+***SUPPORT**** - Starting @ $2.46/$2.42. Both levels have already been hit this morning.*
 
-***PRODUCTION/SUPPLY & DEMAND**** – Today’s Est. Supply = 110.0Bcf/D. Supply 7 Day Avg. = 109.8Bcf. Today’s Estimated Production = 104.9Bcf/D. Daily production for Winter 2023/2024 is expected to average 101.7Bcf/D. *
+***PRODUCTION/SUPPLY & DEMAND**** – Today’s Est. Supply = 109.1Bcf/D. Supply 7 Day Avg. = still 109.8Bcf. Today’s Estimated Production = 105.2Bcf/D. Daily production for Winter 2023/2024(which starts 12-21-23) is expected to average 101.7Bcf/D. *
 
-*Demand = 122.9Bcf. *
+*Demand 7 Day Avg. = 122.6Bcf. *
 
 ***RIG COUNT – ****As of 12-15-23 – Overall rig**** ****count = 623. Oil fell by 2 rigs to 503, gas went unchanged for a total of 119 rigs, and miscellaneous rigs fell by 1. *
 
-***BASIS**** – PG&E Basis is up a dime as is SoCal Basis. *
+***BASIS**** – PG&E Basis is relatively flat from yesterday. SoCal Basis is down a few cents from yesterday. *
 
-***LNG EXPORTS**** – Latest average (12-15-23) = 14.6Bcf/D. *
+***LNG EXPORTS**** – Latest average (12-18-23) = 14.6Bcf/D. *
 
-***WEATHER**** – Temperatures remain above normal for most of the U.S. The 6 – 10-day forecast shows above normal for the U.S., especially in the Mid-Con. Only areas forecasted not to be above/well above normal are SoCal and AZ. The 10-15-day forecast calls for above normal temperatures across the U.S. except for AZ, south Texas, and FL.*
+***WEATHER**** – Warming in the parts that need it, cooling in the parts that want it. The 6 – 10-day forecast shows above normal for most of the U.S except for SoCal/AZ/NM. Also calling for above normal precipitation, especially in the Mid-Con. The 10-15-day forecast calls for above normal temperatures for most of the U.S. except for the most southern regions that will gladly take near normal temperatures. Above normal precipitation for both coasts. *
 
 ***STORAGE**** – Last week’s report has us at 245Bcf higher than this time last year, and 260Bcf above the 5-year average of 3,404Bcf. At 3,664Bcf, total working gas remains within the 5-year historical range. *
 
@@ -48,19 +48,19 @@ publishedAt: '2023-12-18T17:05:00.689Z'
 
 PG&E CG SOCAL CG SoCal Border (+ $0.51 BTS)
 
-1 MONTH $4.78 $5.30 $4.95
+1 MONTH $4.68 $5.20 $4.85
 
-3 MONTHS $4.55 $4.85 $4.32
+3 MONTHS $4.45 $4.75 $4.22
 
-6 MONTHS $4.35 $4.35 $3.99
+6 MONTHS $4.25 $4.25 $3.89
 
-12 MONTHS $4.72 $5.32 $4.99
+12 MONTHS $4.62 $5.22 $4.90
 
-24 MONTHS $5.10 $5.82 $5.45
+24 MONTHS $5.05 $5.72 $5.35
 
 Summer Strip (April ’24 – Aug ‘24)
 
+$4.22 $4.61 $4.06
 
-
-$4.35 $4.75 $4.10
+<br>
 
