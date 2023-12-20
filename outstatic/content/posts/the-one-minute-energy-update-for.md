@@ -7,40 +7,50 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2023-12-19T15:19:03.632Z'
+publishedAt: '2023-12-20T16:11:23.752Z'
 ---
 
-***THE 1 Minute Energy Update for 12/19/23***
+***THE 1 Minute Energy Update for 12/20/23***
 
-***\#NYMEXDown #PG&ECGBasisFlat #SoCalGasBasiDownSlightly #WeatherBearish #NaturalGasDemand #LNGExports #CarbonOffsets***
+***Today’s 1 Minute Energy Update will be the last update this week as the fine people at RFP Energy ramp up our Christmas and Holiday Season celebrations. We will, however, be around for the remainder of the week for anything you may need. The New York Mercantile Exchange will be closed 12-22-23 – 12-26-23.***
 
-*NYMEX – After a 3-day bull run (less than $0.20 on the front month…) and traders running around like it was July in Pamplona, NYMEX turned bearish once again, and for good reason even with demand being stronger than expected. Weather forecasts continue to support bears. Production remains strong. *
+***So, from all of us here at RFP Energy, we want to wish you, your families, and friends a Very Merry Christmas, a Happy Holiday Season, and a most enjoyable long weekend to all atheists. ***
 
-*We remain below the 50-day ($2.94), the 20-day ($2.63), and the 9-day ($2.51) averages. *
 
-*Today’s opening price for Jan ‘24 = $2.51, high = $2.53, low = $2.41, currently sitting @ $2.42. NYMEX prices are down approximately $0.05 from 1 week ago and down approximately $4.20 from 1 year ago. *
+
+***\#NYMEXUp&Down #PG&ECGBasisFallsAgain! #SoCalGasBasisDownFurther! #WeatherBearish #NaturalGasDemand #LNGExports #CarbonOffsets***
+
+
+
+***NYMEX ****– It is my opinion that we could see NYMEX fall further due to the driving factors being more bearish than bullish. It is also my opinion that CA Basis will fall even further once we get into Jan ’24. For both predictions one thing must take place – the driving factors must stay the course for the next 2 weeks. We should look at buying NYMEX and Basis hedges separately rather than waiting for Basis to fall in price while NYMEX is as cheap as it currently is and buying NYMEX and Basis together. It’s worked in similar past markets. I’m around the remainder of this week and next week to set up these RFPs for anyone interested in TAKING ADVANTAGE OF A MARKET THAT DOESN’T COME AROUND OFTEN. *
+
+***We remain below the 50-day ($2.92) and 20-day ($2.61) averages, and above the 9-day ($2.55) average. ***
+
+***Today’s opening price for Jan ‘24**** = $2.55, high = $2.59, low = $2.46, currently sitting @ $2.48. NYMEX prices are up approximately $0.15 from 1 week ago and down approximately $3.25 from 1 year ago. *
 
 *2022 NYMEX Monthly Final Settle averaged $6.64. 2021 averaged $3.84. 2020 averaged $2.07.*
 
-***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.67, 2025 = $3.49, 2026 = $3.82. *
+***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.58, 2025 = $3.43, 2026 = $3.78. *
 
-***RESISTANCE**** – Starting @ $2.57/$2.63. *
+***RESISTANCE**** – Starting @ $2.57/$2.66. *
 
-***SUPPORT**** - Starting @ $2.46/$2.42. Both levels have already been hit this morning.*
+***SUPPORT**** - Starting @ $2.39/$2.30. *
 
-***PRODUCTION/SUPPLY & DEMAND**** – Today’s Est. Supply = 109.1Bcf/D. Supply 7 Day Avg. = still 109.8Bcf. Today’s Estimated Production = 105.2Bcf/D. Daily production for Winter 2023/2024(which starts 12-21-23) is expected to average 101.7Bcf/D. *
+***PRODUCTION/SUPPLY & DEMAND**** – Today’s Est. Supply = 110.4Bcf/D. Supply 7 Day Avg. = up 0.3Bcf to 110.07Bcf. Today’s Estimated Production = 105.1Bcf/D. Daily production for Winter 2023/2024(which starts 12-21-23) is expected to average 101.7Bcf/D. *
 
-*Demand 7 Day Avg. = 122.6Bcf. *
+*Demand 7 Day Avg. = 121.8Bcf, down from 122.6Bcf. Today’s expected demand = 128.3Bcf.*
 
 ***RIG COUNT – ****As of 12-15-23 – Overall rig**** ****count = 623. Oil fell by 2 rigs to 503, gas went unchanged for a total of 119 rigs, and miscellaneous rigs fell by 1. *
 
-***BASIS**** – PG&E Basis is relatively flat from yesterday. SoCal Basis is down a few cents from yesterday. *
+***BASIS**** – PG&E Basis falls another dime as does SoCal Basis. *
 
 ***LNG EXPORTS**** – Latest average (12-18-23) = 14.6Bcf/D. *
 
-***WEATHER**** – Warming in the parts that need it, cooling in the parts that want it. The 6 – 10-day forecast shows above normal for most of the U.S except for SoCal/AZ/NM. Also calling for above normal precipitation, especially in the Mid-Con. The 10-15-day forecast calls for above normal temperatures for most of the U.S. except for the most southern regions that will gladly take near normal temperatures. Above normal precipitation for both coasts. *
+***WEATHER**** – Warmer than normal across the board. The 6 – 10-day forecast shows above normal for most of the U.S except for NM and Texas. The Great Lakes region will be well above normal. Also calling for above normal precipitation, especially in the Mid-Con. The 10-15-day forecast calls for above normal temperatures for most of the U.S. except for Texas and the Southeast region where near normal temperatures are forecasted. *
 
-***STORAGE**** – Last week’s report has us at 245Bcf higher than this time last year, and 260Bcf above the 5-year average of 3,404Bcf. At 3,664Bcf, total working gas remains within the 5-year historical range. *
+***STORAGE**** – The next Storage Report is estimated to be 85Bcf. Compare that to 82Bcf last year and the 5-year average of 107Bcf. Right now, we are well above the 5-year average in storage with weaker than usual demand forecasted. *
+
+***CA RETAIL POWER**** – CAISO sitting just above $54. That’s $14 cheaper than just a week ago.*
 
 ***CARBON OFFSETS – ****Many of our supply partners offer carbon offset with a vast menu to choose from if you are looking to shrink your carbon footprint. And for those of you here in the Tarnished State of California, our state government will be mandating that you do so soon enough. So, best to get on board before they force you onboard. To give you an idea, looking at today’s menu, we have Indonesia Hydro projects going for $0.50/tonne (always measured in tonnes of carbon dioxide-equivalent, or CO2e) to Honduras Cookstove projects going for $12.00/tonne. Feel free to contact us for more on carbon offsets whenever you like.*
 
@@ -48,19 +58,19 @@ publishedAt: '2023-12-19T15:19:03.632Z'
 
 PG&E CG SOCAL CG SoCal Border (+ $0.51 BTS)
 
-1 MONTH $4.68 $5.20 $4.85
+1 MONTH $4.64 $5.04 $4.75
 
-3 MONTHS $4.45 $4.75 $4.22
+3 MONTHS $4.34 $4.57 $4.10
 
-6 MONTHS $4.25 $4.25 $3.89
+6 MONTHS $4.13 $4.12 $3.77
 
-12 MONTHS $4.62 $5.22 $4.90
+12 MONTHS $4.55 $5.11 $4.79
 
-24 MONTHS $5.05 $5.72 $5.35
+24 MONTHS $4.93 $5.67 $5.28
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$4.22 $4.61 $4.06
+$4.20 $4.57 $4.01
 
 <br>
 
