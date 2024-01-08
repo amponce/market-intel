@@ -7,20 +7,20 @@ author:
 slug: 'the-one-minute-energy-update-for'
 description: ''
 coverImage: ''
-publishedAt: '2024-01-05T15:55:56.469Z'
+publishedAt: '2024-01-08T16:13:18.893Z'
 ---
 
-***THE 1 Minute Energy Update for 1/5/24***
+***THE 1 Minute Energy Update for 1/8/24***
 
-***\#ReturnOfTheBottomLine #NYMEXDown #PG&ECGBasisUp #SoCalGasBasisUp #WeatherStillBullish #ProductionUp #DemandIncreasing #StorageStrong #AlisoCanyonStillStrong #CarbonOffsets ***
+***\#NYMEXDown #PG&ECGBasisDown #SoCalGasBasisDown #WeatherStillBullish #StorageStrong #AlisoCanyonStillStrong #CarbonOffsets ***
 
-***NYMEX ****– The recent bull run seems to be taking today off. Weather systems should push the bulls again next week, but it should be short lived. All other driving factors remain bearish. *
+***NYMEX ****– So far today, NYMEX has been down as much as $0.17 on the prompt month. As bullish as weather systems are right now, it appears the other driving factors, all bearish are limiting the current bull run. *
 
-***Today’s opening NYMEX price for Feb ‘24**** = $2.84, high = $2.84, low = $2.68, currently sitting @ $2.75. NYMEX prices are up approximately $0.20 from 1 week ago and down approximately $1.40 from 1 year ago. *
+***Today’s opening NYMEX price for Feb ‘24**** = $2.95, high = $2.96, low = $2.69, currently sitting @ $2.79. NYMEX prices are up approximately $0.25 from 1 week ago and down approximately $0.90 from 1 year ago. *
 
-*We remain below the 50-day ($2.83) and are above the 20-day ($2.54) and the 9-day ($2.62) average. *
+*We remain below the 50-day ($2.95) and remain above the 20-day ($2.55) and the 9-day ($2.66) average. *
 
-***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.86, 2025 = $3.59, 2026 = $3.85. *
+***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.91, 2025 = $3.63, 2026 = $3.89. *
 
 *2023 NYMEX Monthly Final Settle average = $2.73. *
 
@@ -28,13 +28,13 @@ publishedAt: '2024-01-05T15:55:56.469Z'
 
 *2021 NYMEX Monthly average = $3.84. *
 
-***RESISTANCE**** – Starting @ $2.89/$2.97. *
+***RESISTANCE**** – Starting @ $2.97/$3.05. *
 
-***SUPPORT**** - Starting @ $2.71/$2.60. *
+***SUPPORT**** - Starting @ $2.74/$2.60. *
 
-***BASIS**** – In case you missed this, we’ll keep this up through this week - We expect Demand to increase this Spring and Summer in the SW region. An increase in demand in the SW will most likely drive Basis prices up throughout California. The reason(s) for this – increased demand with numerous new facilities coming online in the SW region, increasing natural gas demand, as well as higher than normal temperatures being forecasted (at this time) for both seasons. *
+***BASIS**** – A lot of people were out last week so we are keeping this piece in for a few more days - We expect Demand to increase this Spring and Summer in the SW region. An increase in demand in the SW will most likely drive Basis prices up throughout California. The reason(s) for this – increased demand with numerous new facilities coming online in the SW region, increasing natural gas demand, as well as higher than normal temperatures being forecasted (at this time) for both seasons. *
 
-*Both PG&E Basis and SoCal CG Basis look to be closing this week out higher than where they both started. It is my opinion that this rally will be short lived because all driving factors other than weather continue to be bearish. *
+*Both PG&E Basis and SoCal CG Basis are down today after last week’s bull run.*
 
 *PG&E CG First of the Month Index averaged $9.83 for 2023. *
 
@@ -42,37 +42,33 @@ publishedAt: '2024-01-05T15:55:56.469Z'
 
 *SoCal Border First of the Month Index averaged $8.14 for 2023. *
 
-*Current fixed price offers for 2024 – 2026 are all lower than the 2023 Index prices. *
+*Current fixed price offers for 2024 – 2026 continue to be lower than the 2023 Index prices. *
 
-***PRODUCTION/SUPPLY & DEMAND**** – Today’s Est. Supply = 109.7Bcf. Supply 7 Day Avg. = 109.45Bcf. Today’s Estimated Production = 105.7Bcf/D. Demand expected to be moderate over the next 7 days.*
+***RIG COUNT – ****The first rig count of 2024 (1-5-24) = 619. Oil rose by 1 rig to 501 while the natural gas rig count fell by 2 to 118. *
 
-*Demand 7 Day Avg. = 126.48Bcf. Today’s expected demand = 135.3Bcf.*
-
-***RIG COUNT – ****The first rig count of 2024 will be released later today at/after 10AM, PST. ****End of year rig count = ****622, down 20.15% from 1 year ago. Oil rose by 2 rigs to 500 while natural gas rigs count closed the year at 120 rigs, and miscellaneous rigs finished 2023 with 2. *
-
-***WEATHER**** – Continued cooler temperatures throughout the U.S. today. Some snow is expected to fall in the MW later today. Bullish 6 – 10-day forecast. Bullish 10-15-day forecast. Bearish 3-month forecast. Bullish Summer forecast.*
+***WEATHER**** – We have a full-on storm watch here in SoCal right now. People are wearing sweaters and jackets not for label purposes but for actual necessity. The rest of the U.S. north of Texas and Virgina are also getting the first taste of true cold this winter season. Not to worry, 2 weeks from now, we should be complaining that we didn’t get enough winter weather this season. Bullish 6 – 10-day forecast. Bullish 10-15-day forecast. Bearish 3-month forecast. Bullish Summer forecast.*
 
 ***STORAGE**** – We are now 553Bcf higher than we were last year and 399Bcf above the 5-year average 3,077Bcf. At 3,476Bcf, we are above the 5-year historical range.*
 
 ***CARBON OFFSETS – ****Many of our supply partners offer carbon offset with a vast menu to choose from if you are looking to shrink your carbon footprint. Feel free to contact us for more on carbon offsets whenever you like.*
 
-***THE BOTTOM LINE – ****The first sign of real winter for some of the U.S. came rolling in today and NYMEX prices….are falling. Yesterday prices rallied after a much smaller than anticipated storage report was released. So, for the time being, let’s take a pause and let the amateurs play. We’ll come back to this when the downward correction takes place, in 7 – 15 days. *****
+***THE BOTTOM LINE – ****Winter weather finally showed up this weekend and will stick around for large chunks of the U.S for the next 10 days. Ride it out and be ready to execute when the bears return to both NYMEX and Basis. *****
 
 **Indicative Fixed Prices out of Feb ’24 **
 
 PG&E CG SOCAL CG SoCal Border (+ $0.51 BTS)
 
-1 MONTH $5.82 $5.94 $5.66
+1 MONTH $7.15 $7.15 $6.91
 
-3 MONTHS $4.68 $4.58 $4.05
+3 MONTHS $5.35 $5.20 $4.78
 
-6 MONTHS $4.47 $4.48 $4.00
+6 MONTHS $4.92 $5.03 $4.70
 
-12 MONTHS $5.00 $5.66 $5.13
+12 MONTHS $5.15 $5.90 $5.43
 
-24 MONTHS $5.20 $5.95 $5.55
+24 MONTHS $5.40 $6.20 $5.80
 
 Summer Strip (April ’24 – Aug ‘24)
 
-$4.31 $4.75 $4.32
+$4.40 $4.92 $4.78
 
