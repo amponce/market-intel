@@ -1,5 +1,5 @@
 ---
-title: 'THE One Minute Energy Update for....'
+title: 'THE One Minute Energy Update for 2/2/24'
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -16,7 +16,7 @@ publishedAt: '2024-02-02T16:24:37.518Z'
 
 ***NYMEX ****– NYMEX is relatively flat so far today. Most likely due to weekend buying and elevated trading for March ’24. However, the overall week ends with March ’24 down about 10%. We’re seeing the cheapest NYMNEX in nearly 1 year.*
 
-***NYMEX pricing so far today - ****Open = $2.05, High = $2.08, Low = $2.02, Current = $2.08. NYMEX prices are down approximately $0.50 from 1 week ago and down approximately $0.40 from 1 year ago. *
+\*\*\*NYMEX pricing so far today - \*\*\**Open = $2.05, High = $2.08, Low = $2.02, Current = $2.08. NYMEX prices are down approximately $0.50 from 1 week ago and down approximately $0.40 from 1 year ago. *
 
 ***NYMEX CALENDAR YEAR ESTIMATES**** – 2024 = $2.53, 2025 = $3.43, 2026 = $3.73. *
 
@@ -24,7 +24,7 @@ publishedAt: '2024-02-02T16:24:37.518Z'
 
 ***RESISTANCE**** – Starting @ $2.13/$2.21. *
 
-***THE PIVOT**** @ $2.08*
+***THE PIVOT***\* @ $2.08\*
 
 ***SUPPORT**** - Starting @ $1.99/$1.94. *
 
@@ -42,11 +42,11 @@ publishedAt: '2024-02-02T16:24:37.518Z'
 
 ***STORAGE**** – We are now only 54Bcf above last year at this time and 130Bcf above the 5-year average of 2,529Bcf for this time of year. At 2,659Bcf, working gas remains within the 5-year historical range. *
 
-***CRUDE – ****Dropping like a rock! Currently sitting just above $72. Down as much as $5 from yesterday’s opening bell. Opened at $73.90.*****
+\*\*\*CRUDE – \****Dropping like a rock! Currently sitting just above $72. Down as much as $5 from yesterday’s opening bell. Opened at $73.90.***\*\*
 
 ***CARBON OFFSETS – ****Many of our supply partners offer carbon offset with a vast menu to choose from if you are looking to shrink your carbon footprint. Feel free to contact us for more on carbon offsets whenever you like.*
 
-***THE BOTTOM LINE – ****We’re heading towards spring so it’s going to be hard for either NYMEX or CA Basis to rally if all the driving factors continue their current path. However, don’t get cocky and hold out for $1.50 NYMEX or $1.00 Basis. Chances of that happening are close to 0%. Be smart and lock it up. We’re beating the past 3 years as well as beating the forward projected averages. *
+\*\*\*THE BOTTOM LINE – \*\*\**We’re heading towards spring so it’s going to be hard for either NYMEX or CA Basis to rally if all the driving factors continue their current path. However, don’t get cocky and hold out for $1.50 NYMEX or $1.00 Basis. Chances of that happening are close to 0%. Be smart and lock it up. We’re beating the past 3 years as well as beating the forward projected averages. *
 
 **Indicative Fixed Prices out of March ’24 **
 
