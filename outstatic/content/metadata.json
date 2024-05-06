@@ -1,6 +1,6 @@
 {
   "commit": "ba10da75948bc0bc60c787f9de1e374db9a7e9a5",
-  "generated": "2024-05-06T21:49:14.262Z",
+  "generated": "2024-05-06T21:50:06.441Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1661,7 +1661,7 @@
     {
       "__outstatic": {
         "commit": "ba10da75948bc0bc60c787f9de1e374db9a7e9a5",
-        "hash": "606857964",
+        "hash": "3968668566",
         "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
       },
       "author": {
@@ -1669,7 +1669,7 @@
         "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "http://localhost:3000/images/screenshot-2024-02-15-235335-Y5MD.png",
       "description": "",
       "publishedAt": "2023-09-01T02:51:13.380Z",
       "slug": "aliso-canyon-storage-update",
