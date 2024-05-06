@@ -1,6 +1,6 @@
 {
-  "commit": "1af449ea862bd5585cce07644eca0b9bf8cacdbe",
-  "generated": "Mon, 06 May 2024 21:46:44 GMT",
+  "commit": "ba10da75948bc0bc60c787f9de1e374db9a7e9a5",
+  "generated": "2024-05-06T21:49:14.262Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "april-is-now-the-prompt-month",
       "status": "published",
       "title": "April Is Now The Prompt Month"
-    },
-    {
-      "__outstatic": {
-        "commit": "56b29b0e35eae76f901da60d0f10741b90409eba",
-        "hash": "95284577",
-        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/rfp-brand-qwmt-g5ND.webp",
-      "description": "",
-      "publishedAt": "2023-09-01T02:51:13.380Z",
-      "slug": "aliso-canyon-storage-update",
-      "status": "published",
-      "title": "Aliso Canyon Storage Update"
     },
     {
       "__outstatic": {
@@ -1675,6 +1657,30 @@
       "slug": "what-were-we-saying-about-reliability",
       "status": "published",
       "title": "What were we saying about reliability??"
+    },
+    {
+      "__outstatic": {
+        "commit": "ba10da75948bc0bc60c787f9de1e374db9a7e9a5",
+        "hash": "606857964",
+        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-01T02:51:13.380Z",
+      "slug": "aliso-canyon-storage-update",
+      "status": "published",
+      "tags": [
+        {
+          "label": "products",
+          "value": "products"
+        }
+      ],
+      "title": "Aliso Canyon Storage Update"
     }
   ]
 }
