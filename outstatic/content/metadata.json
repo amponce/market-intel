@@ -1,0 +1,3316 @@
+{
+  "commit": "740bdfc6df64aa1b65f8df5af7748c6c302d37d2",
+  "generated": "2023-12-07T05:37:15.270Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "f37f1b80646ac02eaa2302c508f05b3375afff59",
+        "hash": "2002890882",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2023-09-21T05:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "36d427bf2e11e446c7ebdeccac4d62a4f03e0882",
+        "hash": "3440443585",
+        "path": "outstatic/content/posts/first-birthday-party-ideas.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/getty-images-sm-lheslseo-unsplash-IyMD.jpg",
+      "description": "",
+      "publishedAt": "2023-11-02T18:11:26.484Z",
+      "slug": "first-birthday-party-ideas",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "First Birthday Party Ideas"
+    },
+    {
+      "__outstatic": {
+        "commit": "d02760977515b7b42062667ae2e55ce94398322a",
+        "hash": "2314098426",
+        "path": "outstatic/content/posts/feeding-solids.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/kateryna-hliznitsova-i11jfrj_sfg-unsplash-Q5OT.jpg",
+      "description": "",
+      "publishedAt": "2023-11-26T20:04:53.000Z",
+      "slug": "feeding-solids",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Feeding Solids"
+    },
+    {
+      "__outstatic": {
+        "commit": "fe8ce0ee8b9c866d24be0f7c486a890e5b004908",
+        "hash": "168905845",
+        "path": "outstatic/content/posts/breastfeeding-essentials.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/getty-images-pnvekcb3y8a-unsplash--2--E4MT.jpg",
+      "description": "",
+      "publishedAt": "2023-12-01T18:01:04.553Z",
+      "slug": "breastfeeding-essentials",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Breastfeeding Necessities"
+    },
+    {
+      "__outstatic": {
+        "commit": "84e4a4e15b6ce47f95d7134366a4ec0892a48283",
+        "hash": "1151377203",
+        "path": "outstatic/content/posts/christmas-gifts-for-one-year-old-2023.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/kateryna-hliznitsova-rx9csrg7qxk-unsplash-I0MT.jpg",
+      "description": "",
+      "publishedAt": "2023-12-01T04:28:26.000Z",
+      "slug": "christmas-gifts-for-one-year-old-2023",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Christmas Gifts for One Year Olds"
+    },
+    {
+      "__outstatic": {
+        "commit": "1dfa655ba779d4429499fc854d1f34fb22c44a91",
+        "hash": "1899699109",
+        "path": "outstatic/content/pages/posts.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-07T04:00:42.089Z",
+      "slug": "posts",
+      "status": "published",
+      "title": "Posts"
+    },
+    {
+      "__outstatic": {
+        "commit": "21f69e274c49ac8d82e56cb65563b0652d15caff",
+        "hash": "988665150",
+        "path": "outstatic/content/products/baby-hair-brush.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/brush-A0NT.png",
+      "description": "",
+      "itemPrice": "11.96",
+      "productLink": "https://amzn.to/40qA4Bw",
+      "publishedAt": "2023-11-04T03:55:36.554Z",
+      "slug": "baby-hair-brush",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Bath",
+          "value": "bath"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Baby Hair Brush"
+    },
+    {
+      "__outstatic": {
+        "commit": "6d2594951efb3a9fb7fd248a067b0d86cf22d51a",
+        "hash": "3567647224",
+        "path": "outstatic/content/products/baby-einstein-toddler-jams-musical-toy.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/boombox-cxNz.png",
+      "description": "",
+      "itemPrice": "16.99",
+      "productLink": "https://amzn.to/3QfXWTC",
+      "publishedAt": "2023-10-27T03:31:24.445Z",
+      "slug": "baby-einstein-toddler-jams-musical-toy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Baby Einstein Boombox"
+    },
+    {
+      "__outstatic": {
+        "commit": "286722171ea9c7cf3583fbc4111206d6aadfb6f5",
+        "hash": "2274073339",
+        "path": "outstatic/content/products/baby-bouncer.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bouncer-cwMT.png",
+      "description": "",
+      "itemPrice": "209",
+      "productLink": "https://amzn.to/47WLxev",
+      "publishedAt": "2023-12-01T04:51:39.593Z",
+      "slug": "baby-bouncer",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Baby bouncer"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a1d349bcc6e8f6bd1e37d4f5aaaed55aa87d07a",
+        "hash": "2757843309",
+        "path": "outstatic/content/posts/newborn-essentials.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/daiga-ellaby-votcm8r_rnw-unsplash-QxMD.jpg",
+      "description": "",
+      "publishedAt": "2023-11-29T19:04:31.000Z",
+      "slug": "newborn-essentials",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Newborn Essentials"
+    },
+    {
+      "__outstatic": {
+        "commit": "d502f860d9dc3e6a68fcefebbe483997e38d593d",
+        "hash": "473450356",
+        "path": "outstatic/content/posts/nap-and-bedtime-routine-products.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/getty-images-5ldugwm0zro-unsplash-MxMj.jpg",
+      "description": "",
+      "publishedAt": "2023-11-28T19:48:49.000Z",
+      "slug": "nap-and-bedtime-routine-products",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Nap & Bedtime Routine "
+    },
+    {
+      "__outstatic": {
+        "commit": "9a2a2347009eb4daf2dddc186f76856e5dbf872f",
+        "hash": "2738137926",
+        "path": "outstatic/content/products/babyletto-scoot-3-in-1-convertible-crib.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/crib-Y5Mj.png",
+      "description": "",
+      "itemPrice": "399",
+      "productLink": "https://amzn.to/3ZXUwcP",
+      "publishedAt": "2023-10-18T03:15:39.024Z",
+      "slug": "babyletto-scoot-3-in-1-convertible-crib",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Babyletto Convertible Crib"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb5e78ea724ec5167ff36ea475837df32ea91f86",
+        "hash": "2721923030",
+        "path": "outstatic/content/products/babyletto-sigi-electronic-power-recliner-glider.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "Other",
+          "value": "other"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/chair-IzOT.png",
+      "description": "",
+      "itemPrice": "799",
+      "productLink": "https://amzn.to/3Maaw5B",
+      "publishedAt": "2023-10-20T03:13:17.687Z",
+      "slug": "babyletto-sigi-electronic-power-recliner-glider",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Babyletto Power Recliner & Glider"
+    },
+    {
+      "__outstatic": {
+        "commit": "db684f8ac5b85b6d16010195c901ea3b21d6e091",
+        "hash": "366133501",
+        "path": "outstatic/content/products/baby-teething-tube.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/teether-MwMT.png",
+      "description": "",
+      "itemPrice": "18",
+      "productLink": "https://amzn.to/40EvyzD",
+      "publishedAt": "2023-11-04T03:49:43.586Z",
+      "slug": "baby-teething-tube",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        }
+      ],
+      "title": "Baby Teething Tube"
+    },
+    {
+      "__outstatic": {
+        "commit": "7954d4c0d1ef3d5cc2f53670db44140c915aec33",
+        "hash": "4239652331",
+        "path": "outstatic/content/products/baby-play-gym.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/gym-I3MD.png",
+      "description": "",
+      "itemPrice": "140.99",
+      "productLink": "https://amzn.to/47EIub1",
+      "publishedAt": "2023-11-07T03:32:21.034Z",
+      "slug": "baby-play-gym",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        }
+      ],
+      "title": "Baby Play Gym "
+    },
+    {
+      "__outstatic": {
+        "commit": "9baf0232dfc54f7e85c0e6cea4254b4e5dc83004",
+        "hash": "811079338",
+        "path": "outstatic/content/products/baby-jogger-city-bistro-high-chair.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/highchair-Q3Nz.png",
+      "description": "",
+      "itemPrice": "299",
+      "productLink": "https://amzn.to/3Q7T1W2",
+      "publishedAt": "2023-10-12T03:57:19.666Z",
+      "slug": "baby-jogger-city-bistro-high-chair",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        }
+      ],
+      "title": "City Bistro High Chair"
+    },
+    {
+      "__outstatic": {
+        "commit": "95612ba6659c93cfafdf35d030e7004a5a52a163",
+        "hash": "3637909260",
+        "path": "outstatic/content/products/busy-baby-mat-silicone-mini-suction-placemat.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/busy-M4OT.png",
+      "description": "",
+      "itemPrice": "15.19",
+      "productLink": "https://amzn.to/3QdnYIk",
+      "publishedAt": "2023-10-15T04:00:48.550Z",
+      "slug": "busy-baby-mat-silicone-mini-suction-placemat",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        }
+      ],
+      "title": "Silicone Mini Suction Placemat"
+    },
+    {
+      "__outstatic": {
+        "commit": "d700c83d7d33bb4c9de13632e134f834a417ff55",
+        "hash": "402667781",
+        "path": "outstatic/content/products/coogam-matching-eggs-12-pcs-set-color-shape-recognition-sorter-puzzle.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/eggs-EyNT.png",
+      "description": "",
+      "itemPrice": "17.99",
+      "productLink": "https://amzn.to/3tL1FRs",
+      "publishedAt": "2023-10-20T03:50:12.383Z",
+      "slug": "coogam-matching-eggs-12-pcs-set-color-shape-recognition-sorter-puzzle",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Matching Eggs Sorter Puzzle"
+    },
+    {
+      "__outstatic": {
+        "commit": "5128b469fd4d80ccd87f2145642007d2284ef6f6",
+        "hash": "1478092695",
+        "path": "outstatic/content/products/bunny-lovey.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bun-AyNj.png",
+      "description": "",
+      "itemPrice": "25",
+      "productLink": "https://amzn.to/49RKONt",
+      "publishedAt": "2023-11-08T04:41:02.261Z",
+      "slug": "bunny-lovey",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Bunny Lovey"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa661038720d4fcbdcbeb8b1387371bc37e69e4b",
+        "hash": "3040438220",
+        "path": "outstatic/content/products/blackout-curtains.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        },
+        {
+          "label": "Other",
+          "value": "other"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/blackout-c0MD.png",
+      "description": "",
+      "itemPrice": "26.39",
+      "productLink": "https://amzn.to/3MxXLSx",
+      "publishedAt": "2023-11-08T04:35:06.659Z",
+      "slug": "blackout-curtains",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Blackout Curtains"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae9b4db9c4621ec9eccd5e3b08a74ebd6dad0393",
+        "hash": "930404028",
+        "path": "outstatic/content/products/balance-bike.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bike-kyMT.png",
+      "description": "",
+      "itemPrice": "50.99",
+      "productLink": "https://amzn.to/40ozuUZ",
+      "publishedAt": "2023-11-07T04:11:46.596Z",
+      "slug": "balance-bike",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Balance Bike"
+    },
+    {
+      "__outstatic": {
+        "commit": "4e0db7861eefc6ee081079cdd52998eca8bc85c5",
+        "hash": "2108215192",
+        "path": "outstatic/content/products/farm-animal-wooden-puzzle.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/puzzle-I4Mz.png",
+      "description": "",
+      "itemPrice": "14.99",
+      "productLink": "https://amzn.to/3shqe8y",
+      "publishedAt": "2023-11-08T05:02:37.189Z",
+      "slug": "farm-animal-wooden-puzzle",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Farm Animal Wooden Puzzle"
+    },
+    {
+      "__outstatic": {
+        "commit": "c4a645cc40577037222918947da06b4dcd633cee",
+        "hash": "3402307069",
+        "path": "outstatic/content/products/crinkle-cutter.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/crinkle-AyOT.png",
+      "description": "",
+      "itemPrice": "4.98",
+      "productLink": "https://amzn.to/3sryToT",
+      "publishedAt": "2023-11-08T05:06:18.700Z",
+      "slug": "crinkle-cutter",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        }
+      ],
+      "title": "Crinkle Cutter "
+    },
+    {
+      "__outstatic": {
+        "commit": "74736c8a77346b22f9791cd95d46f15edd492170",
+        "hash": "2781259593",
+        "path": "outstatic/content/products/dinosaur-stuffed-animal.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/dinoe-I3OD.png",
+      "description": "",
+      "itemPrice": "35",
+      "productLink": "https://amzn.to/47FOakO",
+      "publishedAt": "2023-11-08T04:56:55.691Z",
+      "slug": "dinosaur-stuffed-animal",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Dinosaur Stuffed Animal"
+    },
+    {
+      "__outstatic": {
+        "commit": "ebef97b351b5782c04c2f5dbc8dd7b14d7d6f2ea",
+        "hash": "223617785",
+        "path": "outstatic/content/products/dresser-with-changing-tray.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/dresser-gzNj.png",
+      "description": "",
+      "itemPrice": "399",
+      "productLink": "https://amzn.to/3R67MI6",
+      "publishedAt": "2023-12-01T05:05:20.654Z",
+      "slug": "dresser-with-changing-tray",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Dresser with changing tray"
+    },
+    {
+      "__outstatic": {
+        "commit": "f1698695a9213df64a50fc7d7105ffa8c575183c",
+        "hash": "3073450253",
+        "path": "outstatic/content/products/diaper-caddy-organizer.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "Other",
+          "value": "other"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/csddy-kzMT.png",
+      "description": "",
+      "itemPrice": "32.95",
+      "productLink": "https://amzn.to/47g0Kah",
+      "publishedAt": "2023-11-02T03:53:18.742Z",
+      "slug": "diaper-caddy-organizer",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Diaper Caddy Organizer"
+    },
+    {
+      "__outstatic": {
+        "commit": "7fe135aff38c5c12dbdb30560994bb5eee03f397",
+        "hash": "3185880808",
+        "path": "outstatic/content/products/haakaa-baby-fruit-food-feeder.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/teether-Q2Mj.png",
+      "description": "",
+      "itemPrice": "19.9",
+      "productLink": "https://amzn.to/46w6H2P",
+      "publishedAt": "2023-10-15T03:46:43.856Z",
+      "slug": "haakaa-baby-fruit-food-feeder",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        }
+      ],
+      "title": "Baby Fruit Food Feeder"
+    },
+    {
+      "__outstatic": {
+        "commit": "d54cc4483bb6837643b2ad3be1312fe4f6623ab7",
+        "hash": "1081880247",
+        "path": "outstatic/content/products/fortella-foam-ball-pit.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/ball-pit-E1ND.png",
+      "description": "",
+      "itemPrice": "129",
+      "productLink": "https://amzn.to/406jQNW",
+      "publishedAt": "2023-10-20T03:29:03.202Z",
+      "slug": "fortella-foam-ball-pit",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Fortella Foam Ball Pit "
+    },
+    {
+      "__outstatic": {
+        "commit": "b06f6df94bcf6f4badd70586971007449904e0bd",
+        "hash": "4235001399",
+        "path": "outstatic/content/products/fisher-price-mix-learn-dj-table-musical-activity-center.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/dj-Y2OD.png",
+      "description": "",
+      "itemPrice": "31.15",
+      "productLink": "https://amzn.to/3s7YZgl",
+      "publishedAt": "2023-10-20T03:45:28.719Z",
+      "slug": "fisher-price-mix-learn-dj-table-musical-activity-center",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Mix & Learn DJ Table, Musical Activity Center"
+    },
+    {
+      "__outstatic": {
+        "commit": "7e5898df5c4caaf28ba86a128f2fd2648e078dcd",
+        "hash": "277681765",
+        "path": "outstatic/content/products/fortella-cloud-castle-foldable-playpen.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/cloud-AwMz.png",
+      "description": "",
+      "itemPrice": "169",
+      "productLink": "https://amzn.to/3rwBE7M ",
+      "publishedAt": "2023-10-16T22:01:31.271Z",
+      "slug": "fortella-cloud-castle-foldable-playpen",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Cloud Castle Foldable Playpen"
+    },
+    {
+      "__outstatic": {
+        "commit": "47325c6b0ba44489a5dd1db04ef8145b45ccc9d4",
+        "hash": "2616365805",
+        "path": "outstatic/content/products/gund-baby-flora-the-bunny-animated-plush-singing-stuffed-animal-toy.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/gund-AzMz.png",
+      "description": "",
+      "itemPrice": "40",
+      "productLink": "https://amzn.to/3Qdrt0f",
+      "publishedAt": "2023-10-27T03:49:46.100Z",
+      "slug": "gund-baby-flora-the-bunny-animated-plush-singing-stuffed-animal-toy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Singing Bunny Stuffed Animal "
+    },
+    {
+      "__outstatic": {
+        "commit": "3fdd2d2b3301f6fa49dc1b3db155956a71de8655",
+        "hash": "2940884643",
+        "path": "outstatic/content/products/mushie-baby-bath-rinse-cup-100-food-grade-silicone.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/mushie-YwNj.png",
+      "description": "",
+      "itemPrice": "14.99",
+      "productLink": "https://amzn.to/3EZpQy8",
+      "publishedAt": "2023-10-17T03:57:35.031Z",
+      "slug": "mushie-baby-bath-rinse-cup-100-food-grade-silicone",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bath",
+          "value": "bath"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Baby Bath Rinse Cup"
+    },
+    {
+      "__outstatic": {
+        "commit": "fb994e89f27d25f3870f5ee12e7a9af3de02b053",
+        "hash": "1128968053",
+        "path": "outstatic/content/products/jellycat-brambling-squirrel-stuffed-animal.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/squi-QyMD.png",
+      "description": "",
+      "itemPrice": "27.5",
+      "productLink": "https://amzn.to/3QnRHhM",
+      "publishedAt": "2023-10-20T03:33:41.731Z",
+      "slug": "jellycat-brambling-squirrel-stuffed-animal",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Jellycat Squirrel Stuffed Animal"
+    },
+    {
+      "__outstatic": {
+        "commit": "4770e005e613c62a03d4c8ebb4ef37d9f0c32d54",
+        "hash": "2261768344",
+        "path": "outstatic/content/products/jellycat-bashful-giraffe-stuffed-animal.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/giraffe-QwMT.png",
+      "description": "",
+      "itemPrice": "25",
+      "productLink": "https://amzn.to/48YsfXD",
+      "publishedAt": "2023-10-20T03:37:24.280Z",
+      "slug": "jellycat-bashful-giraffe-stuffed-animal",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Jellycat Giraffe Stuffed Animal"
+    },
+    {
+      "__outstatic": {
+        "commit": "f9ff520a33505cb75df0945c6e7711808670dd2a",
+        "hash": "2379263385",
+        "path": "outstatic/content/products/handmade-koala-doll.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/qual-k5Mj.png",
+      "description": "",
+      "itemPrice": "74",
+      "productLink": "https://amzn.to/3FGIGdD",
+      "publishedAt": "2023-11-02T03:23:11.442Z",
+      "slug": "handmade-koala-doll",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Handmade Koala Doll"
+    },
+    {
+      "__outstatic": {
+        "commit": "c3c34ee78061a89d1a52fc0a3ebeccb8f44ba7c0",
+        "hash": "1207780368",
+        "path": "outstatic/content/products/munchkin-raise-toddler-fork-and-spoon-utensil-set-4-pack.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/spoon-UzNz.png",
+      "description": "",
+      "itemPrice": "9.38",
+      "productLink": "https://amzn.to/45p4zbP",
+      "publishedAt": "2023-10-15T04:05:25.072Z",
+      "slug": "munchkin-raise-toddler-fork-and-spoon-utensil-set-4-pack",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Toddler Fork and Spoon Utensil Set, 4 Pack"
+    },
+    {
+      "__outstatic": {
+        "commit": "336072205eb55dab68a5fcb4a1225d8de8f9ad3c",
+        "hash": "1634976304",
+        "path": "outstatic/content/products/numnum-silicone-bib-for-babies-toddlers.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bib-gzMD.png",
+      "description": "Find it on Amazon",
+      "itemPrice": "12.99",
+      "productLink": "https://amzn.to/48HZJtb",
+      "publishedAt": "2023-10-12T04:45:12.609Z",
+      "slug": "numnum-silicone-bib-for-babies-toddlers",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Silicone Bib"
+    },
+    {
+      "__outstatic": {
+        "commit": "c3772cbdca8918efc3ddc01c2fb9fc95e8177dd2",
+        "hash": "17383838",
+        "path": "outstatic/content/products/newton-baby-travel-crib-and-play-yard-100-breathable-washable.md"
+      },
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/crib2-QwNj.png",
+      "description": "",
+      "itemPrice": "299",
+      "productLink": "https://amzn.to/3QmK77d",
+      "publishedAt": "2023-10-19T04:22:01.248Z",
+      "slug": "newton-baby-travel-crib-and-play-yard-100-breathable-washable",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Newton Baby Travel Crib and Play Yard"
+    },
+    {
+      "__outstatic": {
+        "commit": "6c40a28b43758c837d9b4f87bd7643b58c31b952",
+        "hash": "1915945127",
+        "path": "outstatic/content/products/newton-baby-crib-mattress-and-toddler-bed-100-breathable.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/newton-UwOD.png",
+      "description": "",
+      "itemPrice": "299",
+      "productLink": "https://amzn.to/3tL9TZO",
+      "publishedAt": "2023-10-18T03:11:57.099Z",
+      "slug": "newton-baby-crib-mattress-and-toddler-bed-100-breathable",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Newton Baby Crib Mattress and Toddler Bed "
+    },
+    {
+      "__outstatic": {
+        "commit": "751fbb2d70e15d2211482012bacf7ea8dedae01b",
+        "hash": "1950340731",
+        "path": "outstatic/content/products/nanit-pro-smart-baby-monitor-floor-stand.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/nanit-AzOT.png",
+      "description": "",
+      "itemPrice": "351.3",
+      "productLink": "https://amzn.to/3FAaZdE",
+      "publishedAt": "2023-10-27T03:37:59.551Z",
+      "slug": "nanit-pro-smart-baby-monitor-floor-stand",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Nanit Baby Monitor & Floor Stand"
+    },
+    {
+      "__outstatic": {
+        "commit": "3b74a62f0e84aa0fcbe02b395d43dfba4820a207",
+        "hash": "4261059499",
+        "path": "outstatic/content/products/muslin-bamboo-swaddle-blankets.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/blankets-gyNz.png",
+      "description": "",
+      "itemPrice": "34.9",
+      "productLink": "https://amzn.to/3QGnAlS",
+      "publishedAt": "2023-11-02T03:45:28.508Z",
+      "slug": "muslin-bamboo-swaddle-blankets",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        }
+      ],
+      "title": "Muslin Bamboo Swaddle Blankets"
+    },
+    {
+      "__outstatic": {
+        "commit": "348a28b422a1a24bef42a8a54a42f98319e4aef3",
+        "hash": "904610443",
+        "path": "outstatic/content/products/see-touch-feel-a-first-sensory-book.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/book-M0Nz.png",
+      "description": "",
+      "itemPrice": "6.63",
+      "productLink": "https://amzn.to/3FtiT8T",
+      "publishedAt": "2023-10-25T03:37:04.172Z",
+      "slug": "see-touch-feel-a-first-sensory-book",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Books",
+          "value": "books"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "See, Touch, Feel: A First Sensory Book"
+    },
+    {
+      "__outstatic": {
+        "commit": "78a711bf913b71d208046fb8ced8efdf2c2b11b7",
+        "hash": "1232269324",
+        "path": "outstatic/content/products/skip-hop-baby-activity-center.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/skip-UwNj.png",
+      "description": "",
+      "itemPrice": "141.99",
+      "productLink": "https://amzn.to/3Q0APMO",
+      "publishedAt": "2023-10-21T20:11:51.112Z",
+      "slug": "skip-hop-baby-activity-center",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Skip Hop Baby Activity Center"
+    },
+    {
+      "__outstatic": {
+        "commit": "91d9d8868bec80f8f924e633e8733f11d53cb7ad",
+        "hash": "2685407929",
+        "path": "outstatic/content/products/puffworks-baby-organic-peanut-butter-puffs.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/puffs-QzNT.png",
+      "description": "",
+      "itemPrice": "20.21",
+      "productLink": "https://amzn.to/3FbEF0L",
+      "publishedAt": "2023-10-15T03:57:25.651Z",
+      "slug": "puffworks-baby-organic-peanut-butter-puffs",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Organic Peanut Butter Puffs"
+    },
+    {
+      "__outstatic": {
+        "commit": "6b8f2138318c1dbfb2860d1c670a666c5e1a7dd5",
+        "hash": "167281543",
+        "path": "outstatic/content/products/portable-white-noise-sound-machine.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        },
+        {
+          "label": "Other",
+          "value": "other"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/yoga-EzMD.png",
+      "description": "",
+      "itemPrice": "25.35",
+      "productLink": "https://amzn.to/49dRWUl",
+      "publishedAt": "2023-11-02T17:59:12.968Z",
+      "slug": "portable-white-noise-sound-machine",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        },
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        }
+      ],
+      "title": "Portable White Noise Sound Machine"
+    },
+    {
+      "__outstatic": {
+        "commit": "1b3baf060524d4f3b144b4846b678f90c98dde78",
+        "hash": "447713589",
+        "path": "outstatic/content/products/sippy-straw-bottle.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bottle-E2ND.png",
+      "description": "",
+      "itemPrice": "11.92",
+      "productLink": "https://amzn.to/3sfAZYM",
+      "publishedAt": "2023-11-02T02:56:58.654Z",
+      "slug": "sippy-straw-bottle",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        }
+      ],
+      "title": "Sippy Straw Bottle"
+    },
+    {
+      "__outstatic": {
+        "commit": "680ebc40bdd31cd74bff16f1ec60b0f27b6c6b11",
+        "hash": "3986442186",
+        "path": "outstatic/content/products/stacking-rings.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/rings-UwND.png",
+      "description": "",
+      "itemPrice": "8.98",
+      "productLink": "",
+      "publishedAt": "2023-11-02T18:02:49.225Z",
+      "slug": "stacking-rings",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Stacking Rings"
+    },
+    {
+      "__outstatic": {
+        "commit": "dc3a7729f36db60e9187a3331cec6fe6ca2589ed",
+        "hash": "3522323492",
+        "path": "outstatic/content/products/stainless-steel-kids-plate.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/plate-E4Nz.png",
+      "description": "",
+      "itemPrice": "26",
+      "productLink": "https://amzn.to/40GeokO",
+      "publishedAt": "2023-11-17T03:10:03.426Z",
+      "slug": "stainless-steel-kids-plate",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        }
+      ],
+      "title": "Stainless Steel Kids Plate"
+    },
+    {
+      "__outstatic": {
+        "commit": "98d70ce591bc0a872ebbd2acae8b31477cec58c1",
+        "hash": "3223838669",
+        "path": "outstatic/content/products/spill-proof-snack-containers.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/snack-czMD.png",
+      "description": "",
+      "itemPrice": "17.99",
+      "productLink": "https://amzn.to/3FELfwW",
+      "publishedAt": "2023-11-02T17:56:11.318Z",
+      "slug": "spill-proof-snack-containers",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        }
+      ],
+      "title": "Spill-Proof Snack Containers"
+    },
+    {
+      "__outstatic": {
+        "commit": "8e666f148ae71fb41f87d953bb40105042614d4b",
+        "hash": "439475863",
+        "path": "outstatic/content/products/soft-soccer-ball-with-pump.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/ball-YxMz.png",
+      "description": "",
+      "itemPrice": "19.99",
+      "productLink": "https://amzn.to/3s9DgEP",
+      "publishedAt": "2023-10-28T17:02:19.687Z",
+      "slug": "soft-soccer-ball-with-pump",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Soft Soccer Ball with Pump"
+    },
+    {
+      "__outstatic": {
+        "commit": "894a05668697bf24d7aa8d5c6c46ba34d7f03fe3",
+        "hash": "862207305",
+        "path": "outstatic/content/products/skip-hop-baby-phone.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/phone-EzND.png",
+      "description": "",
+      "itemPrice": "9.99",
+      "productLink": "https://amzn.to/3Qv2erL",
+      "publishedAt": "2023-10-25T03:07:50.248Z",
+      "slug": "skip-hop-baby-phone",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Skip Hop Baby Phone"
+    },
+    {
+      "__outstatic": {
+        "commit": "78d6492942dd33ce596283f93093806f51c20ba3",
+        "hash": "100986307",
+        "path": "outstatic/content/products/ubbi-freestanding-bath-toy-organizer.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/toy-bin-U4ND.png",
+      "description": "",
+      "itemPrice": "15",
+      "productLink": "https://amzn.to/48D9EQA",
+      "publishedAt": "2023-10-17T03:43:24.387Z",
+      "slug": "ubbi-freestanding-bath-toy-organizer",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bath",
+          "value": "bath"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Bath Toy Organizer"
+    },
+    {
+      "__outstatic": {
+        "commit": "25ca9409e8886bdc105bc4f23ff9ad5923ad3fc7",
+        "hash": "1782499474",
+        "path": "outstatic/content/products/ubbi-baby-bathtub-spout-guard.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/bath-E2ND.png",
+      "description": "",
+      "itemPrice": "8.99",
+      "productLink": "https://amzn.to/3FingUd",
+      "publishedAt": "2023-10-17T03:38:55.275Z",
+      "slug": "ubbi-baby-bathtub-spout-guard",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Bath",
+          "value": "bath"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Bathtub Spout Guard"
+    },
+    {
+      "__outstatic": {
+        "commit": "b279bdae05d9b078b0ed3c2f8f2e2ccf1d964155",
+        "hash": "3466074304",
+        "path": "outstatic/content/products/touch-and-feel-crinkle-book.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/book-Y2MT.png",
+      "description": "",
+      "itemPrice": "16.99",
+      "productLink": "https://amzn.to/40uIvMk",
+      "publishedAt": "2023-11-07T03:52:25.546Z",
+      "slug": "touch-and-feel-crinkle-book",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Books",
+          "value": "books"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Touch and Feel Crinkle Book"
+    },
+    {
+      "__outstatic": {
+        "commit": "52076f57dbbb4474711cf8d6fad35b4af3fff45b",
+        "hash": "156425992",
+        "path": "outstatic/content/products/stuffed-llama-stroller-toy.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/lamb-IwNj.png",
+      "description": "",
+      "itemPrice": "14.99",
+      "productLink": "https://amzn.to/47nPZTA",
+      "publishedAt": "2023-11-07T03:58:40.644Z",
+      "slug": "stuffed-llama-stroller-toy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Stuffed Llama Stroller Toy"
+    },
+    {
+      "__outstatic": {
+        "commit": "5e37ff9d2115895af946c3055fd0e5ad32db8602",
+        "hash": "1161179668",
+        "path": "outstatic/content/products/stuffed-llama-rocking-horse.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/llama-g3OT.png",
+      "description": "",
+      "itemPrice": "59.99",
+      "productLink": "https://amzn.to/3s6myGF",
+      "publishedAt": "2023-11-01T02:30:10.613Z",
+      "slug": "stuffed-llama-rocking-horse",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        }
+      ],
+      "title": "Stuffed Llama Rocking Horse"
+    },
+    {
+      "__outstatic": {
+        "commit": "891b850554a99ee72b900f722344f309f0049af9",
+        "hash": "3464712983",
+        "path": "outstatic/content/products/yoto-player-kids-scree-free-audio-speaker.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/yoto-k1NT.png",
+      "description": "",
+      "itemPrice": "119",
+      "productLink": "https://amzn.to/48txxKB",
+      "publishedAt": "2023-10-16T22:07:27.992Z",
+      "slug": "yoto-player-kids-scree-free-audio-speaker",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Bedtime",
+          "value": "bedtime"
+        }
+      ],
+      "title": "Yoto Player - Kids Screen-free Speaker"
+    },
+    {
+      "__outstatic": {
+        "commit": "fcf244da798fe5d20f48991e800cb6c8f7fcdfb3",
+        "hash": "1044662305",
+        "path": "outstatic/content/products/what-should-i-wear-book.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/wear-book-c0MT.png",
+      "description": "",
+      "itemPrice": "21",
+      "productLink": "https://amzn.to/3Go3W8l",
+      "publishedAt": "2023-12-01T05:00:38.308Z",
+      "slug": "what-should-i-wear-book",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Toys",
+          "value": "toys"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Books",
+          "value": "books"
+        }
+      ],
+      "title": "What Should I Wear book"
+    },
+    {
+      "__outstatic": {
+        "commit": "938e5a33deeba957462ab2f6ecc7e8b6174e40b4",
+        "hash": "3610956006",
+        "path": "outstatic/content/products/weesprout-silicone-suction-plates.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/plates-MzNj.png",
+      "description": "",
+      "itemPrice": "21.99",
+      "productLink": "https://amzn.to/48HuoH1",
+      "publishedAt": "2023-10-15T03:38:45.337Z",
+      "slug": "weesprout-silicone-suction-plates",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Kitchen",
+          "value": "kitchen"
+        },
+        {
+          "label": "Feeding",
+          "value": "feeding"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Silicone Suction Plates"
+    },
+    {
+      "__outstatic": {
+        "commit": "19f748895c9ae5aacc68c5d0430930505eff619a",
+        "hash": "45400533",
+        "path": "outstatic/content/products/you-are-home-board-book.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        },
+        {
+          "label": "2–3 years",
+          "value": "2–3Years"
+        },
+        {
+          "label": "3+ years",
+          "value": "3+Years"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/you-are-home-IwMz.png",
+      "description": "",
+      "itemPrice": "7.46",
+      "productLink": "https://amzn.to/414TbkS",
+      "publishedAt": "2023-12-03T19:27:55.243Z",
+      "slug": "you-are-home-board-book",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        },
+        {
+          "label": "Gifts",
+          "value": "gifts"
+        },
+        {
+          "label": "Books",
+          "value": "books"
+        }
+      ],
+      "title": "You Are Home board book"
+    },
+    {
+      "__outstatic": {
+        "commit": "1048b4a606ffb1aee0011c7d31bd8121f3b2eda6",
+        "hash": "436948485",
+        "path": "outstatic/content/products/ubbi-steel-odor-locking-diaper-pail.md"
+      },
+      "affiliateSource": [
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "ageRange": [
+        {
+          "label": "0–6 months",
+          "value": "0–6Months"
+        },
+        {
+          "label": "6–12 months",
+          "value": "6–12Months"
+        },
+        {
+          "label": "12–18 months",
+          "value": "12–18Months"
+        },
+        {
+          "label": "18–24 months",
+          "value": "18–24Months"
+        }
+      ],
+      "author": {
+        "name": "Laura Poncé",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/ubbi-M4Nj.png",
+      "description": "",
+      "itemPrice": "69.99",
+      "productLink": "https://amzn.to/40gQfkJ",
+      "publishedAt": "2023-10-28T17:08:02.908Z",
+      "slug": "ubbi-steel-odor-locking-diaper-pail",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Home",
+          "value": "home"
+        },
+        {
+          "label": "Nursery",
+          "value": "nursery"
+        },
+        {
+          "label": "Amazon",
+          "value": "amazon"
+        }
+      ],
+      "title": "Steel Odor Locking Diaper Pail"
+    },
+    {
+      "__outstatic": {
+        "commit": "567194bd84d22b5d1918758414bae6afb8ce1c01",
+        "hash": "24178646",
+        "path": "outstatic/content/details/terms-of-service.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-05T23:03:59.499Z",
+      "slug": "terms-of-service",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Terms of Service"
+    },
+    {
+      "__outstatic": {
+        "commit": "7444b6f43f069b1d7ae3ca142396fa6b2dcad4a0",
+        "hash": "1446216703",
+        "path": "outstatic/content/details/privacy-policy.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-12-05T22:55:27.951Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "e4d52c28db17dcef7ef0042737aafc0605f10d83",
+        "hash": "728623234",
+        "path": "outstatic/content/details/about.md"
+      },
+      "author": {
+        "name": "Laura Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/21222704?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "About HazelSprout.com",
+      "publishedAt": "2023-09-29T05:12:53.065Z",
+      "slug": "about",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "d105597cdfe288bfd6e22017004fa8cae012e3d4",
+        "hash": "3636547498",
+        "path": "outstatic/content/details/thank-you.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "/images/contactbanner-gxNj.jpg",
+      "description": "",
+      "publishedAt": "2023-12-05T21:51:08.896Z",
+      "slug": "thank-you",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Contact"
+    },
+    {
+      "__outstatic": {
+        "commit": "740bdfc6df64aa1b65f8df5af7748c6c302d37d2",
+        "hash": "602252934",
+        "path": "outstatic/content/details/contact.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "/images/contactbanner-k1Nj.jpg",
+      "description": "",
+      "publishedAt": "2023-12-05T20:40:56.775Z",
+      "slug": "contact",
+      "status": "published",
+      "tags": [
+        {
+          "label": "contact",
+          "value": "contact"
+        }
+      ],
+      "title": "Contact"
+    }
+  ]
+}

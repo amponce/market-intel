@@ -1,0 +1,6 @@
+# robots.txt for hazelsprout.com
+
+User-agent: *
+
+# Sitemap
+Sitemap: http://hazelsprout.com/sitemap.xml

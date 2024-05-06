@@ -3,18 +3,16 @@ module.exports = {
   swcMinify: true,
   webpack(config) {
     config.module.rules.push({
-      test: /\.svg$/i,
-      issuer: /\.[jt]sx?$/,
-      use: ['@svgr/webpack'],
+      test: /\.svg$/,
+      use: ["@svgr/webpack"],
     });
-
     return config;
   },
   images: {
     domains: [
-      'res.cloudinary.com',
-      'lh3.googleusercontent.com',
-      's.gravatar.com',
+      "res.cloudinary.com",
+      "lh3.googleusercontent.com",
+      "s.gravatar.com",
     ],
   },
 };

@@ -1,34 +1,52 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./src/components/**/*.tsx', './src/pages/**/*.tsx'],
+  content: ['./public/**/*.html', './app/**/*.{js,jsx,ts,tsx,vue,mdx}'],
   theme: {
     extend: {
+      backgroundColor: {
+        'custom-yellow': '#F6F1EB',
+        'custom-green': '#9ff1e9',
+        'custom-purple': '#6200EE',
+        'custom-grey': '#D7E6D1',
+        'custom-mint-green': '#D7E6D1',
+        'custom-dark-teal': '#1d6169', // Replace with the color you want on hover
+        'custom-purple-hover': '#9a76d1', // Replace with the color you want on hover
+        'custom-button-yellow': '#FFD687',
+        'custom-button-coral': '#F1BAA1',
+        'custom-button-teal': '#B2DFEF',
+        'custom-button-light-teal': '#D7E6D1',
+        'custom-button-purple': '#CFC7FF',
+        'custom-button-green': '#DEECC5',
+        'custom-button-tan': '#E5D5BF',
+        'custom-button-warm-gray': '#97999B',
+        'custom-button-royal-blue': '#4876FF',
+        'custom-button-mushroom': '#CBC0B7',
+        'custom-button-light-green': '#D8F6E0',
+        'custom-button-cream-orange': '#FFD687',
+        'custom-button-light-pink': '#F1D2D6',
+      },
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        success: '#0070f3',
-        cyan: '#79FFE1'
+        'custom-mint-green': '#D7E6D1',
       },
-      spacing: {
-        28: '7rem'
+      lineClamp: {
+        2: '2',
+        3: '3',
+        // ...
       },
-      letterSpacing: {
-        tighter: '-.04em'
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            'h1, h2, h3, h4, h5, h6': {
+              fontFamily: "'Filson Pro', sans-serif",
+            },
+          },
+        },
+      }),
+      fontFamily: {
+        'filson-pro': ['Filson Pro', 'sans-serif'],
+        roboto: ['Roboto', 'sans-serif'],
       },
-      lineHeight: {
-        tight: 1.2
-      },
-      fontSize: {
-        '5xl': '2.5rem',
-        '6xl': '2.75rem',
-        '7xl': '4.5rem',
-        '8xl': '6.25rem'
-      },
-      boxShadow: {
-        sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
-        md: '0 8px 30px rgba(0, 0, 0, 0.12)'
-      }
-    }
+    },
   },
-  plugins: [require('@tailwindcss/typography')]
-}
+  plugins: [require('@tailwindcss/typography', '@tailwindcss/forms')],
+};
