@@ -1,20 +1,20 @@
-"use client";
-import { useState } from "react";
+'use client';
+import { useState } from 'react';
 
 function ContactForm() {
   const [formData, setFormData] = useState({
-    name: "",
-    email: "",
-    subject: "",
-    message: "",
-    honeypot: "", // if any value received in this field, form submission will be ignored.
+    name: '',
+    email: '',
+    subject: '',
+    message: '',
+    honeypot: '', // if any value received in this field, form submission will be ignored.
   });
 
   const [errors, setErrors] = useState({
-    name: "",
-    email: "",
-    subject: "",
-    message: "",
+    name: '',
+    email: '',
+    subject: '',
+    message: '',
   });
 
   const handleChange = <T extends HTMLInputElement | HTMLTextAreaElement>(
@@ -29,7 +29,7 @@ function ContactForm() {
     if (e.target.value.trim()) {
       setErrors((prevErrors) => ({
         ...prevErrors,
-        [e.target.name]: "",
+        [e.target.name]: '',
       }));
     }
   };
@@ -38,29 +38,29 @@ function ContactForm() {
     e.preventDefault();
     // Reset errors
     setErrors({
-      name: "",
-      email: "",
-      subject: "",
-      message: "",
+      name: '',
+      email: '',
+      subject: '',
+      message: '',
     });
     const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
     // Validate fields
     let isValid = true;
     if (!formData.name.trim()) {
-      setErrors((errors) => ({ ...errors, name: "Name is required" }));
+      setErrors((errors) => ({ ...errors, name: 'Name is required' }));
       isValid = false;
     }
     if (!formData.email.trim() || !emailRegex.test(formData.email)) {
-      setErrors((errors) => ({ ...errors, email: "Valid email is required" }));
+      setErrors((errors) => ({ ...errors, email: 'Valid email is required' }));
       isValid = false;
     }
     if (!formData.subject.trim()) {
-      setErrors((errors) => ({ ...errors, subject: "Subject is required" }));
+      setErrors((errors) => ({ ...errors, subject: 'Subject is required' }));
       isValid = false;
     }
     if (!formData.message.trim()) {
-      setErrors((errors) => ({ ...errors, message: "Message is required" }));
+      setErrors((errors) => ({ ...errors, message: 'Message is required' }));
       isValid = false;
     }
 
@@ -81,23 +81,23 @@ function ContactForm() {
       return;
     }
 
-    const response = await fetch("/api/auth/contact", {
-      method: "POST",
+    const response = await fetch('/api/auth/contact', {
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify(formData),
     })
       .then((response) => response.json())
       .then((data) => {
-        if (data.message === "Email sent successfully") {
-          window.location.href = "/details/thank-you"; // Redirect the user
+        if (data.message === 'Email sent successfully') {
+          window.location.href = '/details/thank-you'; // Redirect the user
         } else {
           // Handle errors or show a message to the user
         }
       })
       .catch((error) => {
-        console.error("Error:", error);
+        console.error('Error:', error);
       });
   };
 
