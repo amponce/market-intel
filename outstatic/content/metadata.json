@@ -1,0 +1,1752 @@
+{
+  "commit": "9644952f1a28485c156747be07b2364f1b8a86b1",
+  "generated": "Mon, 06 May 2024 19:23:23 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "56b29b0e35eae76f901da60d0f10741b90409eba",
+        "hash": "95284577",
+        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-g5ND.webp",
+      "description": "",
+      "publishedAt": "2023-09-01T02:51:13.380Z",
+      "slug": "aliso-canyon-storage-update",
+      "status": "published",
+      "title": "Aliso Canyon Storage Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "0de01d56f9dbbd71831001aaec66423ca1c5faa7",
+        "hash": "1060845367",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "38210032cf54e5100ce23e7589d38a8b618609f8",
+        "hash": "1520628531",
+        "path": "outstatic/content/posts/bearish-are-everywhere.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-08T15:39:41.500Z",
+      "slug": "bearish-are-everywhere",
+      "status": "published",
+      "title": "Bearish Are Everywhere"
+    },
+    {
+      "__outstatic": {
+        "commit": "dbda51e82c0324b3495f61600e7974d4aeb791f8",
+        "hash": "958185683",
+        "path": "outstatic/content/posts/april-warming-up.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-02T15:15:54.692Z",
+      "slug": "april-warming-up",
+      "status": "published",
+      "title": "April Warming Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "6c8a829d42b2c50ed6c0d5aac9474ecbc5d15d8f",
+        "hash": "3353505271",
+        "path": "outstatic/content/posts/baylor-university-says-no-way-on-current-us-renewable-energy-goals.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-13T15:59:08.942Z",
+      "slug": "baylor-university-says-no-way-on-current-us-renewable-energy-goals",
+      "status": "published",
+      "title": "Baylor university says no way on current US renewable energy goals"
+    },
+    {
+      "__outstatic": {
+        "commit": "dd1d4f56bdf6cc1dc5006644d69643393d3f640a",
+        "hash": "3531441723",
+        "path": "outstatic/content/posts/barchart-talks-about-falling-natgas-prices.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-kzMT.png",
+      "description": "",
+      "publishedAt": "2023-05-24T16:06:13.783Z",
+      "slug": "barchart-talks-about-falling-natgas-prices",
+      "status": "published",
+      "title": "Barchart talks about falling natgas prices"
+    },
+    {
+      "__outstatic": {
+        "commit": "8604a97b2d53256b1356dd08117cdc11377a8739",
+        "hash": "1868668571",
+        "path": "outstatic/content/posts/april-is-now-the-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T16:19:25.380Z",
+      "slug": "april-is-now-the-prompt-month",
+      "status": "published",
+      "title": "April Is Now The Prompt Month"
+    },
+    {
+      "__outstatic": {
+        "commit": "3e82ad7e81571b0de935a524f03862c8e3c8c50a",
+        "hash": "4259460045",
+        "path": "outstatic/content/posts/bulging-inventories-pushing-prices-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-13T17:04:49.672Z",
+      "slug": "bulging-inventories-pushing-prices-down",
+      "status": "published",
+      "title": "Bulging Inventories Pushing Prices Down"
+    },
+    {
+      "__outstatic": {
+        "commit": "b77dd790cad03d5cce8c20a91eb354d8cfc279a3",
+        "hash": "1164707631",
+        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-UyNz.png",
+      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
+      "publishedAt": "2023-02-17T20:39:03.997Z",
+      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
+      "status": "published",
+      "title": "Bulls and Bears grappling for control with Bears holding the lead "
+    },
+    {
+      "__outstatic": {
+        "commit": "13996999249c0eee69d0afb042cfc417421376c5",
+        "hash": "215398380",
+        "path": "outstatic/content/posts/bearish-withdrawal-prevents-nymex-from-rising.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-07T16:20:38.699Z",
+      "slug": "bearish-withdrawal-prevents-nymex-from-rising",
+      "status": "published",
+      "title": "Bearish Withdrawal Prevents NYMEX from Rising"
+    },
+    {
+      "__outstatic": {
+        "commit": "86fff5eb6ac1638370748580c232fcebdcf919bd",
+        "hash": "3653912200",
+        "path": "outstatic/content/posts/bears-pushing-bulls-back-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-22T16:48:20.738Z",
+      "slug": "bears-pushing-bulls-back-down",
+      "status": "published",
+      "title": "Bears Pushing Bulls Back Down"
+    },
+    {
+      "__outstatic": {
+        "commit": "46ece201452496a2c5fe590d4d1cd04de15b8eef",
+        "hash": "2595594552",
+        "path": "outstatic/content/posts/bearish-oil.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/natural-gas-v-Y3OD.png",
+      "description": "After an initially subdued reaction to yet another crude oil build in the U.S. on Thursday",
+      "publishedAt": "2023-02-24T18:44:12.215Z",
+      "slug": "bearish-oil",
+      "status": "published",
+      "title": "Bearish Oil"
+    },
+    {
+      "__outstatic": {
+        "commit": "ba10de8121700bbb330c762712cb732146c77c93",
+        "hash": "1383232189",
+        "path": "outstatic/content/posts/challenges-of-excess-solar-power.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-23T16:56:57.316Z",
+      "slug": "challenges-of-excess-solar-power",
+      "status": "published",
+      "title": "Challenges of Excess Solar Power"
+    },
+    {
+      "__outstatic": {
+        "commit": "8a406eb8af2e5b8175f60706be27a4e95651cf6f",
+        "hash": "955613704",
+        "path": "outstatic/content/posts/chevron-looking-to-buy-hess.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-23T15:39:13.204Z",
+      "slug": "chevron-looking-to-buy-hess",
+      "status": "published",
+      "title": "Chevron looking to buy Hess"
+    },
+    {
+      "__outstatic": {
+        "commit": "74d731ae5af80f4ae0ec0cbbe86788de0b55c2fe",
+        "hash": "185805240",
+        "path": "outstatic/content/posts/california-city-cant-enforce-natural-gas-ban-appeals-court-says.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-ExOD.png",
+      "description": "",
+      "publishedAt": "2023-04-19T14:58:55.441Z",
+      "slug": "california-city-cant-enforce-natural-gas-ban-appeals-court-says",
+      "status": "published",
+      "title": "California city can't enforce natural gas ban, appeals court says "
+    },
+    {
+      "__outstatic": {
+        "commit": "e44e6c09a5b0090853533802de0de80366a7619f",
+        "hash": "4064990801",
+        "path": "outstatic/content/posts/bulls-could-have-a-short-run-soon.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-19T17:02:25.532Z",
+      "slug": "bulls-could-have-a-short-run-soon",
+      "status": "published",
+      "title": "Bulls Could Have A Short Run Soon"
+    },
+    {
+      "__outstatic": {
+        "commit": "3aa697b724d3c56e55f4b7f9edca6e70e65a8f47",
+        "hash": "2382486480",
+        "path": "outstatic/content/posts/bulls-could-show-up-next-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-15T18:27:21.403Z",
+      "slug": "bulls-could-show-up-next-week",
+      "status": "published",
+      "title": "Bulls Could Show Up Next Week"
+    },
+    {
+      "__outstatic": {
+        "commit": "0c379eb7fd1a78ea41e45bb6fe4387d746b3a083",
+        "hash": "1059751575",
+        "path": "outstatic/content/posts/great-article-from-john-kemp.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/kemp-gxND.png",
+      "description": "U.S. gas prices remain stuck at some of the lowest levels",
+      "publishedAt": "2023-02-10T18:50:29.693Z",
+      "slug": "great-article-from-john-kemp",
+      "status": "published",
+      "title": "Great article from John Kemp"
+    },
+    {
+      "__outstatic": {
+        "commit": "0a9da3444fb7d7fc6fd3ba557547f03944301797",
+        "hash": "238260214",
+        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T14:46:05.970Z",
+      "slug": "fundamentals-still-leaning-towards-bears",
+      "status": "published",
+      "title": "Fundamentals still leaning towards bears"
+    },
+    {
+      "__outstatic": {
+        "commit": "d320412b42916d0bed6620a4e26941d7ea9c7eaa",
+        "hash": "37876326",
+        "path": "outstatic/content/posts/doe-heating-costs-and-cost-comparisons.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/marketupdatefeb9-g4Nz.png",
+      "description": "Electric heating costs 46% more than gas.",
+      "publishedAt": "2023-02-09T15:41:30.685Z",
+      "slug": "doe-heating-costs-and-cost-comparisons",
+      "status": "published",
+      "title": "DoE Heating Costs and Cost Comparisons"
+    },
+    {
+      "__outstatic": {
+        "commit": "98af0bc49e9f7f52b6ceedbbeed55d865f664c3f",
+        "hash": "3181589529",
+        "path": "outstatic/content/posts/cold-weather-in-the-west-adds-support.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-04T18:13:04.045Z",
+      "slug": "cold-weather-in-the-west-adds-support",
+      "status": "published",
+      "title": "Cold Weather In The West Adds Support "
+    },
+    {
+      "__outstatic": {
+        "commit": "fdfdae078ec7f9999536ce3c73f51d3bd5643897",
+        "hash": "758053464",
+        "path": "outstatic/content/posts/end-of-week-note.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-YyOT.webp",
+      "description": "",
+      "publishedAt": "2023-10-06T18:06:58.998Z",
+      "slug": "end-of-week-note",
+      "status": "published",
+      "title": "End of Week Note"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6dcdc81bbd514c8d172bd4923360142cdb0dce7",
+        "hash": "1595684064",
+        "path": "outstatic/content/posts/heavy-selling-pushes-nymex-back-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-08T17:46:51.366Z",
+      "slug": "heavy-selling-pushes-nymex-back-down",
+      "status": "published",
+      "title": "Heavy selling pushes NYMEX back down"
+    },
+    {
+      "__outstatic": {
+        "commit": "e2d4490a8468dcb99018c26e1ab926854ea6b90d",
+        "hash": "1938947330",
+        "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-QzOT.png",
+      "description": "",
+      "publishedAt": "2023-08-22T20:09:41.565Z",
+      "slug": "heat-wave-to-break-power-records-in-texas-and-central-us-this-week",
+      "status": "published",
+      "title": "Heat wave to break power records in Texas and central US this week"
+    },
+    {
+      "__outstatic": {
+        "commit": "c5970fe5603fb3e0e139f6881b975f9d72cd96c7",
+        "hash": "2894104420",
+        "path": "outstatic/content/posts/great-article-on-permian-growth.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-27T14:47:39.025Z",
+      "slug": "great-article-on-permian-growth",
+      "status": "published",
+      "title": "Great article on Permian growth"
+    },
+    {
+      "__outstatic": {
+        "commit": "a20bf61f53c935bd4f52159c6daa40495555fff9",
+        "hash": "347581083",
+        "path": "outstatic/content/posts/has-nymex-hit-bottom.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-06T16:00:43.924Z",
+      "slug": "has-nymex-hit-bottom",
+      "status": "published",
+      "title": "Has NYMEX hit bottom??"
+    },
+    {
+      "__outstatic": {
+        "commit": "87379ff5a87065324a7e9af366a741b3f5e99112",
+        "hash": "1303241599",
+        "path": "outstatic/content/posts/heating-oil-at-home-falls-hard-in-price.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/heating-oil-k4Mz.png",
+      "description": "U.S. residential heating oil prices decline from record-highs in November",
+      "publishedAt": "2023-02-10T15:12:00.945Z",
+      "slug": "heating-oil-at-home-falls-hard-in-price",
+      "status": "published",
+      "title": "Heating oil at home falls hard in price"
+    },
+    {
+      "__outstatic": {
+        "commit": "fbb4656527c2061f02cf5cc1eebc00ac50200205",
+        "hash": "4114463703",
+        "path": "outstatic/content/posts/interesting-article-from-the-bbc-on-solar-panels-and-their-ability-or-not-to-be-recycled.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-Q2OT.png",
+      "description": "",
+      "publishedAt": "2023-06-05T13:06:09.798Z",
+      "slug": "interesting-article-from-the-bbc-on-solar-panels-and-their-ability-or-not-to-be-recycled",
+      "status": "published",
+      "title": "Interesting article from the BBC on solar panels and their ability, or not, to be recycled"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed485bbe92b3bb4b6fe722a63ef955be1d4deb94",
+        "hash": "3363382930",
+        "path": "outstatic/content/posts/is-a-buck-fifty-the-nymex-floor.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-16T15:17:24.186Z",
+      "slug": "is-a-buck-fifty-the-nymex-floor",
+      "status": "published",
+      "title": "Is a Buck Fifty The NYMEX Floor??"
+    },
+    {
+      "__outstatic": {
+        "commit": "0d2e89ba310efa666f5bcf5fceecc9177e6528c0",
+        "hash": "1016525434",
+        "path": "outstatic/content/posts/interesting-article-link.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-A3Mj.png",
+      "description": "",
+      "publishedAt": "2023-03-27T17:44:40.155Z",
+      "slug": "interesting-article-link",
+      "status": "published",
+      "title": "Interesting article link"
+    },
+    {
+      "__outstatic": {
+        "commit": "1955e5462c8d739039dbda407426bbb7f56f76c5",
+        "hash": "1789897676",
+        "path": "outstatic/content/posts/indicative-fixed-prices-april.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/news-market-intel-k1Nj.png",
+      "description": "Market intel for 2-22-23 Start month -  April 23",
+      "publishedAt": "2023-02-22T18:03:37.914Z",
+      "slug": "indicative-fixed-prices-april",
+      "status": "published",
+      "title": "Indicative Fixed Prices - April "
+    },
+    {
+      "__outstatic": {
+        "commit": "d497a0fa98650a95fe372eb9f096fb843dc21a7f",
+        "hash": "4013421498",
+        "path": "outstatic/content/posts/indicative-fixed-prices-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-k3OD.png",
+      "description": "",
+      "publishedAt": "2023-08-22T14:56:35.051Z",
+      "slug": "indicative-fixed-prices-market-intel",
+      "status": "published",
+      "title": "Indicative Fixed Prices & Market Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "53202a965dc3362144abba2a75d230199f8946bf",
+        "hash": "3447817456",
+        "path": "outstatic/content/posts/latest-oil-gas-rig-count.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-QxNj.webp",
+      "description": "",
+      "publishedAt": "2023-10-13T17:04:16.238Z",
+      "slug": "latest-oil-gas-rig-count",
+      "status": "published",
+      "title": "Latest Oil & Gas Rig Count"
+    },
+    {
+      "__outstatic": {
+        "commit": "b7f99da33ec39616dc2dc75e5b2725f96bbe46ff",
+        "hash": "1852151929",
+        "path": "outstatic/content/posts/its-the-time-of-the-season-to-be-buying.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-19T16:04:02.522Z",
+      "slug": "its-the-time-of-the-season-to-be-buying",
+      "status": "published",
+      "title": "It's the time of the Season....to be buying"
+    },
+    {
+      "__outstatic": {
+        "commit": "c2576f8cbde13e1a4faadffdd7d374827ba15009",
+        "hash": "358433846",
+        "path": "outstatic/content/posts/latest-eia-storage-report.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/marketintelfeb9-2-M3MD.png",
+      "description": "Working gas in storage was 2,366 Bcf as of Friday, February 3, 2023, according to EIA estimates",
+      "publishedAt": "2023-02-09T15:47:55.406Z",
+      "slug": "latest-eia-storage-report",
+      "status": "published",
+      "title": "Latest EIA Storage Report"
+    },
+    {
+      "__outstatic": {
+        "commit": "7fe9ddbc5801db42f9c897fdacef75703acdb1a2",
+        "hash": "385265929",
+        "path": "outstatic/content/posts/june-is-the-new-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-29T17:44:58.311Z",
+      "slug": "june-is-the-new-prompt-month",
+      "status": "published",
+      "title": "June is the new prompt month"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed0e29a7bb16a6b9d172540b0f246fdb1b81a8ac",
+        "hash": "3872856815",
+        "path": "outstatic/content/posts/iso-ne-does-well-to-keep-thermostats-on.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/articleiso-g3Nz.png",
+      "description": "Record-breaking cold temperatures and extreme wind chill in New England",
+      "publishedAt": "2023-02-09T18:20:50.275Z",
+      "slug": "iso-ne-does-well-to-keep-thermostats-on",
+      "status": "published",
+      "title": "ISO-NE does well to keep thermostats on"
+    },
+    {
+      "__outstatic": {
+        "commit": "6543f3cbbb9ca54fd2963c3798d810427b7faaed",
+        "hash": "1397682278",
+        "path": "outstatic/content/posts/milder-weather-forecasts-pushing-natgas-prices-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-28T15:17:08.269Z",
+      "slug": "milder-weather-forecasts-pushing-natgas-prices-down",
+      "status": "published",
+      "title": "Milder Weather Forecasts Pushing NatGas Prices Down"
+    },
+    {
+      "__outstatic": {
+        "commit": "96404a211056a245c503f7d13b1f9fb488985275",
+        "hash": "2607956298",
+        "path": "outstatic/content/posts/monday-nymex-is-flat.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-05T18:10:14.408Z",
+      "slug": "monday-nymex-is-flat",
+      "status": "published",
+      "title": "Monday NYMEX is flat!"
+    },
+    {
+      "__outstatic": {
+        "commit": "028f94914e6e2c95cebeedf625bd59c9bf29db12",
+        "hash": "3118496727",
+        "path": "outstatic/content/posts/maintenance-on-the-wheeler-pipeline-was-completed-ahead-of-schedule-socal-basis-is-falling-quickly-in-response.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-MzNj.png",
+      "description": "",
+      "publishedAt": "2023-08-10T17:07:37.981Z",
+      "slug": "maintenance-on-the-wheeler-pipeline-was-completed-ahead-of-schedule-socal-basis-is-falling-quickly-in-response",
+      "status": "published",
+      "title": "Maintenance on the Wheeler pipeline was completed ahead of schedule.  SoCal Basis is falling quickly in response.   "
+    },
+    {
+      "__outstatic": {
+        "commit": "b450c32e406ac3d846ec2ce3ee7f0a82a52a9514",
+        "hash": "3011371527",
+        "path": "outstatic/content/posts/lng-restrictions-help-push-nymex-prices-down-further.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-06T16:30:43.207Z",
+      "slug": "lng-restrictions-help-push-nymex-prices-down-further",
+      "status": "published",
+      "title": "LNG restrictions help push NYMEX prices down further"
+    },
+    {
+      "__outstatic": {
+        "commit": "197dab98784caa5e13783e65413c1d6624921412",
+        "hash": "3371416373",
+        "path": "outstatic/content/posts/more-power-lines-for-california.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-kwMD.png",
+      "description": "",
+      "publishedAt": "2023-05-22T20:18:36.852Z",
+      "slug": "more-power-lines-for-california",
+      "status": "published",
+      "title": "More Power lines for California"
+    },
+    {
+      "__outstatic": {
+        "commit": "eac809b751d0a087d134e9e22b26aeaebf5dda51",
+        "hash": "3119858937",
+        "path": "outstatic/content/posts/natural-gas-futures-show-signs-of-breakout-from-bearish-trend-by-satendra-singh.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/futures-QzOD.png",
+      "description": "Natural Gas Futures Show Signs of Breakout from Bearish Trend By Satendra Singh",
+      "publishedAt": "2023-02-13T20:32:43.950Z",
+      "slug": "natural-gas-futures-show-signs-of-breakout-from-bearish-trend-by-satendra-singh",
+      "status": "published",
+      "title": "Natural Gas Futures Show Signs of Breakout"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ed9098399f0576cb250c42c8f47cc599549feda",
+        "hash": "1943085374",
+        "path": "outstatic/content/posts/natural-gas-fills-the-gap-as-renewable-power-falters.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-E2NT.webp",
+      "description": "",
+      "publishedAt": "2023-08-28T15:34:41.663Z",
+      "slug": "natural-gas-fills-the-gap-as-renewable-power-falters",
+      "status": "published",
+      "title": "Natural Gas Fills The Gap As Renewable Power Falters"
+    },
+    {
+      "__outstatic": {
+        "commit": "84b31503cc58be4de585b9d6e884d9932237c665",
+        "hash": "83863770",
+        "path": "outstatic/content/posts/natgas-dropping-hard-so-far-this-year.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-E0Mz.png",
+      "description": "Natural-gas prices have dropped more than 65% since mid-December and this week hit their lowest level",
+      "publishedAt": "2023-02-24T18:48:40.290Z",
+      "slug": "natgas-dropping-hard-so-far-this-year",
+      "status": "published",
+      "title": "Natgas dropping hard so far this year"
+    },
+    {
+      "__outstatic": {
+        "commit": "14c4516e74431cdd14cb78137cbc6410abf5a33c",
+        "hash": "36417793",
+        "path": "outstatic/content/posts/more-production-cuts.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-05T16:27:07.591Z",
+      "slug": "more-production-cuts",
+      "status": "published",
+      "title": "More Production Cuts"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa2f704573ba217b1c713867d2561dfb526139a6",
+        "hash": "3133567605",
+        "path": "outstatic/content/posts/nat-gas-prices-in-texas-go-negative.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-04T16:38:24.913Z",
+      "slug": "nat-gas-prices-in-texas-go-negative",
+      "status": "published",
+      "title": "Nat Gas Prices In Texas Go Negative!!!"
+    },
+    {
+      "__outstatic": {
+        "commit": "f6f6e2dd6787e987250214a116f6dc0e0964167c",
+        "hash": "832517249",
+        "path": "outstatic/content/posts/nymex-and-basis-separated.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-UxOT.png",
+      "description": "",
+      "publishedAt": "2023-04-13T16:24:47.761Z",
+      "slug": "nymex-and-basis-separated",
+      "status": "published",
+      "title": "NYMEX and Basis Separated"
+    },
+    {
+      "__outstatic": {
+        "commit": "a57c23d568d750b94c297997b97eb3449c51a961",
+        "hash": "2327072038",
+        "path": "outstatic/content/posts/not-much-movement-for-nymex-socal-basis-plummets.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-23T15:30:24.892Z",
+      "slug": "not-much-movement-for-nymex-socal-basis-plummets",
+      "status": "published",
+      "title": "Not much movement for NYMEX.  SoCal Basis plummets."
+    },
+    {
+      "__outstatic": {
+        "commit": "2702dc6987a06716aebddd595bfaaf7d09efd258",
+        "hash": "2647856200",
+        "path": "outstatic/content/posts/nearing-the-end-of-withdrawal-season.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-14T15:13:21.823Z",
+      "slug": "nearing-the-end-of-withdrawal-season",
+      "status": "published",
+      "title": "Nearing the End of Withdrawal Season"
+    },
+    {
+      "__outstatic": {
+        "commit": "629e86be1b9237546ee01a0ec1c6cc09520351c7",
+        "hash": "1291316357",
+        "path": "outstatic/content/posts/natural-gas-volatility.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/natural-gas-v-I1MT.png",
+      "description": "The buffers that keep America’s natural-gas price fluctuations at bay are eroding",
+      "publishedAt": "2023-02-11T22:00:27.523Z",
+      "slug": "natural-gas-volatility",
+      "status": "published",
+      "title": "Natural Gas Volatility "
+    },
+    {
+      "__outstatic": {
+        "commit": "3bddec8099c1a68f4ae21cbb815b7c93aa31a58b",
+        "hash": "1207690919",
+        "path": "outstatic/content/posts/natural-gas-prices-surge-in-california.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/california-energy-gyOT.png",
+      "description": "The recent 385% increase in natural gas prices in California has left residents speechless",
+      "publishedAt": "2023-02-05T18:55:40.000Z",
+      "slug": "natural-gas-prices-surge-in-california",
+      "status": "published",
+      "title": "Exploring the causes of soaring natural gas prices in California"
+    },
+    {
+      "__outstatic": {
+        "commit": "32e4f29e9cebead85927be77112361fbb7ae7088",
+        "hash": "1320407545",
+        "path": "outstatic/content/posts/nymex-is-cheap.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/natural-gas-contracts-QwOT.png",
+      "description": "",
+      "publishedAt": "2023-03-07T19:11:34.022Z",
+      "slug": "nymex-is-cheap",
+      "status": "published",
+      "title": "NYMEX is cheap!!"
+    },
+    {
+      "__outstatic": {
+        "commit": "7d035eb5b5cc6c750da547d0705fd0d5e02a0971",
+        "hash": "1637619942",
+        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-09T15:37:26.662Z",
+      "slug": "nymex-basis-up-slightly",
+      "status": "published",
+      "title": "NYMEX & Basis Up Slightly"
+    },
+    {
+      "__outstatic": {
+        "commit": "f06e0922862d0cf47b9abbef31d35deca123d590",
+        "hash": "1899589531",
+        "path": "outstatic/content/posts/nymex-flattening-out-today-before-anticipated-rally-later-this-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-30T15:25:20.305Z",
+      "slug": "nymex-flattening-out-today-before-anticipated-rally-later-this-week",
+      "status": "published",
+      "title": "NYMEX flattening out today before anticipated rally later this week"
+    },
+    {
+      "__outstatic": {
+        "commit": "efa8fb63cd816e0a384f31fc727e785f2dbb0cdc",
+        "hash": "2579623448",
+        "path": "outstatic/content/posts/nymex-continues-to-fall-hard.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-15T16:56:02.718Z",
+      "slug": "nymex-continues-to-fall-hard",
+      "status": "published",
+      "title": "NYMEX Continues to Fall Hard"
+    },
+    {
+      "__outstatic": {
+        "commit": "0ece5d86ce989cf00c20aad25e8cc9388da2f06f",
+        "hash": "2508121595",
+        "path": "outstatic/content/posts/nymex-at-a-three-year-low.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-09T17:06:20.374Z",
+      "slug": "nymex-at-a-three-year-low",
+      "status": "draft",
+      "title": "NYMEX at a three year low"
+    },
+    {
+      "__outstatic": {
+        "commit": "14dc8354bfcecf3fd5474d97a24f1d414220a3a3",
+        "hash": "4024683506",
+        "path": "outstatic/content/posts/pipeline-maintenance-season-is-coming.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-11T15:26:22.514Z",
+      "slug": "pipeline-maintenance-season-is-coming",
+      "status": "published",
+      "title": "Pipeline Maintenance Season Is Coming!"
+    },
+    {
+      "__outstatic": {
+        "commit": "8b86f108db05fe29a9165fca07a1e6e36fd49d5e",
+        "hash": "1623460525",
+        "path": "outstatic/content/posts/opec-news.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-A2OD.webp",
+      "description": "",
+      "publishedAt": "2023-10-05T16:28:42.993Z",
+      "slug": "opec-news",
+      "status": "published",
+      "title": "OPEC News"
+    },
+    {
+      "__outstatic": {
+        "commit": "8500d291495a4561d9b77fb3c85e407fb37ec38c",
+        "hash": "4236948339",
+        "path": "outstatic/content/posts/projected-production-cuts-push-prices-up.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-21T18:42:59.799Z",
+      "slug": "projected-production-cuts-push-prices-up",
+      "status": "published",
+      "title": "Projected Production Cuts Push Prices Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "606ae8bf65e36d9e68bab198d4a620055a2eb3fa",
+        "hash": "3620731106",
+        "path": "outstatic/content/posts/nymex-tumbles.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-24T14:27:47.006Z",
+      "slug": "nymex-tumbles",
+      "status": "published",
+      "title": "NYMEX Tumbles"
+    },
+    {
+      "__outstatic": {
+        "commit": "c49a9fa5c8cfdc2a3653f5642ab4d1f2b907b050",
+        "hash": "4282896723",
+        "path": "outstatic/content/posts/nymex-prices-are-up-but-not-for-long.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-16T16:12:54.349Z",
+      "slug": "nymex-prices-are-up-but-not-for-long",
+      "status": "published",
+      "title": "NYMEX Prices Are Up But Not For Long"
+    },
+    {
+      "__outstatic": {
+        "commit": "752bb94b34e20cc4757c51194c100c194a1c104b",
+        "hash": "3100585584",
+        "path": "outstatic/content/posts/saudi-arabia-russia-extend-voluntary-oil-cuts-to-year-end-markets-jump.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-AzMz.webp",
+      "description": "",
+      "publishedAt": "2023-09-06T17:52:34.234Z",
+      "slug": "saudi-arabia-russia-extend-voluntary-oil-cuts-to-year-end-markets-jump",
+      "status": "published",
+      "title": "Saudi Arabia, Russia extend voluntary oil cuts to year-end, markets jump"
+    },
+    {
+      "__outstatic": {
+        "commit": "764f71f1385e5c5b598188f6edf0a29b48d03a36",
+        "hash": "3034135921",
+        "path": "outstatic/content/posts/refreshed-fixed-prices-indicatives-for.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-10-23T16:51:52.606Z",
+      "slug": "refreshed-fixed-prices-indicatives-for",
+      "status": "published",
+      "title": "Refreshed Fixed Prices Indicatives for..."
+    },
+    {
+      "__outstatic": {
+        "commit": "3e10f44ad2f921b52d1e9cc6ced3a0ee43401570",
+        "hash": "1018811411",
+        "path": "outstatic/content/posts/recent-movements-in-oil-markets.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-29T17:42:44.210Z",
+      "slug": "recent-movements-in-oil-markets",
+      "status": "published",
+      "title": "Recent Movements in Oil Markets"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae562d398ccfc69683afa1927ccaeca780ec8543",
+        "hash": "4161807310",
+        "path": "outstatic/content/posts/protecting-your-budget-from-market-speculation-in-natural-gas-prices.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/market-trends-M2OD.png",
+      "description": "Learn about the impact of market speculation on natural gas prices and protect your energy budget. ",
+      "publishedAt": "2023-02-06T03:34:02.000Z",
+      "slug": "protecting-your-budget-from-market-speculation-in-natural-gas-prices",
+      "status": "published",
+      "title": "Market speculation and protecting your energy budget"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a9044d93037548b638db98d89a98e1b0396364f",
+        "hash": "2817999445",
+        "path": "outstatic/content/posts/record-setting-production-and-were-going-to-need-it.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-07T16:20:22.154Z",
+      "slug": "record-setting-production-and-were-going-to-need-it",
+      "status": "published",
+      "title": "Record Setting Production and We're Going to Need It"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ba4d48fa0b7fcb32b227b39018158b57a999456",
+        "hash": "2155043793",
+        "path": "outstatic/content/posts/streamlining-energy-procurement-with-rfp-energy-solutions.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-AzMj.png",
+      "description": "Protect your business from supply chain disruptions with RFP Energy Solutions. ",
+      "publishedAt": "2023-02-06T06:35:07.000Z",
+      "slug": "streamlining-energy-procurement-with-rfp-energy-solutions",
+      "status": "published",
+      "title": "Benefits of using RFP Energy Solutions "
+    },
+    {
+      "__outstatic": {
+        "commit": "f8a643e70c198eb86a2aff3319d3dec4693ffa82",
+        "hash": "570703263",
+        "path": "outstatic/content/posts/storage-glut-pushing-production-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-15T15:49:11.136Z",
+      "slug": "storage-glut-pushing-production-down",
+      "status": "published",
+      "title": "Storage Glut Pushing Production Down?"
+    },
+    {
+      "__outstatic": {
+        "commit": "f5ed2d7825ec61140918e31988892cb6032d959e",
+        "hash": "1736117939",
+        "path": "outstatic/content/posts/shoulder-season-should-start-soon.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-01T16:37:33.046Z",
+      "slug": "shoulder-season-should-start-soon",
+      "status": "published",
+      "title": "Shoulder Season Should Start Soon. "
+    },
+    {
+      "__outstatic": {
+        "commit": "5c910138c778908c38282f4be16a831746d7b3fa",
+        "hash": "3707801306",
+        "path": "outstatic/content/posts/saudi-pledges-big-oil-cuts-in-july-as-opec-extends-deal-into-next-year.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-kyMz.png",
+      "description": "",
+      "publishedAt": "2023-06-05T12:58:53.392Z",
+      "slug": "saudi-pledges-big-oil-cuts-in-july-as-opec-extends-deal-into-next-year",
+      "status": "published",
+      "title": "Saudi pledges big oil cuts in July as OPEC extends deal into next year..."
+    },
+    {
+      "__outstatic": {
+        "commit": "6f2593433f2e9fed8666713fd7377b38599924ab",
+        "hash": "2271446642",
+        "path": "outstatic/content/posts/the-energy-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-M5Mj.webp",
+      "description": "",
+      "publishedAt": "2023-09-25T18:01:40.799Z",
+      "slug": "the-energy-update",
+      "status": "published",
+      "title": "THE Energy Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "b8ca6bd1a2354beb9a452654f3eb54596b70dbfc",
+        "hash": "2571784169",
+        "path": "outstatic/content/posts/the-natural-gas-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-czOD.png",
+      "description": "",
+      "publishedAt": "2023-04-14T16:59:14.597Z",
+      "slug": "the-natural-gas-update",
+      "status": "published",
+      "title": "THE Natural Gas Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "39cc6a6b77e3740dd3eae54ae6f43f87f994e7b1",
+        "hash": "3711540715",
+        "path": "outstatic/content/posts/the-natural-gas-update-driving-factors.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-EwNj.png",
+      "description": "Natural Gas Update for 2-10-23, the driving factors",
+      "publishedAt": "2023-02-10T17:53:01.530Z",
+      "slug": "the-natural-gas-update-driving-factors",
+      "status": "published",
+      "title": "The natural gas update (2-10-23)"
+    },
+    {
+      "__outstatic": {
+        "commit": "f77cac24723a311d5cec288870f35d6bfa638cd7",
+        "hash": "1502116225",
+        "path": "outstatic/content/posts/the-leap-day-one-minute-energy-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-29T16:25:35.621Z",
+      "slug": "the-leap-day-one-minute-energy-update",
+      "status": "published",
+      "title": "THE Leap Day One Minute Energy Update "
+    },
+    {
+      "__outstatic": {
+        "commit": "54aedf7aa7e662d3725f7142041232111fcc7fd0",
+        "hash": "740731103",
+        "path": "outstatic/content/posts/the-minute-energy-report-for.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-MyNj.webp",
+      "description": "",
+      "publishedAt": "2023-10-12T15:39:22.133Z",
+      "slug": "the-minute-energy-report-for",
+      "status": "published",
+      "title": "THE One Minute Energy Report"
+    },
+    {
+      "__outstatic": {
+        "commit": "98f4bc043bb20ceaf77765e98cb5be88a0fe91f8",
+        "hash": "1688160665",
+        "path": "outstatic/content/posts/the-greenback-is-the-real-focus-in-green-energy.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-08T16:35:31.923Z",
+      "slug": "the-greenback-is-the-real-focus-in-green-energy",
+      "status": "published",
+      "title": "The Greenback is the real focus in green energy"
+    },
+    {
+      "__outstatic": {
+        "commit": "26a81fcbc223181794e1dc857b65292c2383c06b",
+        "hash": "1119375271",
+        "path": "outstatic/content/posts/todays-fixed-price-indicatives-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-cxMD.webp",
+      "description": "",
+      "publishedAt": "2023-10-13T15:18:55.584Z",
+      "slug": "todays-fixed-price-indicatives-market-intel",
+      "status": "published",
+      "title": "THE One Minute Energy Report "
+    },
+    {
+      "__outstatic": {
+        "commit": "c1ccddf65f638e67b738faf13450a6c76149fc87",
+        "hash": "885317793",
+        "path": "outstatic/content/posts/this-weeks-natural-gas-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/articleiso-A4ND.png",
+      "description": "",
+      "publishedAt": "2023-03-03T19:11:53.506Z",
+      "slug": "this-weeks-natural-gas-update",
+      "status": "published",
+      "title": "This week's Natural Gas Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "fb08365c85fd38f2473fddf7fd793c65783745bd",
+        "hash": "2312117271",
+        "path": "outstatic/content/posts/the-one-minute-energy-update-for-february-first.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "#NYMEXDown #PG&EBasisFalling #SoCalGasBasisFalling #WeatherBearish #DemandDown #CarbonOffset",
+      "publishedAt": "2024-02-01T17:03:41.000Z",
+      "slug": "the-one-minute-energy-update-for-february-first",
+      "status": "published",
+      "title": "THE One Minute Energy Update for 2/1/24"
+    },
+    {
+      "__outstatic": {
+        "commit": "14fd19fedeef7346be72efc4faef43aa260a5cd9",
+        "hash": "739321102",
+        "path": "outstatic/content/posts/the-one-minute-energy-update-for.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-02T16:24:37.518Z",
+      "slug": "the-one-minute-energy-update-for",
+      "status": "published",
+      "title": "THE One Minute Energy Update for 2/2/24"
+    },
+    {
+      "__outstatic": {
+        "commit": "7bb37259763aff2098379083481e254cab1d0060",
+        "hash": "1813329420",
+        "path": "outstatic/content/posts/the-one-minute-energy-report-for.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-UwMj.webp",
+      "description": "",
+      "publishedAt": "2023-10-17T16:16:39.916Z",
+      "slug": "the-one-minute-energy-report-for",
+      "status": "published",
+      "title": "THE One Minute Energy Report for..."
+    },
+    {
+      "__outstatic": {
+        "commit": "f6307999b92c45026c26d1c8af3728b8343888fd",
+        "hash": "658219988",
+        "path": "outstatic/content/posts/wall-street-bets-on-nymex-bulls-to-return.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-01T15:54:04.426Z",
+      "slug": "wall-street-bets-on-nymex-bulls-to-return",
+      "status": "published",
+      "title": "Wall Street Bets on NYMEX Bulls to Return"
+    },
+    {
+      "__outstatic": {
+        "commit": "301be5fcab531cf76d2698a7cfab45b242957138",
+        "hash": "3434608269",
+        "path": "outstatic/content/posts/todays-indicative-fixed-prices-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-A0Mj.webp",
+      "description": "",
+      "publishedAt": "2023-10-10T15:56:39.335Z",
+      "slug": "todays-indicative-fixed-prices-market-intel",
+      "status": "published",
+      "title": "Today's Indicative Fixed Prices & Market Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "6280878f9d17901fcb79d996e58b71a099647f46",
+        "hash": "2965219320",
+        "path": "outstatic/content/posts/todays-indictive-fixed-prices-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-c2MD.png",
+      "description": "",
+      "publishedAt": "2023-05-31T15:47:43.961Z",
+      "slug": "todays-indictive-fixed-prices-market-intel",
+      "status": "published",
+      "title": "Today's Indictive Fixed Prices & Market Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "d82607ff95329551fe9f1ee645d187d7e46b52d5",
+        "hash": "207961451",
+        "path": "outstatic/content/posts/todays-indicative-fixed-price-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-g0NT.webp",
+      "description": "",
+      "publishedAt": "2023-09-19T17:19:56.275Z",
+      "slug": "todays-indicative-fixed-price-market-intel",
+      "status": "published",
+      "title": "Today's Indicative Fixed Price & Market Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "d15c833b023b884bc9c367a129b3c48111aad10d",
+        "hash": "1937980391",
+        "path": "outstatic/content/posts/todays-fixed-prices-market-intel.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-M0Mz.png",
+      "description": "",
+      "publishedAt": "2023-04-24T15:21:05.433Z",
+      "slug": "todays-fixed-prices-market-intel",
+      "status": "published",
+      "title": "Today's Fixed Prices & Market Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "d06b5f835c8aea768c05f3bb34447f3aad9ef217",
+        "hash": "3698048944",
+        "path": "outstatic/content/posts/west-cgs-running-up-for-now.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-M2ND.png",
+      "description": "",
+      "publishedAt": "2023-02-27T16:58:54.241Z",
+      "slug": "west-cgs-running-up-for-now",
+      "status": "published",
+      "title": "West CGs running up for now"
+    },
+    {
+      "__outstatic": {
+        "commit": "222a0fdb1c4165795bd966da68e2a40cc82f9388",
+        "hash": "4179202896",
+        "path": "outstatic/content/posts/we-may-want-to-hit-pause-on-locking-in-forward-positionstions.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-20T17:36:46.692Z",
+      "slug": "we-may-want-to-hit-pause-on-locking-in-forward-positionstions",
+      "status": "published",
+      "title": "We may want to hit pause on locking in forward positions...."
+    },
+    {
+      "__outstatic": {
+        "commit": "7f85628a38f6d45b93da3503f874d8eae0041c25",
+        "hash": "691403685",
+        "path": "outstatic/content/posts/warmer-than-normal-temperatures-keep-natural-gas-prices-down.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-12T15:51:57.038Z",
+      "slug": "warmer-than-normal-temperatures-keep-natural-gas-prices-down",
+      "status": "published",
+      "title": "Warmer Than Normal Temperatures Keep Natural Gas Prices Down"
+    },
+    {
+      "__outstatic": {
+        "commit": "60e66d919954d149ac0b85ad7c97934e1fb99cc5",
+        "hash": "1429239854",
+        "path": "outstatic/content/posts/welcome-to-injection-season.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-03-21T17:11:45.485Z",
+      "slug": "welcome-to-injection-season",
+      "status": "published",
+      "title": "Welcome To Injection Season!"
+    },
+    {
+      "__outstatic": {
+        "commit": "746eac6b9224473e54adbec43bec05a439c07c63",
+        "hash": "535404828",
+        "path": "outstatic/content/posts/welcome-to-friday-stagnation.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-05T16:51:04.163Z",
+      "slug": "welcome-to-friday-stagnation",
+      "status": "published",
+      "title": "Welcome to Friday Stagnation"
+    },
+    {
+      "__outstatic": {
+        "commit": "e6c45c4fefd1ba2fb8d644dd49c2b9bda7986832",
+        "hash": "355527128",
+        "path": "outstatic/content/posts/will-production-over-power-bullish-weather.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-25T14:38:51.016Z",
+      "slug": "will-production-over-power-bullish-weather",
+      "status": "published",
+      "title": "Will Production Over Power Bullish Weather?"
+    },
+    {
+      "__outstatic": {
+        "commit": "f41192d6c038f7829daaa8d0d7579e9e0500a8c8",
+        "hash": "685996542",
+        "path": "outstatic/content/posts/why-use-solar-panels-when-you-can-go-straight-to-the-sun-meet-the-esas-solaris-project.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-17T15:27:54.854Z",
+      "slug": "why-use-solar-panels-when-you-can-go-straight-to-the-sun-meet-the-esas-solaris-project",
+      "status": "published",
+      "title": "Why use solar panels when you can go straight to the sun?  Meet The ESA's Solaris project"
+    },
+    {
+      "__outstatic": {
+        "commit": "97d28fa778c87f1a5ad82a0a3ee67ba7225a13f7",
+        "hash": "274036033",
+        "path": "outstatic/content/posts/will-four-day-weekend-pricing-rally.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-14T17:22:03.764Z",
+      "slug": "will-four-day-weekend-pricing-rally",
+      "status": "published",
+      "title": "Will Four Day Weekend Pricing Rally?"
+    },
+    {
+      "__outstatic": {
+        "commit": "a17e701d7a0bbfe27ffb4f82bcf6da1f0fb0d5f9",
+        "hash": "2096110470",
+        "path": "outstatic/content/posts/whats-pushing-nymex-p-today.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-27T16:08:33.313Z",
+      "slug": "whats-pushing-nymex-p-today",
+      "status": "published",
+      "title": "What's Pushing NYMEX p Today??"
+    },
+    {
+      "__outstatic": {
+        "commit": "36f3776963a305a6ed71e30e5d2dd800d6aa2b3c",
+        "hash": "1348417037",
+        "path": "outstatic/content/posts/what-were-we-saying-about-reliability.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-qwmt-gymj-I3Nz.webp",
+      "description": "",
+      "publishedAt": "2023-09-08T17:38:26.597Z",
+      "slug": "what-were-we-saying-about-reliability",
+      "status": "published",
+      "title": "What were we saying about reliability??"
+    }
+  ]
+}
