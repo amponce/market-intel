@@ -1,11 +1,16 @@
-import React from "react";
-import { Product } from "../app/products/[slug]/page";
+import React from 'react';
+import { Product } from '../products/[slug]/page';
+declare global {
+  interface Window {
+    gtag: (...args: any[]) => void;
+  }
+}
 
 export const AmazonEvent = ({ product }: { product: Product }) => {
   const trackAmazonClick = (productName: string) => {
     if (window.gtag) {
-      window.gtag("event", "amazon_click", {
-        event_category: "Product Links",
+      window.gtag('event', 'amazon_click', {
+        event_category: 'Product Links',
         event_label: productName,
         value: 1,
       });

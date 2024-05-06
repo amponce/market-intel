@@ -1,6 +1,6 @@
-import Layout from "../components/Layout";
-import { load } from "outstatic/server";
-import markdownToHtml from "../lib/markdownToHtml";
+import Layout from '@/components/Layout';
+import { load } from 'outstatic/server';
+import markdownToHtml from '@/lib/markdownToHtml';
 
 const About = async () => {
   const { content } = await getData();
@@ -24,7 +24,7 @@ async function getData() {
   const db = await load();
 
   const page = await db
-    .find({ collection: "pages", slug: "about" }, ["content"])
+    .find({ collection: 'pages', slug: 'about' }, ['content'])
     .first();
 
   const content = await markdownToHtml(page.content);

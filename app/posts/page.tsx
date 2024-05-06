@@ -30,7 +30,7 @@ function isPost(object: any): object is Post {
     typeof object.description === 'string' &&
     Array.isArray(object.tags) &&
     object.tags.every(
-      (tag) => tag.hasOwnProperty('value') && tag.hasOwnProperty('label')
+      (tag: Tag) => tag.hasOwnProperty('value') && tag.hasOwnProperty('label')
     )
   );
 }

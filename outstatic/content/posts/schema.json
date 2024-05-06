@@ -7,52 +7,8 @@
       "description": "Add tags to the post",
       "values": [
         {
-          "value": "bears",
-          "label": "bears"
-        },
-        {
           "value": "products",
           "label": "products"
-        },
-        {
-          "value": "musicBoxes",
-          "label": "Music Boxes"
-        },
-        {
-          "value": "gifts",
-          "label": "Gifts"
-        },
-        {
-          "value": "birthday",
-          "label": "Birthday"
-        },
-        {
-          "value": "breastfeeding",
-          "label": "Breastfeeding"
-        },
-        {
-          "value": "nursing",
-          "label": "Nursing"
-        },
-        {
-          "value": "newborn",
-          "label": "Newborn"
-        },
-        {
-          "value": "kitchen",
-          "label": "Kitchen"
-        },
-        {
-          "value": "food",
-          "label": "Food"
-        },
-        {
-          "value": "sleep",
-          "label": "Sleep"
-        },
-        {
-          "value": "nursery",
-          "label": "Nursery"
         }
       ],
       "fieldType": "Tags",

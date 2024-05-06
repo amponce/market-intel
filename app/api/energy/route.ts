@@ -2,11 +2,21 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 export const runtime = 'edge';
 
+interface EnergyPriceItem {
+  period: string;
+  'area-name': string;
+  'product-name': string;
+  'process-name': string;
+  series: string;
+  'series-description': string;
+  value: number;
+  units: string;
+}
+
 export async function GET() {
   const apiKey = process.env.EIA_API_KEY;
   const baseUrl = 'https://api.eia.gov/v2/natural-gas/pri/fut/data/';
 
-  // Define the xParams object
   const xParams = {
     frequency: 'daily',
     data: ['value'],
@@ -36,8 +46,8 @@ export async function GET() {
 
     const data = await response.json();
 
-    // Extract the relevant data
-    const energyPrices = data.response.data.map((item) => ({
+    // Extract the relevant data using the defined type
+    const energyPrices = data.response.data.map((item: EnergyPriceItem) => ({
       period: item.period,
       areaName: item['area-name'],
       productName: item['product-name'],

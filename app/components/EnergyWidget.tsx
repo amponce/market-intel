@@ -2,8 +2,10 @@
 import { useEffect, useState } from 'react';
 
 const EnergyWidget = () => {
-  const [energyData, setEnergyData] = useState(null);
-  const [expandedDate, setExpandedDate] = useState(null);
+  // Allow the state to be either an array of any objects or null
+  const [energyData, setEnergyData] = useState<any[] | null>(null);
+  const [expandedDate, setExpandedDate] = useState<string | null>(null); // Explicitly declare the type for expandedDate as string or null
+
   const itemLimit = 10; // Limit the number of displayed items
 
   useEffect(() => {
@@ -20,7 +22,7 @@ const EnergyWidget = () => {
   const groupedData = energyData ? groupByDate(energyData) : {};
 
   // Handle accordion toggle
-  const handleAccordionToggle = (date) => {
+  const handleAccordionToggle = (date: string) => {
     setExpandedDate(date === expandedDate ? null : date);
   };
 
@@ -69,7 +71,7 @@ const EnergyWidget = () => {
 };
 
 // Helper function to group energy data by date
-const groupByDate = (data) => {
+const groupByDate = (data: any[]): Record<string, any[]> => {
   return data.reduce((acc, item) => {
     const date = item.period;
     if (!acc[date]) {
