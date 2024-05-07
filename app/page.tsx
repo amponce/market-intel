@@ -49,6 +49,7 @@ async function getData() {
       "coverImage",
       "description",
       "tags",
+      "author",
     ])
     .sort({ publishedAt: -1 })
     .toArray();

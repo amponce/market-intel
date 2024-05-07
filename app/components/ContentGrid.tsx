@@ -20,7 +20,9 @@ type Props = {
 const ContentGrid = ({ title = "More", items, collection }: Props) => {
   return (
     <section id={collection}>
-      <h2 className="mb-8 mt-0">{title}</h2>
+      <h2 className="mb-8 mt-0 text-lg mb-2 leading-snug font-semibold hover:underline">
+        {title}
+      </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-6 sm:gap-x-6 lg:gap-x-8 sm:gap-y-6 lg:gap-y-8 mb-8">
         {items.map((item) => (
           <Link
@@ -53,12 +55,15 @@ const ContentGrid = ({ title = "More", items, collection }: Props) => {
                         </span>
                       ))
                     : null}
+
+                  <p className="text-sm text-gray-500">
+                    <DateFormatter dateString={item.publishedAt} />{" "}
+                    {item.author ? item.author.name : ""}
+                  </p>
+
                   <h3 className="text-lg mb-2 leading-snug font-semibold hover:underline">
                     {item.title}
                   </h3>
-                  <p className="text-md leading-relaxed mb-4">
-                    {item.description}
-                  </p>
                 </div>
               )}
             </div>

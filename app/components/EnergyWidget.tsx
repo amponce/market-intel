@@ -1,13 +1,23 @@
 "use client";
 import { useEffect, useState } from "react";
 
+interface EnergyItem {
+  areaName: string;
+  productName: string;
+  processName: string;
+  seriesDescription: string;
+  value: number | string;
+  units: string;
+}
+
 const EnergyWidget = () => {
-  const [energyData, setEnergyData] = useState(null);
+  // Set useState with specific type annotation for TypeScript
+  const [energyData, setEnergyData] = useState<EnergyItem[] | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
       const res = await fetch("/api/energy");
-      const data = await res.json();
+      const data: EnergyItem[] = await res.json(); // Assume the fetched data is an array of EnergyItem
       setEnergyData(data);
     };
 
@@ -46,18 +56,6 @@ const EnergyWidget = () => {
       </div>
     </div>
   );
-};
-
-// Helper function to group energy data by date
-const groupByDate = (data: any[]): Record<string, any[]> => {
-  return data.reduce((acc, item) => {
-    const date = item.period;
-    if (!acc[date]) {
-      acc[date] = [];
-    }
-    acc[date].push(item);
-    return acc;
-  }, {});
 };
 
 export default EnergyWidget;
