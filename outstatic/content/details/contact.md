@@ -7,6 +7,7 @@ author:
 slug: 'contact'
 description: ''
 coverImage: ''
+tags: [{"label":"contact","value":"contact"}]
 publishedAt: '2024-05-07T18:55:11.266Z'
 ---
 

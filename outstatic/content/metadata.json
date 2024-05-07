@@ -1,6 +1,6 @@
 {
-  "commit": "100a4aca83d447216598c8c0ec1a203852b5d65f",
-  "generated": "Tue, 07 May 2024 19:51:33 GMT",
+  "commit": "39394bce22991d5b927235c59ff7d35cbf361f93",
+  "generated": "2024-05-07T20:06:23.086Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,24 +91,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "a5af59b0209e585c26f49b96a3fe12de135424b6",
-        "hash": "87325569",
-        "path": "outstatic/content/details/contact.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "details",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T18:55:11.266Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
     },
     {
       "__outstatic": {
@@ -1853,6 +1835,30 @@
       "slug": "what-were-we-saying-about-reliability",
       "status": "published",
       "title": "What were we saying about reliability??"
+    },
+    {
+      "__outstatic": {
+        "commit": "39394bce22991d5b927235c59ff7d35cbf361f93",
+        "hash": "2688871787",
+        "path": "outstatic/content/details/contact.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T18:55:11.266Z",
+      "slug": "contact",
+      "status": "published",
+      "tags": [
+        {
+          "label": "contact",
+          "value": "contact"
+        }
+      ],
+      "title": "Contact"
     }
   ]
 }
