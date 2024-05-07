@@ -1,6 +1,6 @@
 {
-  "commit": "c9cd922365bd4394ff1f37c4b590ef811e087b72",
-  "generated": "2024-05-07T18:36:43.822Z",
+  "commit": "e39a12ae70b4879d8cb630303bbb7878cbdf447b",
+  "generated": "2024-05-07T19:36:45.539Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1817,6 +1817,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "e39a12ae70b4879d8cb630303bbb7878cbdf447b",
+        "hash": "1096688954",
+        "path": "outstatic/content/details/about.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T18:54:32.277Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
