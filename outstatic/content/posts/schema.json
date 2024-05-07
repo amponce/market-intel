@@ -8,7 +8,40 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "energyMarkets",
+          "label": "Energy Markets "
+        },
+        {
+          "value": "naturalGas",
+          "label": "Natural Gas"
+        },
+        {
+          "value": "oilAndGasIndustry",
+          "label": "Oil and Gas Industry"
+        },
+        {
+          "value": "renewableEnergy",
+          "label": "Renewable Energy"
+        },
+        {
+          "value": "nuclearEnergy",
+          "label": "Nuclear Energy"
+        },
+        {
+          "value": "marketForecasts",
+          "label": "Market Forecasts"
+        },
+        {
+          "value": "weatherImpact",
+          "label": "Weather Impact"
+        },
+        {
+          "value": "utilityManagement",
+          "label": "Utility Management "
+        }
+      ]
     }
   }
 }

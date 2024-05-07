@@ -1,6 +1,6 @@
 {
-  "commit": "1b02eea893a0b3e357822831bb35dcc93f60a895",
-  "generated": "Tue, 07 May 2024 18:32:26 GMT",
+  "commit": "3f8874a2d50a0bc4796e8501bc6ea43f5e3ac83e",
+  "generated": "2024-05-07T18:35:18.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -235,24 +235,6 @@
       "slug": "bears-pushing-bulls-back-down",
       "status": "published",
       "title": "Bears Pushing Bulls Back Down"
-    },
-    {
-      "__outstatic": {
-        "commit": "b77dd790cad03d5cce8c20a91eb354d8cfc279a3",
-        "hash": "1164707631",
-        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "/images/rfp-brand-UyNz.png",
-      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
-      "publishedAt": "2023-02-17T20:39:03.997Z",
-      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
-      "status": "published",
-      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     },
     {
       "__outstatic": {
@@ -1783,6 +1765,58 @@
       "slug": "will-production-over-power-bullish-weather",
       "status": "published",
       "title": "Will Production Over Power Bullish Weather?"
+    },
+    {
+      "__outstatic": {
+        "commit": "3f8874a2d50a0bc4796e8501bc6ea43f5e3ac83e",
+        "hash": "2452012118",
+        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-UyNz.png",
+      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
+      "publishedAt": "2023-02-17T20:39:03.997Z",
+      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        },
+        {
+          "label": "Natural Gas",
+          "value": "naturalGas"
+        },
+        {
+          "label": "Oil and Gas Industry",
+          "value": "oilAndGasIndustry"
+        },
+        {
+          "label": "Renewable Energy",
+          "value": "renewableEnergy"
+        },
+        {
+          "label": "Nuclear Energy",
+          "value": "nuclearEnergy"
+        },
+        {
+          "label": "Market Forecasts",
+          "value": "marketForecasts"
+        },
+        {
+          "label": "Weather Impact",
+          "value": "weatherImpact"
+        },
+        {
+          "label": "Utility Management ",
+          "value": "utilityManagement"
+        }
+      ],
+      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     }
   ]
 }

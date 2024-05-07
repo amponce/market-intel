@@ -7,6 +7,7 @@ author:
 slug: 'bulls-and-bears-grappling-for-control-with-bears-holding-the-lead'
 description: 'Market intel (Feb/17) Bulls and Bears grappling for control'
 coverImage: '/images/rfp-brand-UyNz.png'
+tags: [{"label":"Energy Markets ","value":"energyMarkets"},{"label":"Natural Gas","value":"naturalGas"},{"label":"Oil and Gas Industry","value":"oilAndGasIndustry"},{"label":"Renewable Energy","value":"renewableEnergy"},{"label":"Nuclear Energy","value":"nuclearEnergy"},{"label":"Market Forecasts","value":"marketForecasts"},{"label":"Weather Impact","value":"weatherImpact"},{"label":"Utility Management ","value":"utilityManagement"}]
 publishedAt: '2023-02-17T20:39:03.997Z'
 ---
 
@@ -69,4 +70,3 @@ The forecast for Feb ’23 calls for below normal temps for the West region whil
 Sean Dookie - sdookie@rfpes.com – rfpes.com - @RFPEnergySolutions, - follow on LinkedIn, Sean Dookie
 
 Disclaimer – The opinions expressed herein are those of Sean Dookie and do not reflect the opinions of RFP ES. This material should not be construed as the solicitation of an offer to sell or the solicitation of an offer to buy the products noted in any jurisdiction where such an offer or solicitation would be legal. These materials have been created for a select group of individuals and are intended to be presented with the proper context and guidance. All reference points are believed to be reliable but are not guaranteed as to accuracy. Nor do they purport to be complete - updated information is coming in constantly, and market adjustments take place. No responsibility is assumed with respect to any such statement, or with respect to any expression of opinion contained herein.
-
