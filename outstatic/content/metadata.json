@@ -1,6 +1,6 @@
 {
-  "commit": "e76fd63e0d64c6c27e31f18234119034f9013fb6",
-  "generated": "2024-05-07T20:49:43.106Z",
+  "commit": "bdfc70d525df9215571ef349108871839136d5be",
+  "generated": "2024-05-07T21:15:52.537Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1864,8 +1864,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e76fd63e0d64c6c27e31f18234119034f9013fb6",
-        "hash": "2554610901",
+        "commit": "bdfc70d525df9215571ef349108871839136d5be",
+        "hash": "457566553",
         "path": "outstatic/content/details/energy.md"
       },
       "author": {

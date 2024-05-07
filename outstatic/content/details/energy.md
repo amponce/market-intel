@@ -11,4 +11,6 @@ tags: [{"label":"Energy","value":"energy"}]
 publishedAt: '2024-05-07T19:36:43.605Z'
 ---
 
-Current natural gas trends
+Natural Gas Spot and Futures Prices (NYMEX) 
+
+The NYMEX natural gas spot and futures prices are closely monitored by investors and energy market analysts.
