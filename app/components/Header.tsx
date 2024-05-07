@@ -25,19 +25,16 @@ const Header = () => {
                 <Link href="/">Home</Link>
               </li>
 
-              <li className="hidden md:block">
-                <Link href="https://rfpenergysolutions.com/support">
-                  Support
-                </Link>
-              </li>
-              <li>
-                <Link href="/posts/">Posts</Link>
-              </li>
               <li>
                 <Link href="/details/about">About</Link>
               </li>
               <li>
                 <Link href="/details/contact">Contact</Link>
+              </li>
+              <li className="hidden md:block">
+                <Link href="https://rfpenergysolutions.com/support">
+                  Support
+                </Link>
               </li>
             </ul>
           </nav>
