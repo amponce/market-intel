@@ -1,6 +1,6 @@
 {
-  "commit": "a2d142c544577478ad9ef59b9a174ffc4c381a79",
-  "generated": "2024-05-07T20:09:56.439Z",
+  "commit": "85bcedcf5362e219906f734259c28cad4bc274f7",
+  "generated": "2024-05-07T20:20:23.989Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1861,6 +1861,30 @@
       "tags": [
       ],
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "85bcedcf5362e219906f734259c28cad4bc274f7",
+        "hash": "2554610901",
+        "path": "outstatic/content/details/energy.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T19:36:43.605Z",
+      "slug": "energy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Energy",
+          "value": "energy"
+        }
+      ],
+      "title": "Energy"
     }
   ]
 }

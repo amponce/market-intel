@@ -12,6 +12,10 @@
         {
           "value": "contact",
           "label": "contact"
+        },
+        {
+          "value": "energy",
+          "label": "Energy"
         }
       ]
     }
