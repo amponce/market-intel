@@ -5,16 +5,28 @@ module.exports = {
     config.module.rules.push({
       test: /\.svg$/i,
       issuer: /\.[jt]sx?$/,
-      use: ['@svgr/webpack'],
+      use: ["@svgr/webpack"],
     });
 
     return config;
   },
   images: {
-    domains: [
-      'res.cloudinary.com',
-      'lh3.googleusercontent.com',
-      's.gravatar.com',
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "res.cloudinary.com",
+        // no pathname provided, so all paths under this domain are allowed
+      },
+      {
+        protocol: "https",
+        hostname: "lh3.googleusercontent.com",
+        // all paths under this domain are allowed
+      },
+      {
+        protocol: "https",
+        hostname: "s.gravatar.com",
+        // all paths under this domain are allowed
+      },
     ],
   },
 };
