@@ -10,6 +10,7 @@ import { absoluteUrl } from "@/lib/utils";
 import modifyHtmlContent from "@/lib/modifyHtmlContent";
 import markdownToHtml from "@/lib/markdownToHtml";
 import ContactForm from "@/components/ContactForm";
+import EnergyWidget from "@/components/EnergyWidget";
 const defaultBanner = "/banners/aboutBanner-lg.jpg";
 
 type SubPage = {
@@ -70,6 +71,12 @@ export default async function SubPage(params: Params) {
             className="prose lg:prose-xl"
             dangerouslySetInnerHTML={{ __html: page?.content }}
           />
+
+          {page?.tags?.find((tag) => tag?.value === "energy") ? (
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between mt-8">
+              <EnergyWidget />
+            </div>
+          ) : null}
           {page?.tags?.find((tag) => tag?.value === "contact") ? (
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mt-8">
               <ContactForm />

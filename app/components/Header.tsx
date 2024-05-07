@@ -29,6 +29,9 @@ const Header = () => {
                 <Link href="/details/about">About</Link>
               </li>
               <li>
+                <Link href="/details/energy">Trends</Link>
+              </li>
+              <li>
                 <Link href="/details/contact">Contact</Link>
               </li>
               <li className="hidden md:block">
