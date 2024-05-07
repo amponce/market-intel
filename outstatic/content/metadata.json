@@ -1,25 +1,7 @@
 {
-  "commit": "39394bce22991d5b927235c59ff7d35cbf361f93",
-  "generated": "2024-05-07T20:06:23.086Z",
+  "commit": "a2d142c544577478ad9ef59b9a174ffc4c381a79",
+  "generated": "2024-05-07T20:09:56.439Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "c59b97155b1e79607ae4f5f355b62eb53d965192",
-        "hash": "1096688954",
-        "path": "outstatic/content/details/about.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "details",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T18:54:32.277Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
     {
       "__outstatic": {
         "commit": "dbda51e82c0324b3495f61600e7974d4aeb791f8",
@@ -1859,6 +1841,26 @@
         }
       ],
       "title": "Contact"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2d142c544577478ad9ef59b9a174ffc4c381a79",
+        "hash": "3118649334",
+        "path": "outstatic/content/details/about.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T18:54:32.277Z",
+      "slug": "about",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "About"
     }
   ]
 }

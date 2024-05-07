@@ -7,43 +7,30 @@ author:
 slug: 'about'
 description: ''
 coverImage: ''
+tags: ''
 publishedAt: '2024-05-07T18:54:32.277Z'
 ---
 
-# **Who we are**
-
-Our modern bidding platform connects requesters with suppliers and lets you manage all of your energy needs in one place.
-
-# **Welcome to the platform!**
+# About Us
 
 RFPES is owned and managed by experienced energy executives with over 100 years of collective experience. We believe that the best buyer is a former seller, and RFPES has decades of experience in selling/trading/managing natural gas in the West. Additionally, RFPES is a certified MBE (Minority Business Enterprise) member, recognized by the Joint Utilities, Supplier Clearinghouse, and California Public Utilities Commission
 
-## **Join Us**
+**Supplier Inquires**
 
-### **Supplier Inquires**
+Email: rwashington@rfpes.com
 
-Email
+**Consumer Inquires**
 
-rwashington@rfpes.com
+Email: sdookie@rfpes.com
 
-### **Consumer Inquires**
+**General Inquires**
 
-Email
+Email: support@rfpes.com
 
-sdookie@rfpes.com
+### **Locations**
 
-### **General Inquires**
+**Tempe**
 
-Email
-
-support@rfpes.com
-
-## **Locations**
-
-### **Tempe**
-
-P.O Box 10271
-
-8205 S. Priest Dr.
-
+P.O Box 10271\
+8205 S. Priest Dr.\
 Tempe, AZ 85284-9998
