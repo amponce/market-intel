@@ -7,7 +7,7 @@ author:
 slug: 'bulls-and-bears-grappling-for-control-with-bears-holding-the-lead'
 description: 'Market intel (Feb/17) Bulls and Bears grappling for control'
 coverImage: ''
-tags: [{"label":"Energy Markets ","value":"energyMarkets"},{"value":"featured","label":"featured"}]
+tags: [{"label":"Energy Markets ","value":"energyMarkets"}]
 publishedAt: '2023-02-17T20:39:03.997Z'
 ---
 

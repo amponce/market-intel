@@ -1,6 +1,6 @@
 {
-  "commit": "fcc61d90f0fc2a0df2b08eb4dd558aea380027d4",
-  "generated": "2024-05-08T14:56:27.356Z",
+  "commit": "b3643d27136639e598cf13a1d3f9e873b4bab544",
+  "generated": "2024-05-08T15:03:10.195Z",
   "metadata": [
     {
       "__outstatic": {
@@ -236,34 +236,6 @@
       "slug": "bulls-could-have-a-short-run-soon",
       "status": "published",
       "title": "Bulls Could Have A Short Run Soon"
-    },
-    {
-      "__outstatic": {
-        "commit": "bfe0b1e74e412dfc8398a11ebcf345d0c7d1e168",
-        "hash": "1343770374",
-        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
-      "publishedAt": "2023-02-17T20:39:03.997Z",
-      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        },
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     },
     {
       "__outstatic": {
@@ -1940,6 +1912,30 @@
         }
       ],
       "title": "NYMEX & Basis Up Slightly"
+    },
+    {
+      "__outstatic": {
+        "commit": "b3643d27136639e598cf13a1d3f9e873b4bab544",
+        "hash": "3610477973",
+        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
+      "publishedAt": "2023-02-17T20:39:03.997Z",
+      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        }
+      ],
+      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     }
   ]
 }
