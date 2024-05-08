@@ -1,6 +1,6 @@
 {
-  "commit": "73b764b368e8594f4da73c52b31e1ef65e87d389",
-  "generated": "2024-05-08T14:55:52.986Z",
+  "commit": "fcc61d90f0fc2a0df2b08eb4dd558aea380027d4",
+  "generated": "2024-05-08T14:56:27.356Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1093,24 +1093,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7d035eb5b5cc6c750da547d0705fd0d5e02a0971",
-        "hash": "1637619942",
-        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-09T15:37:26.662Z",
-      "slug": "nymex-basis-up-slightly",
-      "status": "published",
-      "title": "NYMEX & Basis Up Slightly"
-    },
-    {
-      "__outstatic": {
         "commit": "8500d291495a4561d9b77fb3c85e407fb37ec38c",
         "hash": "4236948339",
         "path": "outstatic/content/posts/projected-production-cuts-push-prices-up.md"
@@ -1922,6 +1904,42 @@
         }
       ],
       "title": "Fundamentals still leaning towards bears"
+    },
+    {
+      "__outstatic": {
+        "commit": "fcc61d90f0fc2a0df2b08eb4dd558aea380027d4",
+        "hash": "1118017097",
+        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-09T15:37:26.662Z",
+      "slug": "nymex-basis-up-slightly",
+      "status": "published",
+      "tags": [
+        {
+          "label": "latest",
+          "value": "latest"
+        },
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "Natural Gas",
+          "value": "naturalGas"
+        },
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        }
+      ],
+      "title": "NYMEX & Basis Up Slightly"
     }
   ]
 }
