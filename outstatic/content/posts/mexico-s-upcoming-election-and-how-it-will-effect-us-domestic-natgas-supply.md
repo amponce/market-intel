@@ -1,6 +1,5 @@
 ---
-title: 'Mexico''s upcoming election and how it will effect US domestic natgas supply
-'
+title: 'Mexico''s upcoming election and how it will effect US domestic natgas supply '
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -8,7 +7,7 @@ author:
 slug: 'mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"featured","label":"featured"}]
 publishedAt: '2024-05-08T17:33:43.384Z'
 ---
 

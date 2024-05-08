@@ -1,6 +1,6 @@
 {
-  "commit": "78d8cdca53f176ebc4db6b7d7d31c96b494877ad",
-  "generated": "2024-05-08T18:16:10.148Z",
+  "commit": "6d0ba5db802be81c3d83df8cea13c86dda03c3dc",
+  "generated": "2024-05-08T21:03:45.820Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2012,8 +2012,8 @@
     },
     {
       "__outstatic": {
-        "commit": "78d8cdca53f176ebc4db6b7d7d31c96b494877ad",
-        "hash": "931214483",
+        "commit": "6d0ba5db802be81c3d83df8cea13c86dda03c3dc",
+        "hash": "825263646",
         "path": "outstatic/content/posts/mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply.md"
       },
       "author": {
@@ -2027,6 +2027,10 @@
       "slug": "mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply",
       "status": "published",
       "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
       ],
       "title": "Mexico's upcoming election and how it will effect US domestic natgas supply "
     }
