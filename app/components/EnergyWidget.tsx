@@ -20,6 +20,7 @@ const EnergyWidget = () => {
   const [energyData, setEnergyData] = useState<EnergyItem[] | null>(null);
   const [chartOptions, setChartOptions] = useState({}); // You might also want to type this eventually
   const [chartSeries, setChartSeries] = useState<ChartSeries[]>([]); // Explicitly defining the type of chartSeries
+  const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -66,11 +67,42 @@ const EnergyWidget = () => {
       },
       tooltip: {
         y: {
-          formatter: (val: number) => `${val.toFixed(2)} $/MMBTU`,
+          formatter: (val: number | undefined | null) => {
+            if (typeof val === "number") {
+              return `${val.toFixed(2)} $/MMBTU`;
+            }
+            return "";
+          },
         },
       },
     });
     setChartSeries(series);
+  };
+
+  const handleChartHover = (event: any, chartContext: any, config: any) => {
+    if (event.target.getAttribute("j")) {
+      const dataPointIndex = parseInt(event.target.getAttribute("j"), 10);
+      setHoveredIndex(dataPointIndex);
+    } else {
+      setHoveredIndex(null);
+    }
+  };
+
+  const getSortedEnergyData = () => {
+    if (hoveredIndex === null || !energyData) {
+      return energyData;
+    }
+
+    const hoveredItem = energyData.find((_, index) => index === hoveredIndex);
+    const filteredData = energyData.filter(
+      (_, index) => index !== hoveredIndex
+    );
+
+    if (hoveredItem) {
+      return [hoveredItem, ...filteredData];
+    }
+
+    return energyData;
   };
 
   return (
@@ -81,34 +113,36 @@ const EnergyWidget = () => {
           series={chartSeries}
           type="line"
           height={350}
+          onMouseMove={handleChartHover}
         />
       </div>
-      {energyData &&
-        energyData.map((item, index) => (
-          <div
-            key={index}
-            className="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 ease-in-out p-6 mb-4"
-          >
-            <p className="text-sm text-gray-600">
-              <strong>Period:</strong> {item.period}
-            </p>
-            <p className="text-sm text-gray-600">
-              <strong>Area:</strong> {item.areaName}
-            </p>
-            <p className="text-sm text-gray-600">
-              <strong>Product:</strong> {item.productName}
-            </p>
-            <p className="text-sm text-gray-600">
-              <strong>Process:</strong> {item.processName}
-            </p>
-            <p className="text-sm text-gray-600 mt-4">
-              <strong>Description:</strong> {item.seriesDescription}
-            </p>
-            <p className="text-sm text-gray-600">
-              <strong>Price:</strong> {item.value} {item.units}
-            </p>
-          </div>
-        ))}
+      {getSortedEnergyData()?.map((item, index) => (
+        <div
+          key={index}
+          className={`bg-white border border-gray-200 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 ease-in-out p-6 mb-4 ${
+            hoveredIndex === index ? "bg-yellow-100" : ""
+          }`}
+        >
+          <p className="text-sm text-gray-600">
+            <strong>Period:</strong> {item.period}
+          </p>
+          <p className="text-sm text-gray-600">
+            <strong>Area:</strong> {item.areaName}
+          </p>
+          <p className="text-sm text-gray-600">
+            <strong>Product:</strong> {item.productName}
+          </p>
+          <p className="text-sm text-gray-600">
+            <strong>Process:</strong> {item.processName}
+          </p>
+          <p className="text-sm text-gray-600 mt-4">
+            <strong>Description:</strong> {item.seriesDescription}
+          </p>
+          <p className="text-sm text-gray-600">
+            <strong>Price:</strong> {item.value} {item.units}
+          </p>
+        </div>
+      ))}
     </div>
   );
 };
