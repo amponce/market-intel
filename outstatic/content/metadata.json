@@ -1,6 +1,6 @@
 {
-  "commit": "bd3dc694abab070a56d875b507cad2df1de8c1e9",
-  "generated": "2024-05-08T18:08:34.249Z",
+  "commit": "78d8cdca53f176ebc4db6b7d7d31c96b494877ad",
+  "generated": "2024-05-08T18:16:10.148Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2009,6 +2009,26 @@
       "tags": [
       ],
       "title": "Exporting natural gas to Mexico and how it effects the US domestic market"
+    },
+    {
+      "__outstatic": {
+        "commit": "78d8cdca53f176ebc4db6b7d7d31c96b494877ad",
+        "hash": "931214483",
+        "path": "outstatic/content/posts/mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-08T17:33:43.384Z",
+      "slug": "mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Mexico's upcoming election and how it will effect US domestic natgas supply "
     }
   ]
 }
