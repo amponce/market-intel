@@ -1,6 +1,6 @@
 {
-  "commit": "f6870a6df9cc4e3344a42fb95b47c724846f0cd4",
-  "generated": "2024-05-08T15:46:37.570Z",
+  "commit": "8c99f362e1be77a8ef9137a0a87b537cfbb32b99",
+  "generated": "2024-05-08T15:47:46.099Z",
   "metadata": [
     {
       "__outstatic": {
@@ -650,24 +650,6 @@
       "slug": "latest-eia-storage-report",
       "status": "published",
       "title": "Latest EIA Storage Report"
-    },
-    {
-      "__outstatic": {
-        "commit": "7fe9ddbc5801db42f9c897fdacef75703acdb1a2",
-        "hash": "385265929",
-        "path": "outstatic/content/posts/june-is-the-new-prompt-month.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-29T17:44:58.311Z",
-      "slug": "june-is-the-new-prompt-month",
-      "status": "published",
-      "title": "June is the new prompt month"
     },
     {
       "__outstatic": {
@@ -1920,6 +1902,34 @@
         }
       ],
       "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
+    },
+    {
+      "__outstatic": {
+        "commit": "8c99f362e1be77a8ef9137a0a87b537cfbb32b99",
+        "hash": "3551382714",
+        "path": "outstatic/content/posts/june-is-the-new-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-29T17:44:58.311Z",
+      "slug": "june-is-the-new-prompt-month",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "June is the new prompt month"
     }
   ]
 }
