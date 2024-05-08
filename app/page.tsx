@@ -23,7 +23,7 @@ export default async function Index() {
         </section>
         {allPosts.length > 0 && (
           <ContentGrid
-            title="Most Recent Posts"
+            title="Recent Articles"
             items={allPosts}
             collection="posts"
           />
