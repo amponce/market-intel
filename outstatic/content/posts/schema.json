@@ -29,6 +29,10 @@
         {
           "value": "energyPolicies",
           "label": "energy policies"
+        },
+        {
+          "value": "naturalGasStorage",
+          "label": "natural gas storage"
         }
       ],
       "fieldType": "Tags",

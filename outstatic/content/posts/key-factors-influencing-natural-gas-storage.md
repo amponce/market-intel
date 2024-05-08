@@ -7,7 +7,7 @@ author:
 slug: 'key-factors-influencing-natural-gas-storage'
 description: ''
 coverImage: ''
-tags: [{"value":"featured","label":"featured"}]
+tags: [{"value":"featured","label":"featured"},{"label":"natural gas storage","value":"naturalGasStorage"}]
 publishedAt: '2024-05-08T16:47:17.457Z'
 ---
 
