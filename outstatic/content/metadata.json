@@ -1,6 +1,6 @@
 {
-  "commit": "244b2d0ae2fdb77f22dca1cdc0d8af3387f049ba",
-  "generated": "2024-05-08T15:05:23.892Z",
+  "commit": "ce281daf78d707f5c211f5402536d6a02ef70d11",
+  "generated": "2024-05-08T15:36:53.497Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1791,42 +1791,6 @@
     },
     {
       "__outstatic": {
-        "commit": "73b764b368e8594f4da73c52b31e1ef65e87d389",
-        "hash": "3019942004",
-        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-22T14:46:05.970Z",
-      "slug": "fundamentals-still-leaning-towards-bears",
-      "status": "published",
-      "tags": [
-        {
-          "label": "latest",
-          "value": "latest"
-        },
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "featured",
-          "value": "featured"
-        },
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        }
-      ],
-      "title": "Fundamentals still leaning towards bears"
-    },
-    {
-      "__outstatic": {
         "commit": "fcc61d90f0fc2a0df2b08eb4dd558aea380027d4",
         "hash": "1118017097",
         "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
@@ -1940,6 +1904,30 @@
         }
       ],
       "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
+    },
+    {
+      "__outstatic": {
+        "commit": "ce281daf78d707f5c211f5402536d6a02ef70d11",
+        "hash": "401683602",
+        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T14:46:05.970Z",
+      "slug": "fundamentals-still-leaning-towards-bears",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "title": "Fundamentals still leaning towards bears"
     }
   ]
 }

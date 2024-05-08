@@ -7,7 +7,7 @@ author:
 slug: 'fundamentals-still-leaning-towards-bears'
 description: ''
 coverImage: ''
-tags: [{"value":"latest","label":"latest"},{"value":"marketNews","label":"market-news"},{"value":"featured","label":"featured"},{"value":"energyMarkets","label":"Energy Markets "}]
+tags: [{"value":"featured","label":"featured"}]
 publishedAt: '2024-04-22T14:46:05.970Z'
 ---
 
