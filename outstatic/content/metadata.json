@@ -1,6 +1,6 @@
 {
-  "commit": "9a5ff83e9fa5db408dcb3b6911854db417b7174e",
-  "generated": "2024-05-08T14:55:13.914Z",
+  "commit": "73b764b368e8594f4da73c52b31e1ef65e87d389",
+  "generated": "2024-05-08T14:55:52.986Z",
   "metadata": [
     {
       "__outstatic": {
@@ -432,24 +432,6 @@
       "slug": "great-article-from-john-kemp",
       "status": "published",
       "title": "Great article from John Kemp"
-    },
-    {
-      "__outstatic": {
-        "commit": "0a9da3444fb7d7fc6fd3ba557547f03944301797",
-        "hash": "238260214",
-        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-22T14:46:05.970Z",
-      "slug": "fundamentals-still-leaning-towards-bears",
-      "status": "published",
-      "title": "Fundamentals still leaning towards bears"
     },
     {
       "__outstatic": {
@@ -1904,6 +1886,42 @@
       "tags": [
       ],
       "title": "Barchart talks about falling natgas prices"
+    },
+    {
+      "__outstatic": {
+        "commit": "73b764b368e8594f4da73c52b31e1ef65e87d389",
+        "hash": "3019942004",
+        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T14:46:05.970Z",
+      "slug": "fundamentals-still-leaning-towards-bears",
+      "status": "published",
+      "tags": [
+        {
+          "label": "latest",
+          "value": "latest"
+        },
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        }
+      ],
+      "title": "Fundamentals still leaning towards bears"
     }
   ]
 }

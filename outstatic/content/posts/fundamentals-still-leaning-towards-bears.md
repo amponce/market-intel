@@ -7,6 +7,7 @@ author:
 slug: 'fundamentals-still-leaning-towards-bears'
 description: ''
 coverImage: ''
+tags: [{"value":"latest","label":"latest"},{"value":"marketNews","label":"market-news"},{"value":"featured","label":"featured"},{"value":"energyMarkets","label":"Energy Markets "}]
 publishedAt: '2024-04-22T14:46:05.970Z'
 ---
 
@@ -14,15 +15,15 @@ publishedAt: '2024-04-22T14:46:05.970Z'
 
 - **NYMEX Natural Gas Futures:**
 
-    - Open: $1.78
+  - Open: $1.78
 
-    - High: $1.84
+  - High: $1.84
 
-    - Low: $1.76
+  - Low: $1.76
 
-    - Current: $1.81
+  - Current: $1.81
 
-    <!-- -->
+  &lt;!-- --&gt;
 
 #### **Weekly and Annual Trends:**
 
@@ -57,4 +58,3 @@ publishedAt: '2024-04-22T14:46:05.970Z'
 #### **Future Outlook:**
 
 - **Pricing Projections:** Analysts expect moderate volatility in the coming weeks with potential upward pressure if cooler temperatures persist longer than currently forecasted.
-
