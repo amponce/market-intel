@@ -155,7 +155,6 @@ export default async function Index() {
           )}
           {remainingArticles.length > 0 && (
             <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">All Articles</h2>
               <ContentGrid
                 title=""
                 items={remainingArticles}
@@ -166,11 +165,14 @@ export default async function Index() {
         </div>
 
         {allPosts.length > 0 && (
-          <ContentGrid
-            title="Recent Articles"
-            items={allPosts}
-            collection="posts"
-          />
+          <div className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">All Articles</h2>
+            <ContentGrid
+              title="Recent Articles"
+              items={allPosts}
+              collection="posts"
+            />
+          </div>
         )}
       </div>
     </Layout>
