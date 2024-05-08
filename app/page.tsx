@@ -9,9 +9,25 @@ import Image from "next/image";
 import Link from "next/link";
 import DateFormatter from "@/components/DateFormatter";
 
-const defaultImagePath = "/images/banners/jupiter-spaceship.png";
+interface Tag {
+  label: string; // Assuming each tag has at least a label property.
+  value?: string; // Optionally include other properties, like 'value' if needed.
+}
+interface Author {
+  name?: string; // Make 'name' optional if it can be undefined
+  picture?: string; // Include this property if it's part of your data model
+}
+interface Article {
+  slug: string;
+  tags?: Tag[]; // Now Tag is properly defined.
+  title: string; // Add all other used properties to avoid similar issues.
+  publishedAt: string;
+  author?: Author; // Assuming 'author' might be optional and has a 'name'.
+}
 
-const renderArticles = (articles) => (
+const defaultImagePath = "/images/market-trends-M2OD.jpg";
+
+const renderArticles = (articles: Article[]) => (
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {articles.map((post) => (
       <Link key={post.slug} as={`/posts/${post.slug}`} href={`/posts/[slug]`}>
@@ -44,23 +60,34 @@ const renderArticles = (articles) => (
 export default async function Index() {
   const { content, allPosts } = await getData();
 
-  const marketNewsArticles = allPosts.filter((post) =>
-    post.tags?.some((tag) => tag.value === "market-news")
+  const marketNewsArticles = allPosts.filter(
+    (post) =>
+      Array.isArray(post.tags) &&
+      post.tags?.some((tag) => tag.value === "market-news")
   );
-  const latestArticles = allPosts.filter((post) =>
-    post.tags?.some((tag) => tag.value === "latest")
+  const latestArticles = allPosts.filter(
+    (post) =>
+      Array.isArray(post.tags) &&
+      post.tags?.some((tag) => tag.value === "latest")
   );
-  const featuredArticles = allPosts.filter((post) =>
-    post.tags?.some((tag) => tag.value === "featured")
+  const featuredArticles = allPosts.filter(
+    (post) =>
+      Array.isArray(post.tags) &&
+      post.tags?.some((tag) => tag.value === "featured")
   );
-  const naturalGasArticles = allPosts.filter((post) =>
-    post.tags?.some((tag) => tag.value === "natural-gas")
+  const naturalGasArticles = allPosts.filter(
+    (post) =>
+      Array.isArray(post.tags) &&
+      post.tags?.some((tag) => tag.value === "natural-gas")
   );
-  const carbonOffsetsArticles = allPosts.filter((post) =>
-    post.tags?.some((tag) => tag.value === "carbon-offsets")
+  const carbonOffsetsArticles = allPosts.filter(
+    (post) =>
+      Array.isArray(post.tags) &&
+      post.tags?.some((tag) => tag.value === "carbon-offsets")
   );
   const remainingArticles = allPosts.filter(
     (post) =>
+      Array.isArray(post.tags) &&
       !post.tags?.some(
         (tag) =>
           tag.value === "market-news" ||

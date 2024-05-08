@@ -18,9 +18,14 @@ const EnergyWidget = dynamic(() => import("@/components/EnergyWidget"), {
 
 const defaultBanner = "/banners/aboutBanner-lg.jpg";
 
-type SubPage = {
-  tags: { value: string; label: string }[];
-} & OstDocument;
+interface Tag {
+  value: string;
+  label: string;
+}
+
+interface SubPage extends OstDocument {
+  tags: Tag[];
+}
 
 interface Params {
   params: {
@@ -76,13 +81,14 @@ export default async function SubPage(params: Params) {
             className="prose lg:prose-xl"
             dangerouslySetInnerHTML={{ __html: page?.content }}
           />
-
-          {page?.tags?.find((tag) => tag?.value === "energy") ? (
+          {Array.isArray(page?.tags) &&
+          page.tags.find((tag) => tag.value === "energy") ? (
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mt-8">
               <EnergyWidget />
             </div>
           ) : null}
-          {page?.tags?.find((tag) => tag?.value === "contact") ? (
+          {Array.isArray(page?.tags) &&
+          page.tags.find((tag) => tag.value === "contact") ? (
             <div className="flex flex-col md:flex-row md:items-center md:justify-between mt-8">
               <ContactForm />
             </div>
