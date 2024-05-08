@@ -1,6 +1,6 @@
 {
-  "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
-  "generated": "2024-05-08T06:37:14.389Z",
+  "commit": "77b46329379621c494be10e5e9e8485a5a2037b0",
+  "generated": "2024-05-08T06:38:20.625Z",
   "metadata": [
     {
       "__outstatic": {
@@ -370,24 +370,6 @@
       "slug": "bears-pushing-bulls-back-down",
       "status": "published",
       "title": "Bears Pushing Bulls Back Down"
-    },
-    {
-      "__outstatic": {
-        "commit": "34b4d57faaf50b381deb5ad645ade180c21d1b41",
-        "hash": "1824448279",
-        "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:08:15.670Z",
-      "slug": "comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand",
-      "status": "published",
-      "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
     },
     {
       "__outstatic": {
@@ -1910,6 +1892,30 @@
         }
       ],
       "title": "NYMEX Hits A Fourteen Week High"
+    },
+    {
+      "__outstatic": {
+        "commit": "77b46329379621c494be10e5e9e8485a5a2037b0",
+        "hash": "2358997790",
+        "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:08:15.670Z",
+      "slug": "comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
     }
   ]
 }
