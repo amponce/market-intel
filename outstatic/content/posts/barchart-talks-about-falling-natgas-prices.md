@@ -7,7 +7,7 @@ author:
 slug: 'barchart-talks-about-falling-natgas-prices'
 description: ''
 coverImage: ''
-tags: [{"value":"marketNews","label":"market-news"},{"value":"latest","label":"latest"}]
+tags: []
 publishedAt: '2023-05-24T16:06:13.783Z'
 ---
 
