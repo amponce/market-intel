@@ -1,6 +1,6 @@
 {
-  "commit": "449dcc7a610ec797472c226bdb5ad022c7f6ab66",
-  "generated": "2024-05-08T17:43:40.433Z",
+  "commit": "081d146b9e0c7544c5ad4afcf5fa67b4e69ce1cc",
+  "generated": "2024-05-08T17:46:46.070Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1969,6 +1969,26 @@
       "slug": "nest-thermostat",
       "status": "draft",
       "title": "Nest thermostat"
+    },
+    {
+      "__outstatic": {
+        "commit": "081d146b9e0c7544c5ad4afcf5fa67b4e69ce1cc",
+        "hash": "1335667835",
+        "path": "outstatic/content/details/carbon-offsets.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-08T17:03:22.741Z",
+      "slug": "carbon-offsets",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Carbon Offsets"
     }
   ]
 }
