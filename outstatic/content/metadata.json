@@ -1,6 +1,6 @@
 {
-  "commit": "aa781474d18c0eb833040ca3fda5aa9cfe01b91c",
-  "generated": "2024-05-08T17:27:59.944Z",
+  "commit": "6e8e6af5103c4db1a5181f5dfd797bbd879772b9",
+  "generated": "2024-05-08T17:30:02.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1930,6 +1930,26 @@
         }
       ],
       "title": "Aliso Canyon Storage Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "6e8e6af5103c4db1a5181f5dfd797bbd879772b9",
+        "hash": "3101332461",
+        "path": "outstatic/content/posts/key-factors-influencing-natural-gas-storage.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-08T16:47:17.457Z",
+      "slug": "key-factors-influencing-natural-gas-storage",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Key Factors Influencing Natural Gas Storage"
     }
   ]
 }
