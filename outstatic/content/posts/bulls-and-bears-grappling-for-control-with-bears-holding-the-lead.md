@@ -6,8 +6,8 @@ author:
   picture: ''
 slug: 'bulls-and-bears-grappling-for-control-with-bears-holding-the-lead'
 description: 'Market intel (Feb/17) Bulls and Bears grappling for control'
-coverImage: '/images/rfp-brand-UyNz.png'
-tags: [{"label":"Energy Markets ","value":"energyMarkets"},{"label":"Natural Gas","value":"naturalGas"},{"label":"Oil and Gas Industry","value":"oilAndGasIndustry"},{"label":"Renewable Energy","value":"renewableEnergy"},{"label":"Nuclear Energy","value":"nuclearEnergy"},{"label":"Market Forecasts","value":"marketForecasts"},{"label":"Weather Impact","value":"weatherImpact"},{"label":"Utility Management ","value":"utilityManagement"}]
+coverImage: ''
+tags: [{"label":"Energy Markets ","value":"energyMarkets"},{"value":"featured","label":"featured"}]
 publishedAt: '2023-02-17T20:39:03.997Z'
 ---
 

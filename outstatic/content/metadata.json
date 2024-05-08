@@ -1,6 +1,6 @@
 {
-  "commit": "6758638d36ff7c933d00b09758d5eb3ec31f95a0",
-  "generated": "2024-05-08T06:39:04.378Z",
+  "commit": "8b42e738a48b50e60869cb5e7d70d031669d588e",
+  "generated": "2024-05-08T06:48:01.023Z",
   "metadata": [
     {
       "__outstatic": {
@@ -282,58 +282,6 @@
       "slug": "bulls-could-have-a-short-run-soon",
       "status": "published",
       "title": "Bulls Could Have A Short Run Soon"
-    },
-    {
-      "__outstatic": {
-        "commit": "e03650b8a218a49de3d2d971d2c05acd58d4cad1",
-        "hash": "2452012118",
-        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "/images/rfp-brand-UyNz.png",
-      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
-      "publishedAt": "2023-02-17T20:39:03.997Z",
-      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        },
-        {
-          "label": "Natural Gas",
-          "value": "naturalGas"
-        },
-        {
-          "label": "Oil and Gas Industry",
-          "value": "oilAndGasIndustry"
-        },
-        {
-          "label": "Renewable Energy",
-          "value": "renewableEnergy"
-        },
-        {
-          "label": "Nuclear Energy",
-          "value": "nuclearEnergy"
-        },
-        {
-          "label": "Market Forecasts",
-          "value": "marketForecasts"
-        },
-        {
-          "label": "Weather Impact",
-          "value": "weatherImpact"
-        },
-        {
-          "label": "Utility Management ",
-          "value": "utilityManagement"
-        }
-      ],
-      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     },
     {
       "__outstatic": {
@@ -1926,6 +1874,34 @@
         }
       ],
       "title": "Wall Street Bets on NYMEX Bulls to Return"
+    },
+    {
+      "__outstatic": {
+        "commit": "8b42e738a48b50e60869cb5e7d70d031669d588e",
+        "hash": "1343770374",
+        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
+      "publishedAt": "2023-02-17T20:39:03.997Z",
+      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        },
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     }
   ]
 }
