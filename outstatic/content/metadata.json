@@ -1,6 +1,6 @@
 {
-  "commit": "0db49b81dce292fdb887745fe0800939138a7f2e",
-  "generated": "2024-05-08T14:54:47.670Z",
+  "commit": "9a5ff83e9fa5db408dcb3b6911854db417b7174e",
+  "generated": "2024-05-08T14:55:07.071Z",
   "metadata": [
     {
       "__outstatic": {
@@ -182,24 +182,6 @@
       "slug": "bearish-are-everywhere",
       "status": "published",
       "title": "Bearish Are Everywhere"
-    },
-    {
-      "__outstatic": {
-        "commit": "dd1d4f56bdf6cc1dc5006644d69643393d3f640a",
-        "hash": "3531441723",
-        "path": "outstatic/content/posts/barchart-talks-about-falling-natgas-prices.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/rfp-brand-kzMT.png",
-      "description": "",
-      "publishedAt": "2023-05-24T16:06:13.783Z",
-      "slug": "barchart-talks-about-falling-natgas-prices",
-      "status": "published",
-      "title": "Barchart talks about falling natgas prices"
     },
     {
       "__outstatic": {
@@ -1902,6 +1884,34 @@
         }
       ],
       "title": "Aliso Canyon Storage Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "9a5ff83e9fa5db408dcb3b6911854db417b7174e",
+        "hash": "3538729638",
+        "path": "outstatic/content/posts/barchart-talks-about-falling-natgas-prices.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-05-24T16:06:13.783Z",
+      "slug": "barchart-talks-about-falling-natgas-prices",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "latest",
+          "value": "latest"
+        }
+      ],
+      "title": "Barchart talks about falling natgas prices"
     }
   ]
 }
