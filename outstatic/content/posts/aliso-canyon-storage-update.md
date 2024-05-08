@@ -7,7 +7,7 @@ author:
 slug: 'aliso-canyon-storage-update'
 description: ''
 coverImage: ''
-tags: [{"label":"Energy Markets ","value":"energyMarkets"},{"label":"Natural Gas","value":"naturalGas"}]
+tags: [{"label":"Natural Gas","value":"naturalGas"}]
 publishedAt: '2023-09-01T02:51:13.380Z'
 ---
 

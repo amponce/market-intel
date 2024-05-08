@@ -1,6 +1,6 @@
 {
-  "commit": "ce281daf78d707f5c211f5402536d6a02ef70d11",
-  "generated": "2024-05-08T15:36:53.497Z",
+  "commit": "33fe2a72784097f1dae60431db95933b06e7e17f",
+  "generated": "2024-05-08T15:37:23.506Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1743,34 +1743,6 @@
     },
     {
       "__outstatic": {
-        "commit": "0db49b81dce292fdb887745fe0800939138a7f2e",
-        "hash": "98514897",
-        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-01T02:51:13.380Z",
-      "slug": "aliso-canyon-storage-update",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        },
-        {
-          "label": "Natural Gas",
-          "value": "naturalGas"
-        }
-      ],
-      "title": "Aliso Canyon Storage Update"
-    },
-    {
-      "__outstatic": {
         "commit": "9a5ff83e9fa5db408dcb3b6911854db417b7174e",
         "hash": "3298628272",
         "path": "outstatic/content/posts/barchart-talks-about-falling-natgas-prices.md"
@@ -1928,6 +1900,30 @@
         }
       ],
       "title": "Fundamentals still leaning towards bears"
+    },
+    {
+      "__outstatic": {
+        "commit": "33fe2a72784097f1dae60431db95933b06e7e17f",
+        "hash": "1923127972",
+        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-01T02:51:13.380Z",
+      "slug": "aliso-canyon-storage-update",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Natural Gas",
+          "value": "naturalGas"
+        }
+      ],
+      "title": "Aliso Canyon Storage Update"
     }
   ]
 }
