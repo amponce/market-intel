@@ -1,6 +1,6 @@
 {
-  "commit": "10d6c1f7c071953a4e1519d675e3f7997b590863",
-  "generated": "2024-05-08T15:41:52.813Z",
+  "commit": "ed2c1653a25d9b279cbba2063eae30860e3ed9cb",
+  "generated": "2024-05-08T15:42:19.519Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1463,34 +1463,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7a69554f34067ea8ebcb9920adf96c53b1933edc",
-        "hash": "3623271480",
-        "path": "outstatic/content/posts/wall-street-bets-on-nymex-bulls-to-return.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-01T15:54:04.426Z",
-      "slug": "wall-street-bets-on-nymex-bulls-to-return",
-      "status": "published",
-      "tags": [
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "latest",
-          "value": "latest"
-        }
-      ],
-      "title": "Wall Street Bets on NYMEX Bulls to Return"
-    },
-    {
-      "__outstatic": {
         "commit": "6280878f9d17901fcb79d996e58b71a099647f46",
         "hash": "2965219320",
         "path": "outstatic/content/posts/todays-indictive-fixed-prices-market-intel.md"
@@ -1916,6 +1888,34 @@
         }
       ],
       "title": "NYMEX Hits A Fourteen Week High"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed2c1653a25d9b279cbba2063eae30860e3ed9cb",
+        "hash": "1825854699",
+        "path": "outstatic/content/posts/wall-street-bets-on-nymex-bulls-to-return.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-01T15:54:04.426Z",
+      "slug": "wall-street-bets-on-nymex-bulls-to-return",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nymex",
+          "value": "nymex"
+        },
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "Wall Street Bets on NYMEX Bulls to Return"
     }
   ]
 }

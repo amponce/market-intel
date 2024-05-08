@@ -7,7 +7,7 @@ author:
 slug: 'wall-street-bets-on-nymex-bulls-to-return'
 description: ''
 coverImage: ''
-tags: [{"value":"marketNews","label":"market-news"},{"label":"latest","value":"latest"}]
+tags: [{"value":"nymex","label":"nymex"},{"value":"naturalGasPricing","label":"natural gas pricing"}]
 publishedAt: '2024-05-01T15:54:04.426Z'
 ---
 
