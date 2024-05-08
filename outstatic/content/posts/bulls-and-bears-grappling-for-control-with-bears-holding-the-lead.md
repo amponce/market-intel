@@ -7,7 +7,7 @@ author:
 slug: 'bulls-and-bears-grappling-for-control-with-bears-holding-the-lead'
 description: 'Market intel (Feb/17) Bulls and Bears grappling for control'
 coverImage: ''
-tags: [{"label":"nymex","value":"nymex"}]
+tags: [{"label":"nymex","value":"nymex"},{"label":"natural gas pricing","value":"naturalGasPricing"}]
 publishedAt: '2023-02-17T20:39:03.997Z'
 ---
 

@@ -1,6 +1,6 @@
 {
   "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
-  "generated": "2024-05-08T15:40:38.576Z",
+  "generated": "2024-05-08T15:40:46.879Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1900,7 +1900,7 @@
     {
       "__outstatic": {
         "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
-        "hash": "1014340295",
+        "hash": "2303737108",
         "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
       },
       "author": {
@@ -1917,6 +1917,10 @@
         {
           "label": "nymex",
           "value": "nymex"
+        },
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
         }
       ],
       "title": "Bulls and Bears grappling for control with Bears holding the lead "
