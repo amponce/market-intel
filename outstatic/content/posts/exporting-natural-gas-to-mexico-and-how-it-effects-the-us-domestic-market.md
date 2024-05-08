@@ -7,13 +7,13 @@ author:
 slug: 'exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"featured","label":"featured"}]
 publishedAt: '2024-05-08T17:23:43.087Z'
 ---
 
 The United States has become a major exporter of natural gas to Mexico in recent years, driven by the fracking boom that has increased domestic gas production. Here are the key points about U.S. natural gas exports to Mexico:
 
-- Pipeline exports of natural gas from the U.S. to Mexico have risen dramatically, from an average of 1.8Bcf/d in 2013 to 6.2Bcf/d in 2022.  So far in 2024, we're averaging approximately 5.0Bcf/D.
+- Pipeline exports of natural gas from the U.S. to Mexico have risen dramatically, from an average of 1.8Bcf/d in 2013 to 6.2Bcf/d in 2022. So far in 2024, we're averaging approximately 5.0Bcf/D.
 - In 2022, imports from the U.S. met 69% of Mexico's natural gas demand, with most of the gas coming from the Permian Basin and Eagle Ford shale plays in Texas.
 - This growth has been facilitated by the construction of new pipelines from the Waha and Agua Dulce hubs in Texas across the border into Mexico.
 - Mexico's domestic natural gas production has declined by 47% since its peak in 2010, increasing its reliance on U.S. imports.

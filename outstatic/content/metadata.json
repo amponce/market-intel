@@ -1,6 +1,6 @@
 {
-  "commit": "6d0ba5db802be81c3d83df8cea13c86dda03c3dc",
-  "generated": "2024-05-08T21:03:45.820Z",
+  "commit": "bfe521800388e0dd2b832ead1b83a3064c4fa7ab",
+  "generated": "2024-05-08T21:05:06.805Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1992,26 +1992,6 @@
     },
     {
       "__outstatic": {
-        "commit": "bd3dc694abab070a56d875b507cad2df1de8c1e9",
-        "hash": "2489099134",
-        "path": "outstatic/content/posts/exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-08T17:23:43.087Z",
-      "slug": "exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Exporting natural gas to Mexico and how it effects the US domestic market"
-    },
-    {
-      "__outstatic": {
         "commit": "6d0ba5db802be81c3d83df8cea13c86dda03c3dc",
         "hash": "825263646",
         "path": "outstatic/content/posts/mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply.md"
@@ -2033,6 +2013,30 @@
         }
       ],
       "title": "Mexico's upcoming election and how it will effect US domestic natgas supply "
+    },
+    {
+      "__outstatic": {
+        "commit": "bfe521800388e0dd2b832ead1b83a3064c4fa7ab",
+        "hash": "822680543",
+        "path": "outstatic/content/posts/exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-08T17:23:43.087Z",
+      "slug": "exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "title": "Exporting natural gas to Mexico and how it effects the US domestic market"
     }
   ]
 }
