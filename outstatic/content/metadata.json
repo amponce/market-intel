@@ -1,6 +1,6 @@
 {
   "commit": "0db49b81dce292fdb887745fe0800939138a7f2e",
-  "generated": "2024-05-08T14:54:40.757Z",
+  "generated": "2024-05-08T14:54:47.670Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1878,7 +1878,7 @@
     {
       "__outstatic": {
         "commit": "0db49b81dce292fdb887745fe0800939138a7f2e",
-        "hash": "3160739627",
+        "hash": "98514897",
         "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
       },
       "author": {
@@ -1899,10 +1899,6 @@
         {
           "label": "Natural Gas",
           "value": "naturalGas"
-        },
-        {
-          "label": "latest",
-          "value": "latest"
         }
       ],
       "title": "Aliso Canyon Storage Update"
