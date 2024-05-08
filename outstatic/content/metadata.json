@@ -1,6 +1,6 @@
 {
-  "commit": "4046ce09e26852104e2b57a100fdd603fcd73f65",
-  "generated": "2024-05-08T15:46:00.498Z",
+  "commit": "f6870a6df9cc4e3344a42fb95b47c724846f0cd4",
+  "generated": "2024-05-08T15:46:37.570Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1759,30 +1759,6 @@
     },
     {
       "__outstatic": {
-        "commit": "0d17ee4ffae9b36c20fc5f75babdebdeb281e68f",
-        "hash": "2358997790",
-        "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:08:15.670Z",
-      "slug": "comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand",
-      "status": "published",
-      "tags": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
-    },
-    {
-      "__outstatic": {
         "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
         "hash": "2303737108",
         "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
@@ -1916,6 +1892,34 @@
         }
       ],
       "title": "Aliso Canyon Storage Update"
+    },
+    {
+      "__outstatic": {
+        "commit": "f6870a6df9cc4e3344a42fb95b47c724846f0cd4",
+        "hash": "1087633042",
+        "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:08:15.670Z",
+      "slug": "comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "energy policies",
+          "value": "energyPolicies"
+        }
+      ],
+      "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
     }
   ]
 }

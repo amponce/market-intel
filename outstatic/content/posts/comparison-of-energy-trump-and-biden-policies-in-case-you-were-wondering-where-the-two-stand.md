@@ -7,7 +7,7 @@ author:
 slug: 'comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand'
 description: ''
 coverImage: ''
-tags: [{"value":"featured","label":"featured"}]
+tags: [{"value":"featured","label":"featured"},{"label":"energy policies","value":"energyPolicies"}]
 publishedAt: '2024-05-07T17:08:15.670Z'
 ---
 

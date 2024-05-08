@@ -25,6 +25,10 @@
         {
           "value": "naturalGasPricing",
           "label": "natural gas pricing"
+        },
+        {
+          "value": "energyPolicies",
+          "label": "energy policies"
         }
       ],
       "fieldType": "Tags",
