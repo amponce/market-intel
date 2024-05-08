@@ -4,32 +4,8 @@
   "properties": {
     "tags": {
       "required": false,
-      "description": "natural gas",
+      "description": "Add custom category",
       "values": [
-        {
-          "value": "oilAndGasIndustry",
-          "label": "Oil and Gas Industry"
-        },
-        {
-          "value": "renewableEnergy",
-          "label": "Renewable Energy"
-        },
-        {
-          "value": "nuclearEnergy",
-          "label": "Nuclear Energy"
-        },
-        {
-          "value": "marketForecasts",
-          "label": "Market Forecasts"
-        },
-        {
-          "value": "weatherImpact",
-          "label": "Weather Impact"
-        },
-        {
-          "value": "utilityManagement",
-          "label": "Utility Management "
-        },
         {
           "value": "marketNews",
           "label": "market-news"
@@ -37,10 +13,6 @@
         {
           "value": "featured",
           "label": "featured"
-        },
-        {
-          "value": "latest",
-          "label": "latest"
         }
       ],
       "fieldType": "Tags",
