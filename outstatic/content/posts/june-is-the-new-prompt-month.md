@@ -7,7 +7,7 @@ author:
 slug: 'june-is-the-new-prompt-month'
 description: ''
 coverImage: ''
-tags: [{"value":"featured","label":"featured"},{"value":"naturalGasPricing","label":"natural gas pricing"}]
+tags: [{"value":"naturalGasPricing","label":"natural gas pricing"}]
 publishedAt: '2024-04-29T17:44:58.311Z'
 ---
 

@@ -1,6 +1,6 @@
 {
-  "commit": "40d8ebe6d6098470f08c75aed14f96dff45b0c8d",
-  "generated": "2024-05-08T21:05:39.028Z",
+  "commit": "b35572467c99ba4ea6391393f5e8d458c69417e5",
+  "generated": "2024-05-08T21:06:16.871Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1857,34 +1857,6 @@
     },
     {
       "__outstatic": {
-        "commit": "8c99f362e1be77a8ef9137a0a87b537cfbb32b99",
-        "hash": "3551382714",
-        "path": "outstatic/content/posts/june-is-the-new-prompt-month.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-29T17:44:58.311Z",
-      "slug": "june-is-the-new-prompt-month",
-      "status": "published",
-      "tags": [
-        {
-          "label": "featured",
-          "value": "featured"
-        },
-        {
-          "label": "natural gas pricing",
-          "value": "naturalGasPricing"
-        }
-      ],
-      "title": "June is the new prompt month"
-    },
-    {
-      "__outstatic": {
         "commit": "aa781474d18c0eb833040ca3fda5aa9cfe01b91c",
         "hash": "380822621",
         "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
@@ -2033,6 +2005,30 @@
       "tags": [
       ],
       "title": "Fundamentals still leaning towards bears"
+    },
+    {
+      "__outstatic": {
+        "commit": "b35572467c99ba4ea6391393f5e8d458c69417e5",
+        "hash": "959323464",
+        "path": "outstatic/content/posts/june-is-the-new-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-29T17:44:58.311Z",
+      "slug": "june-is-the-new-prompt-month",
+      "status": "published",
+      "tags": [
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "June is the new prompt month"
     }
   ]
 }
