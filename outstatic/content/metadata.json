@@ -1,6 +1,6 @@
 {
-  "commit": "b68346badc86bb6c4604c214ed36b20d2d73d77c",
-  "generated": "2024-05-08T15:41:18.201Z",
+  "commit": "10d6c1f7c071953a4e1519d675e3f7997b590863",
+  "generated": "2024-05-08T15:41:52.813Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1763,34 +1763,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1e0788a6ec481bf1b23ec782e10062451587676b",
-        "hash": "2864910310",
-        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:10:18.519Z",
-      "slug": "nymex-hits-a-fourteen-week-high",
-      "status": "published",
-      "tags": [
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "latest",
-          "value": "latest"
-        }
-      ],
-      "title": "NYMEX Hits A Fourteen Week High"
-    },
-    {
-      "__outstatic": {
         "commit": "ce281daf78d707f5c211f5402536d6a02ef70d11",
         "hash": "401683602",
         "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
@@ -1916,6 +1888,34 @@
         }
       ],
       "title": "NYMEX & Basis Up Slightly"
+    },
+    {
+      "__outstatic": {
+        "commit": "10d6c1f7c071953a4e1519d675e3f7997b590863",
+        "hash": "3508146066",
+        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:10:18.519Z",
+      "slug": "nymex-hits-a-fourteen-week-high",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nymex",
+          "value": "nymex"
+        },
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "NYMEX Hits A Fourteen Week High"
     }
   ]
 }

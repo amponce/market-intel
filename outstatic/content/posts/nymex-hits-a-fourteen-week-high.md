@@ -7,7 +7,7 @@ author:
 slug: 'nymex-hits-a-fourteen-week-high'
 description: ''
 coverImage: ''
-tags: [{"value":"marketNews","label":"market-news"},{"value":"latest","label":"latest"}]
+tags: [{"value":"nymex","label":"nymex"},{"value":"naturalGasPricing","label":"natural gas pricing"}]
 publishedAt: '2024-05-07T17:10:18.519Z'
 ---
 
