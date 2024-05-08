@@ -1,6 +1,6 @@
 {
-  "commit": "ed2c1653a25d9b279cbba2063eae30860e3ed9cb",
-  "generated": "2024-05-08T15:42:19.519Z",
+  "commit": "4046ce09e26852104e2b57a100fdd603fcd73f65",
+  "generated": "2024-05-08T15:46:00.498Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1759,30 +1759,6 @@
     },
     {
       "__outstatic": {
-        "commit": "3bed4c40d17c436eaaa5e535fafda9c1fb5ae4ee",
-        "hash": "3092278551",
-        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-09-01T02:51:13.380Z",
-      "slug": "aliso-canyon-storage-update",
-      "status": "published",
-      "tags": [
-        {
-          "label": "natural gas",
-          "value": "naturalGas"
-        }
-      ],
-      "title": "Aliso Canyon Storage Update"
-    },
-    {
-      "__outstatic": {
         "commit": "0d17ee4ffae9b36c20fc5f75babdebdeb281e68f",
         "hash": "2358997790",
         "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
@@ -1916,6 +1892,30 @@
         }
       ],
       "title": "Wall Street Bets on NYMEX Bulls to Return"
+    },
+    {
+      "__outstatic": {
+        "commit": "4046ce09e26852104e2b57a100fdd603fcd73f65",
+        "hash": "2782853326",
+        "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-09-01T02:51:13.380Z",
+      "slug": "aliso-canyon-storage-update",
+      "status": "published",
+      "tags": [
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "Aliso Canyon Storage Update"
     }
   ]
 }
