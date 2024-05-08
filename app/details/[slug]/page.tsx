@@ -1,4 +1,5 @@
 import Image from "next/image";
+import dynamic from "next/dynamic";
 import { Metadata } from "next";
 import { OstDocument } from "outstatic";
 import Header from "@/components/Header";
@@ -10,7 +11,11 @@ import { absoluteUrl } from "@/lib/utils";
 import modifyHtmlContent from "@/lib/modifyHtmlContent";
 import markdownToHtml from "@/lib/markdownToHtml";
 import ContactForm from "@/components/ContactForm";
-import EnergyWidget from "@/components/EnergyWidget";
+
+const EnergyWidget = dynamic(() => import("@/components/EnergyWidget"), {
+  ssr: false,
+});
+
 const defaultBanner = "/banners/aboutBanner-lg.jpg";
 
 type SubPage = {
