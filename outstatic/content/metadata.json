@@ -1,7 +1,50 @@
 {
-  "commit": "908fe254b55ea603ddbb994ab1c3d4e312e7ab4f",
-  "generated": "2024-05-08T06:31:59.834Z",
+  "commit": "6517f477d632e262855c9ce4e3c827833c427210",
+  "generated": "Wed, 08 May 2024 06:35:26 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "957aa0c2caffbcffb0380fe3ec4ef573e18c53b1",
+        "hash": "3118649334",
+        "path": "outstatic/content/details/about.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T18:54:32.277Z",
+      "slug": "about",
+      "status": "published",
+      "tags": "",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "fe1c5650b7d4d0d1e580cf5c292a4bcb3327703d",
+        "hash": "2688871787",
+        "path": "outstatic/content/details/contact.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T18:55:11.266Z",
+      "slug": "contact",
+      "status": "published",
+      "tags": [
+        {
+          "label": "contact",
+          "value": "contact"
+        }
+      ],
+      "title": "Contact"
+    },
     {
       "__outstatic": {
         "commit": "dbda51e82c0324b3495f61600e7974d4aeb791f8",
@@ -22,8 +65,32 @@
     },
     {
       "__outstatic": {
-        "commit": "56b29b0e35eae76f901da60d0f10741b90409eba",
-        "hash": "95284577",
+        "commit": "dbafca1cd63b77b6daa730e4a5598f748151016d",
+        "hash": "3678109382",
+        "path": "outstatic/content/posts/april-is-now-the-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T16:19:25.380Z",
+      "slug": "april-is-now-the-prompt-month",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        }
+      ],
+      "title": "April Is Now The Prompt Month"
+    },
+    {
+      "__outstatic": {
+        "commit": "180517d3428d0b3800331a57f53808647708c8d7",
+        "hash": "3378270314",
         "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
       },
       "author": {
@@ -36,6 +103,16 @@
       "publishedAt": "2023-09-01T02:51:13.380Z",
       "slug": "aliso-canyon-storage-update",
       "status": "published",
+      "tags": [
+        {
+          "label": "Energy Markets ",
+          "value": "energyMarkets"
+        },
+        {
+          "label": "Natural Gas",
+          "value": "naturalGas"
+        }
+      ],
       "title": "Aliso Canyon Storage Update"
     },
     {
@@ -55,6 +132,30 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "b35ad55b40280df282246854fc492544f0a8ddb6",
+        "hash": "457566553",
+        "path": "outstatic/content/details/energy.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T19:36:43.605Z",
+      "slug": "energy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Energy",
+          "value": "energy"
+        }
+      ],
+      "title": "Energy"
     },
     {
       "__outstatic": {
@@ -452,24 +553,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1955e5462c8d739039dbda407426bbb7f56f76c5",
-        "hash": "1789897676",
-        "path": "outstatic/content/posts/indicative-fixed-prices-april.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/news-market-intel-k1Nj.png",
-      "description": "Market intel for 2-22-23 Start month -  April 23",
-      "publishedAt": "2023-02-22T18:03:37.914Z",
-      "slug": "indicative-fixed-prices-april",
-      "status": "published",
-      "title": "Indicative Fixed Prices - April "
-    },
-    {
-      "__outstatic": {
         "commit": "d6dcdc81bbd514c8d172bd4923360142cdb0dce7",
         "hash": "1595684064",
         "path": "outstatic/content/posts/heavy-selling-pushes-nymex-back-down.md"
@@ -485,6 +568,24 @@
       "slug": "heavy-selling-pushes-nymex-back-down",
       "status": "published",
       "title": "Heavy selling pushes NYMEX back down"
+    },
+    {
+      "__outstatic": {
+        "commit": "1955e5462c8d739039dbda407426bbb7f56f76c5",
+        "hash": "1789897676",
+        "path": "outstatic/content/posts/indicative-fixed-prices-april.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/news-market-intel-k1Nj.png",
+      "description": "Market intel for 2-22-23 Start month -  April 23",
+      "publishedAt": "2023-02-22T18:03:37.914Z",
+      "slug": "indicative-fixed-prices-april",
+      "status": "published",
+      "title": "Indicative Fixed Prices - April "
     },
     {
       "__outstatic": {
@@ -506,24 +607,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e2d4490a8468dcb99018c26e1ab926854ea6b90d",
-        "hash": "1938947330",
-        "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/rfp-brand-QzOT.png",
-      "description": "",
-      "publishedAt": "2023-08-22T20:09:41.565Z",
-      "slug": "heat-wave-to-break-power-records-in-texas-and-central-us-this-week",
-      "status": "published",
-      "title": "Heat wave to break power records in Texas and central US this week"
-    },
-    {
-      "__outstatic": {
         "commit": "a20bf61f53c935bd4f52159c6daa40495555fff9",
         "hash": "347581083",
         "path": "outstatic/content/posts/has-nymex-hit-bottom.md"
@@ -539,6 +622,24 @@
       "slug": "has-nymex-hit-bottom",
       "status": "published",
       "title": "Has NYMEX hit bottom??"
+    },
+    {
+      "__outstatic": {
+        "commit": "e2d4490a8468dcb99018c26e1ab926854ea6b90d",
+        "hash": "1938947330",
+        "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/rfp-brand-QzOT.png",
+      "description": "",
+      "publishedAt": "2023-08-22T20:09:41.565Z",
+      "slug": "heat-wave-to-break-power-records-in-texas-and-central-us-this-week",
+      "status": "published",
+      "title": "Heat wave to break power records in Texas and central US this week"
     },
     {
       "__outstatic": {
@@ -992,6 +1093,24 @@
     },
     {
       "__outstatic": {
+        "commit": "f06e0922862d0cf47b9abbef31d35deca123d590",
+        "hash": "1899589531",
+        "path": "outstatic/content/posts/nymex-flattening-out-today-before-anticipated-rally-later-this-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-30T15:25:20.305Z",
+      "slug": "nymex-flattening-out-today-before-anticipated-rally-later-this-week",
+      "status": "published",
+      "title": "NYMEX flattening out today before anticipated rally later this week"
+    },
+    {
+      "__outstatic": {
         "commit": "32e4f29e9cebead85927be77112361fbb7ae7088",
         "hash": "1320407545",
         "path": "outstatic/content/posts/nymex-is-cheap.md"
@@ -1028,9 +1147,9 @@
     },
     {
       "__outstatic": {
-        "commit": "f06e0922862d0cf47b9abbef31d35deca123d590",
-        "hash": "1899589531",
-        "path": "outstatic/content/posts/nymex-flattening-out-today-before-anticipated-rally-later-this-week.md"
+        "commit": "7d035eb5b5cc6c750da547d0705fd0d5e02a0971",
+        "hash": "1637619942",
+        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
       },
       "author": {
         "name": "Sean Dookie",
@@ -1039,10 +1158,10 @@
       "collection": "posts",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-04-30T15:25:20.305Z",
-      "slug": "nymex-flattening-out-today-before-anticipated-rally-later-this-week",
+      "publishedAt": "2024-04-09T15:37:26.662Z",
+      "slug": "nymex-basis-up-slightly",
       "status": "published",
-      "title": "NYMEX flattening out today before anticipated rally later this week"
+      "title": "NYMEX & Basis Up Slightly"
     },
     {
       "__outstatic": {
@@ -1061,24 +1180,6 @@
       "slug": "nymex-continues-to-fall-hard",
       "status": "published",
       "title": "NYMEX Continues to Fall Hard"
-    },
-    {
-      "__outstatic": {
-        "commit": "7d035eb5b5cc6c750da547d0705fd0d5e02a0971",
-        "hash": "1637619942",
-        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-09T15:37:26.662Z",
-      "slug": "nymex-basis-up-slightly",
-      "status": "published",
-      "title": "NYMEX & Basis Up Slightly"
     },
     {
       "__outstatic": {
@@ -1799,98 +1900,6 @@
       "slug": "what-were-we-saying-about-reliability",
       "status": "published",
       "title": "What were we saying about reliability??"
-    },
-    {
-      "__outstatic": {
-        "commit": "39394bce22991d5b927235c59ff7d35cbf361f93",
-        "hash": "2688871787",
-        "path": "outstatic/content/details/contact.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "details",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T18:55:11.266Z",
-      "slug": "contact",
-      "status": "published",
-      "tags": [
-        {
-          "label": "contact",
-          "value": "contact"
-        }
-      ],
-      "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "a2d142c544577478ad9ef59b9a174ffc4c381a79",
-        "hash": "3118649334",
-        "path": "outstatic/content/details/about.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "details",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T18:54:32.277Z",
-      "slug": "about",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "bdfc70d525df9215571ef349108871839136d5be",
-        "hash": "457566553",
-        "path": "outstatic/content/details/energy.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "details",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T19:36:43.605Z",
-      "slug": "energy",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Energy",
-          "value": "energy"
-        }
-      ],
-      "title": "Energy"
-    },
-    {
-      "__outstatic": {
-        "commit": "908fe254b55ea603ddbb994ab1c3d4e312e7ab4f",
-        "hash": "3678109382",
-        "path": "outstatic/content/posts/april-is-now-the-prompt-month.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-02-28T16:19:25.380Z",
-      "slug": "april-is-now-the-prompt-month",
-      "status": "published",
-      "tags": [
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        }
-      ],
-      "title": "April Is Now The Prompt Month"
     }
   ]
 }
