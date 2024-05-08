@@ -1,6 +1,6 @@
 {
-  "commit": "77b46329379621c494be10e5e9e8485a5a2037b0",
-  "generated": "2024-05-08T06:38:20.625Z",
+  "commit": "6758638d36ff7c933d00b09758d5eb3ec31f95a0",
+  "generated": "2024-05-08T06:39:04.378Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1597,24 +1597,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f6307999b92c45026c26d1c8af3728b8343888fd",
-        "hash": "658219988",
-        "path": "outstatic/content/posts/wall-street-bets-on-nymex-bulls-to-return.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-01T15:54:04.426Z",
-      "slug": "wall-street-bets-on-nymex-bulls-to-return",
-      "status": "published",
-      "title": "Wall Street Bets on NYMEX Bulls to Return"
-    },
-    {
-      "__outstatic": {
         "commit": "6280878f9d17901fcb79d996e58b71a099647f46",
         "hash": "2965219320",
         "path": "outstatic/content/posts/todays-indictive-fixed-prices-market-intel.md"
@@ -1916,6 +1898,34 @@
         }
       ],
       "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
+    },
+    {
+      "__outstatic": {
+        "commit": "6758638d36ff7c933d00b09758d5eb3ec31f95a0",
+        "hash": "3623271480",
+        "path": "outstatic/content/posts/wall-street-bets-on-nymex-bulls-to-return.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-01T15:54:04.426Z",
+      "slug": "wall-street-bets-on-nymex-bulls-to-return",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "latest",
+          "value": "latest"
+        }
+      ],
+      "title": "Wall Street Bets on NYMEX Bulls to Return"
     }
   ]
 }

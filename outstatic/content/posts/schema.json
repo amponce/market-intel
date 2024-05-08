@@ -48,6 +48,10 @@
         {
           "value": "featured",
           "label": "featured"
+        },
+        {
+          "value": "latest",
+          "label": "latest"
         }
       ]
     }
