@@ -1,6 +1,6 @@
 {
-  "commit": "b3643d27136639e598cf13a1d3f9e873b4bab544",
-  "generated": "2024-05-08T15:03:10.195Z",
+  "commit": "1e0788a6ec481bf1b23ec782e10062451587676b",
+  "generated": "2024-05-08T15:04:50.317Z",
   "metadata": [
     {
       "__outstatic": {
@@ -983,34 +983,6 @@
     },
     {
       "__outstatic": {
-        "commit": "265fa1ae98b0115e769182eae5981b0ad7ea006e",
-        "hash": "316407933",
-        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:10:18.519Z",
-      "slug": "nymex-hits-a-fourteen-week-high",
-      "status": "published",
-      "tags": [
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "title": "NYMEX Hits A Fourteen Week High"
-    },
-    {
-      "__outstatic": {
         "commit": "32e4f29e9cebead85927be77112361fbb7ae7088",
         "hash": "1320407545",
         "path": "outstatic/content/posts/nymex-is-cheap.md"
@@ -1936,6 +1908,34 @@
         }
       ],
       "title": "Bulls and Bears grappling for control with Bears holding the lead "
+    },
+    {
+      "__outstatic": {
+        "commit": "1e0788a6ec481bf1b23ec782e10062451587676b",
+        "hash": "2864910310",
+        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:10:18.519Z",
+      "slug": "nymex-hits-a-fourteen-week-high",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "latest",
+          "value": "latest"
+        }
+      ],
+      "title": "NYMEX Hits A Fourteen Week High"
     }
   ]
 }

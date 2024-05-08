@@ -7,7 +7,7 @@ author:
 slug: 'nymex-hits-a-fourteen-week-high'
 description: ''
 coverImage: ''
-tags: [{"value":"marketNews","label":"market-news"},{"label":"featured","value":"featured"},{"value":"oilAndGasIndustry","label":"Oil and Gas Industry"}]
+tags: [{"value":"marketNews","label":"market-news"},{"value":"latest","label":"latest"}]
 publishedAt: '2024-05-07T17:10:18.519Z'
 ---
 
