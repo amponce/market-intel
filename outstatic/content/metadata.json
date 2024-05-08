@@ -1,6 +1,6 @@
 {
-  "commit": "bfe521800388e0dd2b832ead1b83a3064c4fa7ab",
-  "generated": "2024-05-08T21:05:06.805Z",
+  "commit": "40d8ebe6d6098470f08c75aed14f96dff45b0c8d",
+  "generated": "2024-05-08T21:05:39.028Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1717,30 +1717,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ce281daf78d707f5c211f5402536d6a02ef70d11",
-        "hash": "401683602",
-        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-22T14:46:05.970Z",
-      "slug": "fundamentals-still-leaning-towards-bears",
-      "status": "published",
-      "tags": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "title": "Fundamentals still leaning towards bears"
-    },
-    {
-      "__outstatic": {
         "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
         "hash": "2303737108",
         "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
@@ -2037,6 +2013,26 @@
         }
       ],
       "title": "Exporting natural gas to Mexico and how it effects the US domestic market"
+    },
+    {
+      "__outstatic": {
+        "commit": "40d8ebe6d6098470f08c75aed14f96dff45b0c8d",
+        "hash": "1286190493",
+        "path": "outstatic/content/posts/fundamentals-still-leaning-towards-bears.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-22T14:46:05.970Z",
+      "slug": "fundamentals-still-leaning-towards-bears",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Fundamentals still leaning towards bears"
     }
   ]
 }

@@ -7,7 +7,7 @@ author:
 slug: 'fundamentals-still-leaning-towards-bears'
 description: ''
 coverImage: ''
-tags: [{"value":"featured","label":"featured"}]
+tags: []
 publishedAt: '2024-04-22T14:46:05.970Z'
 ---
 
