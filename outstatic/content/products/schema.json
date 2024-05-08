@@ -1,0 +1,13 @@
+{
+  "title": "products",
+  "type": "object",
+  "properties": {
+    "affiliateLink": {
+      "required": false,
+      "description": "Add link to affiliate product",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Affiliate link"
+    }
+  }
+}
