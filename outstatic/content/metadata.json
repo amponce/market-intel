@@ -1,6 +1,6 @@
 {
-  "commit": "6517f477d632e262855c9ce4e3c827833c427210",
-  "generated": "Wed, 08 May 2024 06:35:26 GMT",
+  "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
+  "generated": "2024-05-08T06:37:03.743Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1129,24 +1129,6 @@
     },
     {
       "__outstatic": {
-        "commit": "336e6981b29e17b497a237f04fefe8dde14ea82e",
-        "hash": "506666408",
-        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:10:18.519Z",
-      "slug": "nymex-hits-a-fourteen-week-high",
-      "status": "published",
-      "title": "NYMEX Hits A Fourteen Week High"
-    },
-    {
-      "__outstatic": {
         "commit": "7d035eb5b5cc6c750da547d0705fd0d5e02a0971",
         "hash": "1637619942",
         "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
@@ -1900,6 +1882,30 @@
       "slug": "what-were-we-saying-about-reliability",
       "status": "published",
       "title": "What were we saying about reliability??"
+    },
+    {
+      "__outstatic": {
+        "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
+        "hash": "2886982371",
+        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:10:18.519Z",
+      "slug": "nymex-hits-a-fourteen-week-high",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        }
+      ],
+      "title": "NYMEX Hits A Fourteen Week High"
     }
   ]
 }
