@@ -1,6 +1,6 @@
 {
-  "commit": "6e8e6af5103c4db1a5181f5dfd797bbd879772b9",
-  "generated": "2024-05-08T17:30:02.833Z",
+  "commit": "449dcc7a610ec797472c226bdb5ad022c7f6ab66",
+  "generated": "2024-05-08T17:43:40.433Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1950,6 +1950,25 @@
       "tags": [
       ],
       "title": "Key Factors Influencing Natural Gas Storage"
+    },
+    {
+      "__outstatic": {
+        "commit": "449dcc7a610ec797472c226bdb5ad022c7f6ab66",
+        "hash": "3662883318",
+        "path": "outstatic/content/products/nest-thermostat.md"
+      },
+      "affiliateLink": "https://www.amazon.com/Nest-T3007ES-Thermostat-Temperature-Generation",
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "products",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-08T16:57:02.909Z",
+      "slug": "nest-thermostat",
+      "status": "draft",
+      "title": "Nest thermostat"
     }
   ]
 }
