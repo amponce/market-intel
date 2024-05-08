@@ -7,7 +7,7 @@ author:
 slug: 'nymex-basis-up-slightly'
 description: ''
 coverImage: ''
-tags: [{"value":"latest","label":"latest"},{"value":"marketNews","label":"market-news"},{"value":"naturalGas","label":"Natural Gas"},{"value":"energyMarkets","label":"Energy Markets "}]
+tags: [{"value":"nymex","label":"nymex"},{"value":"naturalGasPricing","label":"natural gas pricing"}]
 publishedAt: '2024-04-09T15:37:26.662Z'
 ---
 

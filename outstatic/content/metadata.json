@@ -1,6 +1,6 @@
 {
-  "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
-  "generated": "2024-05-08T15:40:46.879Z",
+  "commit": "b68346badc86bb6c4604c214ed36b20d2d73d77c",
+  "generated": "2024-05-08T15:41:18.201Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1763,42 +1763,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fcc61d90f0fc2a0df2b08eb4dd558aea380027d4",
-        "hash": "1118017097",
-        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-04-09T15:37:26.662Z",
-      "slug": "nymex-basis-up-slightly",
-      "status": "published",
-      "tags": [
-        {
-          "label": "latest",
-          "value": "latest"
-        },
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "Natural Gas",
-          "value": "naturalGas"
-        },
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        }
-      ],
-      "title": "NYMEX & Basis Up Slightly"
-    },
-    {
-      "__outstatic": {
         "commit": "1e0788a6ec481bf1b23ec782e10062451587676b",
         "hash": "2864910310",
         "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
@@ -1924,6 +1888,34 @@
         }
       ],
       "title": "Bulls and Bears grappling for control with Bears holding the lead "
+    },
+    {
+      "__outstatic": {
+        "commit": "b68346badc86bb6c4604c214ed36b20d2d73d77c",
+        "hash": "2760859272",
+        "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-09T15:37:26.662Z",
+      "slug": "nymex-basis-up-slightly",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nymex",
+          "value": "nymex"
+        },
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "NYMEX & Basis Up Slightly"
     }
   ]
 }
