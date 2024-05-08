@@ -1,6 +1,6 @@
 {
-  "commit": "0d17ee4ffae9b36c20fc5f75babdebdeb281e68f",
-  "generated": "2024-05-08T15:39:02.489Z",
+  "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
+  "generated": "2024-05-08T15:40:38.576Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1799,30 +1799,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b3643d27136639e598cf13a1d3f9e873b4bab544",
-        "hash": "3610477973",
-        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
-      "publishedAt": "2023-02-17T20:39:03.997Z",
-      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Energy Markets ",
-          "value": "energyMarkets"
-        }
-      ],
-      "title": "Bulls and Bears grappling for control with Bears holding the lead "
-    },
-    {
-      "__outstatic": {
         "commit": "1e0788a6ec481bf1b23ec782e10062451587676b",
         "hash": "2864910310",
         "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
@@ -1920,6 +1896,30 @@
         }
       ],
       "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
+    },
+    {
+      "__outstatic": {
+        "commit": "0dd3198dc115169068302df09599aadcd8e7c75e",
+        "hash": "1014340295",
+        "path": "outstatic/content/posts/bulls-and-bears-grappling-for-control-with-bears-holding-the-lead.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Market intel (Feb/17) Bulls and Bears grappling for control",
+      "publishedAt": "2023-02-17T20:39:03.997Z",
+      "slug": "bulls-and-bears-grappling-for-control-with-bears-holding-the-lead",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nymex",
+          "value": "nymex"
+        }
+      ],
+      "title": "Bulls and Bears grappling for control with Bears holding the lead "
     }
   ]
 }

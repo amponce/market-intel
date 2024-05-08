@@ -17,6 +17,10 @@
         {
           "value": "naturalGas",
           "label": "natural gas"
+        },
+        {
+          "value": "nymex",
+          "label": "nymex"
         }
       ],
       "fieldType": "Tags",
