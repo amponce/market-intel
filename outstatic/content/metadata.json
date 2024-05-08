@@ -1,6 +1,6 @@
 {
-  "commit": "bdfc70d525df9215571ef349108871839136d5be",
-  "generated": "2024-05-07T21:15:52.537Z",
+  "commit": "908fe254b55ea603ddbb994ab1c3d4e312e7ab4f",
+  "generated": "2024-05-08T06:31:59.834Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "april-warming-up",
       "status": "published",
       "title": "April Warming Up"
-    },
-    {
-      "__outstatic": {
-        "commit": "8604a97b2d53256b1356dd08117cdc11377a8739",
-        "hash": "1868668571",
-        "path": "outstatic/content/posts/april-is-now-the-prompt-month.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-02-28T16:19:25.380Z",
-      "slug": "april-is-now-the-prompt-month",
-      "status": "published",
-      "title": "April Is Now The Prompt Month"
     },
     {
       "__outstatic": {
@@ -1885,6 +1867,30 @@
         }
       ],
       "title": "Energy"
+    },
+    {
+      "__outstatic": {
+        "commit": "908fe254b55ea603ddbb994ab1c3d4e312e7ab4f",
+        "hash": "3678109382",
+        "path": "outstatic/content/posts/april-is-now-the-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-28T16:19:25.380Z",
+      "slug": "april-is-now-the-prompt-month",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        }
+      ],
+      "title": "April Is Now The Prompt Month"
     }
   ]
 }

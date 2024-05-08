@@ -40,6 +40,10 @@
         {
           "value": "utilityManagement",
           "label": "Utility Management "
+        },
+        {
+          "value": "marketNews",
+          "label": "market-news"
         }
       ]
     }
