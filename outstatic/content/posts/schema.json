@@ -44,6 +44,10 @@
         {
           "value": "marketNews",
           "label": "market-news"
+        },
+        {
+          "value": "featured",
+          "label": "featured"
         }
       ]
     }

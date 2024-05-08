@@ -1,6 +1,6 @@
 {
   "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
-  "generated": "2024-05-08T06:37:03.743Z",
+  "generated": "2024-05-08T06:37:14.389Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1886,7 +1886,7 @@
     {
       "__outstatic": {
         "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
-        "hash": "2886982371",
+        "hash": "316407933",
         "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
       },
       "author": {
@@ -1903,6 +1903,10 @@
         {
           "label": "market-news",
           "value": "marketNews"
+        },
+        {
+          "label": "featured",
+          "value": "featured"
         }
       ],
       "title": "NYMEX Hits A Fourteen Week High"
