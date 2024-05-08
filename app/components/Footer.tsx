@@ -22,11 +22,15 @@ const Footer = () => {
               />
             </Link>
             <p className="ml-2 mr-2">
-              <Link href="/details/privacy-policy">Privacy Policy</Link>
+              <Link href="https://rfpenergysolutions.com/privacy">
+                Privacy Policy
+              </Link>
             </p>
             <p className="ml-2">
               {" "}
-              <Link href="/details/terms-of-service">Terms of service</Link>
+              <Link href="https://rfpenergysolutions.com/terms">
+                Terms of service
+              </Link>
             </p>
           </div>
         </div>
