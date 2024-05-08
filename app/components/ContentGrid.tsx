@@ -2,7 +2,23 @@ import type { OstDocument } from "outstatic";
 import Link from "next/link";
 import DateFormatter from "./DateFormatter";
 import Image from "next/image";
-const defaultImagePath = "/images/market-trends-M2OD.png"; // Corrected the path, make sure it's a string
+const thumbnailPaths = [
+  "/images/thumbnail-1.png",
+  "/images/thumbnail-2.png",
+  "/images/thumbnail-3.png",
+  "/images/thumbnail-4.png",
+  "/images/thumbnail-5.png",
+  "/images/thumbnail-6.png",
+  "/images/thumbnail-7.png",
+];
+
+let currentIndex = 0;
+
+function getNextThumbnailPath() {
+  const thumbnailPath = thumbnailPaths[currentIndex];
+  currentIndex = (currentIndex + 1) % thumbnailPaths.length; // Ensures looping back to the start
+  return thumbnailPath;
+}
 
 export type Item = {
   tags?: { value: string; label: string }[];
@@ -35,7 +51,7 @@ const ContentGrid = ({ title = "More", items, collection }: Props) => {
             >
               <div className="p-2 relative">
                 <Image
-                  src={defaultImagePath}
+                  src={getNextThumbnailPath()}
                   alt={`Cover Image for ${item.title}`}
                   className="h-full w-full object-cover object-center group-hover:opacity-75 shadow-md  rounded-md"
                   width={0}

@@ -25,8 +25,6 @@ interface Article {
   author?: Author; // Assuming 'author' might be optional and has a 'name'.
 }
 
-const defaultImagePath = "/images/market-trends-M2OD.jpg";
-
 const renderArticles = (articles: Article[]) => (
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {articles.map((post) => (

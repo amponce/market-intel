@@ -52,7 +52,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   };
 }
 
-const defaultImagePath = "/images/banners/jupiter-spaceship.png";
+const defaultImagePath = "/images/banners/san-diego.png";
 
 export default async function Post(params: Params) {
   const post = await getData(params);
