@@ -1,6 +1,6 @@
 {
-  "commit": "8b42e738a48b50e60869cb5e7d70d031669d588e",
-  "generated": "2024-05-08T06:49:05.850Z",
+  "commit": "ada32e5bdd0003d0fbdc8842f3123e5eed240002",
+  "generated": "2024-05-08T06:49:46.261Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1797,34 +1797,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c8923ff4584c1bc81e4bc65cb94e575cd5d2eb7d",
-        "hash": "316407933",
-        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-07T17:10:18.519Z",
-      "slug": "nymex-hits-a-fourteen-week-high",
-      "status": "published",
-      "tags": [
-        {
-          "label": "market-news",
-          "value": "marketNews"
-        },
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "title": "NYMEX Hits A Fourteen Week High"
-    },
-    {
-      "__outstatic": {
         "commit": "77b46329379621c494be10e5e9e8485a5a2037b0",
         "hash": "2358997790",
         "path": "outstatic/content/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand.md"
@@ -1902,6 +1874,38 @@
         }
       ],
       "title": "Bulls and Bears grappling for control with Bears holding the lead "
+    },
+    {
+      "__outstatic": {
+        "commit": "ada32e5bdd0003d0fbdc8842f3123e5eed240002",
+        "hash": "1131441820",
+        "path": "outstatic/content/posts/nymex-hits-a-fourteen-week-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-07T17:10:18.519Z",
+      "slug": "nymex-hits-a-fourteen-week-high",
+      "status": "published",
+      "tags": [
+        {
+          "label": "market-news",
+          "value": "marketNews"
+        },
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "Oil and Gas Industry",
+          "value": "oilAndGasIndustry"
+        }
+      ],
+      "title": "NYMEX Hits A Fourteen Week High"
     }
   ]
 }
