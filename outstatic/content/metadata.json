@@ -1,6 +1,6 @@
 {
-  "commit": "33fe2a72784097f1dae60431db95933b06e7e17f",
-  "generated": "2024-05-08T15:37:23.506Z",
+  "commit": "3bed4c40d17c436eaaa5e535fafda9c1fb5ae4ee",
+  "generated": "2024-05-08T15:38:46.117Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1903,8 +1903,8 @@
     },
     {
       "__outstatic": {
-        "commit": "33fe2a72784097f1dae60431db95933b06e7e17f",
-        "hash": "1923127972",
+        "commit": "3bed4c40d17c436eaaa5e535fafda9c1fb5ae4ee",
+        "hash": "3092278551",
         "path": "outstatic/content/posts/aliso-canyon-storage-update.md"
       },
       "author": {
@@ -1919,7 +1919,7 @@
       "status": "published",
       "tags": [
         {
-          "label": "Natural Gas",
+          "label": "natural gas",
           "value": "naturalGas"
         }
       ],

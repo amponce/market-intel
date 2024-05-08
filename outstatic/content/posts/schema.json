@@ -13,6 +13,10 @@
         {
           "value": "featured",
           "label": "featured"
+        },
+        {
+          "value": "naturalGas",
+          "label": "natural gas"
         }
       ],
       "fieldType": "Tags",
