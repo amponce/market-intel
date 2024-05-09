@@ -1,6 +1,6 @@
 {
-  "commit": "855583e0ccdc6fbcb2f3741fbca04fd75085c6f1",
-  "generated": "2024-05-08T21:07:42.658Z",
+  "commit": "d7648f665a2667bd8692c832823c400cd8ec45e8",
+  "generated": "2024-05-09T14:55:36.650Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2037,6 +2037,26 @@
         }
       ],
       "title": "Key Factors Influencing Natural Gas Storage"
+    },
+    {
+      "__outstatic": {
+        "commit": "d7648f665a2667bd8692c832823c400cd8ec45e8",
+        "hash": "3843746311",
+        "path": "outstatic/content/posts/u-s-natural-gas-inventory-dynamics-and-market-implications.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T14:13:03.866Z",
+      "slug": "u-s-natural-gas-inventory-dynamics-and-market-implications",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "U.S. Natural Gas Inventory Dynamics and Market Implications"
     }
   ]
 }
