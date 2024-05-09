@@ -1,6 +1,6 @@
 {
-  "commit": "79c98629e6f288a1f3b07530cb6618ba48578196",
-  "generated": "2024-05-09T16:30:55.352Z",
+  "commit": "b2d3f2dbeb7f9a205b4499fbac63631efa6439ee",
+  "generated": "2024-05-09T18:56:55.029Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2077,6 +2077,26 @@
       "tags": [
       ],
       "title": "Storage Reports Comes in Below Expectations, NYMEX Rallies"
+    },
+    {
+      "__outstatic": {
+        "commit": "b2d3f2dbeb7f9a205b4499fbac63631efa6439ee",
+        "hash": "708783565",
+        "path": "outstatic/content/posts/mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T15:51:46.481Z",
+      "slug": "mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Mexico's Increasing Dependence on US Natural Gas: Strategic Opportunity or Sustainability Setback?"
     }
   ]
 }
