@@ -1,6 +1,6 @@
 {
-  "commit": "d7648f665a2667bd8692c832823c400cd8ec45e8",
-  "generated": "2024-05-09T14:55:36.650Z",
+  "commit": "79c98629e6f288a1f3b07530cb6618ba48578196",
+  "generated": "2024-05-09T16:30:55.352Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2057,6 +2057,26 @@
       "tags": [
       ],
       "title": "U.S. Natural Gas Inventory Dynamics and Market Implications"
+    },
+    {
+      "__outstatic": {
+        "commit": "79c98629e6f288a1f3b07530cb6618ba48578196",
+        "hash": "1714309605",
+        "path": "outstatic/content/posts/storage-reports-comes-in-below-expectations-nymex-rallies.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T15:48:02.598Z",
+      "slug": "storage-reports-comes-in-below-expectations-nymex-rallies",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Storage Reports Comes in Below Expectations, NYMEX Rallies"
     }
   ]
 }
