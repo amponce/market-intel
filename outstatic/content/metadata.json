@@ -1,6 +1,6 @@
 {
-  "commit": "b2d3f2dbeb7f9a205b4499fbac63631efa6439ee",
-  "generated": "2024-05-09T18:56:55.029Z",
+  "commit": "7bd6e84695ebd9df764c9b407d9c78c65a14cac5",
+  "generated": "2024-05-09T20:58:16.907Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2097,6 +2097,26 @@
       "tags": [
       ],
       "title": "Mexico's Increasing Dependence on US Natural Gas: Strategic Opportunity or Sustainability Setback?"
+    },
+    {
+      "__outstatic": {
+        "commit": "7bd6e84695ebd9df764c9b407d9c78c65a14cac5",
+        "hash": "2839776509",
+        "path": "outstatic/content/posts/electric-vehicle-growth-and-its-impact-on-california-s-energy-landscape.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T20:15:57.850Z",
+      "slug": "electric-vehicle-growth-and-its-impact-on-california-s-energy-landscape",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Electric Vehicle Growth and Its Impact on California's Energy Landscape"
     }
   ]
 }
