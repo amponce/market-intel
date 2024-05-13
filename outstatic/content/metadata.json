@@ -1,6 +1,6 @@
 {
-  "commit": "77d88d090577375785c599470388b1095e33ae2e",
-  "generated": "2024-05-13T16:57:28.506Z",
+  "commit": "dba93c5c26e3b7f4467202e1583d9e6693f6a62b",
+  "generated": "2024-05-13T17:15:14.432Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2137,6 +2137,26 @@
       "tags": [
       ],
       "title": "CA Basis Weakening"
+    },
+    {
+      "__outstatic": {
+        "commit": "dba93c5c26e3b7f4467202e1583d9e6693f6a62b",
+        "hash": "2896247168",
+        "path": "outstatic/content/posts/the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-13T16:31:16.656Z",
+      "slug": "the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "THE California Public Utilities Commission Wants MORE of Your Money!                            An analysis of the CPUC Proposal's Impact on Residential Electricity Billing in California"
     }
   ]
 }
