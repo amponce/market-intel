@@ -1,6 +1,6 @@
 {
-  "commit": "9b796df2b4c2197901fac48eb37ff6068d23019a",
-  "generated": "2024-05-15T16:50:52.752Z",
+  "commit": "8bff5c294cae2b32d85567a34c66964a7a556ec9",
+  "generated": "2024-05-15T17:28:58.110Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2197,6 +2197,26 @@
       "tags": [
       ],
       "title": "Q1 2024 U.S. Electric and Hybrid Vehicle Market Insights"
+    },
+    {
+      "__outstatic": {
+        "commit": "8bff5c294cae2b32d85567a34c66964a7a556ec9",
+        "hash": "776420253",
+        "path": "outstatic/content/posts/a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-15T16:46:40.438Z",
+      "slug": "a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion..."
     }
   ]
 }
