@@ -1,6 +1,6 @@
 {
-  "commit": "dba93c5c26e3b7f4467202e1583d9e6693f6a62b",
-  "generated": "2024-05-13T17:15:14.432Z",
+  "commit": "eae7e2a5de34997ef3ebc71c1c37b6d756b55efa",
+  "generated": "2024-05-15T15:39:09.077Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2157,6 +2157,26 @@
       "tags": [
       ],
       "title": "THE California Public Utilities Commission Wants MORE of Your Money!                            An analysis of the CPUC Proposal's Impact on Residential Electricity Billing in California"
+    },
+    {
+      "__outstatic": {
+        "commit": "eae7e2a5de34997ef3ebc71c1c37b6d756b55efa",
+        "hash": "2528663192",
+        "path": "outstatic/content/posts/nymex-is-on-the-upswing.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-15T14:34:34.325Z",
+      "slug": "nymex-is-on-the-upswing",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX is on the upswing"
     }
   ]
 }
