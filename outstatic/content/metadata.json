@@ -1,6 +1,6 @@
 {
-  "commit": "8bff5c294cae2b32d85567a34c66964a7a556ec9",
-  "generated": "2024-05-15T17:28:58.110Z",
+  "commit": "e1a241fd0a025d3a745911d01d42841c24900760",
+  "generated": "2024-05-16T16:04:21.834Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2217,6 +2217,26 @@
       "tags": [
       ],
       "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion..."
+    },
+    {
+      "__outstatic": {
+        "commit": "e1a241fd0a025d3a745911d01d42841c24900760",
+        "hash": "1277872128",
+        "path": "outstatic/content/posts/look-at-that-nymex-run.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-16T15:21:35.496Z",
+      "slug": "look-at-that-nymex-run",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Look at that NYMEX run!!"
     }
   ]
 }
