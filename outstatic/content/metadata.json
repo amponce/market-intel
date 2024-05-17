@@ -1,6 +1,6 @@
 {
-  "commit": "61a027ba2a4841f116d4bb4b39d3d7fba153144b",
-  "generated": "2024-05-17T15:34:45.112Z",
+  "commit": "0341441b55af60a979e2858b1416b83b43d7fbb0",
+  "generated": "2024-05-17T16:30:17.435Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2257,6 +2257,26 @@
       "tags": [
       ],
       "title": "🌟 Breaking Records: ERCOT's Winter Natural Gas-Fired Electricity Generation Hits New High! 🌟"
+    },
+    {
+      "__outstatic": {
+        "commit": "0341441b55af60a979e2858b1416b83b43d7fbb0",
+        "hash": "1056958424",
+        "path": "outstatic/content/posts/nymex-rallies-again.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-17T15:47:42.783Z",
+      "slug": "nymex-rallies-again",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Rallies Again!"
     }
   ]
 }
