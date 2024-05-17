@@ -1,6 +1,6 @@
 {
-  "commit": "e1a241fd0a025d3a745911d01d42841c24900760",
-  "generated": "2024-05-16T16:04:21.834Z",
+  "commit": "61a027ba2a4841f116d4bb4b39d3d7fba153144b",
+  "generated": "2024-05-17T15:34:45.112Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2237,6 +2237,26 @@
       "tags": [
       ],
       "title": "Look at that NYMEX run!!"
+    },
+    {
+      "__outstatic": {
+        "commit": "61a027ba2a4841f116d4bb4b39d3d7fba153144b",
+        "hash": "2851754620",
+        "path": "outstatic/content/posts/breaking-records-ercot-s-winter-natural-gas-fired-electricity-generation-hits-new-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-17T14:52:27.688Z",
+      "slug": "breaking-records-ercot-s-winter-natural-gas-fired-electricity-generation-hits-new-high",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "🌟 Breaking Records: ERCOT's Winter Natural Gas-Fired Electricity Generation Hits New High! 🌟"
     }
   ]
 }
