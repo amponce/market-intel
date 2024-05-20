@@ -1,6 +1,6 @@
 {
-  "commit": "0341441b55af60a979e2858b1416b83b43d7fbb0",
-  "generated": "2024-05-17T16:30:17.435Z",
+  "commit": "fea4cfd7935623bb6e6da42c932cef115ba43ace",
+  "generated": "2024-05-20T16:25:04.001Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2277,6 +2277,26 @@
       "tags": [
       ],
       "title": "NYMEX Rallies Again!"
+    },
+    {
+      "__outstatic": {
+        "commit": "fea4cfd7935623bb6e6da42c932cef115ba43ace",
+        "hash": "3103218031",
+        "path": "outstatic/content/posts/run-nymex-run.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-20T15:42:12.476Z",
+      "slug": "run-nymex-run",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "\"Run, NYMEX, Run!!"
     }
   ]
 }
