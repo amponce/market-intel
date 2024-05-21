@@ -33,6 +33,10 @@
         {
           "value": "naturalGasStorage",
           "label": "natural gas storage"
+        },
+        {
+          "value": "nuclearEnergy",
+          "label": "nuclear energy"
         }
       ],
       "fieldType": "Tags",

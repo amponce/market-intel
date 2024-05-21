@@ -7,7 +7,7 @@ author:
 slug: 'a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"featured","label":"featured"},{"label":"nuclear energy","value":"nuclearEnergy"}]
 publishedAt: '2024-05-15T16:46:40.438Z'
 ---
 
