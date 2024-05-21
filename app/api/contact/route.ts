@@ -22,7 +22,7 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
     const msg = {
       to: "support@rfpes.com",
       from: "support@rfpes.com",
-      bcc: "amponce@rfpes.com",
+      bcc: "amponce@rfpes.com, sdookie@rfpes.com, rwashington@rfpes.com, rponce@rfpes.com",
       subject: subject,
       text: `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`,
     };
