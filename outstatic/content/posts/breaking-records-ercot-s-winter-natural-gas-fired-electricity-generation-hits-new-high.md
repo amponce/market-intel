@@ -7,7 +7,7 @@ author:
 slug: 'breaking-records-ercot-s-winter-natural-gas-fired-electricity-generation-hits-new-high'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"featured","label":"featured"}]
 publishedAt: '2024-05-17T14:52:27.688Z'
 ---
 
