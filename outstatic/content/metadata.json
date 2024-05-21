@@ -1,6 +1,6 @@
 {
-  "commit": "fea4cfd7935623bb6e6da42c932cef115ba43ace",
-  "generated": "2024-05-20T16:25:04.001Z",
+  "commit": "af2672b923535650e4d0b0773eb8849c88947888",
+  "generated": "2024-05-21T18:55:58.635Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2297,6 +2297,26 @@
       "tags": [
       ],
       "title": "\"Run, NYMEX, Run!!"
+    },
+    {
+      "__outstatic": {
+        "commit": "af2672b923535650e4d0b0773eb8849c88947888",
+        "hash": "2743149617",
+        "path": "outstatic/content/details/thank-you.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
+      },
+      "collection": "details",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-21T18:12:13.048Z",
+      "slug": "thank-you",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Thank You"
     }
   ]
 }
