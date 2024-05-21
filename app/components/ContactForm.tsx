@@ -81,24 +81,21 @@ function ContactForm() {
       return;
     }
 
-    const response = await fetch("/api/auth/contact", {
+    const response = await fetch("/api/contact", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
       body: JSON.stringify(formData),
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        if (data.message === "Email sent successfully") {
-          window.location.href = "/details/thank-you"; // Redirect the user
-        } else {
-          // Handle errors or show a message to the user
-        }
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-      });
+    });
+
+    const data = await response.json();
+    if (data.message === "Email sent successfully") {
+      window.location.href = "/details/thank-you"; // Redirect the user to thank you page
+    } else {
+      // Handle errors or show a message to the user
+      console.error("Error:", data.error);
+    }
   };
 
   return (

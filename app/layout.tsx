@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     siteName: "RFPEnergySolutions.com",
     images: [
       {
-        url: absoluteUrl("/images/market-trends-M2OD.png"),
+        url: absoluteUrl("/images/thumbnail-6.png"),
         width: 1800,
         height: 1600,
       },
