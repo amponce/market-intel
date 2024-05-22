@@ -1,6 +1,6 @@
 {
-  "commit": "37ed2c6571be537b3df8bd307bf731fd071f1734",
-  "generated": "2024-05-21T19:03:59.768Z",
+  "commit": "c73475179c1a46d6e633730d73dc2a57c5a3229e",
+  "generated": "2024-05-22T15:49:07.246Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2329,6 +2329,26 @@
         }
       ],
       "title": "🌟 Breaking Records: ERCOT's Winter Natural Gas-Fired Electricity Generation Hits New High! 🌟"
+    },
+    {
+      "__outstatic": {
+        "commit": "c73475179c1a46d6e633730d73dc2a57c5a3229e",
+        "hash": "714522498",
+        "path": "outstatic/content/posts/nymex-is-up-while-ca-basis-crashes.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-22T15:06:28.306Z",
+      "slug": "nymex-is-up-while-ca-basis-crashes",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX is up while CA Basis crashes!"
     }
   ]
 }
