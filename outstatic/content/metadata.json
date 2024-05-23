@@ -1,6 +1,6 @@
 {
-  "commit": "3b510d8af22dbb8422bfcc8a12b8f939185be3d8",
-  "generated": "2024-05-23T16:38:23.114Z",
+  "commit": "61b35ca51d2da39a917c7076b752eee422480157",
+  "generated": "2024-05-23T17:43:25.238Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2369,6 +2369,26 @@
       "tags": [
       ],
       "title": "🌟 NYMEX Running Up while California Basis Collapses 🌟"
+    },
+    {
+      "__outstatic": {
+        "commit": "61b35ca51d2da39a917c7076b752eee422480157",
+        "hash": "392397340",
+        "path": "outstatic/content/posts/upcoming-natural-gas-market-volatility-alert-for-west-region-commercial-and-industrial-end-users.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-23T17:01:11.555Z",
+      "slug": "upcoming-natural-gas-market-volatility-alert-for-west-region-commercial-and-industrial-end-users",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Upcoming Natural Gas Market Volatility Alert for West Region Commercial and Industrial End Users "
     }
   ]
 }
