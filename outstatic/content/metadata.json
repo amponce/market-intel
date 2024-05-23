@@ -1,6 +1,6 @@
 {
-  "commit": "c73475179c1a46d6e633730d73dc2a57c5a3229e",
-  "generated": "2024-05-22T15:49:07.246Z",
+  "commit": "3b510d8af22dbb8422bfcc8a12b8f939185be3d8",
+  "generated": "2024-05-23T16:38:23.114Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2349,6 +2349,26 @@
       "tags": [
       ],
       "title": "NYMEX is up while CA Basis crashes!"
+    },
+    {
+      "__outstatic": {
+        "commit": "3b510d8af22dbb8422bfcc8a12b8f939185be3d8",
+        "hash": "747406727",
+        "path": "outstatic/content/posts/nymex-running-up-while-california-basis-collapses.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-23T15:55:38.135Z",
+      "slug": "nymex-running-up-while-california-basis-collapses",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "🌟 NYMEX Running Up while California Basis Collapses 🌟"
     }
   ]
 }
