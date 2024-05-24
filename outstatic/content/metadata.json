@@ -1,6 +1,6 @@
 {
-  "commit": "61b35ca51d2da39a917c7076b752eee422480157",
-  "generated": "2024-05-23T17:43:25.238Z",
+  "commit": "16ba5db2f3793442c963268d72108ebbf2f99575",
+  "generated": "2024-05-24T16:27:13.790Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2389,6 +2389,26 @@
       "tags": [
       ],
       "title": "Upcoming Natural Gas Market Volatility Alert for West Region Commercial and Industrial End Users "
+    },
+    {
+      "__outstatic": {
+        "commit": "16ba5db2f3793442c963268d72108ebbf2f99575",
+        "hash": "2625815815",
+        "path": "outstatic/content/posts/down-goes-nymex-down-goes-nymex.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-24T15:44:38.251Z",
+      "slug": "down-goes-nymex-down-goes-nymex",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Down Goes NYMEX!  Down Goes NYMEX! "
     }
   ]
 }
