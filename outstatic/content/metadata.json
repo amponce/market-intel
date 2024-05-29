@@ -1,6 +1,6 @@
 {
-  "commit": "3c1393282613112c43a425e6e29342920155c7a1",
-  "generated": "2024-05-28T16:27:03.189Z",
+  "commit": "6dd0a7635f868297166131e31becc229e9aef52c",
+  "generated": "2024-05-29T16:24:47.461Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2429,6 +2429,26 @@
       "tags": [
       ],
       "title": "Demand is Up, Weather is Bullish, and NYMEX is Flat"
+    },
+    {
+      "__outstatic": {
+        "commit": "6dd0a7635f868297166131e31becc229e9aef52c",
+        "hash": "1021485489",
+        "path": "outstatic/content/posts/calm-before-the-bullish-storm-next-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-29T15:41:05.289Z",
+      "slug": "calm-before-the-bullish-storm-next-week",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Calm before the bullish storm next week?"
     }
   ]
 }
