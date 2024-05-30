@@ -1,6 +1,6 @@
 {
-  "commit": "6dd0a7635f868297166131e31becc229e9aef52c",
-  "generated": "2024-05-29T16:24:47.461Z",
+  "commit": "2be91937704aec6b9b74fd275e3c4b56aa276e9b",
+  "generated": "2024-05-30T16:00:27.366Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2449,6 +2449,26 @@
       "tags": [
       ],
       "title": "Calm before the bullish storm next week?"
+    },
+    {
+      "__outstatic": {
+        "commit": "2be91937704aec6b9b74fd275e3c4b56aa276e9b",
+        "hash": "1589198644",
+        "path": "outstatic/content/posts/here-comes-that-summer-volatility.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-30T15:17:22.318Z",
+      "slug": "here-comes-that-summer-volatility",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Here Comes That Summer Volatility."
     }
   ]
 }
