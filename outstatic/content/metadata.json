@@ -1,6 +1,6 @@
 {
-  "commit": "2be91937704aec6b9b74fd275e3c4b56aa276e9b",
-  "generated": "2024-05-30T16:00:27.366Z",
+  "commit": "0317baf84d5c348cec9363150a7af3d21b6c0730",
+  "generated": "2024-05-31T16:05:31.269Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2469,6 +2469,26 @@
       "tags": [
       ],
       "title": "Here Comes That Summer Volatility."
+    },
+    {
+      "__outstatic": {
+        "commit": "0317baf84d5c348cec9363150a7af3d21b6c0730",
+        "hash": "3488762055",
+        "path": "outstatic/content/posts/july-24-is-now-prompt-month.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-31T15:22:26.129Z",
+      "slug": "july-24-is-now-prompt-month",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "July ’24 is now Prompt Month"
     }
   ]
 }
