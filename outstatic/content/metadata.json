@@ -1,6 +1,6 @@
 {
-  "commit": "bc3e295c6b4464645eaad5e88ce08526281fcea3",
-  "generated": "2024-06-03T16:41:38.367Z",
+  "commit": "9560f3038f52f13e01e0d73a208a49a852a7f85d",
+  "generated": "2024-06-03T18:30:07.206Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2509,6 +2509,26 @@
       "tags": [
       ],
       "title": "Plenty of potential bulls lurking"
+    },
+    {
+      "__outstatic": {
+        "commit": "9560f3038f52f13e01e0d73a208a49a852a7f85d",
+        "hash": "3194898411",
+        "path": "outstatic/content/posts/controversial-solar-project-in-the-mojave-desert.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-03T17:47:49.572Z",
+      "slug": "controversial-solar-project-in-the-mojave-desert",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "🌞 Controversial Solar Project in the Mojave Desert 🌞"
     }
   ]
 }
