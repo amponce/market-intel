@@ -1,6 +1,6 @@
 {
-  "commit": "0317baf84d5c348cec9363150a7af3d21b6c0730",
-  "generated": "2024-05-31T16:05:31.269Z",
+  "commit": "bc3e295c6b4464645eaad5e88ce08526281fcea3",
+  "generated": "2024-06-03T16:41:38.367Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2489,6 +2489,26 @@
       "tags": [
       ],
       "title": "July ’24 is now Prompt Month"
+    },
+    {
+      "__outstatic": {
+        "commit": "bc3e295c6b4464645eaad5e88ce08526281fcea3",
+        "hash": "1728311314",
+        "path": "outstatic/content/posts/plenty-of-potential-bulls-lurking.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-03T15:58:16.619Z",
+      "slug": "plenty-of-potential-bulls-lurking",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Plenty of potential bulls lurking"
     }
   ]
 }
