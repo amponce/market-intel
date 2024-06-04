@@ -1,6 +1,6 @@
 {
-  "commit": "9560f3038f52f13e01e0d73a208a49a852a7f85d",
-  "generated": "2024-06-03T18:30:07.206Z",
+  "commit": "c38fbf080d706996f4d05fa09bb32c3f323d01b5",
+  "generated": "2024-06-04T16:02:34.719Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2529,6 +2529,26 @@
       "tags": [
       ],
       "title": "🌞 Controversial Solar Project in the Mojave Desert 🌞"
+    },
+    {
+      "__outstatic": {
+        "commit": "c38fbf080d706996f4d05fa09bb32c3f323d01b5",
+        "hash": "566522714",
+        "path": "outstatic/content/posts/summer-volatility-arrives.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-04T15:18:53.995Z",
+      "slug": "summer-volatility-arrives",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Summer Volatility Arrives!"
     }
   ]
 }
