@@ -1,6 +1,6 @@
 {
-  "commit": "c38fbf080d706996f4d05fa09bb32c3f323d01b5",
-  "generated": "2024-06-04T16:02:34.719Z",
+  "commit": "ed06094f5ff13d20bd1e8f77461675051c71e3d1",
+  "generated": "2024-06-05T16:20:07.564Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2549,6 +2549,26 @@
       "tags": [
       ],
       "title": "Summer Volatility Arrives!"
+    },
+    {
+      "__outstatic": {
+        "commit": "ed06094f5ff13d20bd1e8f77461675051c71e3d1",
+        "hash": "2408864974",
+        "path": "outstatic/content/posts/feel-the-burn-california-sw-and-texas.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-05T15:36:11.737Z",
+      "slug": "feel-the-burn-california-sw-and-texas",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Feel The Burn, California, SW, and Texas!"
     }
   ]
 }
