@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'natural-gas-volatility'
 description: 'The buffers that keep America’s natural-gas price fluctuations at bay are eroding'
-coverImage: '/images/natural-gas-v-I1MT.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-11T22:00:27.523Z'
 ---
 

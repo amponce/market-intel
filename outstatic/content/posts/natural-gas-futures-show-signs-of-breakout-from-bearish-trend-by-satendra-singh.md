@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'natural-gas-futures-show-signs-of-breakout-from-bearish-trend-by-satendra-singh'
 description: 'Natural Gas Futures Show Signs of Breakout from Bearish Trend By Satendra Singh'
-coverImage: '/images/futures-QzOD.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-13T20:32:43.950Z'
 ---
 

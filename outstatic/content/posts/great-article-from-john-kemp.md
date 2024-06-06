@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'great-article-from-john-kemp'
 description: 'U.S. gas prices remain stuck at some of the lowest levels'
-coverImage: '/images/kemp-gxND.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-10T18:50:29.693Z'
 ---
 

@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'iso-ne-does-well-to-keep-thermostats-on'
 description: 'Record-breaking cold temperatures and extreme wind chill in New England'
-coverImage: '/images/articleiso-g3Nz.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-09T18:20:50.275Z'
 ---
 

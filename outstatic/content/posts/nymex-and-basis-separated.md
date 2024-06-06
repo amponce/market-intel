@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'nymex-and-basis-separated'
 description: ''
-coverImage: '/images/rfp-brand-UxOT.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-04-13T16:24:47.761Z'
 ---
 

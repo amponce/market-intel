@@ -6,7 +6,7 @@ author:
   picture: ''
 slug: 'streamlining-energy-procurement-with-rfp-energy-solutions'
 description: 'Protect your business from supply chain disruptions with RFP Energy Solutions. '
-coverImage: '/images/rfp-brand-AzMj.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-06T06:35:07.000Z'
 ---
 

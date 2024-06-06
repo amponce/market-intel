@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'natgas-dropping-hard-so-far-this-year'
 description: 'Natural-gas prices have dropped more than 65% since mid-December and this week hit their lowest level'
-coverImage: '/images/rfp-brand-E0Mz.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-24T18:48:40.290Z'
 ---
 

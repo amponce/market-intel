@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'more-power-lines-for-california'
 description: ''
-coverImage: '/images/rfp-brand-kwMD.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-05-22T20:18:36.852Z'
 ---
 
