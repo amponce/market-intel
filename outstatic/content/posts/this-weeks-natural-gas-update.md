@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'this-weeks-natural-gas-update'
 description: ''
-coverImage: '/images/articleiso-A4ND.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-03-03T19:11:53.506Z'
 ---
 

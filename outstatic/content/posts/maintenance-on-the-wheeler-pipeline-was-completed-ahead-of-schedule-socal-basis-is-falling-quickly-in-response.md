@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'maintenance-on-the-wheeler-pipeline-was-completed-ahead-of-schedule-socal-basis-is-falling-quickly-in-response'
 description: ''
-coverImage: '/images/rfp-brand-MzNj.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-08-10T17:07:37.981Z'
 ---
 

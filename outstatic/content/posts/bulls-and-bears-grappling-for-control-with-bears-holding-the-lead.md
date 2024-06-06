@@ -55,7 +55,7 @@ First of the Month Pricing Average for 2022 PG&E CG = $8.30 SoCal CG = $8.38 12 
 
 ## Indicative Fixed Prices as of 2/17/2023
 
-![](/images/screenshot-2023-02-17-at-5.29.00-pm-A2OT.png)
+![](/images/thumbnail-3.png)
 
 **All Fixed Prices are up from last week’s natgas update. This upward spike should be short lived with downward pressure by 3-10-23.**
 

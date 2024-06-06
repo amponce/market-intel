@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'heating-oil-at-home-falls-hard-in-price'
 description: 'U.S. residential heating oil prices decline from record-highs in November'
-coverImage: '/images/heating-oil-k4Mz.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-10T15:12:00.945Z'
 ---
 

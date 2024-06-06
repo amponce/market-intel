@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/3916436?v=4'
 slug: 'the-natural-gas-update-driving-factors'
 description: 'Natural Gas Update for 2-10-23, the driving factors'
-coverImage: '/images/rfp-brand-EwNj.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-10T17:53:01.530Z'
 ---
 
@@ -62,7 +62,7 @@ SoCal CG = $8.38
 
 12-month fixed prices are beating the 2022 averages by more than $2.00
 
-![](/images/screenshot-2023-02-10-at-11.23.17-am-EzMj.png)
+![](/images/thumbnail-3.png)
 
 ### **Storage Report**
 

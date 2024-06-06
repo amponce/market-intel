@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'nymex-is-cheap'
 description: ''
-coverImage: '/images/natural-gas-contracts-QwOT.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-03-07T19:11:34.022Z'
 ---
 

@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'the-natural-gas-update'
 description: ''
-coverImage: '/images/rfp-brand-czOD.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-04-14T16:59:14.597Z'
 ---
 

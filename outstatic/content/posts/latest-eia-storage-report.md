@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'latest-eia-storage-report'
 description: 'Working gas in storage was 2,366 Bcf as of Friday, February 3, 2023, according to EIA estimates'
-coverImage: '/images/marketintelfeb9-2-M3MD.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-02-09T15:47:55.406Z'
 ---
 

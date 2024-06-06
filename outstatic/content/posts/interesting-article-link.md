@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
 slug: 'interesting-article-link'
 description: ''
-coverImage: '/images/rfp-brand-A3Mj.png'
+coverImage: '/images/thumbnail-3.png'
 publishedAt: '2023-03-27T17:44:40.155Z'
 ---
 

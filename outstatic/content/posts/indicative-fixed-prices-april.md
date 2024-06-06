@@ -11,5 +11,5 @@ coverImage: '/images/news-market-intel-k1Nj.png'
 publishedAt: '2023-02-22T18:03:37.914Z'
 ---
 
-![](/images/screenshot-2023-02-22-at-10.50.08-am-AzOT.png)<br>
+![](/images/thumbnail-3.png)<br>
 
