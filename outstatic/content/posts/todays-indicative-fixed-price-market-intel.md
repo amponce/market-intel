@@ -1,58 +1,57 @@
 ---
-title: 'Today''s Indicative Fixed Price & Market Intel'
-status: 'published'
+title: "Today's Indicative Fixed Price & Market Intel"
+status: "published"
 author:
-  name: 'Sean Dookie'
-  picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
-slug: 'todays-indicative-fixed-price-market-intel'
-description: ''
-coverImage: '/images/rfp-brand-qwmt-gymj-g0NT.webp'
-publishedAt: '2023-09-19T17:19:56.275Z'
+  name: "Sean Dookie"
+  picture: "https://avatars.githubusercontent.com/u/124637922?v=4"
+slug: "todays-indicative-fixed-price-market-intel"
+description: ""
+coverImage: "/images/thumbnail-2.png"
+publishedAt: "2023-09-19T17:19:56.275Z"
 ---
 
-*9-19-23*
+_9-19-23_
 
-*NYMEX is down a few cents from yesterday. The open @ $2.87, high@ $2.87, low @ $2.71, now sitting @ $2.85. Ever so slightly green through June ’25. *
+_NYMEX is down a few cents from yesterday. The open @ $2.87, high@ $2.87, low @ $2.71, now sitting @ $2.85. Ever so slightly green through June ’25. _
 
-*NYMEX prices are up $0.25 from 1 week ago and down $4.90 from 1 year ago. *
+_NYMEX prices are up $0.25 from 1 week ago and down $4.90 from 1 year ago. _
 
-*Latest NYMEX 2023 NYMEX average estimated @ $3.04. $3.41 for 2024. $3.97 for 2025.*
+_Latest NYMEX 2023 NYMEX average estimated @ $3.04. $3.41 for 2024. $3.97 for 2025._
 
-*The national weather chart shows cooler temps moving across the regions for the next few days. *
+_The national weather chart shows cooler temps moving across the regions for the next few days. _
 
-*Warmer temperatures forecasted in the 6 – 10-day forecast.*
+_Warmer temperatures forecasted in the 6 – 10-day forecast._
 
-*Resistance at $2.80. Blew right past that.*
+_Resistance at $2.80. Blew right past that._
 
-*Support at $2.60. Long way off.*
+_Support at $2.60. Long way off._
 
-*NatGas averages for last week: Production average = 101.9BCF/D, down 0.3Bcf/D from the previous week.*
+_NatGas averages for last week: Production average = 101.9BCF/D, down 0.3Bcf/D from the previous week._
 
-*Total Demand average = 97.8BCF/D. Down 1.0Bcf from the previous week.*
+_Total Demand average = 97.8BCF/D. Down 1.0Bcf from the previous week._
 
-*PG&E and SoCal Basis prices are both down strong today. *
+_PG&E and SoCal Basis prices are both down strong today. _
 
 - PG&E CG SOCAL CG\*
 
 <!-- -->
 
-*Start Month: Oct ‘23*
+_Start Month: Oct ‘23_
 
-*1 MONTH $4.97 $5.16*
+_1 MONTH $4.97 $5.16_
 
-*3 MONTHS $6.71 $7.32*
+_3 MONTHS $6.71 $7.32_
 
-*6 MONTHS $7.00 $7.54*
+_6 MONTHS $7.00 $7.54_
 
-*12 MONTHS $6.08 $6.51*
+_12 MONTHS $6.08 $6.51_
 
-*24 MONTHS $5.99 $6.50*
+_24 MONTHS $5.99 $6.50_
 
-*Winter Strips (Nov ’23 – March ‘24) *
+_Winter Strips (Nov ’23 – March ‘24) _
 
-*$7.39 $8.00*
+_$7.39 $8.00_
 
-*Summer Strip (April ’24 – Aug ‘24)*
+_Summer Strip (April ’24 – Aug ‘24)_
 
-*$5.09 $5.35*
-
+_$5.09 $5.35_
