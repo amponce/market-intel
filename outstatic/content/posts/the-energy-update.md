@@ -1,18 +1,18 @@
 ---
-title: 'THE Energy Update'
-status: 'published'
+title: "THE Energy Update"
+status: "published"
 author:
-  name: 'Sean Dookie'
-  picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
-slug: 'the-energy-update'
-description: ''
-coverImage: '/images/rfp-brand-qwmt-gymj-M5Mj.webp'
-publishedAt: '2023-09-25T18:01:40.799Z'
+  name: "Sean Dookie"
+  picture: "https://avatars.githubusercontent.com/u/124637922?v=4"
+slug: "the-energy-update"
+description: ""
+coverImage: "/images/thumbnail-2.png"
+publishedAt: "2023-09-25T18:01:40.799Z"
 ---
 
-***THE ENERGY UPDATE for 9-25-23***
+**_THE ENERGY UPDATE for 9-25-23_**
 
-*Active Week Forecasted*
+_Active Week Forecasted_
 
 THE DRIVING FACTORS
 
@@ -40,11 +40,11 @@ THE DRIVING FACTORS
 
 THE BOTTOM LINE – Winter is coming for all of us and that means more bullish volatility, leading to higher, more violent price spikes.
 
-*AS A REMINDER - Just in case you forgot…Dec ’21/Jan’22 NGI Index for PG&E CG = $6.35/$7.72. SoCal CG = $7.37/$9.84, NYMEX alone = $5.16/$4.04. Dec ’22 NGI Index for PG&E CG = $14.08/$49.52, SoCal CG = $15.11/$54.30, and NYMEX alone = $6.83/$5.21. Do we have your attention now? I thought we might. Get it on the expected downward trend over the next few weeks and enjoy the upcoming holiday season.*
+_AS A REMINDER - Just in case you forgot…Dec ’21/Jan’22 NGI Index for PG&E CG = $6.35/$7.72. SoCal CG = $7.37/$9.84, NYMEX alone = $5.16/$4.04. Dec ’22 NGI Index for PG&E CG = $14.08/$49.52, SoCal CG = $15.11/$54.30, and NYMEX alone = $6.83/$5.21. Do we have your attention now? I thought we might. Get it on the expected downward trend over the next few weeks and enjoy the upcoming holiday season._
 
-***First of the Month Index Pricing Average for 2022 - PG&E CG = $8.298 SoCal CG = $8.380***
+**_First of the Month Index Pricing Average for 2022 - PG&E CG = $8.298 SoCal CG = $8.380_**
 
-***12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES. ***
+**_12 MONTH FIXED PRICES CONTINUE TO BEAT THE 2022 FIRST OF THE MONTH INDEX AVERAGES. _**
 
 **Indicative Fixed Prices as of 9/25/2023**
 
@@ -67,4 +67,3 @@ Apr ’24 – Aug ‘25 $5.04 $5.32
 \*\*STORAGE REPORT – \*\*The most recent forecast for storage was an injection of 64Bcf. The actual number came in at 64Bcf. We're now 410Bcf higher than this time last year and 183Bcf above the 5-year average of 3,086Bcf. At 3,269Bcf, total working gas is within the 5-year historical range. End of Injection Season level forecast falls to 3.80Tcf. We’re going to need weekly injections for the remainder of the injection season to be over 80Bcf just to get close to 3.80Tcf. Some people believe it will be closer to 3.70Tcf when it’s all said and done.
 
 \*\*WEATHER – \*\*The 6-to-10-day forecast shows a major cooldown for the West region. Most of the US will enjoy normal temperatures while Texas, Great Lakes, and New England areas are forecasted to be above normal. This could be our best opportunity to lock in winter strips. The 3-month forecasts for both Oct/Nov/Dec and Dec/Jan/Feb are looking bearish.
-
