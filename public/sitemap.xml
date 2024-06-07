@@ -13,7 +13,13 @@
     <loc>https://news.rfpenergysolutions.com/details/energy</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/details/thank-you</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/pages/home</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/aliso-canyon-storage-update</loc>
@@ -43,6 +49,9 @@
     <loc>https://news.rfpenergysolutions.com/posts/bears-pushing-bulls-back-down</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/breaking-records-ercot-s-winter-natural-gas-fired-electricity-generation-hits-new-high</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/bulging-inventories-pushing-prices-down</loc>
   </url>
   <url>
@@ -55,7 +64,13 @@
     <loc>https://news.rfpenergysolutions.com/posts/bulls-could-show-up-next-week</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/ca-basis-weakening</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/california-city-cant-enforce-natural-gas-ban-appeals-court-says</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/calm-before-the-bullish-storm-next-week</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/challenges-of-excess-solar-power</loc>
@@ -70,13 +85,28 @@
     <loc>https://news.rfpenergysolutions.com/posts/comparison-of-energy-trump-and-biden-policies-in-case-you-were-wondering-where-the-two-stand</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/controversial-solar-project-in-the-mojave-desert</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/demand-is-up-weather-is-bullish-and-nymex-is-flat</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/doe-heating-costs-and-cost-comparisons</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/down-goes-nymex-down-goes-nymex</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/electric-vehicle-growth-and-its-impact-on-california-s-energy-landscape</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/end-of-week-note</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/exporting-natural-gas-to-mexico-and-how-it-effects-the-us-domestic-market</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/feel-the-burn-california-sw-and-texas</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/fundamentals-still-leaning-towards-bears</loc>
@@ -100,6 +130,9 @@
     <loc>https://news.rfpenergysolutions.com/posts/heavy-selling-pushes-nymex-back-down</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/here-comes-that-summer-volatility</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/indicative-fixed-prices-april</loc>
   </url>
   <url>
@@ -121,6 +154,9 @@
     <loc>https://news.rfpenergysolutions.com/posts/its-the-time-of-the-season-to-be-buying</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/july-24-is-now-prompt-month</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/june-is-the-new-prompt-month</loc>
   </url>
   <url>
@@ -136,7 +172,13 @@
     <loc>https://news.rfpenergysolutions.com/posts/lng-restrictions-help-push-nymex-prices-down-further</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/look-at-that-nymex-run</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/maintenance-on-the-wheeler-pipeline-was-completed-ahead-of-schedule-socal-basis-is-falling-quickly-in-response</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/mexico-s-upcoming-election-and-how-it-will-effect-us-domestic-natgas-supply</loc>
@@ -199,7 +241,19 @@
     <loc>https://news.rfpenergysolutions.com/posts/nymex-is-cheap</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/nymex-is-on-the-upswing</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/nymex-is-up-while-ca-basis-crashes</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/nymex-prices-are-up-but-not-for-long</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/nymex-rallies-again</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/nymex-running-up-while-california-basis-collapses</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/nymex-tumbles</loc>
@@ -211,10 +265,16 @@
     <loc>https://news.rfpenergysolutions.com/posts/pipeline-maintenance-season-is-coming</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/plenty-of-potential-bulls-lurking</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/projected-production-cuts-push-prices-up</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/protecting-your-budget-from-market-speculation-in-natural-gas-prices</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/q1-2024-u-s-electric-and-hybrid-vehicle-market-insights</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/recent-movements-in-oil-markets</loc>
@@ -224,6 +284,9 @@
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/refreshed-fixed-prices-indicatives-for</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/run-nymex-run</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/saudi-arabia-russia-extend-voluntary-oil-cuts-to-year-end-markets-jump</loc>
@@ -238,7 +301,16 @@
     <loc>https://news.rfpenergysolutions.com/posts/storage-glut-pushing-production-down</loc>
   </url>
   <url>
+    <loc>https://news.rfpenergysolutions.com/posts/storage-reports-comes-in-below-expectations-nymex-rallies</loc>
+  </url>
+  <url>
     <loc>https://news.rfpenergysolutions.com/posts/streamlining-energy-procurement-with-rfp-energy-solutions</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/summer-volatility-arrives</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/the-energy-update</loc>
@@ -284,6 +356,12 @@
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/todays-indictive-fixed-prices-market-intel</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/u-s-natural-gas-inventory-dynamics-and-market-implications</loc>
+  </url>
+  <url>
+    <loc>https://news.rfpenergysolutions.com/posts/upcoming-natural-gas-market-volatility-alert-for-west-region-commercial-and-industrial-end-users</loc>
   </url>
   <url>
     <loc>https://news.rfpenergysolutions.com/posts/wall-street-bets-on-nymex-bulls-to-return</loc>
