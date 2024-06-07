@@ -6,17 +6,17 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   metadataBase: new URL("https://news.rfpenergysolutions.com/"),
   title: {
-    default: "Rfp Energy Solutions Market Intel",
+    default: "RFP Energy Solutions | Market Intel",
     template: "%s | RFP Energy Solutions",
   },
   description:
-    "RFP Energy solutions market intel. Get the latest news, insights, and analysis on energy projects, technologies, and trends.",
+    "RFP Energy solutions market intel offers the latest news, insights, and analysis of energy products and trends.",
   openGraph: {
     title: "RFP Energy Solutions Market Intel",
     description:
       "RFP Energy solutions market intel. Get the latest news, insights, and analysis on energy projects, technologies, and trends.",
     url: absoluteUrl("/"),
-    siteName: "RFPEnergySolutions.com",
+    siteName: "news.rfpenergysolutions.com",
     images: [
       {
         url: absoluteUrl("/images/thumbnail-6.png"),
