@@ -1,6 +1,6 @@
 {
-  "commit": "ed06094f5ff13d20bd1e8f77461675051c71e3d1",
-  "generated": "2024-06-05T16:20:07.564Z",
+  "commit": "dcb731bc9c5260ab9fa0eb9f28ef28014e28e7dc",
+  "generated": "2024-06-10T18:43:21.693Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2569,6 +2569,26 @@
       "tags": [
       ],
       "title": "Feel The Burn, California, SW, and Texas!"
+    },
+    {
+      "__outstatic": {
+        "commit": "dcb731bc9c5260ab9fa0eb9f28ef28014e28e7dc",
+        "hash": "573898255",
+        "path": "outstatic/content/posts/nymex-running.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-10T18:00:49.075Z",
+      "slug": "nymex-running",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "🚀 NYMEX Running! "
     }
   ]
 }
