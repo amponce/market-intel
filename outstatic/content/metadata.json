@@ -1,6 +1,6 @@
 {
-  "commit": "dcb731bc9c5260ab9fa0eb9f28ef28014e28e7dc",
-  "generated": "2024-06-10T18:43:21.693Z",
+  "commit": "1c187adaf8459f3efb536cf83f955238d9110d2a",
+  "generated": "2024-06-11T16:21:02.390Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2589,6 +2589,26 @@
       "tags": [
       ],
       "title": "🚀 NYMEX Running! "
+    },
+    {
+      "__outstatic": {
+        "commit": "1c187adaf8459f3efb536cf83f955238d9110d2a",
+        "hash": "2921152314",
+        "path": "outstatic/content/posts/nymex-changes-direction-again.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-11T15:36:42.845Z",
+      "slug": "nymex-changes-direction-again",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "🚀 NYMEX Changes Direction…Again!"
     }
   ]
 }
