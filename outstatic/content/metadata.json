@@ -1,6 +1,6 @@
 {
-  "commit": "1c187adaf8459f3efb536cf83f955238d9110d2a",
-  "generated": "2024-06-11T16:21:02.390Z",
+  "commit": "23962f9f5c73a37977c14bc352fc4f2ecfe7963e",
+  "generated": "2024-06-11T16:29:32.312Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2609,6 +2609,26 @@
       "tags": [
       ],
       "title": "🚀 NYMEX Changes Direction…Again!"
+    },
+    {
+      "__outstatic": {
+        "commit": "23962f9f5c73a37977c14bc352fc4f2ecfe7963e",
+        "hash": "2961786652",
+        "path": "outstatic/content/posts/from-eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-11T15:46:41.613Z",
+      "slug": "from-eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "From EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions\n"
     }
   ]
 }
