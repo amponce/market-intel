@@ -58,44 +58,6 @@ const renderArticles = (articles: Article[]) => (
 export default async function Index() {
   const { content, allPosts } = await getData();
 
-  const marketNewsArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      post.tags?.some((tag) => tag.value === "market-news")
-  );
-  const latestArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      post.tags?.some((tag) => tag.value === "latest")
-  );
-  const featuredArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      post.tags?.some((tag) => tag.value === "featured")
-  );
-  const naturalGasArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      post.tags?.some((tag) => tag.value === "natural-gas")
-  );
-  const carbonOffsetsArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      post.tags?.some((tag) => tag.value === "carbon-offsets")
-  );
-  const remainingArticles = allPosts.filter(
-    (post) =>
-      Array.isArray(post.tags) &&
-      !post.tags?.some(
-        (tag) =>
-          tag.value === "market-news" ||
-          tag.value === "latest" ||
-          tag.value === "featured" ||
-          tag.value === "natural-gas" ||
-          tag.value === "carbon-offsets"
-      )
-  );
-
   return (
     <Layout>
       <Header />
@@ -108,63 +70,10 @@ export default async function Index() {
             dangerouslySetInnerHTML={{ __html: content }}
           />
         </section>
-        <div className="mb-32">
-          {marketNewsArticles.length > 0 && (
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">Market News</h2>
-              {renderArticles(marketNewsArticles)}
-            </div>
-          )}
-          {latestArticles.length > 0 && (
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">Latest Articles</h2>
-              <ContentGrid title="" items={latestArticles} collection="posts" />
-            </div>
-          )}
-          {featuredArticles.length > 0 && (
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">Featured</h2>
-              <ContentGrid
-                title=""
-                items={featuredArticles}
-                collection="posts"
-              />
-            </div>
-          )}
-          {naturalGasArticles.length > 0 && (
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">Natural Gas</h2>
-              <ContentGrid
-                title="Carbon Offsets"
-                items={naturalGasArticles}
-                collection="posts"
-              />
-            </div>
-          )}
-          {carbonOffsetsArticles.length > 0 && (
-            <div className="mb-8">
-              <h2 className="text-2xl font-bold mb-4">Carbon Offsets</h2>
-              <ContentGrid
-                title=""
-                items={carbonOffsetsArticles}
-                collection="posts"
-              />
-            </div>
-          )}
-          {remainingArticles.length > 0 && (
-            <div className="mb-8">
-              <ContentGrid
-                title=""
-                items={remainingArticles}
-                collection="posts"
-              />
-            </div>
-          )}
-        </div>
-
+        {/* <!-- Will add back sections back later --> */}
         {allPosts.length > 0 && (
           <div className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">All Articles</h2>
+            <h2 className="text-2xl font-bold mb-4">Featured</h2>
             <ContentGrid title="" items={allPosts} collection="posts" />
           </div>
         )}
