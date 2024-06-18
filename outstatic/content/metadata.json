@@ -1,6 +1,6 @@
 {
   "commit": "00683e0a9d3dcd5444964e888b41be8e57a22e88",
-  "generated": "2024-06-18T21:20:07.379Z",
+  "generated": "2024-06-18T21:20:50.737Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2280,6 +2280,34 @@
     },
     {
       "__outstatic": {
+        "commit": "4890d8ab37efff11d7ec5cfb9ee6f8abde34eef4",
+        "hash": "1754783781",
+        "path": "outstatic/content/posts/a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-15T16:46:40.438Z",
+      "slug": "a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "nuclear energy",
+          "value": "nuclearEnergy"
+        }
+      ],
+      "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion..."
+    },
+    {
+      "__outstatic": {
         "commit": "37ed2c6571be537b3df8bd307bf731fd071f1734",
         "hash": "2445836827",
         "path": "outstatic/content/posts/breaking-records-ercot-s-winter-natural-gas-fired-electricity-generation-hits-new-high.md"
@@ -2605,7 +2633,7 @@
     {
       "__outstatic": {
         "commit": "00683e0a9d3dcd5444964e888b41be8e57a22e88",
-        "hash": "818890351",
+        "hash": "18664896",
         "path": "outstatic/content/posts/a-new-era-in-us-nuclear-energy.md"
       },
       "author": {
