@@ -4,7 +4,7 @@ status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
-slug: 'a-new-era-in-u-s-nuclear-energy-strategic-shift-away-from-russian-uranium-a-brief-report-coupled-with-opinion'
+slug: 'a-new-era-in-us-nuclear-energy'
 description: ''
 coverImage: ''
 tags: [{"value":"featured","label":"featured"},{"label":"nuclear energy","value":"nuclearEnergy"}]
