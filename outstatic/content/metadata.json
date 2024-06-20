@@ -1,6 +1,6 @@
 {
-  "commit": "dddbcf2e7059ab4399eb95a12818b1917f201198",
-  "generated": "2024-06-20T15:22:37.040Z",
+  "commit": "933aebfb25a8f72b3b353d73dfd4d1edc79bbe2c",
+  "generated": "2024-06-20T16:15:56.134Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2677,6 +2677,26 @@
       "tags": [
       ],
       "title": "NYMEX and CA Basis are Falling"
+    },
+    {
+      "__outstatic": {
+        "commit": "933aebfb25a8f72b3b353d73dfd4d1edc79bbe2c",
+        "hash": "1866724455",
+        "path": "outstatic/content/posts/stanford-works-on-a-new-liquid-battery-to-help-struggling-re.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T15:33:02.000Z",
+      "slug": "stanford-works-on-a-new-liquid-battery-to-help-struggling-re",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Stanford works on a new liquid battery to help struggling RE."
     }
   ]
 }
