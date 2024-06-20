@@ -1,6 +1,6 @@
 {
-  "commit": "00683e0a9d3dcd5444964e888b41be8e57a22e88",
-  "generated": "2024-06-18T21:20:50.737Z",
+  "commit": "dddbcf2e7059ab4399eb95a12818b1917f201198",
+  "generated": "2024-06-20T15:22:37.040Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2657,6 +2657,26 @@
         }
       ],
       "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion..."
+    },
+    {
+      "__outstatic": {
+        "commit": "dddbcf2e7059ab4399eb95a12818b1917f201198",
+        "hash": "2221212852",
+        "path": "outstatic/content/posts/nymex-and-ca-basis-are-falling.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T14:39:55.400Z",
+      "slug": "nymex-and-ca-basis-are-falling",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX and CA Basis are Falling"
     }
   ]
 }
