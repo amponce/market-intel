@@ -1,6 +1,6 @@
 {
-  "commit": "9c30b80bad9153b47326d65931c77b7b3a654cf3",
-  "generated": "2024-06-21T15:49:13.064Z",
+  "commit": "0c3f0c7682b4f519186cd7f8c0dd9e862fdef3dc",
+  "generated": "2024-06-21T16:01:03.212Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2717,6 +2717,26 @@
       "tags": [
       ],
       "title": "NYMEX down hard from last week's 5 month high."
+    },
+    {
+      "__outstatic": {
+        "commit": "0c3f0c7682b4f519186cd7f8c0dd9e862fdef3dc",
+        "hash": "1865167640",
+        "path": "outstatic/content/posts/companies-pulling-back-on-their-greenhouse-goals.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T15:16:04.239Z",
+      "slug": "companies-pulling-back-on-their-greenhouse-goals",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Companies pulling back on their greenhouse goals."
     }
   ]
 }
