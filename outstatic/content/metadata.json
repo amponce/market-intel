@@ -1,6 +1,6 @@
 {
-  "commit": "933aebfb25a8f72b3b353d73dfd4d1edc79bbe2c",
-  "generated": "2024-06-20T16:15:56.134Z",
+  "commit": "9c30b80bad9153b47326d65931c77b7b3a654cf3",
+  "generated": "2024-06-21T15:49:13.064Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2697,6 +2697,26 @@
       "tags": [
       ],
       "title": "Stanford works on a new liquid battery to help struggling RE."
+    },
+    {
+      "__outstatic": {
+        "commit": "9c30b80bad9153b47326d65931c77b7b3a654cf3",
+        "hash": "2136722044",
+        "path": "outstatic/content/posts/nymex-down-hard-from-last-week-s-5-month-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T15:04:30.543Z",
+      "slug": "nymex-down-hard-from-last-week-s-5-month-high",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX down hard from last week's 5 month high."
     }
   ]
 }
