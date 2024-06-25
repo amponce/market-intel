@@ -1,5 +1,5 @@
 ---
-title: 'THE California Public Utilities Commission Wants MORE of Your Money!                            An analysis of the CPUC Proposal''s Impact on Residential Electricity Billing in California'
+title: 'THE California Public Utilities Commission Wants MORE of Your Money!                            '
 status: 'published'
 author:
   name: 'Sean Dookie'
@@ -7,7 +7,7 @@ author:
 slug: 'the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"naturalGasPricing","label":"natural gas pricing"}]
 publishedAt: '2024-05-13T16:31:16.656Z'
 ---
 

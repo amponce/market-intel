@@ -1,6 +1,6 @@
 {
-  "commit": "0c3f0c7682b4f519186cd7f8c0dd9e862fdef3dc",
-  "generated": "2024-06-21T16:01:03.212Z",
+  "commit": "ce5ceb6480723be2cfc604d144c9d2155461708b",
+  "generated": "2024-06-25T18:00:14.725Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2140,26 +2140,6 @@
     },
     {
       "__outstatic": {
-        "commit": "dba93c5c26e3b7f4467202e1583d9e6693f6a62b",
-        "hash": "2896247168",
-        "path": "outstatic/content/posts/the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-13T16:31:16.656Z",
-      "slug": "the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "THE California Public Utilities Commission Wants MORE of Your Money!                            An analysis of the CPUC Proposal's Impact on Residential Electricity Billing in California"
-    },
-    {
-      "__outstatic": {
         "commit": "eae7e2a5de34997ef3ebc71c1c37b6d756b55efa",
         "hash": "2528663192",
         "path": "outstatic/content/posts/nymex-is-on-the-upswing.md"
@@ -2737,6 +2717,30 @@
       "tags": [
       ],
       "title": "Companies pulling back on their greenhouse goals."
+    },
+    {
+      "__outstatic": {
+        "commit": "ce5ceb6480723be2cfc604d144c9d2155461708b",
+        "hash": "750807896",
+        "path": "outstatic/content/posts/the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-13T16:31:16.656Z",
+      "slug": "the-california-public-utilities-commission-wants-more-of-your-money-an-analysis-of-the-cpuc-proposal-s-impact-on-residential-electricity-billing-in-california",
+      "status": "published",
+      "tags": [
+        {
+          "label": "natural gas pricing",
+          "value": "naturalGasPricing"
+        }
+      ],
+      "title": "THE California Public Utilities Commission Wants MORE of Your Money!                            "
     }
   ]
 }
