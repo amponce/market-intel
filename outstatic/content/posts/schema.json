@@ -29,6 +29,10 @@
         {
           "value": "energyShortfalls",
           "label": "Energy Shortfalls"
+        },
+        {
+          "value": "rfpEnergySolutions",
+          "label": "RFP Energy Solutions"
         }
       ],
       "fieldType": "Tags",

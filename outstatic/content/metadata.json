@@ -1,6 +1,6 @@
 {
-  "commit": "5c931c569a7303abbc3849d9f5de211a9262e3e6",
-  "generated": "2024-06-25T20:32:06.212Z",
+  "commit": "7c5ef7b57b975d1d26de1155311fe3f1cf051496",
+  "generated": "2024-06-25T20:32:47.213Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1930,24 +1930,6 @@
     },
     {
       "__outstatic": {
-        "commit": "002b1e7ebf1460a3d4e0e36e9ea11a1541ddec34",
-        "hash": "3572207300",
-        "path": "outstatic/content/posts/streamlining-energy-procurement-with-rfp-energy-solutions.md"
-      },
-      "author": {
-        "name": "Aaron Ponce",
-        "picture": ""
-      },
-      "collection": "posts",
-      "coverImage": "/images/thumbnail-3.png",
-      "description": "Protect your business from supply chain disruptions with RFP Energy Solutions. ",
-      "publishedAt": "2023-02-06T06:35:07.000Z",
-      "slug": "streamlining-energy-procurement-with-rfp-energy-solutions",
-      "status": "published",
-      "title": "Benefits of using RFP Energy Solutions "
-    },
-    {
-      "__outstatic": {
         "commit": "2a93969a2c967435d3f17e246dfc91c0fc479e68",
         "hash": "566522714",
         "path": "outstatic/content/posts/summer-volatility-arrives.md"
@@ -2710,6 +2692,30 @@
         }
       ],
       "title": "EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions "
+    },
+    {
+      "__outstatic": {
+        "commit": "7c5ef7b57b975d1d26de1155311fe3f1cf051496",
+        "hash": "3919002889",
+        "path": "outstatic/content/posts/streamlining-energy-procurement-with-rfp-energy-solutions.md"
+      },
+      "author": {
+        "name": "Aaron Ponce",
+        "picture": ""
+      },
+      "collection": "posts",
+      "coverImage": "/images/thumbnail-3.png",
+      "description": "Protect your business from supply chain disruptions with RFP Energy Solutions. ",
+      "publishedAt": "2023-02-06T06:35:07.000Z",
+      "slug": "streamlining-energy-procurement-with-rfp-energy-solutions",
+      "status": "published",
+      "tags": [
+        {
+          "label": "RFP Energy Solutions",
+          "value": "rfpEnergySolutions"
+        }
+      ],
+      "title": "Benefits of using RFP Energy Solutions "
     }
   ]
 }
