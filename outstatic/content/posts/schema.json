@@ -5,7 +5,12 @@
     "tags": {
       "required": false,
       "description": "Add custom category",
-      "values": [],
+      "values": [
+        {
+          "value": "climateChallenges",
+          "label": "Climate Challenges"
+        }
+      ],
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags"

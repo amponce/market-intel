@@ -7,7 +7,7 @@ author:
 slug: 'companies-pulling-back-on-their-greenhouse-goals'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"label":"Climate Challenges","value":"climateChallenges"}]
 publishedAt: '2024-06-21T15:16:04.239Z'
 ---
 

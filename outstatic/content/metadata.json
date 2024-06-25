@@ -1,6 +1,6 @@
 {
-  "commit": "71830d9b357e35e686d8ea64b349ba842d799f2d",
-  "generated": "2024-06-25T20:27:16.978Z",
+  "commit": "9cb115d101b3f392e7f04932d5f42a77a9b644b0",
+  "generated": "2024-06-25T20:29:46.291Z",
   "metadata": [
     {
       "__outstatic": {
@@ -527,25 +527,6 @@
         }
       ],
       "title": "Comparison of Energy Trump and Biden Policies - In case you were wondering where the two stand."
-    },
-    {
-      "__outstatic": {
-        "commit": "e74ea1b7069a1c5aa54fa389ba97861a4f94425b",
-        "hash": "1865167640",
-        "path": "outstatic/content/posts/companies-pulling-back-on-their-greenhouse-goals.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-21T15:16:04.239Z",
-      "slug": "companies-pulling-back-on-their-greenhouse-goals",
-      "status": "published",
-      "tags": "",
-      "title": "Companies pulling back on their greenhouse goals."
     },
     {
       "__outstatic": {
@@ -2686,6 +2667,30 @@
       "tags": [
       ],
       "title": "NYMEX at a three year low"
+    },
+    {
+      "__outstatic": {
+        "commit": "9cb115d101b3f392e7f04932d5f42a77a9b644b0",
+        "hash": "1530554306",
+        "path": "outstatic/content/posts/companies-pulling-back-on-their-greenhouse-goals.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T15:16:04.239Z",
+      "slug": "companies-pulling-back-on-their-greenhouse-goals",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Climate Challenges",
+          "value": "climateChallenges"
+        }
+      ],
+      "title": "Companies pulling back on their greenhouse goals."
     }
   ]
 }
