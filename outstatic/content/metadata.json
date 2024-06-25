@@ -1,6 +1,6 @@
 {
-  "commit": "7c5ef7b57b975d1d26de1155311fe3f1cf051496",
-  "generated": "2024-06-25T20:32:47.213Z",
+  "commit": "2cf70cb8d33839af6a573e5c72044ff64e89d0a0",
+  "generated": "2024-06-25T20:34:26.161Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1116,25 +1116,6 @@
       "slug": "milder-weather-forecasts-pushing-natgas-prices-down",
       "status": "published",
       "title": "Milder Weather Forecasts Pushing NatGas Prices Down"
-    },
-    {
-      "__outstatic": {
-        "commit": "54d34220c6bf7bb17d7fa59aea5452c71e98cc06",
-        "hash": "708783565",
-        "path": "outstatic/content/posts/mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-09T15:51:46.481Z",
-      "slug": "mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback",
-      "status": "published",
-      "tags": "",
-      "title": "Mexico's Increasing Dependence on US Natural Gas: Strategic Opportunity or Sustainability Setback?"
     },
     {
       "__outstatic": {
@@ -2716,6 +2697,30 @@
         }
       ],
       "title": "Benefits of using RFP Energy Solutions "
+    },
+    {
+      "__outstatic": {
+        "commit": "2cf70cb8d33839af6a573e5c72044ff64e89d0a0",
+        "hash": "746454916",
+        "path": "outstatic/content/posts/mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-09T15:51:46.481Z",
+      "slug": "mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Natural Gas Supply",
+          "value": "naturalGasSupply"
+        }
+      ],
+      "title": "Mexico's Increasing Dependence on US Natural Gas: Strategic Opportunity or Sustainability Setback?"
     }
   ]
 }

@@ -7,7 +7,7 @@ author:
 slug: 'mexico-s-increasing-dependence-on-us-natural-gas-strategic-opportunity-or-sustainability-setback'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"naturalGasSupply","label":"Natural Gas Supply"}]
 publishedAt: '2024-05-09T15:51:46.481Z'
 ---
 
