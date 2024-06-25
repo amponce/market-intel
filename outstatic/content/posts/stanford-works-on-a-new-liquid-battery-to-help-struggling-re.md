@@ -7,7 +7,7 @@ author:
 slug: 'stanford-works-on-a-new-liquid-battery-to-help-struggling-re'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"label":"Renewable Energy","value":"renewableEnergy"}]
 publishedAt: '2024-06-20T15:33:02.000Z'
 ---
 

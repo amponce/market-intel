@@ -1,6 +1,6 @@
 {
-  "commit": "28209173642f1777664e6890da0932d7d46b65f7",
-  "generated": "2024-06-25T20:30:56.128Z",
+  "commit": "5ca96d3123b86c9ff6e7e090b0b2ace7742773be",
+  "generated": "2024-06-25T20:31:29.320Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1948,25 +1948,6 @@
     },
     {
       "__outstatic": {
-        "commit": "21e6a27276414f17c011e0185ce257b12d06984d",
-        "hash": "1866724455",
-        "path": "outstatic/content/posts/stanford-works-on-a-new-liquid-battery-to-help-struggling-re.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-20T15:33:02.000Z",
-      "slug": "stanford-works-on-a-new-liquid-battery-to-help-struggling-re",
-      "status": "published",
-      "tags": "",
-      "title": "Stanford works on a new liquid battery to help struggling RE."
-    },
-    {
-      "__outstatic": {
         "commit": "2a93969a2c967435d3f17e246dfc91c0fc479e68",
         "hash": "566522714",
         "path": "outstatic/content/posts/summer-volatility-arrives.md"
@@ -2701,6 +2682,30 @@
         }
       ],
       "title": "NYMEX and CA Basis are Falling"
+    },
+    {
+      "__outstatic": {
+        "commit": "5ca96d3123b86c9ff6e7e090b0b2ace7742773be",
+        "hash": "2358263743",
+        "path": "outstatic/content/posts/stanford-works-on-a-new-liquid-battery-to-help-struggling-re.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T15:33:02.000Z",
+      "slug": "stanford-works-on-a-new-liquid-battery-to-help-struggling-re",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Renewable Energy",
+          "value": "renewableEnergy"
+        }
+      ],
+      "title": "Stanford works on a new liquid battery to help struggling RE."
     }
   ]
 }

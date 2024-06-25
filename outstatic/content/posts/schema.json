@@ -17,6 +17,10 @@
         {
           "value": "naturalGasSupply",
           "label": "Natural Gas Supply"
+        },
+        {
+          "value": "renewableEnergy",
+          "label": "Renewable Energy"
         }
       ],
       "fieldType": "Tags",
