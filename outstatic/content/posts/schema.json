@@ -5,40 +5,7 @@
     "tags": {
       "required": false,
       "description": "Add custom category",
-      "values": [
-        {
-          "value": "marketNews",
-          "label": "market-news"
-        },
-        {
-          "value": "featured",
-          "label": "featured"
-        },
-        {
-          "value": "naturalGas",
-          "label": "natural gas"
-        },
-        {
-          "value": "nymex",
-          "label": "nymex"
-        },
-        {
-          "value": "naturalGasPricing",
-          "label": "natural gas pricing"
-        },
-        {
-          "value": "energyPolicies",
-          "label": "energy policies"
-        },
-        {
-          "value": "naturalGasStorage",
-          "label": "natural gas storage"
-        },
-        {
-          "value": "nuclearEnergy",
-          "label": "nuclear energy"
-        }
-      ],
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags"
