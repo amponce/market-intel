@@ -9,6 +9,10 @@
         {
           "value": "climateChallenges",
           "label": "Climate Challenges"
+        },
+        {
+          "value": "renewableEnergyTrends",
+          "label": "Renewable Energy Trends"
         }
       ],
       "fieldType": "Tags",

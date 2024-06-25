@@ -7,7 +7,7 @@ author:
 slug: 'nymex-down-hard-from-last-week-s-5-month-high'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"label":"Renewable Energy Trends","value":"renewableEnergyTrends"}]
 publishedAt: '2024-06-21T15:04:30.543Z'
 ---
 

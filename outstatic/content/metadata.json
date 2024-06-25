@@ -1,6 +1,6 @@
 {
-  "commit": "9cb115d101b3f392e7f04932d5f42a77a9b644b0",
-  "generated": "2024-06-25T20:29:46.291Z",
+  "commit": "ec98d7b2f0bbc5a1c162b86b0649113034a39979",
+  "generated": "2024-06-25T20:30:28.713Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1544,25 +1544,6 @@
     },
     {
       "__outstatic": {
-        "commit": "37617a29442513dce0b1113512faf04ff20d6a84",
-        "hash": "2136722044",
-        "path": "outstatic/content/posts/nymex-down-hard-from-last-week-s-5-month-high.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-21T15:04:30.543Z",
-      "slug": "nymex-down-hard-from-last-week-s-5-month-high",
-      "status": "published",
-      "tags": "",
-      "title": "NYMEX down hard from last week's 5 month high."
-    },
-    {
-      "__outstatic": {
         "commit": "b273b165c4d0c94195732e4050ca05ee43e8731a",
         "hash": "747406727",
         "path": "outstatic/content/posts/nymex-running-up-while-california-basis-collapses.md"
@@ -2691,6 +2672,30 @@
         }
       ],
       "title": "Companies pulling back on their greenhouse goals."
+    },
+    {
+      "__outstatic": {
+        "commit": "ec98d7b2f0bbc5a1c162b86b0649113034a39979",
+        "hash": "2133887868",
+        "path": "outstatic/content/posts/nymex-down-hard-from-last-week-s-5-month-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-21T15:04:30.543Z",
+      "slug": "nymex-down-hard-from-last-week-s-5-month-high",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Renewable Energy Trends",
+          "value": "renewableEnergyTrends"
+        }
+      ],
+      "title": "NYMEX down hard from last week's 5 month high."
     }
   ]
 }
