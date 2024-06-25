@@ -1,6 +1,6 @@
 {
-  "commit": "ec98d7b2f0bbc5a1c162b86b0649113034a39979",
-  "generated": "2024-06-25T20:30:28.713Z",
+  "commit": "28209173642f1777664e6890da0932d7d46b65f7",
+  "generated": "2024-06-25T20:30:56.128Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1396,25 +1396,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ff910e07ab0cd592fc0c3371716436d20774d63a",
-        "hash": "2221212852",
-        "path": "outstatic/content/posts/nymex-and-ca-basis-are-falling.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-20T14:39:55.400Z",
-      "slug": "nymex-and-ca-basis-are-falling",
-      "status": "published",
-      "tags": "",
-      "title": "NYMEX and CA Basis are Falling"
-    },
-    {
-      "__outstatic": {
         "commit": "3b7054748b6375e531a55f67e49ba7f7d36a2fdc",
         "hash": "2760859272",
         "path": "outstatic/content/posts/nymex-basis-up-slightly.md"
@@ -2696,6 +2677,30 @@
         }
       ],
       "title": "NYMEX down hard from last week's 5 month high."
+    },
+    {
+      "__outstatic": {
+        "commit": "28209173642f1777664e6890da0932d7d46b65f7",
+        "hash": "341373912",
+        "path": "outstatic/content/posts/nymex-and-ca-basis-are-falling.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-20T14:39:55.400Z",
+      "slug": "nymex-and-ca-basis-are-falling",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Natural Gas Supply",
+          "value": "naturalGasSupply"
+        }
+      ],
+      "title": "NYMEX and CA Basis are Falling"
     }
   ]
 }
