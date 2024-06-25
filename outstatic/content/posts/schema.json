@@ -21,6 +21,14 @@
         {
           "value": "renewableEnergy",
           "label": "Renewable Energy"
+        },
+        {
+          "value": "nuclearEnergy",
+          "label": "nuclear energy"
+        },
+        {
+          "value": "energyShortfalls",
+          "label": "Energy Shortfalls"
         }
       ],
       "fieldType": "Tags",

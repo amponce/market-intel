@@ -1,6 +1,6 @@
 {
-  "commit": "5ca96d3123b86c9ff6e7e090b0b2ace7742773be",
-  "generated": "2024-06-25T20:31:29.320Z",
+  "commit": "5c931c569a7303abbc3849d9f5de211a9262e3e6",
+  "generated": "2024-06-25T20:32:06.212Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2549,30 +2549,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a5de7233f0618e46f8797f7e3dcf7b3db6ecc54e",
-        "hash": "444215528",
-        "path": "outstatic/content/posts/eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-11T15:46:41.613Z",
-      "slug": "eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions",
-      "status": "published",
-      "tags": [
-        {
-          "label": "nuclear energy",
-          "value": "nuclearEnergy"
-        }
-      ],
-      "title": "EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions "
-    },
-    {
-      "__outstatic": {
         "commit": "5a93f0e39772bd96058a88f1dea61d12925598e6",
         "hash": "1526469772",
         "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
@@ -2706,6 +2682,34 @@
         }
       ],
       "title": "Stanford works on a new liquid battery to help struggling RE."
+    },
+    {
+      "__outstatic": {
+        "commit": "5c931c569a7303abbc3849d9f5de211a9262e3e6",
+        "hash": "4246825784",
+        "path": "outstatic/content/posts/eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-11T15:46:41.613Z",
+      "slug": "eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nuclear energy",
+          "value": "nuclearEnergy"
+        },
+        {
+          "label": "Energy Shortfalls",
+          "value": "energyShortfalls"
+        }
+      ],
+      "title": "EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions "
     }
   ]
 }
