@@ -5,36 +5,7 @@
     "tags": {
       "required": false,
       "description": "Add custom category",
-      "values": [
-        {
-          "value": "climateChallenges",
-          "label": "Climate Challenges"
-        },
-        {
-          "value": "renewableEnergyTrends",
-          "label": "Renewable Energy Trends"
-        },
-        {
-          "value": "naturalGasSupply",
-          "label": "Natural Gas Supply"
-        },
-        {
-          "value": "renewableEnergy",
-          "label": "Renewable Energy"
-        },
-        {
-          "value": "nuclearEnergy",
-          "label": "nuclear energy"
-        },
-        {
-          "value": "energyShortfalls",
-          "label": "Energy Shortfalls"
-        },
-        {
-          "value": "rfpEnergySolutions",
-          "label": "RFP Energy Solutions"
-        }
-      ],
+      "values": [],
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags"
