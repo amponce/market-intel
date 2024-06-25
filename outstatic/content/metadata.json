@@ -1,6 +1,6 @@
 {
-  "commit": "a5de7233f0618e46f8797f7e3dcf7b3db6ecc54e",
-  "generated": "2024-06-25T19:58:10.111Z",
+  "commit": "5a93f0e39772bd96058a88f1dea61d12925598e6",
+  "generated": "2024-06-25T20:26:20.819Z",
   "metadata": [
     {
       "__outstatic": {
@@ -792,24 +792,6 @@
       "slug": "great-article-on-permian-growth",
       "status": "published",
       "title": "Great article on Permian growth"
-    },
-    {
-      "__outstatic": {
-        "commit": "7373d3d986ca1b854f3d029f9e5b487585c892ca",
-        "hash": "1875699290",
-        "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/thumbnail-3.png",
-      "description": "",
-      "publishedAt": "2023-08-22T20:09:41.565Z",
-      "slug": "heat-wave-to-break-power-records-in-texas-and-central-us-this-week",
-      "status": "published",
-      "title": "Heat wave to break power records in Texas and central US this week"
     },
     {
       "__outstatic": {
@@ -2682,6 +2664,26 @@
         }
       ],
       "title": "EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions "
+    },
+    {
+      "__outstatic": {
+        "commit": "5a93f0e39772bd96058a88f1dea61d12925598e6",
+        "hash": "1526469772",
+        "path": "outstatic/content/posts/heat-wave-to-break-power-records-in-texas-and-central-us-this-week.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/thumbnail-3.png",
+      "description": "",
+      "publishedAt": "2023-08-22T20:09:41.565Z",
+      "slug": "heat-wave-to-break-power-records-in-texas-and-central-us-this-week",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Heat wave to break power records in Texas and central US this week"
     }
   ]
 }
