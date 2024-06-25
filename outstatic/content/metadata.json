@@ -1,6 +1,6 @@
 {
-  "commit": "2d151ffa4a7df9367f1f364a16a7234086e6850f",
-  "generated": "2024-06-25T18:01:34.253Z",
+  "commit": "a5de7233f0618e46f8797f7e3dcf7b3db6ecc54e",
+  "generated": "2024-06-25T19:58:10.111Z",
   "metadata": [
     {
       "__outstatic": {
@@ -693,25 +693,6 @@
       "slug": "great-article-from-john-kemp",
       "status": "published",
       "title": "Great article from John Kemp"
-    },
-    {
-      "__outstatic": {
-        "commit": "d2a255e92a85ba0964dc25e69cb3d69f484c6f38",
-        "hash": "2961786652",
-        "path": "outstatic/content/posts/from-eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-11T15:46:41.613Z",
-      "slug": "from-eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions",
-      "status": "published",
-      "tags": "",
-      "title": "From EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions\n"
     },
     {
       "__outstatic": {
@@ -2677,6 +2658,30 @@
         }
       ],
       "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium."
+    },
+    {
+      "__outstatic": {
+        "commit": "a5de7233f0618e46f8797f7e3dcf7b3db6ecc54e",
+        "hash": "444215528",
+        "path": "outstatic/content/posts/eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-11T15:46:41.613Z",
+      "slug": "eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions",
+      "status": "published",
+      "tags": [
+        {
+          "label": "nuclear energy",
+          "value": "nuclearEnergy"
+        }
+      ],
+      "title": "EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions "
     }
   ]
 }

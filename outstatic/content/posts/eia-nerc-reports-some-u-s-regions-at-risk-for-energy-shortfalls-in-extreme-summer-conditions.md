@@ -1,15 +1,14 @@
 ---
-title: 'From EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions
-
+title: 'EIA - NERC reports some U.S. regions at risk for energy shortfalls in extreme summer conditions
 '
 status: 'published'
 author:
   name: 'Sean Dookie'
   picture: 'https://avatars.githubusercontent.com/u/124637922?v=4'
-slug: 'from-eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions'
+slug: 'eia-nerc-reports-some-u-s-regions-at-risk-for-energy-shortfalls-in-extreme-summer-conditions'
 description: ''
 coverImage: ''
-tags: ''
+tags: [{"value":"nuclearEnergy","label":"nuclear energy"}]
 publishedAt: '2024-06-11T15:46:41.613Z'
 ---
 
