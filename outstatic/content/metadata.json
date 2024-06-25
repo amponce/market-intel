@@ -1,6 +1,6 @@
 {
-  "commit": "5a93f0e39772bd96058a88f1dea61d12925598e6",
-  "generated": "2024-06-25T20:26:20.819Z",
+  "commit": "71830d9b357e35e686d8ea64b349ba842d799f2d",
+  "generated": "2024-06-25T20:27:16.978Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1397,24 +1397,6 @@
     },
     {
       "__outstatic": {
-        "commit": "0ece5d86ce989cf00c20aad25e8cc9388da2f06f",
-        "hash": "2508121595",
-        "path": "outstatic/content/posts/nymex-at-a-three-year-low.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-02-09T17:06:20.374Z",
-      "slug": "nymex-at-a-three-year-low",
-      "status": "draft",
-      "title": "NYMEX at a three year low"
-    },
-    {
-      "__outstatic": {
         "commit": "0e90dc9f4d9576370799c7c72560f8db985a6351",
         "hash": "2480030764",
         "path": "outstatic/content/posts/nymex-and-basis-separated.md"
@@ -2684,6 +2666,26 @@
       "tags": [
       ],
       "title": "Heat wave to break power records in Texas and central US this week"
+    },
+    {
+      "__outstatic": {
+        "commit": "71830d9b357e35e686d8ea64b349ba842d799f2d",
+        "hash": "81515561",
+        "path": "outstatic/content/posts/nymex-at-a-three-year-low.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-02-09T17:06:20.374Z",
+      "slug": "nymex-at-a-three-year-low",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX at a three year low"
     }
   ]
 }
