@@ -1,5 +1,5 @@
 ---
-title: 'A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion...'
+title: 'A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium.'
 status: 'published'
 author:
   name: 'Sean Dookie'

@@ -1,6 +1,6 @@
 {
-  "commit": "1559663ec339efa811e84eb65ee679dec43e07f2",
-  "generated": "Tue, 25 Jun 2024 18:00:42 GMT",
+  "commit": "2d151ffa4a7df9367f1f364a16a7234086e6850f",
+  "generated": "2024-06-25T18:01:34.253Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,34 +148,6 @@
         }
       ],
       "title": "April Is Now The Prompt Month"
-    },
-    {
-      "__outstatic": {
-        "commit": "1567e97ecf78ceb0c467ea0e6254a45eeb3671d0",
-        "hash": "18664896",
-        "path": "outstatic/content/posts/a-new-era-in-us-nuclear-energy.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-05-15T16:46:40.438Z",
-      "slug": "a-new-era-in-us-nuclear-energy",
-      "status": "published",
-      "tags": [
-        {
-          "label": "featured",
-          "value": "featured"
-        },
-        {
-          "label": "nuclear energy",
-          "value": "nuclearEnergy"
-        }
-      ],
-      "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium. A brief report coupled with opinion..."
     },
     {
       "__outstatic": {
@@ -2677,6 +2649,34 @@
       "slug": "nest-thermostat",
       "status": "draft",
       "title": "Nest thermostat"
+    },
+    {
+      "__outstatic": {
+        "commit": "2d151ffa4a7df9367f1f364a16a7234086e6850f",
+        "hash": "118817866",
+        "path": "outstatic/content/posts/a-new-era-in-us-nuclear-energy.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-05-15T16:46:40.438Z",
+      "slug": "a-new-era-in-us-nuclear-energy",
+      "status": "published",
+      "tags": [
+        {
+          "label": "featured",
+          "value": "featured"
+        },
+        {
+          "label": "nuclear energy",
+          "value": "nuclearEnergy"
+        }
+      ],
+      "title": "A New Era in U.S. Nuclear Energy: Strategic Shift Away from Russian Uranium."
     }
   ]
 }
