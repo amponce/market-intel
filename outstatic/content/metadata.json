@@ -1,6 +1,6 @@
 {
-  "commit": "2cf70cb8d33839af6a573e5c72044ff64e89d0a0",
-  "generated": "2024-06-25T20:34:39.282Z",
+  "commit": "69ad081c4bbf47432af5a51ea777959d347081ea",
+  "generated": "2024-06-26T00:04:54.592Z",
   "metadata": [
     {
       "__outstatic": {
@@ -827,24 +827,6 @@
       "slug": "interesting-article-from-the-bbc-on-solar-panels-and-their-ability-or-not-to-be-recycled",
       "status": "published",
       "title": "Interesting article from the BBC on solar panels and their ability, or not, to be recycled"
-    },
-    {
-      "__outstatic": {
-        "commit": "5f29255d295fe88e70f84e9ce09b14fb7460b9a5",
-        "hash": "1280216584",
-        "path": "outstatic/content/posts/indicative-fixed-prices-april.md"
-      },
-      "author": {
-        "name": "Sean Dookie",
-        "picture": "https://avatars.githubusercontent.com/u/3916436?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/news-market-intel-k1Nj.png",
-      "description": "Market intel for 2-22-23 Start month -  April 23",
-      "publishedAt": "2023-02-22T18:03:37.914Z",
-      "slug": "indicative-fixed-prices-april",
-      "status": "published",
-      "title": "Indicative Fixed Prices - April "
     },
     {
       "__outstatic": {
