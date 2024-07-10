@@ -1,6 +1,6 @@
 {
-  "commit": "b38217c2779195c2d507eb1ed3fa21e9312d1db2",
-  "generated": "Wed, 26 Jun 2024 00:05:57 GMT",
+  "commit": "0fdbc387a33179fa3e08bb8a810b65c9805e84de",
+  "generated": "2024-07-10T13:47:48.352Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2706,6 +2706,26 @@
       "slug": "whats-pushing-nymex-p-today",
       "status": "published",
       "title": "What's Pushing NYMEX p Today??"
+    },
+    {
+      "__outstatic": {
+        "commit": "0fdbc387a33179fa3e08bb8a810b65c9805e84de",
+        "hash": "1297287963",
+        "path": "outstatic/content/posts/extreme-weather-increasing-cooling-demand.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-10T13:23:16.321Z",
+      "slug": "extreme-weather-increasing-cooling-demand",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Extreme Weather increasing Cooling Demand"
     }
   ]
 }
