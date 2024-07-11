@@ -1,6 +1,6 @@
 {
-  "commit": "0fdbc387a33179fa3e08bb8a810b65c9805e84de",
-  "generated": "2024-07-10T13:47:48.352Z",
+  "commit": "e37760175a8b115031ec2aa25519a793badcaa25",
+  "generated": "2024-07-11T12:48:30.121Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2726,6 +2726,26 @@
       "tags": [
       ],
       "title": "Extreme Weather increasing Cooling Demand"
+    },
+    {
+      "__outstatic": {
+        "commit": "e37760175a8b115031ec2aa25519a793badcaa25",
+        "hash": "4182719059",
+        "path": "outstatic/content/posts/current-weather-is-a-mother-but-nymex-doesn-t-care.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-11T12:24:01.230Z",
+      "slug": "current-weather-is-a-mother-but-nymex-doesn-t-care",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Current Weather Is A Mother But NYMEX Doesn't Care"
     }
   ]
 }
