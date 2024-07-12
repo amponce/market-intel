@@ -1,6 +1,6 @@
 {
-  "commit": "e37760175a8b115031ec2aa25519a793badcaa25",
-  "generated": "2024-07-11T12:48:30.121Z",
+  "commit": "cea84cfd7bf21090d97b9920666118c154a30666",
+  "generated": "2024-07-12T13:52:12.959Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2746,6 +2746,26 @@
       "tags": [
       ],
       "title": "Current Weather Is A Mother But NYMEX Doesn't Care"
+    },
+    {
+      "__outstatic": {
+        "commit": "cea84cfd7bf21090d97b9920666118c154a30666",
+        "hash": "2067282244",
+        "path": "outstatic/content/posts/nymex-doesn-t-care-about-summer-heat.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-12T13:27:46.263Z",
+      "slug": "nymex-doesn-t-care-about-summer-heat",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Doesn't Care About Summer Heat"
     }
   ]
 }
