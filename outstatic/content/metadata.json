@@ -1,6 +1,6 @@
 {
-  "commit": "cea84cfd7bf21090d97b9920666118c154a30666",
-  "generated": "2024-07-12T13:52:12.959Z",
+  "commit": "5974bc728c014d8a8c8c500e0843fbb224c119c1",
+  "generated": "2024-07-15T14:08:21.770Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2766,6 +2766,26 @@
       "tags": [
       ],
       "title": "NYMEX Doesn't Care About Summer Heat"
+    },
+    {
+      "__outstatic": {
+        "commit": "5974bc728c014d8a8c8c500e0843fbb224c119c1",
+        "hash": "1375226690",
+        "path": "outstatic/content/posts/nymex-continues-to-fall.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-15T13:43:54.317Z",
+      "slug": "nymex-continues-to-fall",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Continues To Fall"
     }
   ]
 }
