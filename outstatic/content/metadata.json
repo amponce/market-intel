@@ -1,6 +1,6 @@
 {
-  "commit": "5974bc728c014d8a8c8c500e0843fbb224c119c1",
-  "generated": "2024-07-15T14:08:21.770Z",
+  "commit": "868b7e2ba02eee84a5620191d6e19fe8156c1be1",
+  "generated": "2024-07-16T13:33:07.144Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2786,6 +2786,26 @@
       "tags": [
       ],
       "title": "NYMEX Continues To Fall"
+    },
+    {
+      "__outstatic": {
+        "commit": "868b7e2ba02eee84a5620191d6e19fe8156c1be1",
+        "hash": "1541302855",
+        "path": "outstatic/content/posts/did-nymex-hit-the-current-floor-overnight.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-16T13:08:39.814Z",
+      "slug": "did-nymex-hit-the-current-floor-overnight",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Did NYMEX hit the current floor overnight??"
     }
   ]
 }
