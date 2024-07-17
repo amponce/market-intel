@@ -1,6 +1,6 @@
 {
-  "commit": "868b7e2ba02eee84a5620191d6e19fe8156c1be1",
-  "generated": "2024-07-16T13:33:07.144Z",
+  "commit": "a2586adef86c4223b7c5221b48527c78728e6db2",
+  "generated": "2024-07-17T13:42:47.655Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2806,6 +2806,26 @@
       "tags": [
       ],
       "title": "Did NYMEX hit the current floor overnight??"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2586adef86c4223b7c5221b48527c78728e6db2",
+        "hash": "3774060751",
+        "path": "outstatic/content/posts/nymex-prompt-month-stays-below-2-20.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-17T13:17:52.488Z",
+      "slug": "nymex-prompt-month-stays-below-2-20",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Prompt Month Stays Below $2.20"
     }
   ]
 }
