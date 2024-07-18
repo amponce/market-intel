@@ -1,6 +1,6 @@
 {
-  "commit": "a2586adef86c4223b7c5221b48527c78728e6db2",
-  "generated": "2024-07-17T13:42:47.655Z",
+  "commit": "3888737b9736aa5011b8de9adc7201677a106e25",
+  "generated": "2024-07-18T13:39:23.832Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2826,6 +2826,26 @@
       "tags": [
       ],
       "title": "NYMEX Prompt Month Stays Below $2.20"
+    },
+    {
+      "__outstatic": {
+        "commit": "3888737b9736aa5011b8de9adc7201677a106e25",
+        "hash": "2345442656",
+        "path": "outstatic/content/posts/nymex-nears-2-00.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-18T13:15:08.426Z",
+      "slug": "nymex-nears-2-00",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX nears $2.00"
     }
   ]
 }
