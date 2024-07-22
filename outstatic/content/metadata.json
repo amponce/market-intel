@@ -1,6 +1,6 @@
 {
-  "commit": "3888737b9736aa5011b8de9adc7201677a106e25",
-  "generated": "2024-07-18T13:39:23.832Z",
+  "commit": "f0b0bfdd59281597d3d3163dd58b04888b93a18e",
+  "generated": "2024-07-22T13:37:17.730Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2846,6 +2846,26 @@
       "tags": [
       ],
       "title": "NYMEX nears $2.00"
+    },
+    {
+      "__outstatic": {
+        "commit": "f0b0bfdd59281597d3d3163dd58b04888b93a18e",
+        "hash": "1946592510",
+        "path": "outstatic/content/posts/nymex-up-on-weather-shift.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T13:12:56.902Z",
+      "slug": "nymex-up-on-weather-shift",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX up on Weather Shift"
     }
   ]
 }
