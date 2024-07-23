@@ -1,6 +1,6 @@
 {
-  "commit": "cba440b7432ea14ab14c70f6bc793a864544829f",
-  "generated": "2024-07-23T13:46:09.993Z",
+  "commit": "31c7bd01c6dbbcad9b1b989d074d7df3b03626d4",
+  "generated": "2024-07-23T13:46:21.892Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2869,8 +2869,8 @@
     },
     {
       "__outstatic": {
-        "commit": "cba440b7432ea14ab14c70f6bc793a864544829f",
-        "hash": "3733488556",
+        "commit": "31c7bd01c6dbbcad9b1b989d074d7df3b03626d4",
+        "hash": "404078162",
         "path": "outstatic/content/posts/nymex-trying-to-find-direction.md"
       },
       "author": {

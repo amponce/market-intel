@@ -7,7 +7,7 @@ author:
 slug: 'nymex-trying-to-find-direction'
 description: ''
 coverImage: ''
-tags: ''
+tags: []
 publishedAt: '2024-07-23T13:21:41.217Z'
 ---
 
