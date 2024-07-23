@@ -1,6 +1,6 @@
 {
-  "commit": "f0b0bfdd59281597d3d3163dd58b04888b93a18e",
-  "generated": "2024-07-22T13:37:17.730Z",
+  "commit": "cba440b7432ea14ab14c70f6bc793a864544829f",
+  "generated": "2024-07-23T13:46:09.993Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2866,6 +2866,26 @@
       "tags": [
       ],
       "title": "NYMEX up on Weather Shift"
+    },
+    {
+      "__outstatic": {
+        "commit": "cba440b7432ea14ab14c70f6bc793a864544829f",
+        "hash": "3733488556",
+        "path": "outstatic/content/posts/nymex-trying-to-find-direction.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-23T13:21:41.217Z",
+      "slug": "nymex-trying-to-find-direction",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Trying to Find Direction..."
     }
   ]
 }
