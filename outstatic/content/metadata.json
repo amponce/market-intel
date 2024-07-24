@@ -1,6 +1,6 @@
 {
-  "commit": "31c7bd01c6dbbcad9b1b989d074d7df3b03626d4",
-  "generated": "2024-07-23T13:46:21.892Z",
+  "commit": "fa40660d4adbb63e1807d119e436cdb234af6dd2",
+  "generated": "2024-07-24T14:21:58.716Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2886,6 +2886,26 @@
       "tags": [
       ],
       "title": "NYMEX Trying to Find Direction..."
+    },
+    {
+      "__outstatic": {
+        "commit": "fa40660d4adbb63e1807d119e436cdb234af6dd2",
+        "hash": "3471945971",
+        "path": "outstatic/content/posts/nymex-falling-further-due-to-natgas-supply-glut.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-24T13:57:31.097Z",
+      "slug": "nymex-falling-further-due-to-natgas-supply-glut",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX falling further due to natgas supply glut"
     }
   ]
 }
