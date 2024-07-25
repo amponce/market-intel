@@ -1,6 +1,6 @@
 {
-  "commit": "fa40660d4adbb63e1807d119e436cdb234af6dd2",
-  "generated": "2024-07-24T14:21:58.716Z",
+  "commit": "c7c0484063ba53962fd82da5d1f127c3108fa6af",
+  "generated": "2024-07-25T14:40:04.947Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2906,6 +2906,26 @@
       "tags": [
       ],
       "title": "NYMEX falling further due to natgas supply glut"
+    },
+    {
+      "__outstatic": {
+        "commit": "c7c0484063ba53962fd82da5d1f127c3108fa6af",
+        "hash": "1730177467",
+        "path": "outstatic/content/posts/better-than-expected-storage-report-keeps-the-bulls-at-bay.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-25T14:15:24.533Z",
+      "slug": "better-than-expected-storage-report-keeps-the-bulls-at-bay",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Better than expected storage report keeps the bulls at bay."
     }
   ]
 }
