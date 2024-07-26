@@ -1,6 +1,6 @@
 {
-  "commit": "c7c0484063ba53962fd82da5d1f127c3108fa6af",
-  "generated": "2024-07-25T14:40:04.947Z",
+  "commit": "ac9544b27929ed103fbb78555a51bf402ceb4710",
+  "generated": "2024-07-26T15:35:43.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2926,6 +2926,26 @@
       "tags": [
       ],
       "title": "Better than expected storage report keeps the bulls at bay."
+    },
+    {
+      "__outstatic": {
+        "commit": "ac9544b27929ed103fbb78555a51bf402ceb4710",
+        "hash": "2304492256",
+        "path": "outstatic/content/posts/some-forecasts-predict-sub-2-00-prompt-month-nymex.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-26T15:11:03.487Z",
+      "slug": "some-forecasts-predict-sub-2-00-prompt-month-nymex",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Some forecasts predict sub $2.00 prompt month NYMEX. "
     }
   ]
 }
