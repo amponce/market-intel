@@ -1,6 +1,6 @@
 {
-  "commit": "ac9544b27929ed103fbb78555a51bf402ceb4710",
-  "generated": "2024-07-26T15:35:43.833Z",
+  "commit": "16209902b74027009dc7dc7fa2569c2b2423e06d",
+  "generated": "2024-07-29T13:50:04.142Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2946,6 +2946,26 @@
       "tags": [
       ],
       "title": "Some forecasts predict sub $2.00 prompt month NYMEX. "
+    },
+    {
+      "__outstatic": {
+        "commit": "16209902b74027009dc7dc7fa2569c2b2423e06d",
+        "hash": "2144109517",
+        "path": "outstatic/content/posts/nymex-falls-below-2-00.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-29T13:25:12.247Z",
+      "slug": "nymex-falls-below-2-00",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX falls below $2.00"
     }
   ]
 }
