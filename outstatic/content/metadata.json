@@ -1,6 +1,6 @@
 {
-  "commit": "16209902b74027009dc7dc7fa2569c2b2423e06d",
-  "generated": "2024-07-29T13:50:04.142Z",
+  "commit": "cb40e771ed6545e4e8692c7e564ba12e40462ef7",
+  "generated": "2024-07-30T13:53:41.441Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2966,6 +2966,26 @@
       "tags": [
       ],
       "title": "NYMEX falls below $2.00"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb40e771ed6545e4e8692c7e564ba12e40462ef7",
+        "hash": "4224336456",
+        "path": "outstatic/content/posts/nymex-remains-bearish-despite-extreme-heat.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-30T13:29:20.678Z",
+      "slug": "nymex-remains-bearish-despite-extreme-heat",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Remains Bearish Despite Extreme Heat"
     }
   ]
 }
