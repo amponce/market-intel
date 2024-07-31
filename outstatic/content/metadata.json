@@ -1,6 +1,6 @@
 {
-  "commit": "cb40e771ed6545e4e8692c7e564ba12e40462ef7",
-  "generated": "2024-07-30T13:53:41.441Z",
+  "commit": "7500878db9cdb28cf5d22724b24265b73c8ea24f",
+  "generated": "2024-07-31T13:37:52.673Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2986,6 +2986,26 @@
       "tags": [
       ],
       "title": "NYMEX Remains Bearish Despite Extreme Heat"
+    },
+    {
+      "__outstatic": {
+        "commit": "7500878db9cdb28cf5d22724b24265b73c8ea24f",
+        "hash": "3589303355",
+        "path": "outstatic/content/posts/how-cheap-would-energy-be-right-now-if-weather-weren-t-so-extreme.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-31T13:12:51.091Z",
+      "slug": "how-cheap-would-energy-be-right-now-if-weather-weren-t-so-extreme",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "How Cheap Would Energy Be Right Now If Weather Weren't So Extreme???"
     }
   ]
 }
