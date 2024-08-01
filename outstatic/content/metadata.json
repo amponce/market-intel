@@ -1,6 +1,6 @@
 {
-  "commit": "7500878db9cdb28cf5d22724b24265b73c8ea24f",
-  "generated": "2024-07-31T13:37:52.673Z",
+  "commit": "c0c1fd00495b7d0eeca68560a08bc326bb7c381d",
+  "generated": "2024-08-01T13:39:22.439Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3006,6 +3006,26 @@
       "tags": [
       ],
       "title": "How Cheap Would Energy Be Right Now If Weather Weren't So Extreme???"
+    },
+    {
+      "__outstatic": {
+        "commit": "c0c1fd00495b7d0eeca68560a08bc326bb7c381d",
+        "hash": "731512649",
+        "path": "outstatic/content/posts/nymex-on-the-up.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-01T13:15:07.332Z",
+      "slug": "nymex-on-the-up",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX on the Up"
     }
   ]
 }
