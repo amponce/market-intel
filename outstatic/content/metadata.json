@@ -1,6 +1,6 @@
 {
-  "commit": "c0c1fd00495b7d0eeca68560a08bc326bb7c381d",
-  "generated": "2024-08-01T13:39:22.439Z",
+  "commit": "eef3187611907bd1add62b40ff03c0573f517045",
+  "generated": "2024-08-02T13:57:09.248Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3026,6 +3026,26 @@
       "tags": [
       ],
       "title": "NYMEX on the Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "eef3187611907bd1add62b40ff03c0573f517045",
+        "hash": "4158070701",
+        "path": "outstatic/content/posts/nymex-dips-below-2-00.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-02T13:32:44.243Z",
+      "slug": "nymex-dips-below-2-00",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Dips Below $2.00 "
     }
   ]
 }
