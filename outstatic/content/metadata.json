@@ -1,6 +1,6 @@
 {
-  "commit": "eef3187611907bd1add62b40ff03c0573f517045",
-  "generated": "2024-08-02T13:57:09.248Z",
+  "commit": "60a8051fbf52082d0abf0eb04e3ce3c2326a9c12",
+  "generated": "2024-08-05T14:07:47.840Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3046,6 +3046,26 @@
       "tags": [
       ],
       "title": "NYMEX Dips Below $2.00 "
+    },
+    {
+      "__outstatic": {
+        "commit": "60a8051fbf52082d0abf0eb04e3ce3c2326a9c12",
+        "hash": "1998879705",
+        "path": "outstatic/content/posts/nymex-natgas-keeps-falling.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-05T13:43:12.331Z",
+      "slug": "nymex-natgas-keeps-falling",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NatGas Keeps Falling!!"
     }
   ]
 }
