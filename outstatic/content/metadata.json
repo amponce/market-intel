@@ -1,6 +1,6 @@
 {
-  "commit": "60a8051fbf52082d0abf0eb04e3ce3c2326a9c12",
-  "generated": "2024-08-05T14:07:47.840Z",
+  "commit": "97e05bfb01d71f14df8f1b1fe893383bd0d64411",
+  "generated": "2024-08-06T13:49:51.546Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3066,6 +3066,26 @@
       "tags": [
       ],
       "title": "NYMEX NatGas Keeps Falling!!"
+    },
+    {
+      "__outstatic": {
+        "commit": "97e05bfb01d71f14df8f1b1fe893383bd0d64411",
+        "hash": "3629285519",
+        "path": "outstatic/content/posts/nymex-fighting-back.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-06T13:25:30.435Z",
+      "slug": "nymex-fighting-back",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Fighting Back"
     }
   ]
 }
