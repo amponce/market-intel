@@ -1,6 +1,6 @@
 {
-  "commit": "97e05bfb01d71f14df8f1b1fe893383bd0d64411",
-  "generated": "2024-08-06T13:49:51.546Z",
+  "commit": "78307bc71e1956fbc00319f1fc4165ef36db6c77",
+  "generated": "2024-08-07T14:11:48.469Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3086,6 +3086,26 @@
       "tags": [
       ],
       "title": "NYMEX Fighting Back"
+    },
+    {
+      "__outstatic": {
+        "commit": "78307bc71e1956fbc00319f1fc4165ef36db6c77",
+        "hash": "901990049",
+        "path": "outstatic/content/posts/nymex-natgas-strengthening.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-07T13:45:42.898Z",
+      "slug": "nymex-natgas-strengthening",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NatGas Strengthening"
     }
   ]
 }
