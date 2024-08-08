@@ -1,6 +1,6 @@
 {
-  "commit": "78307bc71e1956fbc00319f1fc4165ef36db6c77",
-  "generated": "2024-08-07T14:11:48.469Z",
+  "commit": "a2afdc75ed052ab1c29443e232b55c8a285a95b0",
+  "generated": "2024-08-08T13:39:51.078Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3106,6 +3106,26 @@
       "tags": [
       ],
       "title": "NYMEX NatGas Strengthening"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2afdc75ed052ab1c29443e232b55c8a285a95b0",
+        "hash": "2114901507",
+        "path": "outstatic/content/posts/nymex-down-before-eia-storage-report.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-08T13:14:53.580Z",
+      "slug": "nymex-down-before-eia-storage-report",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Down Before EIA Storage Report"
     }
   ]
 }
