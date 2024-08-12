@@ -1,6 +1,6 @@
 {
-  "commit": "a2afdc75ed052ab1c29443e232b55c8a285a95b0",
-  "generated": "2024-08-08T13:39:51.078Z",
+  "commit": "e7c16767ec5d21a25e01796333fac02ae994d8b0",
+  "generated": "2024-08-12T13:34:18.275Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3126,6 +3126,26 @@
       "tags": [
       ],
       "title": "NYMEX Down Before EIA Storage Report"
+    },
+    {
+      "__outstatic": {
+        "commit": "e7c16767ec5d21a25e01796333fac02ae994d8b0",
+        "hash": "1274306290",
+        "path": "outstatic/content/posts/nymex-natgas-prices-start-this-week-up.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-12T13:09:23.718Z",
+      "slug": "nymex-natgas-prices-start-this-week-up",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NatGas Prices Start This Week Up"
     }
   ]
 }
