@@ -1,6 +1,6 @@
 {
-  "commit": "e7c16767ec5d21a25e01796333fac02ae994d8b0",
-  "generated": "2024-08-12T13:34:18.275Z",
+  "commit": "fb54931382e0d35211a5842fcb47e755b9244764",
+  "generated": "2024-08-13T13:36:56.500Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3146,6 +3146,26 @@
       "tags": [
       ],
       "title": "NYMEX NatGas Prices Start This Week Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "fb54931382e0d35211a5842fcb47e755b9244764",
+        "hash": "831191065",
+        "path": "outstatic/content/posts/nymex-ng-prices-increase-for-second-straight-day.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-13T13:11:47.610Z",
+      "slug": "nymex-ng-prices-increase-for-second-straight-day",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NG Prices Increase for Second Straight Day"
     }
   ]
 }
