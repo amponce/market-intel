@@ -1,6 +1,6 @@
 {
-  "commit": "fb54931382e0d35211a5842fcb47e755b9244764",
-  "generated": "2024-08-13T13:36:56.500Z",
+  "commit": "a342ce2d60180bc90800736891ba1ccaa99fe293",
+  "generated": "2024-08-14T13:33:30.916Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3166,6 +3166,26 @@
       "tags": [
       ],
       "title": "NYMEX NG Prices Increase for Second Straight Day"
+    },
+    {
+      "__outstatic": {
+        "commit": "a342ce2d60180bc90800736891ba1ccaa99fe293",
+        "hash": "2700103111",
+        "path": "outstatic/content/posts/nymex-up-today-hovering-around-a-3-week-high.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-14T13:08:17.437Z",
+      "slug": "nymex-up-today-hovering-around-a-3-week-high",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX up today, hovering around a 3-week high."
     }
   ]
 }
