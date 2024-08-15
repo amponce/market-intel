@@ -1,6 +1,6 @@
 {
-  "commit": "a342ce2d60180bc90800736891ba1ccaa99fe293",
-  "generated": "2024-08-14T13:33:30.916Z",
+  "commit": "3f3449010fe23f654a41f8bd63e22f660424c824",
+  "generated": "2024-08-15T15:09:31.634Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3186,6 +3186,26 @@
       "tags": [
       ],
       "title": "NYMEX up today, hovering around a 3-week high."
+    },
+    {
+      "__outstatic": {
+        "commit": "3f3449010fe23f654a41f8bd63e22f660424c824",
+        "hash": "719357776",
+        "path": "outstatic/content/posts/storage-withdrawal-pushes-nymex-prices-up.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-15T14:45:05.276Z",
+      "slug": "storage-withdrawal-pushes-nymex-prices-up",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Storage Withdrawal Pushes NYMEX Prices Up"
     }
   ]
 }
