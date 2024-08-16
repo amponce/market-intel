@@ -1,6 +1,6 @@
 {
-  "commit": "3f3449010fe23f654a41f8bd63e22f660424c824",
-  "generated": "2024-08-15T15:09:31.634Z",
+  "commit": "577e279b052cdd1b013f63b5e1779d5029118e54",
+  "generated": "2024-08-16T14:32:05.400Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3206,6 +3206,26 @@
       "tags": [
       ],
       "title": "Storage Withdrawal Pushes NYMEX Prices Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "577e279b052cdd1b013f63b5e1779d5029118e54",
+        "hash": "1195801925",
+        "path": "outstatic/content/posts/nymex-still-cheap-for-now.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-16T14:07:37.760Z",
+      "slug": "nymex-still-cheap-for-now",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Still Cheap For Now"
     }
   ]
 }
