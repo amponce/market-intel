@@ -1,6 +1,6 @@
 {
-  "commit": "1b703a6b72bb2024fc00bba81a3af7b5d260879b",
-  "generated": "2024-08-20T11:16:08.750Z",
+  "commit": "92e4b848f68306c55a1c5c00d8149c95d5cb55ef",
+  "generated": "2024-08-21T13:36:17.342Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3266,6 +3266,26 @@
       "tags": [
       ],
       "title": "California Governor Proposes Refiners Maintain Spare Supply to Combat Gas Price Spikes"
+    },
+    {
+      "__outstatic": {
+        "commit": "92e4b848f68306c55a1c5c00d8149c95d5cb55ef",
+        "hash": "4215379807",
+        "path": "outstatic/content/posts/nymex-natgas-prices-flat-at-opening-bell-for-prompt-month-followed-by-green-through-dec-36.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-21T13:11:47.837Z",
+      "slug": "nymex-natgas-prices-flat-at-opening-bell-for-prompt-month-followed-by-green-through-dec-36",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NatGas prices flat at opening bell for prompt month, followed by green through Dec ’36."
     }
   ]
 }
