@@ -1,6 +1,6 @@
 {
-  "commit": "92e4b848f68306c55a1c5c00d8149c95d5cb55ef",
-  "generated": "2024-08-21T13:36:17.342Z",
+  "commit": "147489145e89d9016fae5486c45c03c762e20007",
+  "generated": "2024-08-22T16:43:28.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3286,6 +3286,26 @@
       "tags": [
       ],
       "title": "NYMEX NatGas prices flat at opening bell for prompt month, followed by green through Dec ’36."
+    },
+    {
+      "__outstatic": {
+        "commit": "147489145e89d9016fae5486c45c03c762e20007",
+        "hash": "2588157428",
+        "path": "outstatic/content/posts/nymex-natgas-nose-dives-with-storage-report.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-22T16:18:46.104Z",
+      "slug": "nymex-natgas-nose-dives-with-storage-report",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX NatGas nose dives with storage report."
     }
   ]
 }
