@@ -1,6 +1,6 @@
 {
-  "commit": "147489145e89d9016fae5486c45c03c762e20007",
-  "generated": "2024-08-22T16:43:28.233Z",
+  "commit": "a10ac603baffc72a277503c6416a2c4d270f4212",
+  "generated": "2024-08-23T14:35:22.802Z",
   "metadata": [
     {
       "__outstatic": {
@@ -3306,6 +3306,26 @@
       "tags": [
       ],
       "title": "NYMEX NatGas nose dives with storage report."
+    },
+    {
+      "__outstatic": {
+        "commit": "a10ac603baffc72a277503c6416a2c4d270f4212",
+        "hash": "1627502772",
+        "path": "outstatic/content/posts/nymex-falls-further.md"
+      },
+      "author": {
+        "name": "Sean Dookie",
+        "picture": "https://avatars.githubusercontent.com/u/124637922?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-23T14:10:46.551Z",
+      "slug": "nymex-falls-further",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "NYMEX Falls Further"
     }
   ]
 }
